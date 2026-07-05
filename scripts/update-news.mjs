@@ -101,7 +101,7 @@ async function translateBatch(client, items) {
   }
 
   // 翻訳・要約は定型作業のため、高速・低コストな Haiku 4.5 を使用
-  const stream = client.messages.stream({
+  const message = await client.messages.create({
     model: 'claude-haiku-4-5',
     max_tokens: 16000,
     system:
@@ -119,7 +119,6 @@ async function translateBatch(client, items) {
     output_config: { format: { type: 'json_schema', schema } },
   })
 
-  const message = await stream.finalMessage()
   if (message.stop_reason === 'refusal') {
     throw new Error('翻訳リクエストが拒否されました')
   }
@@ -148,8 +147,10 @@ async function main() {
     const client = new Anthropic({ timeout: 180000, maxRetries: 1 })
     for (let i = 0; i < toTranslate.length; i += TRANSLATE_BATCH_SIZE) {
       const batch = toTranslate.slice(i, i + TRANSLATE_BATCH_SIZE)
-      console.log(`翻訳中... ${i + 1}〜${i + batch.length} / ${toTranslate.length}`)
+      const started = Date.now()
+      console.log(`[${new Date().toISOString()}] 翻訳中... ${i + 1}〜${i + batch.length} / ${toTranslate.length}`)
       const results = await translateBatch(client, batch)
+      console.log(`[${new Date().toISOString()}] バッチ完了 (${Math.round((Date.now() - started) / 1000)}秒, ${results.length}件)`)
       for (const r of results) {
         const src = batch[r.index]
         if (src) translated.push({ ...src, titleJa: r.titleJa, summaryJa: r.summaryJa })
