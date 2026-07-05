@@ -1,4 +1,315 @@
 {
-  "updatedAt": null,
-  "items": []
+  "updatedAt": "2026-07-05T02:02:31.668Z",
+  "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Discovery Is De-Risking, Not Requirements Gathering",
+      "url": "https://www.scrum.org/resources/blog/discovery-de-risking-not-requirements-gathering",
+      "publishedAt": "2026-07-04T22:54:55.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Most organizations I work with are very, very good at executing projects. Give them a defined scope and a date, and they will drive it to done. That muscle is a real strength. It is also the thing that quietly caps the return on their software investments. A project-execution mindset optimizes one question: did we ship what we said we would, on time? That is a fine question for building a bridge, where the requirements are knowable up front and the cost of changing your mind late is enormous. It is the wrong question for software, where the requirements ",
+      "titleJa": "ディスカバリーはリスク低減、要件定義ではない",
+      "summaryJa": "ソフトウェア開発において、プロジェクト実行型マインドセットは「予定通り納品できたか」に最適化されるが、これは要件が事前に確定できるブリッジ建設と異なり、ソフトウェアには不適切。真のリスク低減にはディスカバリープロセスが必須。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
+      "publishedAt": "2026-07-04T16:58:47.000Z",
+      "excerpt": "Community Wisdom 192",
+      "titleJa": "コミュニティの知恵：四半期計画とAI、報酬体系、面接評価など多角的な話題",
+      "summaryJa": "四半期計画とAI活用、キャッシュと株式報酬の比較検討、採用面接の課題、AI駆動のアウトバウンド施策、コンプライアンス分野のスタートアップ機会など、プロダクト関連の多様なトピックを集約した業界コミュニティの知見。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Brain Sensei PMP Review [for 2026 exam]",
+      "url": "https://rebelsguidetopm.com/brain-sensei-review-pmp/",
+      "publishedAt": "2026-07-04T15:20:18.000Z",
+      "excerpt": "Are you looking for a creative way to motivate yourself to study for the Project Management Professional (PMP)® exam? I get it: finding the time to sit in front of your screen is tough but there are so many benefits to getting certified that you can’t put it off any longer. In this Brain Sensei review, I’ll share who Brain Sensei training is most appropriate for, what to expect, the cost, the pros and cons and all the features you get included. I’ve been working as a project manager for over 20 years (gulp) and I’ve spent a lot of time researching and using PMP training courses. I’ve tried all",
+      "titleJa": "Brain Sensei PMP対策講座【2026年試験向け】レビュー",
+      "summaryJa": "PMP®試験対策の講座「Brain Sensei」について、受講層の適性、コスト、メリット・デメリット、機能を詳細にレビュー。20年以上のプロジェクトマネージャー経験者が複数コースを比較した推奨講座。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "PM PrepCast PMP Training and Exam Simulator Review (2026) + Discount Coupon Code",
+      "url": "https://rebelsguidetopm.com/pm-prepcast-review/",
+      "publishedAt": "2026-07-03T14:46:47.000Z",
+      "excerpt": "This article is an honest PM PrepCast review and gives you the lowdown on one of the top courses I recommend for PMP prep. Let's get you started and on the way to certification with the PrepCast! TL;DR: This is the best PMP exam prep course I have come across. Reasonably priced, easy to use, comprehensive and fully updated to the latest exam specifications (for exams from July 2026) and PMBOK 8th Edition. Want money off? There are new codes each month! There's a pop up box on this page that has the latest offers, or please email me and I'll send you the discount coupons that I get. It can be i",
+      "titleJa": "PM PrepCast PMP対策講座・試験シミュレーター【2026年】割引クーポン付き",
+      "summaryJa": "PMP試験対策のトップ選択肢「PM PrepCast」を実績ベースでレビュー。PMBOK第8版に対応し、2026年7月試験に向けて包括的で最新の内容を提供。割引クーポンコードあり。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "The Best PMP Exam Simulators for 2026",
+      "url": "https://rebelsguidetopm.com/the-best-pmp-exam-simulators/",
+      "publishedAt": "2026-07-03T14:45:07.000Z",
+      "excerpt": "Here’s the TL;DR: the best PMP exam simulator is the PrepCast PMP Exam Simulator from the team at the Project Management PrepCast. I have used it and can vouch for it, and that’s what I’d buy if I were you. My second choice is the Brain Sensei exam simulator. If you want to know why that’s my top choice, and check out some other options, read on for my independent reviews! 9 July 2026: The date to know for the PMP exam changes Make sure that any simulator you are using for your studies is updated to the latest version so you are getting a realistic experience of what the exam is going to be li",
+      "titleJa": "2026年度PMP試験対策シミュレーター比較——最良の選択",
+      "summaryJa": "PMP試験シミュレーターの中で最高評価は「PM PrepCast」。2026年7月の試験日に向けて、最新版を使用して実際の試験環境をシミュレートすることが重要。複数オプションについて独立した評価を提供。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "15 Cheap and free project communication ideas that actually work",
+      "url": "https://rebelsguidetopm.com/project-communication-on-a-budget/",
+      "publishedAt": "2026-07-03T11:56:56.000Z",
+      "excerpt": "How do you manage to communicate about your project with virtually no marketing budget? This was a question someone asked me after my presentation on how to market your project at a PMI PMXPO event. We don’t all have big budgets to produce banners, T-shirts and mugs with logos on to share the messages about our projects. You do? Oh, good for you. Go and read this about the collaboration software you can use on your projects. If you are still here, then you don’t have a big budget for project communications. You are in the majority. So let’s look at what options you have for cheap or free proje",
+      "titleJa": "予算ゼロで実現する15のプロジェクト・コミュニケーション施策",
+      "summaryJa": "マーケティング予算が限定的なプロジェクトマネージャー向けに、ロゴ入りグッズなど無しで低コストまたは無料で実施できるコミュニケーション施策を15紹介。多くのプロジェクト環境で実現可能な現実的なアプローチ。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP106 AI as a Powerful Teammate in Product Management",
+      "url": "https://www.productcoalition.com/p/ep106-ai-as-a-powerful-teammate-in",
+      "publishedAt": "2026-07-03T09:00:28.000Z",
+      "excerpt": "Summary In this episode, Jay Stansell interviews Dave West from Scrum.org about the evolving role of AI in product management. They explore how AI acts as a teammate, its limitations, and its impact",
+      "titleJa": "プロダクトマネジメントにおけるAIの強力なチームメンバーシップ",
+      "summaryJa": "Jay StansellがScrum.orgのDave Westにインタビュー。プロダクト管理業務におけるAIの役割進化、制約、および組織への影響を探索します。AIをチームメンバーとして活用する方法論を解説。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "You helped your teams into helplessness",
+      "url": "https://www.scrum.org/resources/blog/you-helped-your-teams-helplessness",
+      "publishedAt": "2026-07-02T22:00:00.000Z",
+      "excerpt": "The most dependent teams I've seen were built by the most generous people in the building. That isn't a coincidence. It's a pattern, and it's almost always invisible to the people causing it. Picture the support an organization builds with the best of intentions. Every team gets an agile coach with a playbook. A transformation office owns the roadmap so teams \"can focus on delivery.\" There's a center of excellence to set the standards, a templates library, a guardrail for every decision that used to feel risky. Impediments get cleared before most teams even notice them. From the outside it loo",
+      "titleJa": "親切心がチームの自立性を奪う——支援の罠",
+      "summaryJa": "良かれと思った組織的支援（アジャイルコーチ、ロードマップ管理、CoE等）が、かえってチームを依存させてしまう構造的問題を指摘。過度な支援がチームのオーナーシップを損なう実態について解説。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Project management training to achieve certification this year",
+      "url": "https://rebelsguidetopm.com/project-management-training-to-help-you-achieve-certification-this-year/",
+      "publishedAt": "2026-07-02T14:37:06.000Z",
+      "excerpt": "The skills gap for project managers is getting worse, according to research by APM for National Apprenticeship Week. Their survey showed that 1 in 8 project managers think that the gap between what employers want and the ability of employees to meet those expectations. The survey also found that 1 in 7 project managers believe there aren't enough skilled professionals in their industry. Skilled professionals are in demand, especially those who can demonstrate adaptability, flexibility, communication, time management, risk management and leadership, according to the survey. Certification can he",
+      "titleJa": "今年のプロジェクトマネジメント認定資格取得に向けた研修",
+      "summaryJa": "APMの調査によると、プロジェクトマネージャーのスキルギャップが深刻化しており、8人に1人が企業の期待と従業員の能力のギャップを認識しています。業界には適応力、柔軟性、コミュニケーション、時間管理、リスク管理、リーダーシップといったスキルを持つ専門家が不足しており、認定資格の取得はこうしたスキル習得に有効とされています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From Chaos to Control, Part 5 - Goal",
+      "url": "https://www.scrum.org/resources/blog/chaos-control-part-5-goal",
+      "publishedAt": "2026-07-02T13:24:25.000Z",
+      "excerpt": "Recap In the last post we saw how implementing a strict, rigorous definition of \"Done\" is a driver for change. Putting a lens over quality encourages team members to scrutinize their way-of-working -- perhaps one that is quite chaotic or reactive -- and to build structure and stability into it. By critically evaluating team operations, we've been able to focus on continuous quality improvement, such as by resolving workflow bottlenecks. A key discovery was that team members do not need to be cross-trained in every skill. Training employees to handle just one task to the \"left or right\" of thei",
+      "titleJa": "混乱から統制へ（その5）——ゴール設定",
+      "summaryJa": "「完成」の定義を厳密に設定することで、チームの品質意識が向上し、ワークフローが改善される。継続的品質向上を通じて、組織全体の構造と安定性を構築するための施策を紹介。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From Personal Productivity To AI Operating-Model Change — A Conversation With Zoetis CTO Kumar Venugopal",
+      "url": "https://www.scrum.org/resources/blog/personal-productivity-ai-operating-model-change-conversation-zoetis-cto-kumar-venugopal",
+      "publishedAt": "2026-07-02T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. How to Scale AI from Personal Productivity to Operating Model Change Most AI efforts I see are still living inside personal productivity. People are 20% faster with ChatGPT, Claude, or Copilot, and leaders are pointing at that productivity as evidence that the AI strategy is working. It is a fine starting point, but it is not where the real value lives. The deeper opportunity is to move past individual augmentation into workflow-level and operating-model-level change — redesigning how decisions get made, how work flows, what teams own, and what the organ",
+      "titleJa": "個人の生産性からAI導入による経営モデル変革へ",
+      "summaryJa": "AI活用は現在、個人の生産性向上（ChatGPTで20%高速化）に留まることが多いが、真の価値は意思決定やワークフロー、チーム体制までを変革する経営モデルレベルでの活用にある。Zoetis CTOへのインタビューで、AIスケーリングの本質に迫る。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Agentic Testing vs Playwright: Lessons from QA.tech",
+      "url": "https://testguild.com/agentic-testing-vs-playwright/",
+      "publishedAt": "2026-07-02T11:45:12.000Z",
+      "excerpt": "I’ve talked to a lot of people who claim their tool does “agentic testing.” Most of the time it’s a […]",
+      "titleJa": "エージェンティックテストとPlaywright：QA.techからの教訓",
+      "summaryJa": "「エージェンティックテスト」を謳うツールが増えているが、その実態について検証する記事。実際のツール比較を通じて、真のエージェンティック機能と見せかけの実装の違いを明確にします。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Der KI-Delegations-Audit: Vertrauen ist gut, KI-Kontrolle ist besser 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/der-ki-delegations-audit-vertrauen-ist-gut-ki-kontrolle-ist-besser",
+      "publishedAt": "2026-07-02T08:29:37.000Z",
+      "excerpt": "In Kürze: Der KI-Delegations-Audit Scrum-Teams überprüfen in der Retrospektive, wie der vergangene Sprint verlaufen ist. Die Arbeit, die sie an KI übergeben haben, überprüfen sie dagegen oftmals weniger regelmäßig, weil kein Termin im Kalender dafür vorgesehen ist. In dieser Lücke verwandelt sich eine funktionierende Automatisierung still und leise in ein Risiko: Sie produziert weiterhin „ordentlichen“, markenkonformen Output, lange nachdem die Entscheidung, ihr zu vertrauen, abgelaufen ist. Der KI-Delegations-Audit schließt diese Lücke, indem er die Moderationsfähigkeiten nutzt, die Teams ohn",
+      "titleJa": "AI委譲監査：信頼は大切だが、AI統制がさらに重要",
+      "summaryJa": "スプリント終了後にレトロスペクティブで振り返りを行うのと同じく、AIに委譲した業務も定期的に監査すべき。AIが継続して生産するアウトプットの品質と信頼性の維持を確保するための「AI委譲監査」フレームワークを提唱。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
+      "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
+      "publishedAt": "2026-06-30T23:22:23.000Z",
+      "excerpt": "Watch now | 🎙 I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me",
+      "titleJa": "Claude Sonnet 5徹底検証：64世代の実装テストで本当の価値を検証",
+      "summaryJa": "Claude Code を用いて5つのフロンティアAIモデルを64回のプロトタイプ生成、PRD作成、音声エージェントテストで検証した結果を報告。複数のAIモデルの実務レベルでの性能比較とその意外な結果を紹介している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Silicon Valley Product Group",
+      "title": "Great Products, Bad Companies",
+      "url": "https://www.svpg.com/great-products-bad-companies/",
+      "publishedAt": "2026-06-30T23:09:59.000Z",
+      "excerpt": "I have long argued that great products are what powers great companies. And while I still believe that great products are necessary for great companies, it’s become quite clear over the years that great products are not sufficient. In fact, as counter-intuitive as this sounds, I have seen too many examples where great products can... The post Great Products, Bad Companies appeared first on Silicon Valley Product Group.",
+      "titleJa": "優れた製品だけでは不十分：良い製品と良い企業の関係",
+      "summaryJa": "優れた製品がビジネス成功の必要条件だが十分条件ではないという逆説的な現実を指摘。多くの企業が素晴らしい製品を持ちながらも経営的な成功を収められないケースを論じ、プロダクトマネジメントの限界と企業全体戦略の重要性を解説している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "13 Best MCP Servers for Test Automation in 2026",
+      "url": "https://testguild.com/top-model-context-protocols-mcp/",
+      "publishedAt": "2026-06-30T13:50:06.000Z",
+      "excerpt": "What is Model Context Protocol (MCP) Model Context Protocol (MCP) is an open standard that lets AI agents — Cursor, […]",
+      "titleJa": "2026年のテスト自動化に最適なMCPサーバー13選",
+      "summaryJa": "Model Context Protocol（MCP）はAIエージェントを統合するオープン標準。テスト自動化分野で活用できるMCPサーバーを13個紹介し、各サーバーの特徴と活用シーンを解説します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How top PMs increase their leverage with AI",
+      "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
+      "publishedAt": "2026-06-30T13:31:39.000Z",
+      "excerpt": "A framework for getting the most out of AI in your day-to-day-work",
+      "titleJa": "トップPMはAIを使いこなす：レバレッジを最大化するためのフレームワーク",
+      "summaryJa": "プロダクトマネージャーが日常業務でAIを効果的に活用し、自らのレバレッジを高めるための実践的なフレームワークを提案。AIツール導入による生産性向上と意思決定の質向上の具体的手法を解説している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "AI-Shaped Problems - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/ai-shaped-problems-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-06-30T13:00:17.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Think you don't have big enough problems for AI to help with? Think again. In this episode, Petra and Teresa tackle one of the most common blockers people face when starting out with AI: not knowing where to begin. It&",
+      "titleJa": "AIが解くべき問題の見つけ方：すべてのプロダクトポッドキャスト",
+      "summaryJa": "AI導入時に最初の課題は「何を解くのか」という問題設定にあると指摘。プロダクト開発者がAIを有効活用するための問題定義プロセスと、よくある初期段階のブロッカーを解消するための具体的アプローチを解説している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "The JMeter Alternative for Teams Who’ve Outgrown Open Source But Can’t Stomach LoadRunner Prices",
+      "url": "https://testguild.com/jmeter-alternative-octoperf/",
+      "publishedAt": "2026-06-30T10:42:15.000Z",
+      "excerpt": "Disclosure: OctoPerf is a TestGuild sponsor. All opinions are my own. Here’s a pattern I’ve seen over and over again […]",
+      "titleJa": "オープンソースから卒業したチームへ：LoadRunner対抗のJMeter代替案",
+      "summaryJa": "OctoPerf提供。成長するチームが直面する課題—オープンソースの限界とLoadRunnerの高コスト問題。その中間に位置する負荷テスト・パフォーマンステストのソリューションを紹介します。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "How to Test Any API Without Documentation with Liudas Jankauskas",
+      "url": "https://testguild.com/podcast/a594-liudas/",
+      "publishedAt": "2026-06-30T09:32:19.000Z",
+      "excerpt": "About This Episode: Most API testing stops at the happy path. The problem is that the bugs that actually hurt […]",
+      "titleJa": "ドキュメントなしでAPIテストを実施する方法",
+      "summaryJa": "API テストの多くはハッピーパスに留まるが、実際の問題は境界値や異常系で発生。Liudasが、ドキュメント不足の環境でも効果的にAPIテストを設計・実行する実践的なアプローチを説明します。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "New Playwright, LinkedIn’s AI Tester, AI for Selenium and More TGNS189",
+      "url": "https://testguild.com/podcast/n189-jun29/",
+      "publishedAt": "2026-06-29T20:23:47.000Z",
+      "excerpt": "About This Episode: Are you sitting on a Playwright upgrade that finally makes passwordless login testable? A chatbot invented a […]",
+      "titleJa": "新型Playwright、LinkedInのAIテスター、SeleniumのAI機能など最新情報",
+      "summaryJa": "Playwrightのパスワードレスログインテスト対応、チャットボットが生成したテストシナリオ、SeleniumのAI統合など、テスト自動化領域の最新トレンドとツール進化を紹介します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
+      "publishedAt": "2026-06-29T15:02:35.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "GLM-5.2レビューとGusto事例：Claude CodeでスケールするAIプロダクト開発",
+      "summaryJa": "GLM-5.2モデルのレビューと、GustaがClaude Codeを使用して新プロダクトラインを構築した事例をポッドキャスト形式で紹介。AI時代のプロダクト開発手法の実例集である。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
+      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
+      "publishedAt": "2026-06-29T12:03:38.000Z",
+      "excerpt": "Watch now | 🎙️ Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
+      "titleJa": "Figma、Jira、ドキュメント不要：5人チームが10週間で完成させたAIプロダクト",
+      "summaryJa": "Gustoの最高技術責任者が、Claude Codeを活用して5人チームがわずか10週間でフルスタックなAIプロダクトラインを構築した事例を紹介。従来のツール（Figma、Jira、ドキュメント）に頼らない開発手法の可能性を示唆している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP105 What happens when your users become the builders?",
+      "url": "https://www.productcoalition.com/p/ep105-what-happens-when-your-users",
+      "publishedAt": "2026-06-26T09:00:57.000Z",
+      "excerpt": "In this episode, Jay Stansell interviews Saurabh Sharma, a product leader with extensive experience at Google and u.com, exploring how enterprise AI products are transforming product management, user engagement, and agent management. Discover insights on building primitives, managing evolving roadmaps, and the future of AI-driven workflows.",
+      "titleJa": "ユーザーがビルダーになるとき：エンタープライズAI製品の未来",
+      "summaryJa": "GoogleおよびU.comでの経験を持つプロダクトリーダー、Saurabh Sharmaが、エンタープライズAI製品がプロダクト管理・ユーザーエンゲージメント・エージェント管理をどう変えるか、プリミティブ設計とロードマップ進化を議論。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Is This Okay? How Override Labs Built a Safety-First AI Consent Coach for Teen Boys",
+      "url": "https://www.producttalk.org/is-this-okay-how-override-labs-built-a-safety-first-ai-consent-coach-for-teen-boys/",
+      "publishedAt": "2026-06-25T13:00:46.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What if AI could help prevent sexual assault before it happens — without tracking users, judging them, or handing them a verdict? In this episode of Just Now Possible, Teresa Torres talks with Priya Nakra (Founder and Product Lead) and Olivia Rowley",
+      "titleJa": "AI同意コーチ：10代男性向けの安全性優先型プロダクト設計",
+      "summaryJa": "Override LabsがAIを用いて性的暴力を予防するコンセントコーチを開発した事例。ユーザー追跡やジャッジメント抜きで安全を実現するプロダクト哲学とAI倫理設計の具体例を紹介している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The Hidden Tax on Every Product Decision",
+      "url": "https://www.productcoalition.com/p/the-fine-print-that-cost-a-fortune",
+      "publishedAt": "2026-06-25T09:30:53.000Z",
+      "excerpt": "Every Product Team Knows the Cost of Building. Almost None Know the Cost of Getting It Wrong.",
+      "titleJa": "すべてのプロダクト判断に隠れたコスト",
+      "summaryJa": "プロダクトチームは構築コストを把握しているが、失敗時の真のコストを理解していない。意思決定の品質向上と隠れたリスク認識の重要性を指摘します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Creating Experiences - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/creating-experiences-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-06-23T13:00:23.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What makes an event truly unforgettable — and what can product teams learn from it? In this episode, Teresa sits down with Petra Wille to explore how Petra and her co-organizer Arne design experiences (not just events) at Product at Heart",
+      "titleJa": "忘れられない体験の創造：プロダクトチームが学べる場づくりの哲学",
+      "summaryJa": "Product at Heart 主催者による、単なるイベント開催ではなく心に残る体験設計の手法をプロダクト観点から解析。イベント企画とプロダクト開発の共通点を探り、顧客体験向上に向けた洞察を提示している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Public Service Announcement: Don’t Say You Use AI for Writing",
+      "url": "https://www.satisfice.com/blog/archives/488148",
+      "publishedAt": "2026-06-21T04:34:19.000Z",
+      "excerpt": "…also don’t tell lies. But I’m getting ahead of myself already. I keep running into people online who openly say that they use AI to do their writing for them. Now, technically, they may say they use AI to “help” their writing. It doesn’t matter. The distinction is immediately lost on everyone who sees that […]",
+      "titleJa": "公開警告：AIライティング使用を公言するな",
+      "summaryJa": "オンラインでAIを「使用」または「活用」していると述べる人が増えているが、その言説の矛盾と信頼性の問題を指摘。テスト業界におけるAI使用の透明性と倫理について問い直します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP104 Why Your A/B Test Winners Disappear After Launch",
+      "url": "https://www.productcoalition.com/p/ep104-why-your-ab-test-winners-disappear",
+      "publishedAt": "2026-06-19T09:01:30.000Z",
+      "excerpt": "Summary Andrea Bronzini, a seasoned expert in experimentation and conversion optimization, shares insights on the limitations of traditional A/B testing frameworks, the impact of noise on experiment results, and introduces innovative tools to improve decision-making in product growth.",
+      "titleJa": "A/Bテスト勝者がローンチ後に消える理由",
+      "summaryJa": "実験設計とコンバージョン最適化の専門家Andrea Bronziniが、従来型A/Bテストフレームワークの限界、ノイズが実験結果に与える影響、そしてプロダクト成長における意思決定を改善する革新的ツールを紹介。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The DIKW Problem: Product Teams Drown in Dashboards but Starve for Judgement",
+      "url": "https://www.productcoalition.com/p/the-metric-that-ate-product-management",
+      "publishedAt": "2026-06-16T21:43:17.000Z",
+      "excerpt": "How the DIKW Pyramid Exposes the Gap Between Dashboards and Decisions",
+      "titleJa": "ダッシュボードと判断のギャップ：DIKW階層モデルが露呈するPM組織の課題",
+      "summaryJa": "DIKW(データ→情報→知識→知恵)階層モデルを通じて、プロダクトチームがダッシュボードには溺れているが意思決定に必要な判断力が不足している現状を分析。ダッシュボード過多とビジネス判断のギャップを解消するための観点を提示している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Organizational Change is Exhausting - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/organizational-change-is-exhausting-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-06-16T13:00:14.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Organizational change is exhausting — so stop trying to force it. Petra and Teresa unpack why trying to fix the people and processes around you is almost always wasted energy, and what actually works instead. If you've ever wanted to",
+      "titleJa": "組織変革は疲弊する——正しいアプローチとは",
+      "summaryJa": "組織変革の推進は多くのエネルギーを消費するが、人やプロセスを無理に修正しようとする従来のアプローチは効果的ではない。Teresa TorresとPetra Willeが、実際に機能する変革のやり方について考察するポッドキャストエピソード。"
+    }
+  ]
 }
