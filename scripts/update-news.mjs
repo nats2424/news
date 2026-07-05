@@ -100,10 +100,10 @@ async function translateBatch(client, items) {
     additionalProperties: false,
   }
 
+  // 翻訳・要約は定型作業のため、高速・低コストな Haiku 4.5 を使用
   const stream = client.messages.stream({
-    model: 'claude-opus-4-8',
+    model: 'claude-haiku-4-5',
     max_tokens: 16000,
-    thinking: { type: 'adaptive' },
     system:
       'あなたはQA(ソフトウェアテスト)・プロダクトマネジメント・プロジェクトマネジメント分野に詳しい技術翻訳者です。' +
       '海外記事のタイトルと抜粋を受け取り、日本語のタイトルと要約を返します。' +
@@ -144,7 +144,8 @@ async function main() {
     translated = toTranslate.map((it) => ({ ...it, titleJa: it.title, summaryJa: it.excerpt.slice(0, 200) }))
   } else {
     // 認証は ANTHROPIC_API_KEY または `ant auth login` のプロファイルを自動解決する
-    const client = new Anthropic()
+    // timeout: 1コールあたり最大3分。ハングした場合に早めに失敗させる
+    const client = new Anthropic({ timeout: 180000, maxRetries: 1 })
     for (let i = 0; i < toTranslate.length; i += TRANSLATE_BATCH_SIZE) {
       const batch = toTranslate.slice(i, i + TRANSLATE_BATCH_SIZE)
       console.log(`翻訳中... ${i + 1}〜${i + batch.length} / ${toTranslate.length}`)
