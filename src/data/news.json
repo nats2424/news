@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-05T08:38:47.382Z",
+  "updatedAt": "2026-07-05T13:04:00.113Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
+      "url": "https://www.scrum.org/resources/blog/if-you-can-write-acceptance-criteria-you-can-write-ai-routing-policy",
+      "publishedAt": "2026-07-05T11:17:48.000Z",
+      "excerpt": "TL;DR: The AI Routing Policy You moved your routine AI work to a cheaper model, so you think the cost question is handled; however, often, that is not the case. The decision lives in one person’s head and produces nothing that the person accountable for the invoices can read. Worse, it is an architectural choice nobody documented. The AI Routing Policy is the missing artifact of Stage 2 of the Delegation Lifecycle: it records which execution path, from a cheaper model to a frontier model to plain code, handles each class of work, what counts as good enough output to meet the AI Definition of D",
+      "titleJa": "受け入れ基準が書けるなら、AI ルーティングポリシーも書ける",
+      "summaryJa": "AIルーティングポリシーは、コスト削減のためにAI作業を安価なモデルに移行した後、どのモデル（低コスト・最新型・従来コード）を各業務に使い分けるかを明記する重要な成果物です。委任ライフサイクルの段階2で不足しているこのポリシーにより、実行経路の選択を可視化し、アカウンタビリティを確保できます。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -120,16 +130,6 @@
       "excerpt": "Recap In the last post we saw how implementing a strict, rigorous definition of \"Done\" is a driver for change. Putting a lens over quality encourages team members to scrutinize their way-of-working -- perhaps one that is quite chaotic or reactive -- and to build structure and stability into it. By critically evaluating team operations, we've been able to focus on continuous quality improvement, such as by resolving workflow bottlenecks. A key discovery was that team members do not need to be cross-trained in every skill. Training employees to handle just one task to the \"left or right\" of thei",
       "titleJa": "混乱から統制へ（その5）——ゴール設定",
       "summaryJa": "「完成」の定義を厳密に設定することで、チームの品質意識が向上し、ワークフローが改善される。継続的品質向上を通じて、組織全体の構造と安定性を構築するための施策を紹介。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From Personal Productivity To AI Operating-Model Change — A Conversation With Zoetis CTO Kumar Venugopal",
-      "url": "https://www.scrum.org/resources/blog/personal-productivity-ai-operating-model-change-conversation-zoetis-cto-kumar-venugopal",
-      "publishedAt": "2026-07-02T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. How to Scale AI from Personal Productivity to Operating Model Change Most AI efforts I see are still living inside personal productivity. People are 20% faster with ChatGPT, Claude, or Copilot, and leaders are pointing at that productivity as evidence that the AI strategy is working. It is a fine starting point, but it is not where the real value lives. The deeper opportunity is to move past individual augmentation into workflow-level and operating-model-level change — redesigning how decisions get made, how work flows, what teams own, and what the organ",
-      "titleJa": "個人の生産性からAI導入による経営モデル変革へ",
-      "summaryJa": "AI活用は現在、個人の生産性向上（ChatGPTで20%高速化）に留まることが多いが、真の価値は意思決定やワークフロー、チーム体制までを変革する経営モデルレベルでの活用にある。Zoetis CTOへのインタビューで、AIスケーリングの本質に迫る。"
     },
     {
       "category": "QA",
