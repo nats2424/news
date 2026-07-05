@@ -29,11 +29,22 @@ function stripHtml(html) {
     .trim()
 }
 
+// rss-parser自体のtimeoutが効かないケースがあるため、強制的に打ち切る
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`${label}: ${ms / 1000}秒でタイムアウト`)), ms),
+    ),
+  ])
+}
+
 async function fetchAllFeeds() {
   const cutoff = Date.now() - MAX_AGE_DAYS * 24 * 60 * 60 * 1000
   const results = await Promise.allSettled(
     SOURCES.map(async (source) => {
-      const feed = await parser.parseURL(source.url)
+      console.log(`  → ${source.name} 取得開始`)
+      const feed = await withTimeout(parser.parseURL(source.url), 30000, source.name)
       return (feed.items || [])
         .map((item) => ({
           category: source.category,
@@ -71,6 +82,7 @@ function loadExisting() {
 }
 
 async function translateBatch(client, items) {
+  console.log(`  → Claude APIへリクエスト送信 (${items.length}件)`)
   const payload = items.map((it, i) => ({
     index: i,
     title: it.title,
