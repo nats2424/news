@@ -183,7 +183,12 @@ async function main() {
   console.log(`✓ ${OUT_PATH} を更新しました (${items.length}件)`)
 }
 
-main().catch((err) => {
-  console.error(err)
-  process.exit(1)
-})
+main()
+  .then(() => {
+    // 応答しないフィードのソケットが残るとプロセスが終了しないため明示的にexit
+    process.exit(0)
+  })
+  .catch((err) => {
+    console.error(err)
+    process.exit(1)
+  })
