@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-05T18:59:07.558Z",
+  "updatedAt": "2026-07-06T02:01:24.394Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "GanttPRO Review + Mini Tutorial",
+      "url": "https://rebelsguidetopm.com/ganttpro-review-mini-tutorial/",
+      "publishedAt": "2026-07-05T20:07:52.000Z",
+      "excerpt": "Are you looking for an online tool that offers powerful Gantt chart templates and all the other bits you need for collaboration like file sharing, exporting and resource management? GanttPRO might be just the solution for you. Read on: (Full disclosure: I was originally compensated for my time in 2020 preparing this review, but the 2026 update has not be compensated. I am not an affiliate for GanttPRO either.) General Information Name: GanttPRO Vendor: DPM Solutions Hosting options: Online solution (desktop). The mobile app is available for iOS and Android. Languages: English, Russian, Spanish",
+      "titleJa": "GanttPRO レビュー＋ ミニチュートリアル",
+      "summaryJa": "GanttPROはオンラインのガントチャート作成ツールで、テンプレート、ファイル共有、エクスポート、リソース管理など、プロジェクト協働に必要な機能を備えている。DPM Solutionsが提供し、デスクトップとモバイル(iOS/Android)で利用でき、英語、ロシア語、スペイン語に対応している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -110,16 +120,6 @@
       "excerpt": "The most dependent teams I've seen were built by the most generous people in the building. That isn't a coincidence. It's a pattern, and it's almost always invisible to the people causing it. Picture the support an organization builds with the best of intentions. Every team gets an agile coach with a playbook. A transformation office owns the roadmap so teams \"can focus on delivery.\" There's a center of excellence to set the standards, a templates library, a guardrail for every decision that used to feel risky. Impediments get cleared before most teams even notice them. From the outside it loo",
       "titleJa": "親切心がチームの自立性を奪う——支援の罠",
       "summaryJa": "良かれと思った組織的支援（アジャイルコーチ、ロードマップ管理、CoE等）が、かえってチームを依存させてしまう構造的問題を指摘。過度な支援がチームのオーナーシップを損なう実態について解説。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Project management training to achieve certification this year",
-      "url": "https://rebelsguidetopm.com/project-management-training-to-help-you-achieve-certification-this-year/",
-      "publishedAt": "2026-07-02T14:37:06.000Z",
-      "excerpt": "The skills gap for project managers is getting worse, according to research by APM for National Apprenticeship Week. Their survey showed that 1 in 8 project managers think that the gap between what employers want and the ability of employees to meet those expectations. The survey also found that 1 in 7 project managers believe there aren't enough skilled professionals in their industry. Skilled professionals are in demand, especially those who can demonstrate adaptability, flexibility, communication, time management, risk management and leadership, according to the survey. Certification can he",
-      "titleJa": "今年のプロジェクトマネジメント認定資格取得に向けた研修",
-      "summaryJa": "APMの調査によると、プロジェクトマネージャーのスキルギャップが深刻化しており、8人に1人が企業の期待と従業員の能力のギャップを認識しています。業界には適応力、柔軟性、コミュニケーション、時間管理、リスク管理、リーダーシップといったスキルを持つ専門家が不足しており、認定資格の取得はこうしたスキル習得に有効とされています。"
     },
     {
       "category": "PjM",
