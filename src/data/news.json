@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-06T14:55:06.184Z",
+  "updatedAt": "2026-07-06T19:36:01.189Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Four Main Ways to Learn AI for Scrum Masters",
+      "url": "https://www.scrum.org/resources/blog/four-main-ways-learn-ai-scrum-masters",
+      "publishedAt": "2026-07-06T18:56:01.000Z",
+      "excerpt": "Image Why do Scrum Masters decide to learn AI?! These are some answers that my students gave me as I asked them to fill out a questionnaire after their class registration to get to know them better: “Learning real-world, concrete, tangible, and hands-on examples and use cases of using AI that I can apply the very next day, beyond just prompts.” Michael Sieron (Scrum Master / Delivery Lead) “Keep up to date with the last AI trends and learn how to help the teams I serve the best way I can.” Erika de Assis Cavalari (Scrum Master) “Investigate the potential areas I can improve with AI and to inte",
+      "titleJa": "スクラムマスターがAIを学ぶ4つの主要な方法",
+      "summaryJa": "スクラムマスターがAI学習に取り組む動機と実践的なアプローチを紹介。実務で即日応用できる具体的なAI活用例やユースケースの習得、最新トレンドの把握、チーム支援の質向上に向けた学習方法を解説しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to make a SIPOC diagram in all the tools (with PowerPoint template)",
+      "url": "https://rebelsguidetopm.com/sipoc/",
+      "publishedAt": "2026-07-06T15:28:20.000Z",
+      "excerpt": "Process mapping creates value as it helps people understand the business context of the work they are doing. One tool to do this is the SIPOC diagram, which I use and I learned about on my Black Belt training. Get a free PowerPoint SIPOC diagram template. Join the Project Management Resource Library to get the template and lots of other free project management templates, checklists, and guides. Whether you want to understand how customers move through your small business, or mapping the processes used on a major civil engineering project, SIPOC is a visual process mapping tool that can help yo",
+      "titleJa": "SIPOCダイアグラムを全てのツールで作成する方法",
+      "summaryJa": "プロセスマッピングツール「SIPOC図」の活用ガイド。顧客フローの理解や大規模プロジェクトのプロセス可視化に役立つSIPOC図の描き方と、PowerPointテンプレートの入手方法を提供しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Sonnet 5 review & How to run autonomous coding agents from your phone",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-sonnet-5-review-and-how",
+      "publishedAt": "2026-07-06T15:01:17.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "🎙️ How I AI:Sonnet 5レビュー＆スマートフォンから自律型コーディングエージェントを実行する方法",
+      "summaryJa": "How I AIポッドキャストネットワーク配信の週刊エピソード。Claude Sonnet 5のレビューと、スマートフォンから自律型コーディングエージェントを実行する方法について解説しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -82,16 +112,6 @@
       "summaryJa": "テストの本質は「確認する」ことであり、その役割を他者やツールに委譲する際には、理解の一致、実行の正確性、結果検証の容易性など複数のリスク要因を検討する必要があります。自動化やアウトソースの判断には、知識・スキルの維持や業務の重要度など多角的な視点が求められます。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Discovery Is De-Risking, Not Requirements Gathering",
-      "url": "https://www.scrum.org/resources/blog/discovery-de-risking-not-requirements-gathering",
-      "publishedAt": "2026-07-04T22:54:55.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Most organizations I work with are very, very good at executing projects. Give them a defined scope and a date, and they will drive it to done. That muscle is a real strength. It is also the thing that quietly caps the return on their software investments. A project-execution mindset optimizes one question: did we ship what we said we would, on time? That is a fine question for building a bridge, where the requirements are knowable up front and the cost of changing your mind late is enormous. It is the wrong question for software, where the requirements ",
-      "titleJa": "ディスカバリーはリスク低減、要件定義ではない",
-      "summaryJa": "ソフトウェア開発において、プロジェクト実行型マインドセットは「予定通り納品できたか」に最適化されるが、これは要件が事前に確定できるブリッジ建設と異なり、ソフトウェアには不適切。真のリスク低減にはディスカバリープロセスが必須。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
@@ -130,16 +150,6 @@
       "excerpt": "Here’s the TL;DR: the best PMP exam simulator is the PrepCast PMP Exam Simulator from the team at the Project Management PrepCast. I have used it and can vouch for it, and that’s what I’d buy if I were you. My second choice is the Brain Sensei exam simulator. If you want to know why that’s my top choice, and check out some other options, read on for my independent reviews! 9 July 2026: The date to know for the PMP exam changes Make sure that any simulator you are using for your studies is updated to the latest version so you are getting a realistic experience of what the exam is going to be li",
       "titleJa": "2026年度PMP試験対策シミュレーター比較——最良の選択",
       "summaryJa": "PMP試験シミュレーターの中で最高評価は「PM PrepCast」。2026年7月の試験日に向けて、最新版を使用して実際の試験環境をシミュレートすることが重要。複数オプションについて独立した評価を提供。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "15 Cheap and free project communication ideas that actually work",
-      "url": "https://rebelsguidetopm.com/project-communication-on-a-budget/",
-      "publishedAt": "2026-07-03T11:56:56.000Z",
-      "excerpt": "How do you manage to communicate about your project with virtually no marketing budget? This was a question someone asked me after my presentation on how to market your project at a PMI PMXPO event. We don’t all have big budgets to produce banners, T-shirts and mugs with logos on to share the messages about our projects. You do? Oh, good for you. Go and read this about the collaboration software you can use on your projects. If you are still here, then you don’t have a big budget for project communications. You are in the majority. So let’s look at what options you have for cheap or free proje",
-      "titleJa": "予算ゼロで実現する15のプロジェクト・コミュニケーション施策",
-      "summaryJa": "マーケティング予算が限定的なプロジェクトマネージャー向けに、ロゴ入りグッズなど無しで低コストまたは無料で実施できるコミュニケーション施策を15紹介。多くのプロジェクト環境で実現可能な現実的なアプローチ。"
     },
     {
       "category": "PdM",
@@ -240,16 +250,6 @@
       "excerpt": "About This Episode: Are you sitting on a Playwright upgrade that finally makes passwordless login testable? A chatbot invented a […]",
       "titleJa": "新型Playwright、LinkedInのAIテスター、SeleniumのAI機能など最新情報",
       "summaryJa": "Playwrightのパスワードレスログインテスト対応、チャットボットが生成したテストシナリオ、SeleniumのAI統合など、テスト自動化領域の最新トレンドとツール進化を紹介します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: GLM-5.2 review & How Gusto built a new product line with Claude Code",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-glm-52-review-and-how-gusto",
-      "publishedAt": "2026-06-29T15:02:35.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "GLM-5.2レビューとGusto事例：Claude CodeでスケールするAIプロダクト開発",
-      "summaryJa": "GLM-5.2モデルのレビューと、GustaがClaude Codeを使用して新プロダクトラインを構築した事例をポッドキャスト形式で紹介。AI時代のプロダクト開発手法の実例集である。"
     },
     {
       "category": "PdM",
