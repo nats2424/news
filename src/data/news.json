@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-07-06T09:52:49.960Z",
+  "updatedAt": "2026-07-06T14:55:06.184Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Let's Read Continuous Discovery Habits Together (July 2026)",
+      "url": "https://www.producttalk.org/cdh-book-club-july-2026/",
+      "publishedAt": "2026-07-06T13:00:02.000Z",
+      "excerpt": "Continuous Discovery Habits turned five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
+      "titleJa": "『継続的ディスカバリーの習慣』を一緒に読む（2026年7月開始）",
+      "summaryJa": "『継続的ディスカバリーの習慣』が5周年を迎えたことを記念して、毎月詳細な読書ガイドを公開するプロジェクトが始まります。各月の学習章、重要なコンセプト、解説動画などが含まれた読書体験プログラムです。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Why Your AI Effort Has Activity But Not Impact",
+      "url": "https://www.scrum.org/resources/blog/why-your-ai-effort-has-activity-not-impact",
+      "publishedAt": "2026-07-06T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. How to Shift AI Initiatives from Activity and Output to Business Impact Most organizations do not start their AI journey with impact. They start with activity: tool access, training, pilots, hackathons, champions, experiments. That is useful, but it is not the same as value. Some then move to output, especially in engineering, where AI coding agents can help teams produce more software faster. But if engineering is not the real constraint in the business, more engineering output can simply create more work waiting somewhere else. The better question is n",
+      "titleJa": "AI導入が活動に終わらず、ビジネスインパクトを生むために",
+      "summaryJa": "ほとんどの組織のAI導入は活動（ツールアクセス、トレーニング、パイロット）から始まりますが、実際のビジネスバリューには繋がっていません。エンジニアリング出力の増加だけでなく、組織全体への真のインパクトをもたらすためのアプローチが必要です。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Myth: The Scrum Master has to be at every meeting",
+      "url": "https://www.scrum.org/resources/blog/myth-scrum-master-has-be-every-meeting",
+      "publishedAt": "2026-07-06T13:00:00.000Z",
+      "excerpt": "Image Being a great Scrum Master is all about balance. The Scrum Master coaches the team in self-management, but they are also responsible for helping the team focus on value by improving the adoption of the Scrum framework and removing organizational impediments. They ensure that the Scrum events are positive, productive and kept within the time box, but they don't have to attend every meeting. Take, for example, the Daily Scrum. The Daily Scrum is a 15-minute time-boxed event for the Developments to inspect progress toward the Sprint Goal and to review and update their plan for the upcoming ",
+      "titleJa": "誤解：スクラムマスターはすべての会議に参加すべき",
+      "summaryJa": "スクラムマスターの役割は、チームの自己管理をコーチングしながらスクラムイベントの実施を支援することです。必ずしも全ての会議に出席する必要はなく、デイリースクラムなどのイベントではチームの自主性を尊重することが重要です。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
+      "publishedAt": "2026-07-06T12:03:37.000Z",
+      "excerpt": "Watch now | 🎙️ Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pokémon cards in real time",
+      "titleJa": "OpenAI SymphonyとLinearでスマートフォンから自律型AIエージェントを実行する方法",
+      "summaryJa": "Kernel LabsのAlessio Fanelliが、OpenAI SymphonyとLinearを組み合わせて、スマートフォンから複数のコーディングエージェントを並行実行するセットアップを紹介します。実際にAIエージェントが低価格のポケモンカードを検出するデモも含まれています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -112,26 +152,6 @@
       "summaryJa": "Jay StansellがScrum.orgのDave Westにインタビュー。プロダクト管理業務におけるAIの役割進化、制約、および組織への影響を探索します。AIをチームメンバーとして活用する方法論を解説。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You helped your teams into helplessness",
-      "url": "https://www.scrum.org/resources/blog/you-helped-your-teams-helplessness",
-      "publishedAt": "2026-07-02T22:00:00.000Z",
-      "excerpt": "The most dependent teams I've seen were built by the most generous people in the building. That isn't a coincidence. It's a pattern, and it's almost always invisible to the people causing it. Picture the support an organization builds with the best of intentions. Every team gets an agile coach with a playbook. A transformation office owns the roadmap so teams \"can focus on delivery.\" There's a center of excellence to set the standards, a templates library, a guardrail for every decision that used to feel risky. Impediments get cleared before most teams even notice them. From the outside it loo",
-      "titleJa": "親切心がチームの自立性を奪う——支援の罠",
-      "summaryJa": "良かれと思った組織的支援（アジャイルコーチ、ロードマップ管理、CoE等）が、かえってチームを依存させてしまう構造的問題を指摘。過度な支援がチームのオーナーシップを損なう実態について解説。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From Chaos to Control, Part 5 - Goal",
-      "url": "https://www.scrum.org/resources/blog/chaos-control-part-5-goal",
-      "publishedAt": "2026-07-02T13:24:25.000Z",
-      "excerpt": "Recap In the last post we saw how implementing a strict, rigorous definition of \"Done\" is a driver for change. Putting a lens over quality encourages team members to scrutinize their way-of-working -- perhaps one that is quite chaotic or reactive -- and to build structure and stability into it. By critically evaluating team operations, we've been able to focus on continuous quality improvement, such as by resolving workflow bottlenecks. A key discovery was that team members do not need to be cross-trained in every skill. Training employees to handle just one task to the \"left or right\" of thei",
-      "titleJa": "混乱から統制へ（その5）——ゴール設定",
-      "summaryJa": "「完成」の定義を厳密に設定することで、チームの品質意識が向上し、ワークフローが改善される。継続的品質向上を通じて、組織全体の構造と安定性を構築するための施策を紹介。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Agentic Testing vs Playwright: Lessons from QA.tech",
@@ -230,16 +250,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "titleJa": "GLM-5.2レビューとGusto事例：Claude CodeでスケールするAIプロダクト開発",
       "summaryJa": "GLM-5.2モデルのレビューと、GustaがClaude Codeを使用して新プロダクトラインを構築した事例をポッドキャスト形式で紹介。AI時代のプロダクト開発手法の実例集である。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "No Figma. No Jira. No docs. How Gusto built a new product line with Claude Code | Eddie Kim (CTO)",
-      "url": "https://www.lennysnewsletter.com/p/no-figma-no-jira-no-docs-how-gusto",
-      "publishedAt": "2026-06-29T12:03:38.000Z",
-      "excerpt": "Watch now | 🎙️ Eddie Kim, the CTO of Gusto, shows how a 5-person team shipped a full AI product line in 10 weeks using Claude Code, a perma-Zoom, and zero documentation",
-      "titleJa": "Figma、Jira、ドキュメント不要：5人チームが10週間で完成させたAIプロダクト",
-      "summaryJa": "Gustoの最高技術責任者が、Claude Codeを活用して5人チームがわずか10週間でフルスタックなAIプロダクトラインを構築した事例を紹介。従来のツール（Figma、Jira、ドキュメント）に頼らない開発手法の可能性を示唆している。"
     },
     {
       "category": "PdM",
