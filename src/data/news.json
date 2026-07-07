@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-07T01:56:34.212Z",
+  "updatedAt": "2026-07-07T09:21:24.036Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Wird Product-Ownership zum Flaschenhals im KI-Zeitalter? Warum viele Product-Owner schlecht priorisieren, warum KI das sichtbar macht und 10 Werkzeuge, um besser zu entscheiden",
+      "url": "https://www.scrum.org/resources/blog/wird-product-ownership-zum-flaschenhals-im-ki-zeitalter-warum-viele-product-owner-schlecht-priorisieren-warum-ki-das-sichtbar-macht-und-10-werkzeuge-um-besser-zu-entscheiden",
+      "publishedAt": "2026-07-07T06:00:00.000Z",
+      "excerpt": "Im Jahr 2026 lautet die Frage nicht mehr: „Wie schnell kann das Team liefern?“ Sondern die Frage lautet: „Ist das Gelieferte wertvoll?“ KI erzeugt einen neuen Flaschenhals in der Produktentwicklung. Die Entscheidung, woran das Team arbeiten soll, wird zur Engstelle. Jeff Sutherland prophezeite bereits auf LinkedIn, dass das Zeitalter des „Human-in-the-Loop“ bereits zu Ende ist. So drastisch sehe ich es (noch) nicht. Allerdings legt der Einsatz von KI in der Softwareentwicklung den Finger in eine Wunde, die bisher verborgen war. Viele Unternehmen sind mit mittelmäßigen Entscheidungen noch gut w",
+      "titleJa": "AIの時代、プロダクトオーナーが新たなボトルネックに：優先順位付けの課題と改善の10のツール",
+      "summaryJa": "AIは開発チームの生産性を急速に向上させるが、同時に「何を開発するか」という意思決定がボトルネックになる可能性を指摘。2026年には単なる納期ではなく「価値ある成果物」を届けることが真の課題となり、プロダクトオーナーの優先順位付けスキルの重要性が一層高まることを論じ、改善のための10のツールを提示する。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Generative KI-Anwendung entwickeln: Mein ehrlicher Leitfaden für Product-Owner – von der ersten Idee bis zum laufenden Betrieb",
+      "url": "https://www.scrum.org/resources/blog/generative-ki-anwendung-entwickeln-mein-ehrlicher-leitfaden-fur-product-owner-von-der-ersten-idee-bis-zum-laufenden-betrieb",
+      "publishedAt": "2026-07-07T06:00:00.000Z",
+      "excerpt": "KI ist die Antwort auf alle Probleme in der Softwareentwicklung: KI beschreibt Anforderungen. KI schreibt Code. KI übernimmt den Betrieb. Zumindest, wenn wir dem Hype auf LinkedIn rund um KI Glauben schenken. Zweifelsohne ist generative KI die spannendste Technologie seit der Erfindung des Internets. Und richtig eingesetzt wird sie viele Probleme lösen – aber nicht auf magische Weise. Sondern weiterhin durch Produktmanagement. Welchen Regeln folgt dieses KI-Produktmanagement? Ersetzt es gar agile Softwareentwicklung? Oder Produktmanagement mit Scrum? Genau das schauen wir uns heute an. Natürli",
+      "titleJa": "生成AIアプリ開発のプロダクトマネジメント：実践的なロードマップと落とし穴",
+      "summaryJa": "生成AIの急速な進化により、プロダクトマネジメント自体も変革を迫られている。AIが要件定義からコード実装まで支援する一方で、適切なPMアプローチがなければ成功しないことを強調。従来のアジャイル・Scrumとの関係性を整理し、AIプロジェクト特有のPMルールと実装方法を実践的に解説する。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Mehr Flow durch Mob-Programming",
+      "url": "https://www.scrum.org/resources/blog/mehr-flow-durch-mob-programming",
+      "publishedAt": "2026-07-07T05:51:20.000Z",
+      "excerpt": "Warum ist Flow in der Softwareentwicklung relevant? Das Konzept des Flows hat seine Wurzeln in der „Lean Production“ und der „Theory of Constraints“, beides Ansätze aus der Fertigungsindustrie. Mit der zunehmenden Verbreitung von DevOps und der wachsenden Popularität von Kanban wird dieses Prinzip auch vermehrt auf die Softwareentwicklung übertragen. Viele sehen darin eine konsequente Weiterentwicklung agiler Methoden – oft als „Agilität 2.0“ bezeichnet. In der Softwareentwicklung bedeutet Flow den reibungslosen, kontinuierlichen Durchfluss von Arbeit durch das System – also durch den gesamten",
+      "titleJa": "Mobプログラミングでフロー状態を実現する",
+      "summaryJa": "ソフトウェア開発におけるフロー（Flow）概念はLean Productionや制約条件の理論に根ざしており、DevOpsやKanbanの普及によりアジャイル開発にも取り入れられている。フローとは仕事が途切れなく効率的にシステム全体を流れる状態を指し、Mobプログラミングはこのフローを実現する手法として機能する。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -52,16 +82,6 @@
       "summaryJa": "ほとんどの組織のAI導入は活動（ツールアクセス、トレーニング、パイロット）から始まりますが、実際のビジネスバリューには繋がっていません。エンジニアリング出力の増加だけでなく、組織全体への真のインパクトをもたらすためのアプローチが必要です。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Myth: The Scrum Master has to be at every meeting",
-      "url": "https://www.scrum.org/resources/blog/myth-scrum-master-has-be-every-meeting",
-      "publishedAt": "2026-07-06T13:00:00.000Z",
-      "excerpt": "Image Being a great Scrum Master is all about balance. The Scrum Master coaches the team in self-management, but they are also responsible for helping the team focus on value by improving the adoption of the Scrum framework and removing organizational impediments. They ensure that the Scrum events are positive, productive and kept within the time box, but they don't have to attend every meeting. Take, for example, the Daily Scrum. The Daily Scrum is a 15-minute time-boxed event for the Developments to inspect progress toward the Sprint Goal and to review and update their plan for the upcoming ",
-      "titleJa": "誤解：スクラムマスターはすべての会議に参加すべき",
-      "summaryJa": "スクラムマスターの役割は、チームの自己管理をコーチングしながらスクラムイベントの実施を支援することです。必ずしも全ての会議に出席する必要はなく、デイリースクラムなどのイベントではチームの自主性を尊重することが重要です。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
@@ -80,26 +100,6 @@
       "excerpt": "Are you looking for an online tool that offers powerful Gantt chart templates and all the other bits you need for collaboration like file sharing, exporting and resource management? GanttPRO might be just the solution for you. Read on: (Full disclosure: I was originally compensated for my time in 2020 preparing this review, but the 2026 update has not be compensated. I am not an affiliate for GanttPRO either.) General Information Name: GanttPRO Vendor: DPM Solutions Hosting options: Online solution (desktop). The mobile app is available for iOS and Android. Languages: English, Russian, Spanish",
       "titleJa": "GanttPRO レビュー＋ ミニチュートリアル",
       "summaryJa": "GanttPROはオンラインのガントチャート作成ツールで、テンプレート、ファイル共有、エクスポート、リソース管理など、プロジェクト協働に必要な機能を備えている。DPM Solutionsが提供し、デスクトップとモバイル(iOS/Android)で利用でき、英語、ロシア語、スペイン語に対応している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "If You Can Write Acceptance Criteria, You Can Write an AI Routing Policy",
-      "url": "https://www.scrum.org/resources/blog/if-you-can-write-acceptance-criteria-you-can-write-ai-routing-policy",
-      "publishedAt": "2026-07-05T11:17:48.000Z",
-      "excerpt": "TL;DR: The AI Routing Policy You moved your routine AI work to a cheaper model, so you think the cost question is handled; however, often, that is not the case. The decision lives in one person’s head and produces nothing that the person accountable for the invoices can read. Worse, it is an architectural choice nobody documented. The AI Routing Policy is the missing artifact of Stage 2 of the Delegation Lifecycle: it records which execution path, from a cheaper model to a frontier model to plain code, handles each class of work, what counts as good enough output to meet the AI Definition of D",
-      "titleJa": "受け入れ基準が書けるなら、AI ルーティングポリシーも書ける",
-      "summaryJa": "AIルーティングポリシーは、コスト削減のためにAI作業を安価なモデルに移行した後、どのモデル（低コスト・最新型・従来コード）を各業務に使い分けるかを明記する重要な成果物です。委任ライフサイクルの段階2で不足しているこのポリシーにより、実行経路の選択を可視化し、アカウンタビリティを確保できます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Prioritizing Is the Hardest Thing Your Brain Does. Your Calendar Treats It Like the Easiest.",
-      "url": "https://www.scrum.org/resources/blog/prioritizing-hardest-thing-your-brain-does-your-calendar-treats-it-easiest",
-      "publishedAt": "2026-07-05T06:00:00.000Z",
-      "excerpt": "Image Picture the meeting where your organization decides what actually matters. The backlog refinement, the portfolio review, the roadmap call where someone finally asks what you should build next and what you should drop. Now notice when it happens. Late morning after three other meetings, or worse, at four in the afternoon when everyone in the room has already spent the day deciding a hundred smaller things. The single most valuable act in any product organization, choosing what to do and what to refuse, gets handed to brains that have almost nothing left to do it with. David Rock has spent",
-      "titleJa": "プロダクト優先順位付けと脳の疲弊のミスマッチ",
-      "summaryJa": "プロダクト組織における「何をするか、何をしないか」の決定は最も重要な意思決定ですが、実際には多くの組織でそれが疲弊した状態で行われています。バックログ精査や優先度決定といった高度な判断が、既に大量の決定で疲労した脳に委ねられることで、本来必要な判断力が発揮されていない現状を指摘しています。"
     },
     {
       "category": "QA",
