@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-07-07T09:21:24.036Z",
+  "updatedAt": "2026-07-07T14:03:55.869Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How tech workers are feeling in 2026: a workforce splitting in two",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
+      "publishedAt": "2026-07-07T13:04:22.000Z",
+      "excerpt": "Results from our second annual tech worker sentiment survey",
+      "titleJa": "2026年のテック業界就労者センチメント：二極化する労働力",
+      "summaryJa": "テック業界の就労者を対象とした2回目の年次センチメント調査の結果を紹介。2026年の業界における労働者の心理状態と満足度の変化、特に異なるセグメント間での意識の分裂傾向を分析した調査レポート。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Stepping Into Leadership - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/stepping-into-leadership-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-07-07T13:00:28.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Every product manager wants to move into leadership — but nobody wants to hire a leader without leadership experience. So how do you break the cycle? In this episode, Teresa and Petra unpack the practical, often-overlooked ways individual contributors can build",
+      "titleJa": "プロダクトマネージャーのリーダーシップへのキャリアパス",
+      "summaryJa": "プロダクトマネージャーがリーダーシップポジションへ昇進する際の課題と対策を、Teresa TorresとPetra Willeが探討。リーダーシップ経験がない状態での採用という矛盾を解決するため、個別貢献者が実践的にリーダーシップスキルを構築する方法を紹介。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Lean Agile Practioner - A Scrum Master competency no one talks about",
+      "url": "https://www.scrum.org/resources/blog/lean-agile-practioner-scrum-master-competency-no-one-talks-about",
+      "publishedAt": "2026-07-07T12:02:46.000Z",
+      "excerpt": "When in early 2010's Lyssa Adkins and Michael Spayd came up with the Agile Coaching Competency framework, they clearly mentioned that being a Lean-Agile Practitioner is important for a person to be a successful Agile Coach. And since Scrum Masters are expected to do agile coaching, it remains true for them too. The problem is, in my work with numerous Scrum Teams I have observed that the Scrum Masters have no understanding of what it means to be a Lean Agile Practitioner. A majority of them are simply certified on Scrum (PSM/CSM) and for them agile coaching is all about ensuring Scrum events (",
+      "titleJa": "スクラムマスターに欠けるリーンアジャイル実践能力",
+      "summaryJa": "リーンアジャイルプラクティショナーの能力がスクラムマスターに重要であるにもかかわらず、多くのスクラムマスターがこの概念を理解していない実態を指摘。アジャイルコーチングを単なるスクラムイベント管理と捉えている現状の課題を論じる。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to Create a Powerful PMO Mission Statement",
+      "url": "https://rebelsguidetopm.com/pmo-mission-statement/",
+      "publishedAt": "2026-07-07T12:01:16.000Z",
+      "excerpt": "There's a lot riding on getting your PMO mission statement right. After all, the mission statement is what will guide the PMO as it strives to achieve its goals and objectives. Creating a powerful PMO mission statement doesn't have to be difficult - but it does require some thought and careful planning. Why have a mission statement for the PMO? The PMO is responsible for ensuring that an organization's projects are well-organized, well-run, and produce the desired results. A key part of a PMO leader's job is to develop and maintain project management standards and processes and to support the ",
+      "titleJa": "強力なPMOミッションステートメントの策定方法",
+      "summaryJa": "PMO（プロジェクト管理オフィス）が組織の目標達成を導くミッションステートメントの重要性と、その効果的な策定方法を解説。PMOリーダーが組織全体のプロジェクト管理標準化と運営をサポートする際の基盤となる戦略的文書について説明。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -72,16 +112,6 @@
       "summaryJa": "『継続的ディスカバリーの習慣』が5周年を迎えたことを記念して、毎月詳細な読書ガイドを公開するプロジェクトが始まります。各月の学習章、重要なコンセプト、解説動画などが含まれた読書体験プログラムです。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Why Your AI Effort Has Activity But Not Impact",
-      "url": "https://www.scrum.org/resources/blog/why-your-ai-effort-has-activity-not-impact",
-      "publishedAt": "2026-07-06T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. How to Shift AI Initiatives from Activity and Output to Business Impact Most organizations do not start their AI journey with impact. They start with activity: tool access, training, pilots, hackathons, champions, experiments. That is useful, but it is not the same as value. Some then move to output, especially in engineering, where AI coding agents can help teams produce more software faster. But if engineering is not the real constraint in the business, more engineering output can simply create more work waiting somewhere else. The better question is n",
-      "titleJa": "AI導入が活動に終わらず、ビジネスインパクトを生むために",
-      "summaryJa": "ほとんどの組織のAI導入は活動（ツールアクセス、トレーニング、パイロット）から始まりますが、実際のビジネスバリューには繋がっていません。エンジニアリング出力の増加だけでなく、組織全体への真のインパクトをもたらすためのアプローチが必要です。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
@@ -142,16 +172,6 @@
       "summaryJa": "PMP試験対策のトップ選択肢「PM PrepCast」を実績ベースでレビュー。PMBOK第8版に対応し、2026年7月試験に向けて包括的で最新の内容を提供。割引クーポンコードあり。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "The Best PMP Exam Simulators for 2026",
-      "url": "https://rebelsguidetopm.com/the-best-pmp-exam-simulators/",
-      "publishedAt": "2026-07-03T14:45:07.000Z",
-      "excerpt": "Here’s the TL;DR: the best PMP exam simulator is the PrepCast PMP Exam Simulator from the team at the Project Management PrepCast. I have used it and can vouch for it, and that’s what I’d buy if I were you. My second choice is the Brain Sensei exam simulator. If you want to know why that’s my top choice, and check out some other options, read on for my independent reviews! 9 July 2026: The date to know for the PMP exam changes Make sure that any simulator you are using for your studies is updated to the latest version so you are getting a realistic experience of what the exam is going to be li",
-      "titleJa": "2026年度PMP試験対策シミュレーター比較——最良の選択",
-      "summaryJa": "PMP試験シミュレーターの中で最高評価は「PM PrepCast」。2026年7月の試験日に向けて、最新版を使用して実際の試験環境をシミュレートすることが重要。複数オプションについて独立した評価を提供。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP106 AI as a Powerful Teammate in Product Management",
@@ -200,16 +220,6 @@
       "excerpt": "What is Model Context Protocol (MCP) Model Context Protocol (MCP) is an open standard that lets AI agents — Cursor, […]",
       "titleJa": "2026年のテスト自動化に最適なMCPサーバー13選",
       "summaryJa": "Model Context Protocol（MCP）はAIエージェントを統合するオープン標準。テスト自動化分野で活用できるMCPサーバーを13個紹介し、各サーバーの特徴と活用シーンを解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How top PMs increase their leverage with AI",
-      "url": "https://www.lennysnewsletter.com/p/how-top-pms-increase-their-leverage",
-      "publishedAt": "2026-06-30T13:31:39.000Z",
-      "excerpt": "A framework for getting the most out of AI in your day-to-day-work",
-      "titleJa": "トップPMはAIを使いこなす：レバレッジを最大化するためのフレームワーク",
-      "summaryJa": "プロダクトマネージャーが日常業務でAIを効果的に活用し、自らのレバレッジを高めるための実践的なフレームワークを提案。AIツール導入による生産性向上と意思決定の質向上の具体的手法を解説している。"
     },
     {
       "category": "PdM",
@@ -320,16 +330,6 @@
       "excerpt": "How the DIKW Pyramid Exposes the Gap Between Dashboards and Decisions",
       "titleJa": "ダッシュボードと判断のギャップ：DIKW階層モデルが露呈するPM組織の課題",
       "summaryJa": "DIKW(データ→情報→知識→知恵)階層モデルを通じて、プロダクトチームがダッシュボードには溺れているが意思決定に必要な判断力が不足している現状を分析。ダッシュボード過多とビジネス判断のギャップを解消するための観点を提示している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Organizational Change is Exhausting - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/organizational-change-is-exhausting-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-06-16T13:00:14.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Organizational change is exhausting — so stop trying to force it. Petra and Teresa unpack why trying to fix the people and processes around you is almost always wasted energy, and what actually works instead. If you've ever wanted to",
-      "titleJa": "組織変革は疲弊する——正しいアプローチとは",
-      "summaryJa": "組織変革の推進は多くのエネルギーを消費するが、人やプロセスを無理に修正しようとする従来のアプローチは効果的ではない。Teresa TorresとPetra Willeが、実際に機能する変革のやり方について考察するポッドキャストエピソード。"
     }
   ]
 }
