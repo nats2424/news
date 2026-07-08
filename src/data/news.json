@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-08T08:05:52.932Z",
+  "updatedAt": "2026-07-08T13:27:28.285Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "What a harness is and how to build one with Claude Agent SDK",
+      "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
+      "publishedAt": "2026-07-08T12:03:35.000Z",
+      "excerpt": "Listen now | 🎙️ I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
+      "titleJa": "Claude Agent SDKでハーネスを構築する方法",
+      "summaryJa": "Claude Agent SDKのカスタムハーネスを使用してSentry バグトリアージを自動化。実装例を示しながら、独自のハーネス構築手順を詳細に解説し、エージェント活用の実践的アプローチを提供します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Der kleine Schritt von Akzeptanzkriterien zu einer KI-Routing-Richtlinie 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/der-kleine-schritt-von-akzeptanzkriterien-zu-einer-ki-routing-richtlinie",
+      "publishedAt": "2026-07-08T11:53:12.000Z",
+      "excerpt": "In Kürze: KI-Routing-Richtlinie Sie haben Ihre KI-Routinearbeit auf ein günstigeres Modell verlagert und glauben deshalb, die Kostenfrage sei damit erledigt. Oft ist das jedoch nicht der Fall. Die Entscheidung steckt im Kopf einer einzelnen Person und liefert nichts, was die für die Rechnungen verantwortliche Person lesen könnte. Schlimmer noch: Sie ist eine architektonische Entscheidung, die niemand dokumentiert hat. Die KI-Routing-Richtlinie ist das fehlende Artefakt von Phase 2 des Delegation-Lifecycles: Sie legt fest, welcher Ausführungspfad, von einem günstigeren Modell über ein Frontier-",
+      "titleJa": "受入基準からAIルーティングポリシーへの進化",
+      "summaryJa": "AIの日常業務を低コストモデルに移行しても、単に個人の頭の中に判断基準が隠れたままでは管理不可能。Delegation Lifecycleフェーズ2に必要な、実行経路を定義するAIルーティングポリシーという見落とされやすいアーティファクトについて解説します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +100,6 @@
       "excerpt": "There's a lot riding on getting your PMO mission statement right. After all, the mission statement is what will guide the PMO as it strives to achieve its goals and objectives. Creating a powerful PMO mission statement doesn't have to be difficult - but it does require some thought and careful planning. Why have a mission statement for the PMO? The PMO is responsible for ensuring that an organization's projects are well-organized, well-run, and produce the desired results. A key part of a PMO leader's job is to develop and maintain project management standards and processes and to support the ",
       "titleJa": "強力なPMOミッションステートメントの策定方法",
       "summaryJa": "PMO（プロジェクト管理オフィス）が組織の目標達成を導くミッションステートメントの重要性と、その効果的な策定方法を解説。PMOリーダーが組織全体のプロジェクト管理標準化と運営をサポートする際の基盤となる戦略的文書について説明。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Wird Product-Ownership zum Flaschenhals im KI-Zeitalter? Warum viele Product-Owner schlecht priorisieren, warum KI das sichtbar macht und 10 Werkzeuge, um besser zu entscheiden",
-      "url": "https://www.scrum.org/resources/blog/wird-product-ownership-zum-flaschenhals-im-ki-zeitalter-warum-viele-product-owner-schlecht-priorisieren-warum-ki-das-sichtbar-macht-und-10-werkzeuge-um-besser-zu-entscheiden",
-      "publishedAt": "2026-07-07T06:00:00.000Z",
-      "excerpt": "Im Jahr 2026 lautet die Frage nicht mehr: „Wie schnell kann das Team liefern?“ Sondern die Frage lautet: „Ist das Gelieferte wertvoll?“ KI erzeugt einen neuen Flaschenhals in der Produktentwicklung. Die Entscheidung, woran das Team arbeiten soll, wird zur Engstelle. Jeff Sutherland prophezeite bereits auf LinkedIn, dass das Zeitalter des „Human-in-the-Loop“ bereits zu Ende ist. So drastisch sehe ich es (noch) nicht. Allerdings legt der Einsatz von KI in der Softwareentwicklung den Finger in eine Wunde, die bisher verborgen war. Viele Unternehmen sind mit mittelmäßigen Entscheidungen noch gut w",
-      "titleJa": "AIの時代、プロダクトオーナーが新たなボトルネックに：優先順位付けの課題と改善の10のツール",
-      "summaryJa": "AIは開発チームの生産性を急速に向上させるが、同時に「何を開発するか」という意思決定がボトルネックになる可能性を指摘。2026年には単なる納期ではなく「価値ある成果物」を届けることが真の課題となり、プロダクトオーナーの優先順位付けスキルの重要性が一層高まることを論じ、改善のための10のツールを提示する。"
     },
     {
       "category": "PjM",
@@ -182,6 +192,16 @@
       "summaryJa": "PMP試験対策のトップ選択肢「PM PrepCast」を実績ベースでレビュー。PMBOK第8版に対応し、2026年7月試験に向けて包括的で最新の内容を提供。割引クーポンコードあり。"
     },
     {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP106 AI as a Powerful Teammate in Product Management",
+      "url": "https://www.productcoalition.com/p/ep106-ai-as-a-powerful-teammate-in",
+      "publishedAt": "2026-07-03T09:00:28.000Z",
+      "excerpt": "Summary In this episode, Jay Stansell interviews Dave West from Scrum.org about the evolving role of AI in product management. They explore how AI acts as a teammate, its limitations, and its impact",
+      "titleJa": "プロダクトマネジメントにおけるAIの強力なチームメイト",
+      "summaryJa": "Scrum.orgのDave Westへのインタビュー。プロダクトマネジメント領域でのAIの進化する役割、チームメイトとしての可能性と限界、そしてその実際の影響について探討。AIがどのようにプロダクト開発を支援するのかを解説します。"
+    },
+    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Agentic Testing vs Playwright: Lessons from QA.tech",
@@ -190,16 +210,6 @@
       "excerpt": "I’ve talked to a lot of people who claim their tool does “agentic testing.” Most of the time it’s a […]",
       "titleJa": "エージェンティックテストとPlaywright：QA.techからの教訓",
       "summaryJa": "「エージェンティックテスト」を謳うツールが増えているが、その実態について検証する記事。実際のツール比較を通じて、真のエージェンティック機能と見せかけの実装の違いを明確にします。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Sonnet 5 review: I ran 64 generations to find out if it's worth it",
-      "url": "https://www.lennysnewsletter.com/p/sonnet-5-review-i-ran-64-generations",
-      "publishedAt": "2026-06-30T23:22:23.000Z",
-      "excerpt": "Watch now | 🎙 I built the How I AI Bench live using Claude Code, ran 5 frontier models through 64 blind prototype generations, PRDs, and agent voice tests, and the results surprised even me",
-      "titleJa": "Claude Sonnet 5徹底検証：64世代の実装テストで本当の価値を検証",
-      "summaryJa": "Claude Code を用いて5つのフロンティアAIモデルを64回のプロトタイプ生成、PRD作成、音声エージェントテストで検証した結果を報告。複数のAIモデルの実務レベルでの性能比較とその意外な結果を紹介している。"
     },
     {
       "category": "PdM",
@@ -253,6 +263,16 @@
     },
     {
       "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP105 What happens when your users become the builders?",
+      "url": "https://www.productcoalition.com/p/ep105-what-happens-when-your-users",
+      "publishedAt": "2026-06-26T09:00:57.000Z",
+      "excerpt": "In this episode, Jay Stansell interviews Saurabh Sharma, a product leader with extensive experience at Google and u.com, exploring how enterprise AI products are transforming product management, user engagement, and agent management. Discover insights on building primitives, managing evolving roadmaps, and the future of AI-driven workflows.",
+      "titleJa": "ユーザーがビルダーになる時代のプロダクト管理",
+      "summaryJa": "GoogleやUber経験者のプロダクトリーダーが、エンタープライズAI製品がプロダクトマネジメント・ユーザーエンゲージメント・エージェント管理をいかに変革しているか解説。プリミティブ構築、ロードマップの進化、AI駆動ワークフロー構築の知見を共有。"
+    },
+    {
+      "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "Is This Okay? How Override Labs Built a Safety-First AI Consent Coach for Teen Boys",
       "url": "https://www.producttalk.org/is-this-okay-how-override-labs-built-a-safety-first-ai-consent-coach-for-teen-boys/",
@@ -260,6 +280,16 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What if AI could help prevent sexual assault before it happens — without tracking users, judging them, or handing them a verdict? In this episode of Just Now Possible, Teresa Torres talks with Priya Nakra (Founder and Product Lead) and Olivia Rowley",
       "titleJa": "AI同意コーチ：10代男性向けの安全性優先型プロダクト設計",
       "summaryJa": "Override LabsがAIを用いて性的暴力を予防するコンセントコーチを開発した事例。ユーザー追跡やジャッジメント抜きで安全を実現するプロダクト哲学とAI倫理設計の具体例を紹介している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The Hidden Tax on Every Product Decision",
+      "url": "https://www.productcoalition.com/p/the-fine-print-that-cost-a-fortune",
+      "publishedAt": "2026-06-25T09:30:53.000Z",
+      "excerpt": "Every Product Team Knows the Cost of Building. Almost None Know the Cost of Getting It Wrong.",
+      "titleJa": "プロダクト判断に隠れたコスト",
+      "summaryJa": "すべてのプロダクトチームは構築コストを認識していますが、失敗時のコストは把握していない実態を指摘。プロダクト決定における真のコスト構造と影響を深掘りし、より良い意思決定への道筋を提示します。"
     },
     {
       "category": "PdM",
@@ -280,6 +310,16 @@
       "excerpt": "…also don’t tell lies. But I’m getting ahead of myself already. I keep running into people online who openly say that they use AI to do their writing for them. Now, technically, they may say they use AI to “help” their writing. It doesn’t matter. The distinction is immediately lost on everyone who sees that […]",
       "titleJa": "公開警告：AIライティング使用を公言するな",
       "summaryJa": "オンラインでAIを「使用」または「活用」していると述べる人が増えているが、その言説の矛盾と信頼性の問題を指摘。テスト業界におけるAI使用の透明性と倫理について問い直します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP104 Why Your A/B Test Winners Disappear After Launch",
+      "url": "https://www.productcoalition.com/p/ep104-why-your-ab-test-winners-disappear",
+      "publishedAt": "2026-06-19T09:01:30.000Z",
+      "excerpt": "Summary Andrea Bronzini, a seasoned expert in experimentation and conversion optimization, shares insights on the limitations of traditional A/B testing frameworks, the impact of noise on experiment results, and introduces innovative tools to improve decision-making in product growth.",
+      "titleJa": "A/Bテスト勝者がローンチ後に消える理由",
+      "summaryJa": "実験・コンバージョン最適化の専門家が、従来型A/Bテストの限界、ノイズが実験結果に与える影響を解説。プロダクト成長における意思決定を改善するための革新的なツールと手法を紹介。"
     }
   ]
 }
