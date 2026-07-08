@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-07T19:38:36.892Z",
+  "updatedAt": "2026-07-08T01:26:44.962Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Agentic Engineering for Testers: How to Automate Your Way to the Top with Amit Rawat",
+      "url": "https://testguild.com/podcast/a595-amit/",
+      "publishedAt": "2026-07-07T23:03:51.000Z",
+      "excerpt": "About This Episode: Amit Rawat is an agentic engineer who spent two decades in QA before shifting fully into building […]",
+      "titleJa": "テスターのためのエージェンティック・エンジニアリング：Amit Rawatと学ぶ自動化による成長",
+      "summaryJa": "20年間のQA経験を持つアジェンティック・エンジニア、Amit Rawatが、テスターのキャリア発展を支援する話。自動化技術を活用して業務効率を高め、スキルアップを実現する方法について解説されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -252,16 +262,6 @@
       "summaryJa": "API テストの多くはハッピーパスに留まるが、実際の問題は境界値や異常系で発生。Liudasが、ドキュメント不足の環境でも効果的にAPIテストを設計・実行する実践的なアプローチを説明します。"
     },
     {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "New Playwright, LinkedIn’s AI Tester, AI for Selenium and More TGNS189",
-      "url": "https://testguild.com/podcast/n189-jun29/",
-      "publishedAt": "2026-06-29T20:23:47.000Z",
-      "excerpt": "About This Episode: Are you sitting on a Playwright upgrade that finally makes passwordless login testable? A chatbot invented a […]",
-      "titleJa": "新型Playwright、LinkedInのAIテスター、SeleniumのAI機能など最新情報",
-      "summaryJa": "Playwrightのパスワードレスログインテスト対応、チャットボットが生成したテストシナリオ、SeleniumのAI統合など、テスト自動化領域の最新トレンドとツール進化を紹介します。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP105 What happens when your users become the builders?",
@@ -320,16 +320,6 @@
       "excerpt": "Summary Andrea Bronzini, a seasoned expert in experimentation and conversion optimization, shares insights on the limitations of traditional A/B testing frameworks, the impact of noise on experiment results, and introduces innovative tools to improve decision-making in product growth.",
       "titleJa": "A/Bテスト勝者がローンチ後に消える理由",
       "summaryJa": "実験設計とコンバージョン最適化の専門家Andrea Bronziniが、従来型A/Bテストフレームワークの限界、ノイズが実験結果に与える影響、そしてプロダクト成長における意思決定を改善する革新的ツールを紹介。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The DIKW Problem: Product Teams Drown in Dashboards but Starve for Judgement",
-      "url": "https://www.productcoalition.com/p/the-metric-that-ate-product-management",
-      "publishedAt": "2026-06-16T21:43:17.000Z",
-      "excerpt": "How the DIKW Pyramid Exposes the Gap Between Dashboards and Decisions",
-      "titleJa": "ダッシュボードと判断のギャップ：DIKW階層モデルが露呈するPM組織の課題",
-      "summaryJa": "DIKW(データ→情報→知識→知恵)階層モデルを通じて、プロダクトチームがダッシュボードには溺れているが意思決定に必要な判断力が不足している現状を分析。ダッシュボード過多とビジネス判断のギャップを解消するための観点を提示している。"
     }
   ]
 }
