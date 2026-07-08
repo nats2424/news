@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-08T01:26:44.962Z",
+  "updatedAt": "2026-07-08T08:05:52.932Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "[Episode 3] Start Using AI as a Personal Assistant",
+      "url": "https://www.scrum.org/resources/blog/episode-3-start-using-ai-personal-assistant",
+      "publishedAt": "2026-07-08T05:56:35.000Z",
+      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 3, we discussed the following things: 1- How to effectively communicate with AI 2- Use AI as a research assistant 3- Use AI as a writing assistant 4- Use AI as a decision support assistant 5- Use AI as a brainstorming partner 6- Use AI as a productivity booster ... As mentioned in the conversation, you can download the \"AI Transformation for Scrum Teams\" free playbook here: https://scrumschool.org/ai-transformation-",
+      "titleJa": "[エピソード3] AIをパーソナルアシスタントとして使い始める",
+      "summaryJa": "AI-nativeなスクラムチームを目指すポッドキャストシリーズの第3回では、AIとの効果的なコミュニケーション方法、リサーチアシスタント・ライティングアシスタント・意思決定支援・ブレインストーミングパートナー・生産性向上ツールとしてのAI活用法など、スクラムチームのAI変革ジャーニーにおける実践的なステップを紹介しています。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -80,16 +90,6 @@
       "excerpt": "Im Jahr 2026 lautet die Frage nicht mehr: „Wie schnell kann das Team liefern?“ Sondern die Frage lautet: „Ist das Gelieferte wertvoll?“ KI erzeugt einen neuen Flaschenhals in der Produktentwicklung. Die Entscheidung, woran das Team arbeiten soll, wird zur Engstelle. Jeff Sutherland prophezeite bereits auf LinkedIn, dass das Zeitalter des „Human-in-the-Loop“ bereits zu Ende ist. So drastisch sehe ich es (noch) nicht. Allerdings legt der Einsatz von KI in der Softwareentwicklung den Finger in eine Wunde, die bisher verborgen war. Viele Unternehmen sind mit mittelmäßigen Entscheidungen noch gut w",
       "titleJa": "AIの時代、プロダクトオーナーが新たなボトルネックに：優先順位付けの課題と改善の10のツール",
       "summaryJa": "AIは開発チームの生産性を急速に向上させるが、同時に「何を開発するか」という意思決定がボトルネックになる可能性を指摘。2026年には単なる納期ではなく「価値ある成果物」を届けることが真の課題となり、プロダクトオーナーの優先順位付けスキルの重要性が一層高まることを論じ、改善のための10のツールを提示する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Generative KI-Anwendung entwickeln: Mein ehrlicher Leitfaden für Product-Owner – von der ersten Idee bis zum laufenden Betrieb",
-      "url": "https://www.scrum.org/resources/blog/generative-ki-anwendung-entwickeln-mein-ehrlicher-leitfaden-fur-product-owner-von-der-ersten-idee-bis-zum-laufenden-betrieb",
-      "publishedAt": "2026-07-07T06:00:00.000Z",
-      "excerpt": "KI ist die Antwort auf alle Probleme in der Softwareentwicklung: KI beschreibt Anforderungen. KI schreibt Code. KI übernimmt den Betrieb. Zumindest, wenn wir dem Hype auf LinkedIn rund um KI Glauben schenken. Zweifelsohne ist generative KI die spannendste Technologie seit der Erfindung des Internets. Und richtig eingesetzt wird sie viele Probleme lösen – aber nicht auf magische Weise. Sondern weiterhin durch Produktmanagement. Welchen Regeln folgt dieses KI-Produktmanagement? Ersetzt es gar agile Softwareentwicklung? Oder Produktmanagement mit Scrum? Genau das schauen wir uns heute an. Natürli",
-      "titleJa": "生成AIアプリ開発のプロダクトマネジメント：実践的なロードマップと落とし穴",
-      "summaryJa": "生成AIの急速な進化により、プロダクトマネジメント自体も変革を迫られている。AIが要件定義からコード実装まで支援する一方で、適切なPMアプローチがなければ成功しないことを強調。従来のアジャイル・Scrumとの関係性を整理し、AIプロジェクト特有のPMルールと実装方法を実践的に解説する。"
     },
     {
       "category": "PjM",
@@ -182,16 +182,6 @@
       "summaryJa": "PMP試験対策のトップ選択肢「PM PrepCast」を実績ベースでレビュー。PMBOK第8版に対応し、2026年7月試験に向けて包括的で最新の内容を提供。割引クーポンコードあり。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP106 AI as a Powerful Teammate in Product Management",
-      "url": "https://www.productcoalition.com/p/ep106-ai-as-a-powerful-teammate-in",
-      "publishedAt": "2026-07-03T09:00:28.000Z",
-      "excerpt": "Summary In this episode, Jay Stansell interviews Dave West from Scrum.org about the evolving role of AI in product management. They explore how AI acts as a teammate, its limitations, and its impact",
-      "titleJa": "プロダクトマネジメントにおけるAIの強力なチームメンバーシップ",
-      "summaryJa": "Jay StansellがScrum.orgのDave Westにインタビュー。プロダクト管理業務におけるAIの役割進化、制約、および組織への影響を探索します。AIをチームメンバーとして活用する方法論を解説。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Agentic Testing vs Playwright: Lessons from QA.tech",
@@ -263,16 +253,6 @@
     },
     {
       "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP105 What happens when your users become the builders?",
-      "url": "https://www.productcoalition.com/p/ep105-what-happens-when-your-users",
-      "publishedAt": "2026-06-26T09:00:57.000Z",
-      "excerpt": "In this episode, Jay Stansell interviews Saurabh Sharma, a product leader with extensive experience at Google and u.com, exploring how enterprise AI products are transforming product management, user engagement, and agent management. Discover insights on building primitives, managing evolving roadmaps, and the future of AI-driven workflows.",
-      "titleJa": "ユーザーがビルダーになるとき：エンタープライズAI製品の未来",
-      "summaryJa": "GoogleおよびU.comでの経験を持つプロダクトリーダー、Saurabh Sharmaが、エンタープライズAI製品がプロダクト管理・ユーザーエンゲージメント・エージェント管理をどう変えるか、プリミティブ設計とロードマップ進化を議論。"
-    },
-    {
-      "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "Is This Okay? How Override Labs Built a Safety-First AI Consent Coach for Teen Boys",
       "url": "https://www.producttalk.org/is-this-okay-how-override-labs-built-a-safety-first-ai-consent-coach-for-teen-boys/",
@@ -280,16 +260,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What if AI could help prevent sexual assault before it happens — without tracking users, judging them, or handing them a verdict? In this episode of Just Now Possible, Teresa Torres talks with Priya Nakra (Founder and Product Lead) and Olivia Rowley",
       "titleJa": "AI同意コーチ：10代男性向けの安全性優先型プロダクト設計",
       "summaryJa": "Override LabsがAIを用いて性的暴力を予防するコンセントコーチを開発した事例。ユーザー追跡やジャッジメント抜きで安全を実現するプロダクト哲学とAI倫理設計の具体例を紹介している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The Hidden Tax on Every Product Decision",
-      "url": "https://www.productcoalition.com/p/the-fine-print-that-cost-a-fortune",
-      "publishedAt": "2026-06-25T09:30:53.000Z",
-      "excerpt": "Every Product Team Knows the Cost of Building. Almost None Know the Cost of Getting It Wrong.",
-      "titleJa": "すべてのプロダクト判断に隠れたコスト",
-      "summaryJa": "プロダクトチームは構築コストを把握しているが、失敗時の真のコストを理解していない。意思決定の品質向上と隠れたリスク認識の重要性を指摘します。"
     },
     {
       "category": "PdM",
@@ -310,16 +280,6 @@
       "excerpt": "…also don’t tell lies. But I’m getting ahead of myself already. I keep running into people online who openly say that they use AI to do their writing for them. Now, technically, they may say they use AI to “help” their writing. It doesn’t matter. The distinction is immediately lost on everyone who sees that […]",
       "titleJa": "公開警告：AIライティング使用を公言するな",
       "summaryJa": "オンラインでAIを「使用」または「活用」していると述べる人が増えているが、その言説の矛盾と信頼性の問題を指摘。テスト業界におけるAI使用の透明性と倫理について問い直します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP104 Why Your A/B Test Winners Disappear After Launch",
-      "url": "https://www.productcoalition.com/p/ep104-why-your-ab-test-winners-disappear",
-      "publishedAt": "2026-06-19T09:01:30.000Z",
-      "excerpt": "Summary Andrea Bronzini, a seasoned expert in experimentation and conversion optimization, shares insights on the limitations of traditional A/B testing frameworks, the impact of noise on experiment results, and introduces innovative tools to improve decision-making in product growth.",
-      "titleJa": "A/Bテスト勝者がローンチ後に消える理由",
-      "summaryJa": "実験設計とコンバージョン最適化の専門家Andrea Bronziniが、従来型A/Bテストフレームワークの限界、ノイズが実験結果に与える影響、そしてプロダクト成長における意思決定を改善する革新的ツールを紹介。"
     }
   ]
 }
