@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-09T09:23:14.463Z",
+  "updatedAt": "2026-07-09T14:27:25.598Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "From COVID Pivot to AI World Building: How Snapbar Reinvented the Photo Experience",
+      "url": "https://www.producttalk.org/from-covid-pivot-to-ai-world-building-how-snapbar-reinvented-the-photo-experience/",
+      "publishedAt": "2026-07-09T13:00:43.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to reinvent a 14-year-old company—not once, but twice? In this episode of Just Now Possible, Teresa Torres talks with Sam Eitzen (Co-founder & CEO), Joe Eitzen (Co-founder & CPO), and Patrick Ellis",
+      "titleJa": "14年の歴史を2度再発明：Snapbarの写真体験革新の軌跡",
+      "summaryJa": "COVID禍でのピボットからAI時代への適応まで、Snapbarがどのように企業を根本的に変革したかを、創業者兼CEO、創業者兼CPOへのインタビューを通じて紹介します。長年のプロダクトを革新し続けるための戦略と実行力に迫ります。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Adam Mosseri: AI is a tailwind for authenticity",
+      "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
+      "publishedAt": "2026-07-09T12:32:21.000Z",
+      "excerpt": "Listen now | Instagram’s Adam Mosseri on the new product team structure in 2026, the rise of the “product staff” role, and the hiring traits that matter most today",
+      "titleJa": "AIは真正性を加速させる：Instagramリーダーの展望",
+      "summaryJa": "Instagramの責任者Adam Mosseriが、2026年の新しいプロダクトチーム体制、「プロダクトスタッフ」職の台頭、および現代に求められる採用評価軸について語ります。AIが組織とプロダクト開発にもたらすポジティブな影響を中心に解説します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -162,16 +182,6 @@
       "summaryJa": "テストの本質は「確認する」ことであり、その役割を他者やツールに委譲する際には、理解の一致、実行の正確性、結果検証の容易性など複数のリスク要因を検討する必要があります。自動化やアウトソースの判断には、知識・スキルの維持や業務の重要度など多角的な視点が求められます。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Quarterly planning and AI, cash vs. equity comp, paying for interview exercises, AI-powered outbound, compliance startup opportunities, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-quarterly-planning",
-      "publishedAt": "2026-07-04T16:58:47.000Z",
-      "excerpt": "Community Wisdom 192",
-      "titleJa": "コミュニティの知恵：四半期計画とAI、報酬体系、面接評価など多角的な話題",
-      "summaryJa": "四半期計画とAI活用、キャッシュと株式報酬の比較検討、採用面接の課題、AI駆動のアウトバウンド施策、コンプライアンス分野のスタートアップ機会など、プロダクト関連の多様なトピックを集約した業界コミュニティの知見。"
-    },
-    {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "Brain Sensei PMP Review [for 2026 exam]",
@@ -290,16 +300,6 @@
       "excerpt": "Every Product Team Knows the Cost of Building. Almost None Know the Cost of Getting It Wrong.",
       "titleJa": "プロダクト判断に隠れたコスト",
       "summaryJa": "すべてのプロダクトチームは構築コストを認識していますが、失敗時のコストは把握していない実態を指摘。プロダクト決定における真のコスト構造と影響を深掘りし、より良い意思決定への道筋を提示します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Creating Experiences - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/creating-experiences-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-06-23T13:00:23.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What makes an event truly unforgettable — and what can product teams learn from it? In this episode, Teresa sits down with Petra Wille to explore how Petra and her co-organizer Arne design experiences (not just events) at Product at Heart",
-      "titleJa": "忘れられない体験の創造：プロダクトチームが学べる場づくりの哲学",
-      "summaryJa": "Product at Heart 主催者による、単なるイベント開催ではなく心に残る体験設計の手法をプロダクト観点から解析。イベント企画とプロダクト開発の共通点を探り、顧客体験向上に向けた洞察を提示している。"
     },
     {
       "category": "QA",
