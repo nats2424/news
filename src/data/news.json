@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-09T14:27:25.598Z",
+  "updatedAt": "2026-07-09T19:19:42.547Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
+      "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
+      "publishedAt": "2026-07-09T17:33:57.000Z",
+      "excerpt": "Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
+      "titleJa": "GPT-5.6 SolはClaude Fableを上回る—OpenAIの新モデルがベンチマークで優勝",
+      "summaryJa": "OpenAIの新モデルGPT-5.6 SolがClaude Fableを、プロトタイプ作成、PRD作成、ブラウザ使用の複数のカテゴリーで上回ったベンチマーク結果が報告されている。各モデルの得意領域と性能の差分が詳細に検証されている。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -150,16 +160,6 @@
       "excerpt": "Continuous Discovery Habits turned five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "『継続的ディスカバリーの習慣』を一緒に読む（2026年7月開始）",
       "summaryJa": "『継続的ディスカバリーの習慣』が5周年を迎えたことを記念して、毎月詳細な読書ガイドを公開するプロジェクトが始まります。各月の学習章、重要なコンセプト、解説動画などが含まれた読書体験プログラムです。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How I run autonomous coding agents from my phone with OpenAI Symphony + Linear | Alessio Fanelli (Kernel Labs)",
-      "url": "https://www.lennysnewsletter.com/p/how-i-run-autonomous-coding-agents",
-      "publishedAt": "2026-07-06T12:03:37.000Z",
-      "excerpt": "Watch now | 🎙️ Alessio Fanelli shows his Symphony + Linear setup for running parallel coding agents from his phone, then demos Codex hunting underpriced Pokémon cards in real time",
-      "titleJa": "OpenAI SymphonyとLinearでスマートフォンから自律型AIエージェントを実行する方法",
-      "summaryJa": "Kernel LabsのAlessio Fanelliが、OpenAI SymphonyとLinearを組み合わせて、スマートフォンから複数のコーディングエージェントを並行実行するセットアップを紹介します。実際にAIエージェントが低価格のポケモンカードを検出するデモも含まれています。"
     },
     {
       "category": "PjM",
