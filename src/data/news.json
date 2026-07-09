@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-09T01:49:07.623Z",
+  "updatedAt": "2026-07-09T09:23:14.463Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Ordering the Product Backlog with RICE: From Opinion to Evidence",
+      "url": "https://www.scrum.org/resources/blog/ordering-product-backlog-rice-opinion-evidence",
+      "publishedAt": "2026-07-09T02:02:56.000Z",
+      "excerpt": "Image The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. In practice, a large part of that accountability shows up in one deceptively small activity: deciding what sits at the top of the Product Backlog. Yet in far too many teams, that decision is settled by whoever spoke last, whoever has the most senior title in the room, or whoever built the loudest business case in a hallway conversation. Ordering the Product Backlog is a deliberate act of value optimization. RICE is one lightweight, complementary technique that can make that",
+      "titleJa": "RICEでプロダクトバックログを優先順位付け：意見から根拠へ",
+      "summaryJa": "プロダクトオーナーはプロダクトバックログの最上位に何を配置するかの判断が重要な責任です。多くのチームでは、この決定が発言順や職級、廊下での議論の大きさで決まっているのが実情です。RICEは、プロダクトバックログの優先順位付けを意見ベースから根拠ベースへと転換するための軽量で実用的な手法として機能します。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -80,16 +90,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Every product manager wants to move into leadership — but nobody wants to hire a leader without leadership experience. So how do you break the cycle? In this episode, Teresa and Petra unpack the practical, often-overlooked ways individual contributors can build",
       "titleJa": "プロダクトマネージャーのリーダーシップへのキャリアパス",
       "summaryJa": "プロダクトマネージャーがリーダーシップポジションへ昇進する際の課題と対策を、Teresa TorresとPetra Willeが探討。リーダーシップ経験がない状態での採用という矛盾を解決するため、個別貢献者が実践的にリーダーシップスキルを構築する方法を紹介。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Lean Agile Practioner - A Scrum Master competency no one talks about",
-      "url": "https://www.scrum.org/resources/blog/lean-agile-practioner-scrum-master-competency-no-one-talks-about",
-      "publishedAt": "2026-07-07T12:02:46.000Z",
-      "excerpt": "When in early 2010's Lyssa Adkins and Michael Spayd came up with the Agile Coaching Competency framework, they clearly mentioned that being a Lean-Agile Practitioner is important for a person to be a successful Agile Coach. And since Scrum Masters are expected to do agile coaching, it remains true for them too. The problem is, in my work with numerous Scrum Teams I have observed that the Scrum Masters have no understanding of what it means to be a Lean Agile Practitioner. A majority of them are simply certified on Scrum (PSM/CSM) and for them agile coaching is all about ensuring Scrum events (",
-      "titleJa": "スクラムマスターに欠けるリーンアジャイル実践能力",
-      "summaryJa": "リーンアジャイルプラクティショナーの能力がスクラムマスターに重要であるにもかかわらず、多くのスクラムマスターがこの概念を理解していない実態を指摘。アジャイルコーチングを単なるスクラムイベント管理と捉えている現状の課題を論じる。"
     },
     {
       "category": "PjM",
