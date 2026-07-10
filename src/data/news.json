@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-10T08:59:00.409Z",
+  "updatedAt": "2026-07-10T13:54:23.634Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What Will Happen to You in Two Years if You Don’t Learn AI as a Scrum Master?!",
+      "url": "https://www.scrum.org/resources/blog/what-will-happen-you-two-years-if-you-dont-learn-ai-scrum-master",
+      "publishedAt": "2026-07-10T12:17:54.000Z",
+      "excerpt": "Image AI is rapidly changing everything. It was around 2023 that AI became accessible to the general public. Now that the hype has faded, companies realize that if they don’t invest in AI, they’ll lose a major competitive advantage. It means we will see significant changes in the structure of the Scrum organizations and the way Scrum Teams work. My forecast for the changes in two years is: 1- AI Team members: AI can do a lot of repetitive work 24/7 with significantly lower cost compared to humans. So, we will see AI Team members, and naturally, the number of humans in the Scrum Team will decre",
+      "titleJa": "スクラムマスターがAIを学ばないと2年後どうなるか",
+      "summaryJa": "AIの急速な普及により、スクラム組織の構造とチームの働き方が大きく変わると予想される。AIは反復的な作業を低コストで24時間実行でき、スクラムチームにAIメンバーが加わることで人員構成が変化するなど、AI導入の遅れは企業の競争力喪失につながる可能性がある。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -90,16 +100,6 @@
       "excerpt": "About This Episode: Amit Rawat is an agentic engineer who spent two decades in QA before shifting fully into building […]",
       "titleJa": "テスターのためのエージェンティック・エンジニアリング：Amit Rawatと学ぶ自動化による成長",
       "summaryJa": "20年間のQA経験を持つアジェンティック・エンジニア、Amit Rawatが、テスターのキャリア発展を支援する話。自動化技術を活用して業務効率を高め、スキルアップを実現する方法について解説されている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From Dependency Loops to Delivery Flow",
-      "url": "https://www.scrum.org/resources/blog/dependency-loops-delivery-flow",
-      "publishedAt": "2026-07-07T14:44:07.000Z",
-      "excerpt": "A Product Owner’s AI-Augmented Transformation Overview Josua Senz is a Senior Product Owner at a mid-sized German media organization, called MEDIFOX DAN. He has a technical background and works at the company since September 2022. When he attended the PSPO-AIE training in late 2025, he already considered himself well-informed about AI. What he didn’t anticipate was how quickly and systematically his daily work would transform. Within months, Josua had integrated AI tools across the core workflows of his role: prototyping, documentation, user story creation, test design, and data analysis. This",
-      "titleJa": "依存関係のループから納品フローへ：PO向けAI活用の実践ガイド",
-      "summaryJa": "ドイツのメディア企業でシニアプロダクトオーナーを務めるJosua Senzが、PSPO-AIEトレーニング受講後、AIツールをプロトタイピング、ドキュメント作成、ユーザーストーリー作成、テスト設計、データ分析といったコア業務に統合し、数ヶ月で劇的に日常業務を変革した事例について紹介しています。"
     },
     {
       "category": "PdM",
@@ -310,16 +310,6 @@
       "excerpt": "…also don’t tell lies. But I’m getting ahead of myself already. I keep running into people online who openly say that they use AI to do their writing for them. Now, technically, they may say they use AI to “help” their writing. It doesn’t matter. The distinction is immediately lost on everyone who sees that […]",
       "titleJa": "公開警告：AIライティング使用を公言するな",
       "summaryJa": "オンラインでAIを「使用」または「活用」していると述べる人が増えているが、その言説の矛盾と信頼性の問題を指摘。テスト業界におけるAI使用の透明性と倫理について問い直します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP104 Why Your A/B Test Winners Disappear After Launch",
-      "url": "https://www.productcoalition.com/p/ep104-why-your-ab-test-winners-disappear",
-      "publishedAt": "2026-06-19T09:01:30.000Z",
-      "excerpt": "Summary Andrea Bronzini, a seasoned expert in experimentation and conversion optimization, shares insights on the limitations of traditional A/B testing frameworks, the impact of noise on experiment results, and introduces innovative tools to improve decision-making in product growth.",
-      "titleJa": "A/Bテスト勝者がローンチ後に消える理由",
-      "summaryJa": "実験・コンバージョン最適化の専門家が、従来型A/Bテストの限界、ノイズが実験結果に与える影響を解説。プロダクト成長における意思決定を改善するための革新的なツールと手法を紹介。"
     }
   ]
 }
