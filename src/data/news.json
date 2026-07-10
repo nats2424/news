@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-09T19:19:42.547Z",
+  "updatedAt": "2026-07-10T01:47:16.333Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The most passionate transformations make the worst decisions",
+      "url": "https://www.scrum.org/resources/blog/most-passionate-transformations-make-worst-decisions",
+      "publishedAt": "2026-07-09T22:00:00.000Z",
+      "excerpt": "\"I don't need a chart to tell me this is the right way to work.\" An executive said that in a room where someone had just put a chart on the screen. The chart showed that two years into the transformation, the numbers that were supposed to move hadn't. Delivery, quality, customer satisfaction, all roughly where they started. And the most senior person in the room waved it away. Not because the data was wrong. Because he was sure. Everyone nodded. The transformation rolled on, louder than before, and the chart nobody wanted to look at kept being right. That isn't a failure of intelligence. It's ",
+      "titleJa": "熱狂的な改革ほど悪い判断をもたらす",
+      "summaryJa": "変革プロジェクトの成果を示すデータを経営層が無視するケースについて。デリバリー、品質、顧客満足度など主要指標が2年経っても改善されていないという客観的データがあっても、確信を持つ経営者はそれを切り捨ててしまう。これは知能の問題ではなく、データに基づく意思決定を軽視する傾向の危険性を指摘している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -90,16 +100,6 @@
       "excerpt": "A Product Owner’s AI-Augmented Transformation Overview Josua Senz is a Senior Product Owner at a mid-sized German media organization, called MEDIFOX DAN. He has a technical background and works at the company since September 2022. When he attended the PSPO-AIE training in late 2025, he already considered himself well-informed about AI. What he didn’t anticipate was how quickly and systematically his daily work would transform. Within months, Josua had integrated AI tools across the core workflows of his role: prototyping, documentation, user story creation, test design, and data analysis. This",
       "titleJa": "依存関係のループから納品フローへ：PO向けAI活用の実践ガイド",
       "summaryJa": "ドイツのメディア企業でシニアプロダクトオーナーを務めるJosua Senzが、PSPO-AIEトレーニング受講後、AIツールをプロトタイピング、ドキュメント作成、ユーザーストーリー作成、テスト設計、データ分析といったコア業務に統合し、数ヶ月で劇的に日常業務を変革した事例について紹介しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The New AI Operating Model. Start By Using Scrum",
-      "url": "https://www.scrum.org/resources/blog/new-ai-operating-model-start-using-scrum",
-      "publishedAt": "2026-07-07T13:21:01.000Z",
-      "excerpt": "Image CFOs are waking up to an uncomfortable reality. AI spending is climbing steeply, with tokens, agents, licenses, and compute, and the business value is proving surprisingly hard to pinpoint. Uber burned through its entire 2026 AI budget in four months, with its COO publicly struggling to draw a line between AI adoption and the development of meaningful new consumer features. Microsoft has pulled Claude Code licenses from developers as spending on coding agents came under cost governance. In boardrooms and budget reviews across the industry, the same question keeps surfacing: we're produci",
-      "titleJa": "新しいAI運用モデル：まずはScrum導入から始める",
-      "summaryJa": "企業のAI支出が急速に増加している一方で、実際のビジネス価値が曖昧なままになっている課題について取り上げています。UberやMicrosoftなどの事例を通じて、AI導入の効果測定や予算管理の難しさが浮き彫りになっており、Scrumを基盤とした適切な運用モデルの構築が求められています。"
     },
     {
       "category": "PdM",
