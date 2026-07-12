@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-12T01:27:58.438Z",
+  "updatedAt": "2026-07-12T07:56:20.948Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "You Can Ignore the Flow Data. It Still Decides When You Ship.",
+      "url": "https://www.scrum.org/resources/blog/you-can-ignore-flow-data-it-still-decides-when-you-ship",
+      "publishedAt": "2026-07-12T06:00:00.000Z",
+      "excerpt": "Image Somewhere this week a team will commit to a date. A director asks when the feature lands, a room full of capable people stares at a roadmap, someone picks a quarter that feels safe enough to say out loud, and everyone nods. Meanwhile, in a dashboard nobody has opened since the tool was installed, the team's actual delivery record sits there quietly. Throughput for the last twenty weeks. Cycle times. The age of every item stuck in progress right now. The meeting ignores all of it and picks the quarter anyway. That is the strange ritual at the center of most planning. We have the numbers. ",
+      "titleJa": "フロー データを無視しても、リリース時期は決まる",
+      "summaryJa": "多くのチームはロードマップと感覚で納期を決めるが、実際のデリバリー記録（スループット、サイクルタイム、進捗中のアイテムの経過時間など）はダッシュボードに眠ったままになっている。データに基づく計画の重要性を指摘し、チームが実績指標を無視している現状を問題提起する記事。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -90,16 +100,6 @@
       "excerpt": "In Kürze: KI-Routing-Richtlinie Sie haben Ihre KI-Routinearbeit auf ein günstigeres Modell verlagert und glauben deshalb, die Kostenfrage sei damit erledigt. Oft ist das jedoch nicht der Fall. Die Entscheidung steckt im Kopf einer einzelnen Person und liefert nichts, was die für die Rechnungen verantwortliche Person lesen könnte. Schlimmer noch: Sie ist eine architektonische Entscheidung, die niemand dokumentiert hat. Die KI-Routing-Richtlinie ist das fehlende Artefakt von Phase 2 des Delegation-Lifecycles: Sie legt fest, welcher Ausführungspfad, von einem günstigeren Modell über ein Frontier-",
       "titleJa": "受入基準からAIルーティングポリシーへの進化",
       "summaryJa": "AIの日常業務を低コストモデルに移行しても、単に個人の頭の中に判断基準が隠れたままでは管理不可能。Delegation Lifecycleフェーズ2に必要な、実行経路を定義するAIルーティングポリシーという見落とされやすいアーティファクトについて解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "[Episode 3] Start Using AI as a Personal Assistant",
-      "url": "https://www.scrum.org/resources/blog/episode-3-start-using-ai-personal-assistant",
-      "publishedAt": "2026-07-08T05:56:35.000Z",
-      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 3, we discussed the following things: 1- How to effectively communicate with AI 2- Use AI as a research assistant 3- Use AI as a writing assistant 4- Use AI as a decision support assistant 5- Use AI as a brainstorming partner 6- Use AI as a productivity booster ... As mentioned in the conversation, you can download the \"AI Transformation for Scrum Teams\" free playbook here: https://scrumschool.org/ai-transformation-",
-      "titleJa": "[エピソード3] AIをパーソナルアシスタントとして使い始める",
-      "summaryJa": "AI-nativeなスクラムチームを目指すポッドキャストシリーズの第3回では、AIとの効果的なコミュニケーション方法、リサーチアシスタント・ライティングアシスタント・意思決定支援・ブレインストーミングパートナー・生産性向上ツールとしてのAI活用法など、スクラムチームのAI変革ジャーニーにおける実践的なステップを紹介しています。"
     },
     {
       "category": "QA",
@@ -300,16 +300,6 @@
       "excerpt": "Every Product Team Knows the Cost of Building. Almost None Know the Cost of Getting It Wrong.",
       "titleJa": "プロダクト判断に隠れたコスト",
       "summaryJa": "すべてのプロダクトチームは構築コストを認識していますが、失敗時のコストは把握していない実態を指摘。プロダクト決定における真のコスト構造と影響を深掘りし、より良い意思決定への道筋を提示します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Public Service Announcement: Don’t Say You Use AI for Writing",
-      "url": "https://www.satisfice.com/blog/archives/488148",
-      "publishedAt": "2026-06-21T04:34:19.000Z",
-      "excerpt": "…also don’t tell lies. But I’m getting ahead of myself already. I keep running into people online who openly say that they use AI to do their writing for them. Now, technically, they may say they use AI to “help” their writing. It doesn’t matter. The distinction is immediately lost on everyone who sees that […]",
-      "titleJa": "公開警告：AIライティング使用を公言するな",
-      "summaryJa": "オンラインでAIを「使用」または「活用」していると述べる人が増えているが、その言説の矛盾と信頼性の問題を指摘。テスト業界におけるAI使用の透明性と倫理について問い直します。"
     }
   ]
 }
