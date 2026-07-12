@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-12T07:56:20.948Z",
+  "updatedAt": "2026-07-12T12:52:22.189Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
+      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
+      "publishedAt": "2026-07-12T12:32:14.000Z",
+      "excerpt": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
+      "titleJa": "2026年、テック業界のAI受け止め方とは | 年次AI感情調査",
+      "summaryJa": "テック業界の労働者の間で二極化が進んでいる状況を調査。半数は繁栄しているものの、もう半数は苦境に陥っており、バーンアウトは過去最高水準に達している。AI導入によるテック業界のワークフォースへの影響を包括的に分析している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -110,16 +120,6 @@
       "excerpt": "About This Episode: Amit Rawat is an agentic engineer who spent two decades in QA before shifting fully into building […]",
       "titleJa": "テスターのためのエージェンティック・エンジニアリング：Amit Rawatと学ぶ自動化による成長",
       "summaryJa": "20年間のQA経験を持つアジェンティック・エンジニア、Amit Rawatが、テスターのキャリア発展を支援する話。自動化技術を活用して業務効率を高め、スキルアップを実現する方法について解説されている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How tech workers are feeling in 2026: a workforce splitting in two",
-      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-are-feeling-in-2026",
-      "publishedAt": "2026-07-07T13:04:22.000Z",
-      "excerpt": "Results from our second annual tech worker sentiment survey",
-      "titleJa": "2026年のテック業界就労者センチメント：二極化する労働力",
-      "summaryJa": "テック業界の就労者を対象とした2回目の年次センチメント調査の結果を紹介。2026年の業界における労働者の心理状態と満足度の変化、特に異なるセグメント間での意識の分裂傾向を分析した調査レポート。"
     },
     {
       "category": "PdM",
