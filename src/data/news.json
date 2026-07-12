@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-12T12:52:22.189Z",
+  "updatedAt": "2026-07-12T18:47:02.954Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "You Already Have an AI Working Agreement. Write It Down.",
+      "url": "https://www.scrum.org/resources/blog/you-already-have-ai-working-agreement-write-it-down",
+      "publishedAt": "2026-07-12T14:28:57.000Z",
+      "excerpt": "TL;DR: The AI Working Agreement Your team already has rules for using AI. Some live in templates, some in habits, exceptions, and one person’s memory. The AI Working Agreement puts the decisions that matter in one place: what the team delegates to AI, what stays human, what must be reviewed, what never enters a model, who owns which workflow, and how the agreement changes. Write it, and a new colleague can read your team’s AI decisions on their first day, while the decisions stay when someone leaves. Image Thesis: Team-level AI governance fails more from uncodified judgment than from missing p",
+      "titleJa": "チームのAI利用ルールを文書化しよう",
+      "summaryJa": "チームは既にAI利用に関する暗黙的なルールを持っていますが、テンプレートや習慣、例外処理として散在しています。これらの決定を一箇所に文書化した「AI Working Agreement」を作成することで、何をAIに任せ、何を人間が担当するか、何をレビューするか、どのデータをモデルに入れないかなどを明確にできます。文書化により、新入メンバーがオンボーディング時に確認でき、人員異動があっても決定事項が継続されます。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -100,16 +110,6 @@
       "excerpt": "Listen now | 🎙️ I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
       "titleJa": "Claude Agent SDKでハーネスを構築する方法",
       "summaryJa": "Claude Agent SDKのカスタムハーネスを使用してSentry バグトリアージを自動化。実装例を示しながら、独自のハーネス構築手順を詳細に解説し、エージェント活用の実践的アプローチを提供します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Der kleine Schritt von Akzeptanzkriterien zu einer KI-Routing-Richtlinie 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/der-kleine-schritt-von-akzeptanzkriterien-zu-einer-ki-routing-richtlinie",
-      "publishedAt": "2026-07-08T11:53:12.000Z",
-      "excerpt": "In Kürze: KI-Routing-Richtlinie Sie haben Ihre KI-Routinearbeit auf ein günstigeres Modell verlagert und glauben deshalb, die Kostenfrage sei damit erledigt. Oft ist das jedoch nicht der Fall. Die Entscheidung steckt im Kopf einer einzelnen Person und liefert nichts, was die für die Rechnungen verantwortliche Person lesen könnte. Schlimmer noch: Sie ist eine architektonische Entscheidung, die niemand dokumentiert hat. Die KI-Routing-Richtlinie ist das fehlende Artefakt von Phase 2 des Delegation-Lifecycles: Sie legt fest, welcher Ausführungspfad, von einem günstigeren Modell über ein Frontier-",
-      "titleJa": "受入基準からAIルーティングポリシーへの進化",
-      "summaryJa": "AIの日常業務を低コストモデルに移行しても、単に個人の頭の中に判断基準が隠れたままでは管理不可能。Delegation Lifecycleフェーズ2に必要な、実行経路を定義するAIルーティングポリシーという見落とされやすいアーティファクトについて解説します。"
     },
     {
       "category": "QA",
