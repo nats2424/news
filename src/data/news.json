@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-13T08:44:38.659Z",
+  "updatedAt": "2026-07-13T14:00:43.166Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Spec-Driven Development Isn't Waterfall Unless You're Using It That Way",
+      "url": "https://www.scrum.org/resources/blog/spec-driven-development-isnt-waterfall-unless-youre-using-it-way-0",
+      "publishedAt": "2026-07-13T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Last summer, while I was vibe-coding my own scorecard app, I kept running into dead ends. Not dramatic ones — the annoying kind. I would get something working, then realize the path was wrong. Or the behavior was close but not quite right. Or I had built a capability that looked useful in isolation but did not actually help the overall product move forward. So I started thinking more up front. I used plan mode more. And eventually I started using spec-driven development more formally. Which raises the obvious question: did I just give up agility and go b",
+      "titleJa": "仕様駆動開発はウォーターフォールではない",
+      "summaryJa": "Spec-Driven Developmentを導入した開発者の実例を紹介。当初のアジャイル開発では要件の不明確さから手戻りが多発したため、計画段階での仕様定義をより厳密に行うことで、プロダクト全体の方向性を確認しながら開発を進める効果を解説しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum Kumbaya",
+      "url": "https://www.scrum.org/resources/blog/scrum-kumbaya",
+      "publishedAt": "2026-07-13T13:00:00.000Z",
+      "excerpt": "Image I was speaking with a Scrum team member recently whose Scrum Master was trying just a little too hard. The Daily Scrum had turned into a positivity meeting rather than a quick, collaborative touch base. Every day it stretched to 30 minutes (!), with everyone asked to share a thought of the day and so on. The intention was good — but the impact was... just a bit much too much time in meetings. Team building is great, but when it happens every day, it can be a little overwhelming. As one person put it, \"This much positivity in the morning is a lot to take!\" The Purpose of the Daily Scrum W",
+      "titleJa": "デイリースクラムにおけるポジティビティの過剰さへの警告",
+      "summaryJa": "スクラムマスターが意図的な「チームビルディング」を重視するあまり、デイリースクラムが30分に延長され、参加者負担が増加した事例を紹介。デイリースクラムの本来の目的と、効率的な協調確認に焦点を当てることの重要性について論じています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "This solo builder runs 24/7 local AI on his own hardware | Alex Finn",
+      "url": "https://www.lennysnewsletter.com/p/this-solo-builder-runs-247-local",
+      "publishedAt": "2026-07-13T12:05:20.000Z",
+      "excerpt": "Watch now | 🎙️ Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
+      "titleJa": "ソロ開発者が24時間稼働するローカルAIで製品開発を自動化",
+      "summaryJa": "Alex Finnが5台のコンピュータで構築したローカルAI環境と、Claude Codeを使ったビルド・レビュー自動化ループについて解説。月額$20のサブスクリプション不要で、無制限のローカルAI処理により、開発者が睡眠中も機能をデリバリーし続ける仕組みを紹介しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -42,16 +72,6 @@
       "summaryJa": "テック業界の労働者の間で二極化が進んでいる状況を調査。半数は繁栄しているものの、もう半数は苦境に陥っており、バーンアウトは過去最高水準に達している。AI導入によるテック業界のワークフォースへの影響を包括的に分析している。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You Can Ignore the Flow Data. It Still Decides When You Ship.",
-      "url": "https://www.scrum.org/resources/blog/you-can-ignore-flow-data-it-still-decides-when-you-ship",
-      "publishedAt": "2026-07-12T06:00:00.000Z",
-      "excerpt": "Image Somewhere this week a team will commit to a date. A director asks when the feature lands, a room full of capable people stares at a roadmap, someone picks a quarter that feels safe enough to say out loud, and everyone nods. Meanwhile, in a dashboard nobody has opened since the tool was installed, the team's actual delivery record sits there quietly. Throughput for the last twenty weeks. Cycle times. The age of every item stuck in progress right now. The meeting ignores all of it and picks the quarter anyway. That is the strange ritual at the center of most planning. We have the numbers. ",
-      "titleJa": "フロー データを無視しても、リリース時期は決まる",
-      "summaryJa": "多くのチームはロードマップと感覚で納期を決めるが、実際のデリバリー記録（スループット、サイクルタイム、進捗中のアイテムの経過時間など）はダッシュボードに眠ったままになっている。データに基づく計画の重要性を指摘し、チームが実績指標を無視している現状を問題提起する記事。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
@@ -60,16 +80,6 @@
       "excerpt": "Community Wisdom 193",
       "titleJa": "コミュニティの知恵：ネガティブネットワーク効果、過度な自信を持つ同僚の管理、設計決定を迂回する開発者への対処など",
       "summaryJa": "Lennyのニュースレター発行の「コミュニティの知恵」セッション。ネガティブネットワーク効果への対策、自信過剰なチームメンバーのマネジメント、設計プロセスの軽視への対処、ステークホルダー会議の効果的な進行管理など、プロダクトマネージャーが直面する実践的な課題と解決策をコミュニティの経験から集約した内容。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "What Will Happen to You in Two Years if You Don’t Learn AI as a Scrum Master?!",
-      "url": "https://www.scrum.org/resources/blog/what-will-happen-you-two-years-if-you-dont-learn-ai-scrum-master",
-      "publishedAt": "2026-07-10T12:17:54.000Z",
-      "excerpt": "Image AI is rapidly changing everything. It was around 2023 that AI became accessible to the general public. Now that the hype has faded, companies realize that if they don’t invest in AI, they’ll lose a major competitive advantage. It means we will see significant changes in the structure of the Scrum organizations and the way Scrum Teams work. My forecast for the changes in two years is: 1- AI Team members: AI can do a lot of repetitive work 24/7 with significantly lower cost compared to humans. So, we will see AI Team members, and naturally, the number of humans in the Scrum Team will decre",
-      "titleJa": "スクラムマスターがAIを学ばないと2年後どうなるか",
-      "summaryJa": "AIの急速な普及により、スクラム組織の構造とチームの働き方が大きく変わると予想される。AIは反復的な作業を低コストで24時間実行でき、スクラムチームにAIメンバーが加わることで人員構成が変化するなど、AI導入の遅れは企業の競争力喪失につながる可能性がある。"
     },
     {
       "category": "PdM",
@@ -100,16 +110,6 @@
       "excerpt": "Listen now | Instagram’s Adam Mosseri on the new product team structure in 2026, the rise of the “product staff” role, and the hiring traits that matter most today",
       "titleJa": "AIは真正性を加速させる：Instagramリーダーの展望",
       "summaryJa": "Instagramの責任者Adam Mosseriが、2026年の新しいプロダクトチーム体制、「プロダクトスタッフ」職の台頭、および現代に求められる採用評価軸について語ります。AIが組織とプロダクト開発にもたらすポジティブな影響を中心に解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "What a harness is and how to build one with Claude Agent SDK",
-      "url": "https://www.lennysnewsletter.com/p/what-a-harness-is-and-how-to-build",
-      "publishedAt": "2026-07-08T12:03:35.000Z",
-      "excerpt": "Listen now | 🎙️ I built a custom Claude Agent SDK harness to automate Sentry bug triage, saved the \"dear agent, please fix this\" prompt forever, and show you exactly how to build your own",
-      "titleJa": "Claude Agent SDKでハーネスを構築する方法",
-      "summaryJa": "Claude Agent SDKのカスタムハーネスを使用してSentry バグトリアージを自動化。実装例を示しながら、独自のハーネス構築手順を詳細に解説し、エージェント活用の実践的アプローチを提供します。"
     },
     {
       "category": "QA",
