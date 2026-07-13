@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-13T14:00:43.166Z",
+  "updatedAt": "2026-07-13T19:09:24.611Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Brain Sensei vs PM PrepCast",
+      "url": "https://rebelsguidetopm.com/brain-sensei-vs-pm-prepcast/",
+      "publishedAt": "2026-07-13T15:27:28.000Z",
+      "excerpt": "I’ve long used products from Cornelius Fichtner of The Project Management PrepCast fame for my own professional development. But I also know the team behind Brain Sensei. So how does Brain Sensei compare to the PM PrepCast? That’s what we’re covering in this article. I’ve used them both, I’ve had conversations with both teams, and over the year’s I’ve come to appreciate what they are both good at. Let’s do the comparison of their PMP training! Packages For a start, both companies offer Project Management Professional (PMP)® training. Brain Sensei offers: A self-paced PMP prep course that inclu",
+      "titleJa": "Brain Sensei vs PM PrepCast: PMP資格取得教材の徹底比較",
+      "summaryJa": "PMP(プロジェクトマネジメントプロフェッショナル)資格取得向けの学習教材「Brain Sensei」と「PM PrepCast」を実際に使用した著者が両社の特徴、パッケージ内容を比較。プロジェクトマネジメント専門家として両チームとの関係がある執筆者が、各教材の強みを詳細に解説しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
+      "publishedAt": "2026-07-13T15:02:17.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "🎙️ How I AI: GPT-5.6レビュー、ローカルAIを24時間運用するソロビルダーの秘訣、エージェントハーネスとは何か",
+      "summaryJa": "「How I AI」ポッドキャストシリーズから、GPT-5.6のレビュー、個人開発者がローカルAIを継続的に運用する方法、そしてAIエージェントハーネスの構築方法について学べる内容です。プロダクトマネジャーやAI活用に興味のある方必聴の週次配信です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -102,16 +122,6 @@
       "summaryJa": "COVID禍でのピボットからAI時代への適応まで、Snapbarがどのように企業を根本的に変革したかを、創業者兼CEO、創業者兼CPOへのインタビューを通じて紹介します。長年のプロダクトを革新し続けるための戦略と実行力に迫ります。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Adam Mosseri: AI is a tailwind for authenticity",
-      "url": "https://www.lennysnewsletter.com/p/adam-mosseri-ai-is-a-tailwind-for",
-      "publishedAt": "2026-07-09T12:32:21.000Z",
-      "excerpt": "Listen now | Instagram’s Adam Mosseri on the new product team structure in 2026, the rise of the “product staff” role, and the hiring traits that matter most today",
-      "titleJa": "AIは真正性を加速させる：Instagramリーダーの展望",
-      "summaryJa": "Instagramの責任者Adam Mosseriが、2026年の新しいプロダクトチーム体制、「プロダクトスタッフ」職の台頭、および現代に求められる採用評価軸について語ります。AIが組織とプロダクト開発にもたらすポジティブな影響を中心に解説します。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Agentic Engineering for Testers: How to Automate Your Way to the Top with Amit Rawat",
@@ -190,16 +200,6 @@
       "excerpt": "Are you looking for a creative way to motivate yourself to study for the Project Management Professional (PMP)® exam? I get it: finding the time to sit in front of your screen is tough but there are so many benefits to getting certified that you can’t put it off any longer. In this Brain Sensei review, I’ll share who Brain Sensei training is most appropriate for, what to expect, the cost, the pros and cons and all the features you get included. I’ve been working as a project manager for over 20 years (gulp) and I’ve spent a lot of time researching and using PMP training courses. I’ve tried all",
       "titleJa": "Brain Sensei PMP対策講座【2026年試験向け】レビュー",
       "summaryJa": "PMP®試験対策の講座「Brain Sensei」について、受講層の適性、コスト、メリット・デメリット、機能を詳細にレビュー。20年以上のプロジェクトマネージャー経験者が複数コースを比較した推奨講座。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "PM PrepCast PMP Training and Exam Simulator Review (2026) + Discount Coupon Code",
-      "url": "https://rebelsguidetopm.com/pm-prepcast-review/",
-      "publishedAt": "2026-07-03T14:46:47.000Z",
-      "excerpt": "This article is an honest PM PrepCast review and gives you the lowdown on one of the top courses I recommend for PMP prep. Let's get you started and on the way to certification with the PrepCast! TL;DR: This is the best PMP exam prep course I have come across. Reasonably priced, easy to use, comprehensive and fully updated to the latest exam specifications (for exams from July 2026) and PMBOK 8th Edition. Want money off? There are new codes each month! There's a pop up box on this page that has the latest offers, or please email me and I'll send you the discount coupons that I get. It can be i",
-      "titleJa": "PM PrepCast PMP対策講座・試験シミュレーター【2026年】割引クーポン付き",
-      "summaryJa": "PMP試験対策のトップ選択肢「PM PrepCast」を実績ベースでレビュー。PMBOK第8版に対応し、2026年7月試験に向けて包括的で最新の内容を提供。割引クーポンコードあり。"
     },
     {
       "category": "PdM",
