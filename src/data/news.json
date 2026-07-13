@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-13T01:29:09.687Z",
+  "updatedAt": "2026-07-13T08:44:38.659Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "[Free Tutorial] Master Building AI Agents",
+      "url": "https://www.scrum.org/resources/blog/free-tutorial-master-building-ai-agents",
+      "publishedAt": "2026-07-13T06:40:55.000Z",
+      "excerpt": "In this blog, I teach you how to build AI Agents using two powerful examples: 1- An AI Agent to collect user stories from supporting tickets (Video Tutorial) 2- An AI Agent to write release notes (Text Tutorial) When you learn the principles and main process, you can build whatever AI Agents you want. So, stay with me. 1- The AI Agent to collect user stories from supporting tickets 2- The AI Agent to write release notes Image Writing release notes is a repetitive task for Product Owners. Wouldn't it be great if we could delegate it to an AI Agent? Let’s take a look at how we can do just that. ",
+      "titleJa": "AIエージェント構築のマスターガイド",
+      "summaryJa": "本記事では、サポートチケットからユーザーストーリーを抽出するAIエージェントとリリースノートを自動生成するAIエージェントの2つの実践例を通じて、AIエージェント構築の原理と手法を解説します。これらの原則を習得することで、様々なタイプのAIエージェント構築が可能になります。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "3 Workshop-Methoden: So gestaltest du das Ende deines Workshops so, dass es in Erinnerung bleibt",
+      "url": "https://www.scrum.org/resources/blog/3-workshop-methoden-so-gestaltest-du-das-ende-deines-workshops-so-dass-es-erinnerung-bleibt",
+      "publishedAt": "2026-07-13T05:15:00.000Z",
+      "excerpt": "3 Workshop-Methoden: So gestaltest du das Ende deines Workshops so, dass es in Erinnerung bleibt Denk einmal an den letzten Film, den du geschaut hast. Woran kannst du dich noch erinnern? Die Chancen stehen gut, dass es der Anfang oder das Ende war. Das ist nur natürlich. Denn unser Gehirn ist so gestrickt, dass es sich Anfang und Ende am wahrscheinlichsten merkt. Besonders dann, wenn es spannend, actionreich oder emotional ist. Diese Erkenntnis können wir auch für unsere Workshops nutzen. Heute werde ich dir drei Methoden zeigen, wie ich Workshops so beende, dass sie den Teilnehmenden noch la",
+      "titleJa": "ワークショップの印象的な終わり方：3つの実践的手法",
+      "summaryJa": "人間の脳は物事の始まりと終わりを最も記憶しやすい特性があります。本記事では、参加者に強く印象付けるワークショップの終わり方を実現するための3つのワークショップ手法を紹介し、ワークショップの成果を最大化する方法を解説します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -52,16 +72,6 @@
       "summaryJa": "AIの急速な普及により、スクラム組織の構造とチームの働き方が大きく変わると予想される。AIは反復的な作業を低コストで24時間実行でき、スクラムチームにAIメンバーが加わることで人員構成が変化するなど、AI導入の遅れは企業の競争力喪失につながる可能性がある。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The most passionate transformations make the worst decisions",
-      "url": "https://www.scrum.org/resources/blog/most-passionate-transformations-make-worst-decisions",
-      "publishedAt": "2026-07-09T22:00:00.000Z",
-      "excerpt": "\"I don't need a chart to tell me this is the right way to work.\" An executive said that in a room where someone had just put a chart on the screen. The chart showed that two years into the transformation, the numbers that were supposed to move hadn't. Delivery, quality, customer satisfaction, all roughly where they started. And the most senior person in the room waved it away. Not because the data was wrong. Because he was sure. Everyone nodded. The transformation rolled on, louder than before, and the chart nobody wanted to look at kept being right. That isn't a failure of intelligence. It's ",
-      "titleJa": "熱狂的な改革ほど悪い判断をもたらす",
-      "summaryJa": "変革プロジェクトの成果を示すデータを経営層が無視するケースについて。デリバリー、品質、顧客満足度など主要指標が2年経っても改善されていないという客観的データがあっても、確信を持つ経営者はそれを切り捨ててしまう。これは知能の問題ではなく、データに基づく意思決定を軽視する傾向の危険性を指摘している。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
@@ -90,16 +100,6 @@
       "excerpt": "Listen now | Instagram’s Adam Mosseri on the new product team structure in 2026, the rise of the “product staff” role, and the hiring traits that matter most today",
       "titleJa": "AIは真正性を加速させる：Instagramリーダーの展望",
       "summaryJa": "Instagramの責任者Adam Mosseriが、2026年の新しいプロダクトチーム体制、「プロダクトスタッフ」職の台頭、および現代に求められる採用評価軸について語ります。AIが組織とプロダクト開発にもたらすポジティブな影響を中心に解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Ordering the Product Backlog with RICE: From Opinion to Evidence",
-      "url": "https://www.scrum.org/resources/blog/ordering-product-backlog-rice-opinion-evidence",
-      "publishedAt": "2026-07-09T02:02:56.000Z",
-      "excerpt": "Image The Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. In practice, a large part of that accountability shows up in one deceptively small activity: deciding what sits at the top of the Product Backlog. Yet in far too many teams, that decision is settled by whoever spoke last, whoever has the most senior title in the room, or whoever built the loudest business case in a hallway conversation. Ordering the Product Backlog is a deliberate act of value optimization. RICE is one lightweight, complementary technique that can make that",
-      "titleJa": "RICEでプロダクトバックログを優先順位付け：意見から根拠へ",
-      "summaryJa": "プロダクトオーナーはプロダクトバックログの最上位に何を配置するかの判断が重要な責任です。多くのチームでは、この決定が発言順や職級、廊下での議論の大きさで決まっているのが実情です。RICEは、プロダクトバックログの優先順位付けを意見ベースから根拠ベースへと転換するための軽量で実用的な手法として機能します。"
     },
     {
       "category": "PdM",
