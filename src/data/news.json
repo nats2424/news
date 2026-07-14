@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T13:03:51.471Z",
+  "updatedAt": "2026-07-14T18:59:53.253Z",
   "items": [
     {
       "category": "PdM",
@@ -10,6 +10,16 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got behavioral analytics, support tickets, sales call notes, and a feedback inbox that never empties. With all that data coming in, do product teams actually still need to go out and talk to users? In this episode, Petra Wille",
       "titleJa": "エビデンスの質――プロダクト開発における定量・定性データの使い分け",
       "summaryJa": "行動分析、サポートチケット、営業記録、フィードバックなど豊富なデータがある現代、プロダクトチームは本当にユーザーインタビューが必要なのか。Teresa TorresとPetra Willeが、データドリブン意思決定におけるエビデンスの質の重要性について議論するポッドキャスト。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Incremental Delivery and the Need for Speed",
+      "url": "https://www.scrum.org/resources/blog/incremental-delivery-and-need-speed",
+      "publishedAt": "2026-07-14T13:00:00.000Z",
+      "excerpt": "Image Digital AI’s annual State of Agile report is a survey which has global participation from small, medium-sized and large companies. It asks questions such as what Agile frameworks are being used, and what are the biggest problems Agile teams face. But one of the most interesting questions - to me - that they ask is this: Why are you using Agile? In almost every single one of those years the number one answer has been SPEED. But why? After all, Agile teams don’t code any faster than traditional teams. No, Agile doesn't covey any magical powers, but the way we work in Agile is different. Th",
+      "titleJa": "インクリメンタル・デリバリーとスピードへの要求",
+      "summaryJa": "Digital AIのAgile調査では、世界中の企業がAgile導入の理由として「スピード」を最多回答としている。Agileチームが従来チームより速くコーディングできるわけではないが、Agileの作業方法が異なることで、組織全体の納期短縮を実現する仕組みについて解説している。"
     },
     {
       "category": "PjM",
@@ -42,6 +52,16 @@
       "summaryJa": "チームワークと意思決定スキルを高める協力ゲーム。1〜8人のチームで参加でき、複数チーム参加時はチーム間の相互観察から学習効果が高まる。秘密ルールを管理するファシリテーターが必要で、参加者は観察者としても学習できる。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Brain Sensei vs PM PrepCast",
+      "url": "https://rebelsguidetopm.com/brain-sensei-vs-pm-prepcast/",
+      "publishedAt": "2026-07-13T15:27:28.000Z",
+      "excerpt": "I’ve long used products from Cornelius Fichtner of The Project Management PrepCast fame for my own professional development. But I also know the team behind Brain Sensei. So how does Brain Sensei compare to the PM PrepCast? That’s what we’re covering in this article. I’ve used them both, I’ve had conversations with both teams, and over the year’s I’ve come to appreciate what they are both good at. Let’s do the comparison of their PMP training! Packages For a start, both companies offer Project Management Professional (PMP)® training. Brain Sensei offers: A self-paced PMP prep course that inclu",
+      "titleJa": "Brain SenseiとPM PrepCastの比較検討",
+      "summaryJa": "PMP資格取得の学習教材として知られるBrain SenseiとPM PrepCastの両方を実際に使用した著者が、パッケージ内容や機能、サポート体制などを詳細に比較。プロジェクト管理専門家認定試験対策教材の選択判断に役立つ情報を提供している。"
+    },
+    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
@@ -60,16 +80,6 @@
       "excerpt": "Originally published on yuvalyeret.com. Last summer, while I was vibe-coding my own scorecard app, I kept running into dead ends. Not dramatic ones — the annoying kind. I would get something working, then realize the path was wrong. Or the behavior was close but not quite right. Or I had built a capability that looked useful in isolation but did not actually help the overall product move forward. So I started thinking more up front. I used plan mode more. And eventually I started using spec-driven development more formally. Which raises the obvious question: did I just give up agility and go b",
       "titleJa": "仕様駆動開発はウォーターフォールではない",
       "summaryJa": "Spec-Driven Developmentを導入した開発者の実例を紹介。当初のアジャイル開発では要件の不明確さから手戻りが多発したため、計画段階での仕様定義をより厳密に行うことで、プロダクト全体の方向性を確認しながら開発を進める効果を解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum Kumbaya",
-      "url": "https://www.scrum.org/resources/blog/scrum-kumbaya",
-      "publishedAt": "2026-07-13T13:00:00.000Z",
-      "excerpt": "Image I was speaking with a Scrum team member recently whose Scrum Master was trying just a little too hard. The Daily Scrum had turned into a positivity meeting rather than a quick, collaborative touch base. Every day it stretched to 30 minutes (!), with everyone asked to share a thought of the day and so on. The intention was good — but the impact was... just a bit much too much time in meetings. Team building is great, but when it happens every day, it can be a little overwhelming. As one person put it, \"This much positivity in the morning is a lot to take!\" The Purpose of the Daily Scrum W",
-      "titleJa": "デイリースクラムにおけるポジティビティの過剰さへの警告",
-      "summaryJa": "スクラムマスターが意図的な「チームビルディング」を重視するあまり、デイリースクラムが30分に延長され、参加者負担が増加した事例を紹介。デイリースクラムの本来の目的と、効率的な協調確認に焦点を当てることの重要性について論じています。"
     },
     {
       "category": "PdM",
@@ -142,6 +152,26 @@
       "summaryJa": "プロダクトマネージャーがリーダーシップポジションへ昇進する際の課題と対策を、Teresa TorresとPetra Willeが探討。リーダーシップ経験がない状態での採用という矛盾を解決するため、個別貢献者が実践的にリーダーシップスキルを構築する方法を紹介。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to Create a Powerful PMO Mission Statement",
+      "url": "https://rebelsguidetopm.com/pmo-mission-statement/",
+      "publishedAt": "2026-07-07T12:01:16.000Z",
+      "excerpt": "There's a lot riding on getting your PMO mission statement right. After all, the mission statement is what will guide the PMO as it strives to achieve its goals and objectives. Creating a powerful PMO mission statement doesn't have to be difficult - but it does require some thought and careful planning. Why have a mission statement for the PMO? The PMO is responsible for ensuring that an organization's projects are well-organized, well-run, and produce the desired results. A key part of a PMO leader's job is to develop and maintain project management standards and processes and to support the ",
+      "titleJa": "効果的なPMOミッションステートメントの策定方法",
+      "summaryJa": "PMO(プロジェクト管理オフィス)のミッションステートメント作成の重要性と、その策定プロセスについて解説。組織のプロジェクトが適切に運営され、目標を達成するためのミッションステートメント開発のポイントを紹介している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to make a SIPOC diagram in all the tools (with PowerPoint template)",
+      "url": "https://rebelsguidetopm.com/sipoc/",
+      "publishedAt": "2026-07-06T15:28:20.000Z",
+      "excerpt": "Process mapping creates value as it helps people understand the business context of the work they are doing. One tool to do this is the SIPOC diagram, which I use and I learned about on my Black Belt training. Get a free PowerPoint SIPOC diagram template. Join the Project Management Resource Library to get the template and lots of other free project management templates, checklists, and guides. Whether you want to understand how customers move through your small business, or mapping the processes used on a major civil engineering project, SIPOC is a visual process mapping tool that can help yo",
+      "titleJa": "SIPOC図の作成方法と各ツール対応(PowerPointテンプレート付)",
+      "summaryJa": "プロセスマッピング手法の一つであるSIPOC図の活用方法とテンプレートを紹介。顧客フローから大規模プロジェクトのプロセスまで、ビジュアルなプロセス分析ツールとしてのSIPOC図の使用方法を実践的に解説している。"
+    },
+    {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "Let's Read Continuous Discovery Habits Together (July 2026)",
@@ -152,6 +182,16 @@
       "summaryJa": "『継続的ディスカバリーの習慣』が5周年を迎えたことを記念して、毎月詳細な読書ガイドを公開するプロジェクトが始まります。各月の学習章、重要なコンセプト、解説動画などが含まれた読書体験プログラムです。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "GanttPRO Review + Mini Tutorial",
+      "url": "https://rebelsguidetopm.com/ganttpro-review-mini-tutorial/",
+      "publishedAt": "2026-07-05T20:07:52.000Z",
+      "excerpt": "Are you looking for an online tool that offers powerful Gantt chart templates and all the other bits you need for collaboration like file sharing, exporting and resource management? GanttPRO might be just the solution for you. Read on: (Full disclosure: I was originally compensated for my time in 2020 preparing this review, but the 2026 update has not be compensated. I am not an affiliate for GanttPRO either.) General Information Name: GanttPRO Vendor: DPM Solutions Hosting options: Online solution (desktop). The mobile app is available for iOS and Android. Languages: English, Russian, Spanish",
+      "titleJa": "GanttPRO レビュー + ミニチュートリアル",
+      "summaryJa": "ガントチャート機能と協業機能を備えたオンラインプロジェクト管理ツール「GanttPRO」の詳細レビュー。ファイル共有、エクスポート、リソース管理など、プロジェクト管理に必要な機能や利用環境についての実務的な評価を提供している。"
+    },
+    {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
       "title": "Just Looking",
@@ -160,6 +200,16 @@
       "excerpt": "In Looking Good, Testers! I made the case that testing is about looking and that delegating the looking to someone or something else involves a risk calculation: do you both understand the task the same way, is the third party likely to carry out the task in the way you requested, how easily can you check any results they give back, could they complement you in some way, how will you keep your knowledge and skills up to date if you don't do this task any more, how much does this task matter, how much do you care about any of that, ...? I didn't say anything there about selecting what to look a",
       "titleJa": "テスター自身が確認することの重要性",
       "summaryJa": "テストの本質は「確認する」ことであり、その役割を他者やツールに委譲する際には、理解の一致、実行の正確性、結果検証の容易性など複数のリスク要因を検討する必要があります。自動化やアウトソースの判断には、知識・スキルの維持や業務の重要度など多角的な視点が求められます。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Brain Sensei PMP Review [for 2026 exam]",
+      "url": "https://rebelsguidetopm.com/brain-sensei-review-pmp/",
+      "publishedAt": "2026-07-04T15:20:18.000Z",
+      "excerpt": "Are you looking for a creative way to motivate yourself to study for the Project Management Professional (PMP)® exam? I get it: finding the time to sit in front of your screen is tough but there are so many benefits to getting certified that you can’t put it off any longer. In this Brain Sensei review, I’ll share who Brain Sensei training is most appropriate for, what to expect, the cost, the pros and cons and all the features you get included. I’ve been working as a project manager for over 20 years (gulp) and I’ve spent a lot of time researching and using PMP training courses. I’ve tried all",
+      "titleJa": "Brain Sensei PMP試験対策レビュー【2026年試験対応】",
+      "summaryJa": "PMP資格試験の受験者向けにBrain Senseiの学習教材を実装的に評価。20年以上のプロジェクト管理経験を持つ著者が、対象者層、費用、メリット・デメリット、付属機能など包括的な情報を提示している。"
     },
     {
       "category": "PdM",
