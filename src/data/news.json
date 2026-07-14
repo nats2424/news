@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-14T01:18:30.476Z",
+  "updatedAt": "2026-07-14T07:44:57.714Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Der häufigste Fehler bei Produkt-Zielen Wie du mit KI bessere Produkt-Ziele formulierst, die nicht nur Features beschreiben, sondern die Unternehmensstrategie umsetzen",
+      "url": "https://www.scrum.org/resources/blog/der-haufigste-fehler-bei-produkt-zielen-wie-du-mit-ki-bessere-produkt-ziele-formulierst-die-nicht-nur-features-beschreiben-sondern-die-unternehmensstrategie-umsetzen",
+      "publishedAt": "2026-07-14T06:00:00.000Z",
+      "excerpt": "Betrachte diese Produktziele. Was fällt dir auf? „Wir bauen ein KI-gestütztes Help-Center.“ „Wir integrieren eine Chatbot-Funktion.“ „Wir erstellen ein neues Onboarding.“ Sie klingen konkret. Sie beschreiben Fortschritt. Sie klingen nach Erfolg. Allerdings verbergen sie ein Problem: Erinnere dich an Microsoft Office 97. Im Jahr 1997 erschien der Office-Assistent „Karl Klammer“. Wenn du dein Dokument mit „Sehr geehrte Damen und Herren“ begonnen hast, tauchte am unteren Bildschirmrand eine animierte Sprechblase auf. Sie hatte die Form einer Büroklammer mit Augen und bot dir ihre Hilfe an: „Ansch",
+      "titleJa": "プロダクト目標の最大の落とし穴 AIで戦略を実現する目標設定",
+      "summaryJa": "多くのプロダクト目標は機能の追加を述べるだけで、真の事業戦略と結びついていない。AIを活用した目標設定では、単なる機能実装ではなく、企業全体の戦略実現に貢献する目標の定義が重要であり、その違いがプロダクトの成功を左右する。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Explore vs. Exploit – ein kleines Spiel über zwei fundamentale Arbeitsmodi",
+      "url": "https://www.scrum.org/resources/blog/explore-vs-exploit-ein-kleines-spiel-uber-zwei-fundamentale-arbeitsmodi",
+      "publishedAt": "2026-07-14T05:53:04.000Z",
+      "excerpt": "Das Explore-vs-Exploit-Game Teilnehmer Das Spiel funktioniert gut mit 1 bis 8 Spielern pro Team. Bei größeren Gruppen bietet es sich an, mehrere Teams parallel spielen zu lassen. Gerade bei mehreren Teams entstehen interessante Dynamiken, weil die Teams anfangen, sich gegenseitig zu beobachten und ihre aktuelle Vorgehensweise hinterfragen, wenn sie im Rückstand sind. Jedes Team benötigt zusätzlich eine Person in der Rolle des Regelwächters. Diese Person kennt die geheimen Regeln des Spiels und führt nach jedem Zug bestimmte Aktionen aus. Teilnehmer können auch als Beobachter teilnehmen. Die Ro",
+      "titleJa": "探索 vs. 活用 - 2つの根本的な働き方を学ぶゲーム",
+      "summaryJa": "チームワークと意思決定スキルを高める協力ゲーム。1〜8人のチームで参加でき、複数チーム参加時はチーム間の相互観察から学習効果が高まる。秘密ルールを管理するファシリテーターが必要で、参加者は観察者としても学習できる。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -60,26 +80,6 @@
       "excerpt": "In this blog, I teach you how to build AI Agents using two powerful examples: 1- An AI Agent to collect user stories from supporting tickets (Video Tutorial) 2- An AI Agent to write release notes (Text Tutorial) When you learn the principles and main process, you can build whatever AI Agents you want. So, stay with me. 1- The AI Agent to collect user stories from supporting tickets 2- The AI Agent to write release notes Image Writing release notes is a repetitive task for Product Owners. Wouldn't it be great if we could delegate it to an AI Agent? Let’s take a look at how we can do just that. ",
       "titleJa": "AIエージェント構築のマスターガイド",
       "summaryJa": "本記事では、サポートチケットからユーザーストーリーを抽出するAIエージェントとリリースノートを自動生成するAIエージェントの2つの実践例を通じて、AIエージェント構築の原理と手法を解説します。これらの原則を習得することで、様々なタイプのAIエージェント構築が可能になります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "3 Workshop-Methoden: So gestaltest du das Ende deines Workshops so, dass es in Erinnerung bleibt",
-      "url": "https://www.scrum.org/resources/blog/3-workshop-methoden-so-gestaltest-du-das-ende-deines-workshops-so-dass-es-erinnerung-bleibt",
-      "publishedAt": "2026-07-13T05:15:00.000Z",
-      "excerpt": "3 Workshop-Methoden: So gestaltest du das Ende deines Workshops so, dass es in Erinnerung bleibt Denk einmal an den letzten Film, den du geschaut hast. Woran kannst du dich noch erinnern? Die Chancen stehen gut, dass es der Anfang oder das Ende war. Das ist nur natürlich. Denn unser Gehirn ist so gestrickt, dass es sich Anfang und Ende am wahrscheinlichsten merkt. Besonders dann, wenn es spannend, actionreich oder emotional ist. Diese Erkenntnis können wir auch für unsere Workshops nutzen. Heute werde ich dir drei Methoden zeigen, wie ich Workshops so beende, dass sie den Teilnehmenden noch la",
-      "titleJa": "ワークショップの印象的な終わり方：3つの実践的手法",
-      "summaryJa": "人間の脳は物事の始まりと終わりを最も記憶しやすい特性があります。本記事では、参加者に強く印象付けるワークショップの終わり方を実現するための3つのワークショップ手法を紹介し、ワークショップの成果を最大化する方法を解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You Already Have an AI Working Agreement. Write It Down.",
-      "url": "https://www.scrum.org/resources/blog/you-already-have-ai-working-agreement-write-it-down",
-      "publishedAt": "2026-07-12T14:28:57.000Z",
-      "excerpt": "TL;DR: The AI Working Agreement Your team already has rules for using AI. Some live in templates, some in habits, exceptions, and one person’s memory. The AI Working Agreement puts the decisions that matter in one place: what the team delegates to AI, what stays human, what must be reviewed, what never enters a model, who owns which workflow, and how the agreement changes. Write it, and a new colleague can read your team’s AI decisions on their first day, while the decisions stay when someone leaves. Image Thesis: Team-level AI governance fails more from uncodified judgment than from missing p",
-      "titleJa": "チームのAI利用ルールを文書化しよう",
-      "summaryJa": "チームは既にAI利用に関する暗黙的なルールを持っていますが、テンプレートや習慣、例外処理として散在しています。これらの決定を一箇所に文書化した「AI Working Agreement」を作成することで、何をAIに任せ、何を人間が担当するか、何をレビューするか、どのデータをモデルに入れないかなどを明確にできます。文書化により、新入メンバーがオンボーディング時に確認でき、人員異動があっても決定事項が継続されます。"
     },
     {
       "category": "PdM",
