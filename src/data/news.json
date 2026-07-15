@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-15T01:15:37.916Z",
+  "updatedAt": "2026-07-15T07:48:08.016Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How Should I Get the PSM-AIE Certificate? WITH or WITHOUT a Training Class?",
+      "url": "https://www.scrum.org/resources/blog/how-should-i-get-psm-aie-certificate-or-without-training-class",
+      "publishedAt": "2026-07-15T07:17:55.000Z",
+      "excerpt": "Since 1st June 2026, it has been possible to obtain the PSM-AIE certificate directly without attending its training class. What is the difference? What are the pros and cons? Image Scrum.org has two AI courses: Professional Scrum Master- AI Essentials (PSM-AIE) Professional Scrum Product Owner - AI Essentials (PSPO-AIE) In the past, you couldn’t get their certificate without participating in their training classes. But on 1st June 2026, this limit was removed. It means now you can take their exams directly to get the certificate without the need to participate in their training classes. The bi",
+      "titleJa": "PSM-AIE認定資格は研修あり・なしどちらで取得すべき？",
+      "summaryJa": "2026年6月1日からPSM-AIE認定資格を研修クラスなしで直接取得できるようになりました。従来は研修参加が必須でしたが、現在は試験に直接チャレンジして認定を目指せます。研修ありと研修なしの両経路の違いや利点・課題について解説しています。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -80,16 +90,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "🎙️ How I AI: GPT-5.6レビュー、ローカルAIを24時間運用するソロビルダーの秘訣、エージェントハーネスとは何か",
       "summaryJa": "「How I AI」ポッドキャストシリーズから、GPT-5.6のレビュー、個人開発者がローカルAIを継続的に運用する方法、そしてAIエージェントハーネスの構築方法について学べる内容です。プロダクトマネジャーやAI活用に興味のある方必聴の週次配信です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Spec-Driven Development Isn't Waterfall Unless You're Using It That Way",
-      "url": "https://www.scrum.org/resources/blog/spec-driven-development-isnt-waterfall-unless-youre-using-it-way-0",
-      "publishedAt": "2026-07-13T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Last summer, while I was vibe-coding my own scorecard app, I kept running into dead ends. Not dramatic ones — the annoying kind. I would get something working, then realize the path was wrong. Or the behavior was close but not quite right. Or I had built a capability that looked useful in isolation but did not actually help the overall product move forward. So I started thinking more up front. I used plan mode more. And eventually I started using spec-driven development more formally. Which raises the obvious question: did I just give up agility and go b",
-      "titleJa": "仕様駆動開発はウォーターフォールではない",
-      "summaryJa": "Spec-Driven Developmentを導入した開発者の実例を紹介。当初のアジャイル開発では要件の不明確さから手戻りが多発したため、計画段階での仕様定義をより厳密に行うことで、プロダクト全体の方向性を確認しながら開発を進める効果を解説しています。"
     },
     {
       "category": "PdM",
