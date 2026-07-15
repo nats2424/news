@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-14T18:59:53.253Z",
+  "updatedAt": "2026-07-15T01:15:37.916Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "How to Move from Prompt Engineering to Harness Engineering in Testing with Matt Wynne",
+      "url": "https://testguild.com/podcast/a596-matt/",
+      "publishedAt": "2026-07-14T21:39:06.000Z",
+      "excerpt": "About This Episode: Matt Wynne, co-creator of Cucumber and BDD practitioner, joins Joe for the first time in over a […]",
+      "titleJa": "テストにおけるプロンプトエンジニアリングからハーネスエンジニアリングへの移行（Matt Wynne氏出演）",
+      "summaryJa": "Cucumberの共同開発者でBDD実践者のMatt Wynne氏がゲスト出演。テスト領域におけるプロンプトエンジニアリングからハーネスエンジニアリングへの転換について、その必要性と実装方法を探る内容。AIの活用がテスト自動化にもたらす変化と、効果的なテスト戦略の進化について議論される。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -270,16 +280,6 @@
       "excerpt": "Disclosure: OctoPerf is a TestGuild sponsor. All opinions are my own. Here’s a pattern I’ve seen over and over again […]",
       "titleJa": "オープンソースから卒業したチームへ：LoadRunner対抗のJMeter代替案",
       "summaryJa": "OctoPerf提供。成長するチームが直面する課題—オープンソースの限界とLoadRunnerの高コスト問題。その中間に位置する負荷テスト・パフォーマンステストのソリューションを紹介します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "How to Test Any API Without Documentation with Liudas Jankauskas",
-      "url": "https://testguild.com/podcast/a594-liudas/",
-      "publishedAt": "2026-06-30T09:32:19.000Z",
-      "excerpt": "About This Episode: Most API testing stops at the happy path. The problem is that the bugs that actually hurt […]",
-      "titleJa": "ドキュメントなしでAPIテストを実施する方法",
-      "summaryJa": "API テストの多くはハッピーパスに留まるが、実際の問題は境界値や異常系で発生。Liudasが、ドキュメント不足の環境でも効果的にAPIテストを設計・実行する実践的なアプローチを説明します。"
     },
     {
       "category": "PdM",
