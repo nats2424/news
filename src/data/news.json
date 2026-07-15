@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-15T13:06:56.755Z",
+  "updatedAt": "2026-07-15T18:52:53.473Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Business Agility is About Something Beyond Sprints and “Stand-Ups”",
+      "url": "https://www.scrum.org/resources/blog/business-agility-about-something-beyond-sprints-and-stand-ups",
+      "publishedAt": "2026-07-15T17:29:01.000Z",
+      "excerpt": "Image As a Change professional specializing in Business Agility, Product Agility, and Coaching styles of leadership, I feel very passionate that we reflect on what Business and Product Agility really are. My concern is Agility has become so synonymous with Jira, Sprints, Stand-Ups (sic), that tick-box implementations of those have become acceptable shorthand for “Being Agile” — but often without any real shift in the mindset or systems by which decisions get made and work gets done. If we think Agility equals everyone working in Sprints, it’s only natural to also think that scaling Agility mea",
+      "titleJa": "ビジネスアジリティはスプリント以上の価値を持つ",
+      "summaryJa": "ビジネスアジリティは単なるJiraやスプリント、スタンドアップの導入ではなく、意思決定とワークフロー全体における根本的なマインドセットと仕組みの変革が必要である。多くの組織がアジャイル的な実装に満足しているが、真の組織的アジリティの実現には、より深い理解と実践が求められる。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -20,6 +30,16 @@
       "excerpt": "About This Episode: Matt Wynne, co-creator of Cucumber and BDD practitioner, joins Joe for the first time in over a […]",
       "titleJa": "テストにおけるプロンプトエンジニアリングからハーネスエンジニアリングへの移行（Matt Wynne氏出演）",
       "summaryJa": "Cucumberの共同開発者でBDD実践者のMatt Wynne氏がゲスト出演。テスト領域におけるプロンプトエンジニアリングからハーネスエンジニアリングへの転換について、その必要性と実装方法を探る内容。AIの活用がテスト自動化にもたらす変化と、効果的なテスト戦略の進化について議論される。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Team Isn't Bad at Estimating. Planning Is Just Harder Than We Admit",
+      "url": "https://www.scrum.org/resources/blog/your-team-isnt-bad-estimating-planning-just-harder-we-admit",
+      "publishedAt": "2026-07-14T16:35:18.000Z",
+      "excerpt": "Image Every organization has a version of the same conversation: a delivery date slips, and someone asks why the estimate was wrong. The unspoken assumption is that better estimators, more detailed plans, or stricter processes would have gotten it right. That assumption is comforting, but largely false. In 1979, Daniel Kahneman and Amos Tversky described what they called the planning fallacy. This is the tendency to predict task completion times that are far too optimistic, even when people know from experience that similar tasks have historically taken longer. What makes the planning fallacy ",
+      "titleJa": "見積もりが外れるのはチームのせいではない、計画の複雑さを見落としているだけ",
+      "summaryJa": "プロジェクトの納期遅延は見積もり精度よりも、人間が本質的に持つ「計画錯誤」によるところが大きい。1979年のカーネマンとトベルスキーの研究で示された計画錯誤は、過去の同様タスクが長くかかった経験を持ちながらも、過度に楽観的な完了予測をする傾向であり、プロセス改善だけでは解決できない。"
     },
     {
       "category": "PdM",
@@ -50,26 +70,6 @@
       "excerpt": "Image \"O dia em que crias um plano é o dia em que sabes menos.\" À primeira vista, esta frase parece contraditória. Afinal, fazemos planos precisamente porque procuramos reduzir a incerteza. Criamos roadmaps, planos de release, Sprint Backlogs, previsões e objetivos na esperança de nos guiarem até ao sucesso. Mas existe uma realidade incontornável. No momento em que terminas um plano, estás a baseá-lo apenas no conhecimento que tens nesse instante. Tudo o que acontece a seguir deveria aumentar esse conhecimento. A verdadeira questão não é: \"Estamos a seguir o plano?\" A verdadeira questão é: \"O ",
       "titleJa": "今日、何を学んだのか？――計画の落とし穴と継続的な学習",
       "summaryJa": "「計画を立てた日は、最も知識が少ない日」という一見矛盾した命題から出発し、Roadmap、Release計画、Sprint Backlogなどの策定時点では不確実性が高いことを指摘。計画遵守より「何を学んだか」という問い直しの重要性を強調するScrum的な思考。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Der häufigste Fehler bei Produkt-Zielen Wie du mit KI bessere Produkt-Ziele formulierst, die nicht nur Features beschreiben, sondern die Unternehmensstrategie umsetzen",
-      "url": "https://www.scrum.org/resources/blog/der-haufigste-fehler-bei-produkt-zielen-wie-du-mit-ki-bessere-produkt-ziele-formulierst-die-nicht-nur-features-beschreiben-sondern-die-unternehmensstrategie-umsetzen",
-      "publishedAt": "2026-07-14T06:00:00.000Z",
-      "excerpt": "Betrachte diese Produktziele. Was fällt dir auf? „Wir bauen ein KI-gestütztes Help-Center.“ „Wir integrieren eine Chatbot-Funktion.“ „Wir erstellen ein neues Onboarding.“ Sie klingen konkret. Sie beschreiben Fortschritt. Sie klingen nach Erfolg. Allerdings verbergen sie ein Problem: Erinnere dich an Microsoft Office 97. Im Jahr 1997 erschien der Office-Assistent „Karl Klammer“. Wenn du dein Dokument mit „Sehr geehrte Damen und Herren“ begonnen hast, tauchte am unteren Bildschirmrand eine animierte Sprechblase auf. Sie hatte die Form einer Büroklammer mit Augen und bot dir ihre Hilfe an: „Ansch",
-      "titleJa": "プロダクト目標の最大の落とし穴 AIで戦略を実現する目標設定",
-      "summaryJa": "多くのプロダクト目標は機能の追加を述べるだけで、真の事業戦略と結びついていない。AIを活用した目標設定では、単なる機能実装ではなく、企業全体の戦略実現に貢献する目標の定義が重要であり、その違いがプロダクトの成功を左右する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Explore vs. Exploit – ein kleines Spiel über zwei fundamentale Arbeitsmodi",
-      "url": "https://www.scrum.org/resources/blog/explore-vs-exploit-ein-kleines-spiel-uber-zwei-fundamentale-arbeitsmodi",
-      "publishedAt": "2026-07-14T05:53:04.000Z",
-      "excerpt": "Das Explore-vs-Exploit-Game Teilnehmer Das Spiel funktioniert gut mit 1 bis 8 Spielern pro Team. Bei größeren Gruppen bietet es sich an, mehrere Teams parallel spielen zu lassen. Gerade bei mehreren Teams entstehen interessante Dynamiken, weil die Teams anfangen, sich gegenseitig zu beobachten und ihre aktuelle Vorgehensweise hinterfragen, wenn sie im Rückstand sind. Jedes Team benötigt zusätzlich eine Person in der Rolle des Regelwächters. Diese Person kennt die geheimen Regeln des Spiels und führt nach jedem Zug bestimmte Aktionen aus. Teilnehmer können auch als Beobachter teilnehmen. Die Ro",
-      "titleJa": "探索 vs. 活用 - 2つの根本的な働き方を学ぶゲーム",
-      "summaryJa": "チームワークと意思決定スキルを高める協力ゲーム。1〜8人のチームで参加でき、複数チーム参加時はチーム間の相互観察から学習効果が高まる。秘密ルールを管理するファシリテーターが必要で、参加者は観察者としても学習できる。"
     },
     {
       "category": "PjM",
