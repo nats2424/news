@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-16T13:15:50.369Z",
+  "updatedAt": "2026-07-16T18:53:45.061Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Exploring the differences: Projects vs operations examples",
+      "url": "https://rebelsguidetopm.com/projects-vs-operations-examples/",
+      "publishedAt": "2026-07-16T16:10:55.000Z",
+      "excerpt": "Projects and operations are both necessary for businesses to succeed, but they require different approaches. When it comes to managing them effectively, understanding the differences between projects and operations is key. From examples of project activities in a business versus operational activities to strategies for balancing projects and operations simultaneously -- this article will help you understand the differences and consider the similarities. Projects vs operations The short answer to the question: “What’s the difference between projects and operations?” is this. Projects change the",
+      "titleJa": "プロジェクトと運用業務の違いを理解する",
+      "summaryJa": "ビジネス成功に必要なプロジェクトと運用業務は異なるアプローチが必要です。本記事では、プロジェクト活動と運用活動の具体例を通じて両者の相違点を解説し、同時に両者のバランスを取るための戦略を提示します。プロジェクトマネジメント実践のために両概念を正確に理解することが重要です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -210,16 +220,6 @@
       "excerpt": "In Looking Good, Testers! I made the case that testing is about looking and that delegating the looking to someone or something else involves a risk calculation: do you both understand the task the same way, is the third party likely to carry out the task in the way you requested, how easily can you check any results they give back, could they complement you in some way, how will you keep your knowledge and skills up to date if you don't do this task any more, how much does this task matter, how much do you care about any of that, ...? I didn't say anything there about selecting what to look a",
       "titleJa": "テスター自身が確認することの重要性",
       "summaryJa": "テストの本質は「確認する」ことであり、その役割を他者やツールに委譲する際には、理解の一致、実行の正確性、結果検証の容易性など複数のリスク要因を検討する必要があります。自動化やアウトソースの判断には、知識・スキルの維持や業務の重要度など多角的な視点が求められます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Brain Sensei PMP Review [for 2026 exam]",
-      "url": "https://rebelsguidetopm.com/brain-sensei-review-pmp/",
-      "publishedAt": "2026-07-04T15:20:18.000Z",
-      "excerpt": "Are you looking for a creative way to motivate yourself to study for the Project Management Professional (PMP)® exam? I get it: finding the time to sit in front of your screen is tough but there are so many benefits to getting certified that you can’t put it off any longer. In this Brain Sensei review, I’ll share who Brain Sensei training is most appropriate for, what to expect, the cost, the pros and cons and all the features you get included. I’ve been working as a project manager for over 20 years (gulp) and I’ve spent a lot of time researching and using PMP training courses. I’ve tried all",
-      "titleJa": "Brain Sensei PMP試験対策レビュー【2026年試験対応】",
-      "summaryJa": "PMP資格試験の受験者向けにBrain Senseiの学習教材を実装的に評価。20年以上のプロジェクト管理経験を持つ著者が、対象者層、費用、メリット・デメリット、付属機能など包括的な情報を提示している。"
     },
     {
       "category": "PdM",
