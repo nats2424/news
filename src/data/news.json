@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-16T01:25:09.424Z",
+  "updatedAt": "2026-07-16T07:53:25.988Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Sie haben bereits eine KI-Arbeitsvereinbarung. Schreiben Sie sie auf. 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/sie-haben-bereits-eine-ki-arbeitsvereinbarung-schreiben-sie-sie-auf",
+      "publishedAt": "2026-07-16T03:23:36.000Z",
+      "excerpt": "In Kürze: Die KI-Arbeitsvereinbarung Ihr Team hat bereits Regeln für den Einsatz von KI. Manche stecken in Vorlagen, manche in Gewohnheiten, in Ausnahmen und im Gedächtnis einer einzelnen Person. Die KI-Arbeitsvereinbarung führt die Entscheidungen, auf die es ankommt, an einem Ort zusammen: Was das Team an eine KI delegiert, was in menschlicher Hand bleibt, was überprüft werden muss, was niemals in ein Modell gelangt, wer für welchen Workflow verantwortlich ist und wie sich die Vereinbarung ändert. Schreiben Sie sie auf, und ein neues Teammitglied kann die KI-Entscheidungen Ihres Teams schon a",
+      "titleJa": "AIの使用ルールを明文化しよう",
+      "summaryJa": "チームはすでにAIの使用に関する暗黙のルールを持っていますが、これらをドキュメント化する「AI作業合意書」の重要性を解説します。どのタスクをAIに委譲し、どの部分は人間が担当するか、何を検証する必要があるか、禁止事項、責任者、変更プロセスなどを一つの場所にまとめることで、チーム全体が共通の理解を持つことができます。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +70,6 @@
       "excerpt": "Image Digital AI’s annual State of Agile report is a survey which has global participation from small, medium-sized and large companies. It asks questions such as what Agile frameworks are being used, and what are the biggest problems Agile teams face. But one of the most interesting questions - to me - that they ask is this: Why are you using Agile? In almost every single one of those years the number one answer has been SPEED. But why? After all, Agile teams don’t code any faster than traditional teams. No, Agile doesn't covey any magical powers, but the way we work in Agile is different. Th",
       "titleJa": "インクリメンタル・デリバリーとスピードへの要求",
       "summaryJa": "Digital AIのAgile調査では、世界中の企業がAgile導入の理由として「スピード」を最多回答としている。Agileチームが従来チームより速くコーディングできるわけではないが、Agileの作業方法が異なることで、組織全体の納期短縮を実現する仕組みについて解説している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "O que aprendeste hoje?",
-      "url": "https://www.scrum.org/resources/blog/o-que-aprendeste-hoje",
-      "publishedAt": "2026-07-14T09:09:09.000Z",
-      "excerpt": "Image \"O dia em que crias um plano é o dia em que sabes menos.\" À primeira vista, esta frase parece contraditória. Afinal, fazemos planos precisamente porque procuramos reduzir a incerteza. Criamos roadmaps, planos de release, Sprint Backlogs, previsões e objetivos na esperança de nos guiarem até ao sucesso. Mas existe uma realidade incontornável. No momento em que terminas um plano, estás a baseá-lo apenas no conhecimento que tens nesse instante. Tudo o que acontece a seguir deveria aumentar esse conhecimento. A verdadeira questão não é: \"Estamos a seguir o plano?\" A verdadeira questão é: \"O ",
-      "titleJa": "今日、何を学んだのか？――計画の落とし穴と継続的な学習",
-      "summaryJa": "「計画を立てた日は、最も知識が少ない日」という一見矛盾した命題から出発し、Roadmap、Release計画、Sprint Backlogなどの策定時点では不確実性が高いことを指摘。計画遵守より「何を学んだか」という問い直しの重要性を強調するScrum的な思考。"
     },
     {
       "category": "PjM",
