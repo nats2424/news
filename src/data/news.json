@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T07:53:25.988Z",
+  "updatedAt": "2026-07-16T13:15:50.369Z",
   "items": [
     {
       "category": "PjM",
@@ -290,16 +290,6 @@
       "excerpt": "In this episode, Jay Stansell interviews Saurabh Sharma, a product leader with extensive experience at Google and u.com, exploring how enterprise AI products are transforming product management, user engagement, and agent management. Discover insights on building primitives, managing evolving roadmaps, and the future of AI-driven workflows.",
       "titleJa": "ユーザーがビルダーになる時代のプロダクト管理",
       "summaryJa": "GoogleやUber経験者のプロダクトリーダーが、エンタープライズAI製品がプロダクトマネジメント・ユーザーエンゲージメント・エージェント管理をいかに変革しているか解説。プリミティブ構築、ロードマップの進化、AI駆動ワークフロー構築の知見を共有。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The Hidden Tax on Every Product Decision",
-      "url": "https://www.productcoalition.com/p/the-fine-print-that-cost-a-fortune",
-      "publishedAt": "2026-06-25T09:30:53.000Z",
-      "excerpt": "Every Product Team Knows the Cost of Building. Almost None Know the Cost of Getting It Wrong.",
-      "titleJa": "プロダクト判断に隠れたコスト",
-      "summaryJa": "すべてのプロダクトチームは構築コストを認識していますが、失敗時のコストは把握していない実態を指摘。プロダクト決定における真のコスト構造と影響を深掘りし、より良い意思決定への道筋を提示します。"
     }
   ]
 }
