@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-17T07:50:09.516Z",
+  "updatedAt": "2026-07-17T13:00:29.176Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP107 From Founder to VP: What Changes About Product Judgment at Scale",
+      "url": "https://www.productcoalition.com/p/ep107-from-founder-to-vp-what-changes",
+      "publishedAt": "2026-07-17T09:00:37.000Z",
+      "excerpt": "Summary",
+      "titleJa": "創業者からVPへ：スケール段階でのプロダクト判断の変化",
+      "summaryJa": "創業者からVP（VP）へのキャリア進化に伴い、プロダクト判断にどのような変化が生じるかについて解説しています。組織の成長に応じた意思決定プロセス、チーム編成、戦略的優先順位付けの変動を扱う、プロダクトマネジメント領域での重要なテーマです。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -280,16 +290,6 @@
       "excerpt": "Disclosure: OctoPerf is a TestGuild sponsor. All opinions are my own. Here’s a pattern I’ve seen over and over again […]",
       "titleJa": "オープンソースから卒業したチームへ：LoadRunner対抗のJMeter代替案",
       "summaryJa": "OctoPerf提供。成長するチームが直面する課題—オープンソースの限界とLoadRunnerの高コスト問題。その中間に位置する負荷テスト・パフォーマンステストのソリューションを紹介します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP105 What happens when your users become the builders?",
-      "url": "https://www.productcoalition.com/p/ep105-what-happens-when-your-users",
-      "publishedAt": "2026-06-26T09:00:57.000Z",
-      "excerpt": "In this episode, Jay Stansell interviews Saurabh Sharma, a product leader with extensive experience at Google and u.com, exploring how enterprise AI products are transforming product management, user engagement, and agent management. Discover insights on building primitives, managing evolving roadmaps, and the future of AI-driven workflows.",
-      "titleJa": "ユーザーがビルダーになる時代のプロダクト管理",
-      "summaryJa": "GoogleやUber経験者のプロダクトリーダーが、エンタープライズAI製品がプロダクトマネジメント・ユーザーエンゲージメント・エージェント管理をいかに変革しているか解説。プリミティブ構築、ロードマップの進化、AI駆動ワークフロー構築の知見を共有。"
     }
   ]
 }
