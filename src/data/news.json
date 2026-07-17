@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-16T18:53:45.061Z",
+  "updatedAt": "2026-07-17T01:28:14.386Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your people stopped telling you the truth. You trained them to.",
+      "url": "https://www.scrum.org/resources/blog/your-people-stopped-telling-you-truth-you-trained-them",
+      "publishedAt": "2026-07-16T22:00:00.000Z",
+      "excerpt": "The outage lasted four hours. The review that followed lasted one, and within the first ten minutes it had quietly stopped being about the outage. It had become about who. Whose change went out on Friday. Who approved it. Who was on call and missed it. By the time the meeting wrapped there was a name, a sheepish apology, and a new rule about Friday deploys. Nobody asked why one person's mistake could take the whole thing down for four hours, because asking that would have led somewhere nobody in the room wanted to go. Upward. Everyone left having learned something. Not about the system. About ",
+      "titleJa": "チーム内に沈黙の文化を作ってしまう落とし穴",
+      "summaryJa": "障害が発生した際の事後検討で、システムの問題点を追求せず個人の責任追及に終始してしまう傾向について述べられています。組織が部下からの報告を阻害するメカニズムと、心理的安全性を損なう危険性が指摘されており、プロジェクト管理やチーム運営における重要な教訓が含まれています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -70,16 +80,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got behavioral analytics, support tickets, sales call notes, and a feedback inbox that never empties. With all that data coming in, do product teams actually still need to go out and talk to users? In this episode, Petra Wille",
       "titleJa": "エビデンスの質――プロダクト開発における定量・定性データの使い分け",
       "summaryJa": "行動分析、サポートチケット、営業記録、フィードバックなど豊富なデータがある現代、プロダクトチームは本当にユーザーインタビューが必要なのか。Teresa TorresとPetra Willeが、データドリブン意思決定におけるエビデンスの質の重要性について議論するポッドキャスト。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Incremental Delivery and the Need for Speed",
-      "url": "https://www.scrum.org/resources/blog/incremental-delivery-and-need-speed",
-      "publishedAt": "2026-07-14T13:00:00.000Z",
-      "excerpt": "Image Digital AI’s annual State of Agile report is a survey which has global participation from small, medium-sized and large companies. It asks questions such as what Agile frameworks are being used, and what are the biggest problems Agile teams face. But one of the most interesting questions - to me - that they ask is this: Why are you using Agile? In almost every single one of those years the number one answer has been SPEED. But why? After all, Agile teams don’t code any faster than traditional teams. No, Agile doesn't covey any magical powers, but the way we work in Agile is different. Th",
-      "titleJa": "インクリメンタル・デリバリーとスピードへの要求",
-      "summaryJa": "Digital AIのAgile調査では、世界中の企業がAgile導入の理由として「スピード」を最多回答としている。Agileチームが従来チームより速くコーディングできるわけではないが、Agileの作業方法が異なることで、組織全体の納期短縮を実現する仕組みについて解説している。"
     },
     {
       "category": "PjM",
