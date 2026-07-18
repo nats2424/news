@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-18T12:46:24.254Z",
+  "updatedAt": "2026-07-18T18:44:11.817Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
+      "publishedAt": "2026-07-18T17:04:04.000Z",
+      "excerpt": "Community Wisdom 194",
+      "titleJa": "🧠 コミュニティの知恵：Claude CodeとClaude Designの連携、顧客の不信を払拭する信頼構築、共同創業者との決裂教訓ほか",
+      "summaryJa": "Lennyのニュースレターのコミュニティウィズダム194号。Claude CodeやClaude Designなどのツール連携、AIツールで自動生成されたコードに対する顧客信頼の醸成方法、共同創業者との関係管理における教訓、個人向けCRMツールなど、プロダクトマネジメントと事業運営に関する実践的な知見が取り上げられている。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -140,16 +150,6 @@
       "excerpt": "Community Wisdom 193",
       "titleJa": "コミュニティの知恵：ネガティブネットワーク効果、過度な自信を持つ同僚の管理、設計決定を迂回する開発者への対処など",
       "summaryJa": "Lennyのニュースレター発行の「コミュニティの知恵」セッション。ネガティブネットワーク効果への対策、自信過剰なチームメンバーのマネジメント、設計プロセスの軽視への対処、ステークホルダー会議の効果的な進行管理など、プロダクトマネージャーが直面する実践的な課題と解決策をコミュニティの経験から集約した内容。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "GPT-5.6 Sol vs. Claude Fable: Why OpenAI’s new model crushes my benchmark",
-      "url": "https://www.lennysnewsletter.com/p/gpt-56-sol-vs-claude-fable-why-openais",
-      "publishedAt": "2026-07-09T17:33:57.000Z",
-      "excerpt": "Watch now | 🎙️GPT 5.6-Sol beats Fable on prototypes, PRDs, and browser use in my 5-category How I AI benchmark, and here's exactly where each model earns its spot.",
-      "titleJa": "GPT-5.6 SolはClaude Fableを上回る—OpenAIの新モデルがベンチマークで優勝",
-      "summaryJa": "OpenAIの新モデルGPT-5.6 SolがClaude Fableを、プロトタイプ作成、PRD作成、ブラウザ使用の複数のカテゴリーで上回ったベンチマーク結果が報告されている。各モデルの得意領域と性能の差分が詳細に検証されている。"
     },
     {
       "category": "PdM",
