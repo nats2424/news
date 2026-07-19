@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-19T07:56:05.455Z",
+  "updatedAt": "2026-07-19T12:49:32.940Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
+      "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
+      "publishedAt": "2026-07-19T12:31:21.000Z",
+      "excerpt": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
+      "titleJa": "Netflix CTPOが語るAI時代のプロダクト・テック職の未来",
+      "summaryJa": "NetflixのCPTO（最高プロダクト・テクノロジー責任者）であるエリザベス・ストーンが、AI時代におけるプロダクトチームの管理、システム思考の重要性の高まり、そして卓越性をオペレーティングシステムとして組織に組み込む方法について述べた対談記事です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -140,16 +150,6 @@
       "excerpt": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
       "titleJa": "2026年、テック業界のAI受け止め方とは | 年次AI感情調査",
       "summaryJa": "テック業界の労働者の間で二極化が進んでいる状況を調査。半数は繁栄しているものの、もう半数は苦境に陥っており、バーンアウトは過去最高水準に達している。AI導入によるテック業界のワークフォースへの影響を包括的に分析している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Negative network effects, managing overconfident colleagues, developers sidestepping design decisions, keeping stakeholder meetings on track, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negative-network",
-      "publishedAt": "2026-07-11T16:40:58.000Z",
-      "excerpt": "Community Wisdom 193",
-      "titleJa": "コミュニティの知恵：ネガティブネットワーク効果、過度な自信を持つ同僚の管理、設計決定を迂回する開発者への対処など",
-      "summaryJa": "Lennyのニュースレター発行の「コミュニティの知恵」セッション。ネガティブネットワーク効果への対策、自信過剰なチームメンバーのマネジメント、設計プロセスの軽視への対処、ステークホルダー会議の効果的な進行管理など、プロダクトマネージャーが直面する実践的な課題と解決策をコミュニティの経験から集約した内容。"
     },
     {
       "category": "PdM",
