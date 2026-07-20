@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-20T08:36:24.840Z",
+  "updatedAt": "2026-07-20T13:45:25.876Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "No Manager in Scrum?",
+      "url": "https://www.scrum.org/resources/blog/no-manager-scrum",
+      "publishedAt": "2026-07-20T13:00:00.000Z",
+      "excerpt": "Image When leaders first hear that Scrum teams are self-managing, I don’t blame them for immediately fearing for their jobs. It can sound a little scary. But when we say that Scrum teams are self-managing, we don’t mean that they don’t have a reporting structure or that leadership is not necessary. In fact, the best Scrum teams that I have ever worked with were supported by outstanding leaders. The role of the leader in Scrum is to be a true leader - not a micromanager. When we say that Scrum teams are self-managing, we don’t mean that leadership needs to be fired. Instead, what we are saying ",
+      "titleJa": "Scrumにマネージャーは必要ないのか",
+      "summaryJa": "Scrumチームの自己管理性について誤解を招きやすいが、実際には報告体制やリーダーシップは必要であり、最高のチームはマネジメント干渉ではなく真のリーダーシップに支えられていることを説明しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Cognitive Trap: Velocity Misinterpretation",
+      "url": "https://www.scrum.org/resources/blog/cognitive-trap-velocity-misinterpretation",
+      "publishedAt": "2026-07-20T12:34:49.000Z",
+      "excerpt": "The Velocity Misinterpretation Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, the Velocity Misinterpretation Trap: treating velocity as an accurate forecast that is stable. Velocity gets treated like a measure of productivity or performance. It’s not. It’s just a rough guide for how much work a team might take into a Sprint based on what t",
+      "titleJa": "認知的罠：ベロシティの誤解",
+      "summaryJa": "Scrumチームが陥りやすい認知的罠の一つとして、ベロシティを安定した精密な予測と見なす誤りを指摘。ベロシティは生産性の指標ではなく、スプリント計画の参考値に過ぎないことを強調しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
+      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
+      "publishedAt": "2026-07-20T12:04:47.000Z",
+      "excerpt": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
+      "titleJa": "Morning Brewの創業者が構築したClaudeコンテンツ生成システムの仕組み",
+      "summaryJa": "Alex Liebermanが開発したClaudeワークフローは、執筆前に本人へのインタビュー、Markdownでの音声コード化、投稿前の6ペルソナによる修正ループを実行し、質の高いコンテンツを継続的に生成する仕組みを紹介しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -72,26 +102,6 @@
       "summaryJa": "チームはすでにAIの使用に関する暗黙のルールを持っていますが、これらをドキュメント化する「AI作業合意書」の重要性を解説します。どのタスクをAIに委譲し、どの部分は人間が担当するか、何を検証する必要があるか、禁止事項、責任者、変更プロセスなどを一つの場所にまとめることで、チーム全体が共通の理解を持つことができます。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Business Agility is About Something Beyond Sprints and “Stand-Ups”",
-      "url": "https://www.scrum.org/resources/blog/business-agility-about-something-beyond-sprints-and-stand-ups",
-      "publishedAt": "2026-07-15T17:29:01.000Z",
-      "excerpt": "Image As a Change professional specializing in Business Agility, Product Agility, and Coaching styles of leadership, I feel very passionate that we reflect on what Business and Product Agility really are. My concern is Agility has become so synonymous with Jira, Sprints, Stand-Ups (sic), that tick-box implementations of those have become acceptable shorthand for “Being Agile” — but often without any real shift in the mindset or systems by which decisions get made and work gets done. If we think Agility equals everyone working in Sprints, it’s only natural to also think that scaling Agility mea",
-      "titleJa": "ビジネスアジリティはスプリント以上の価値を持つ",
-      "summaryJa": "ビジネスアジリティは単なるJiraやスプリント、スタンドアップの導入ではなく、意思決定とワークフロー全体における根本的なマインドセットと仕組みの変革が必要である。多くの組織がアジャイル的な実装に満足しているが、真の組織的アジリティの実現には、より深い理解と実践が求められる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How Should I Get the PSM-AIE Certificate? WITH or WITHOUT a Training Class?",
-      "url": "https://www.scrum.org/resources/blog/how-should-i-get-psm-aie-certificate-or-without-training-class",
-      "publishedAt": "2026-07-15T07:17:55.000Z",
-      "excerpt": "Since 1st June 2026, it has been possible to obtain the PSM-AIE certificate directly without attending its training class. What is the difference? What are the pros and cons? Image Scrum.org has two AI courses: Professional Scrum Master- AI Essentials (PSM-AIE) Professional Scrum Product Owner - AI Essentials (PSPO-AIE) In the past, you couldn’t get their certificate without participating in their training classes. But on 1st June 2026, this limit was removed. It means now you can take their exams directly to get the certificate without the need to participate in their training classes. The bi",
-      "titleJa": "PSM-AIE認定資格は研修あり・なしどちらで取得すべき？",
-      "summaryJa": "2026年6月1日からPSM-AIE認定資格を研修クラスなしで直接取得できるようになりました。従来は研修参加が必須でしたが、現在は試験に直接チャレンジして認定を目指せます。研修ありと研修なしの両経路の違いや利点・課題について解説しています。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "How to Move from Prompt Engineering to Harness Engineering in Testing with Matt Wynne",
@@ -140,16 +150,6 @@
       "excerpt": "Watch now | 🎙️ Alex Finn breaks down his five-computer local AI setup, the Claude Code build-and-review loop that ships features while he sleeps, and why unlimited local intelligence beats a $20 subscription",
       "titleJa": "ソロ開発者が24時間稼働するローカルAIで製品開発を自動化",
       "summaryJa": "Alex Finnが5台のコンピュータで構築したローカルAI環境と、Claude Codeを使ったビルド・レビュー自動化ループについて解説。月額$20のサブスクリプション不要で、無制限のローカルAI処理により、開発者が睡眠中も機能をデリバリーし続ける仕組みを紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How tech workers actually feel about AI in 2026 | Annual AI sentiment survey (Noam Segal)",
-      "url": "https://www.lennysnewsletter.com/p/how-tech-workers-actually-feel-about",
-      "publishedAt": "2026-07-12T12:32:14.000Z",
-      "excerpt": "Listen now | The great tech bifurcation: half the workforce is thriving, half is struggling, and burnout just hit a record high",
-      "titleJa": "2026年、テック業界のAI受け止め方とは | 年次AI感情調査",
-      "summaryJa": "テック業界の労働者の間で二極化が進んでいる状況を調査。半数は繁栄しているものの、もう半数は苦境に陥っており、バーンアウトは過去最高水準に達している。AI導入によるテック業界のワークフォースへの影響を包括的に分析している。"
     },
     {
       "category": "PdM",
