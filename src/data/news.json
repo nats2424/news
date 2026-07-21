@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-20T19:23:11.341Z",
+  "updatedAt": "2026-07-21T01:25:29.911Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Testing AI, Duplicate Test Detection, and the Death of Cucumber TGNS190",
+      "url": "https://testguild.com/podcast/n190-jul20/",
+      "publishedAt": "2026-07-20T20:00:36.000Z",
+      "excerpt": "About This Episode: Is your test suite quietly billing you every single time it runs? Your agent wrote 30 new […]",
+      "titleJa": "AI テスト・重複テスト検出・Cucumber の終焉 TGNS190",
+      "summaryJa": "テスト実行のたびに隠れたコストが発生していないか、AIが生成した30個の新しいテストについて、重複検出とテスト効率化の課題を探る。テストスイートの最適化とCucumberフレームワークの将来性について議論するエピソード。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -252,6 +262,16 @@
       "summaryJa": "「エージェンティックテスト」を謳うツールが増えているが、その実態について検証する記事。実際のツール比較を通じて、真のエージェンティック機能と見せかけの実装の違いを明確にします。"
     },
     {
+      "category": "PdM",
+      "sourceName": "Silicon Valley Product Group",
+      "title": "Great Products, Bad Companies",
+      "url": "https://www.svpg.com/great-products-bad-companies/",
+      "publishedAt": "2026-06-30T23:09:59.000Z",
+      "excerpt": "I have long argued that great products are what powers great companies. And while I still believe that great products are necessary for great companies, it’s become quite clear over the years that great products are not sufficient. In fact, as counter-intuitive as this sounds, I have seen too many examples where great products can... The post Great Products, Bad Companies appeared first on Silicon Valley Product Group.",
+      "titleJa": "優れた製品と企業の課題",
+      "summaryJa": "優れた製品が企業成長に不可欠だが、十分条件ではないことを論述。実際に優れた製品を持ちながら経営が失敗する企業の事例を通じ、製品の質だけでなく組織運営が企業成功に同等に重要であることを主張する。"
+    },
+    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "13 Best MCP Servers for Test Automation in 2026",
@@ -270,16 +290,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Think you don't have big enough problems for AI to help with? Think again. In this episode, Petra and Teresa tackle one of the most common blockers people face when starting out with AI: not knowing where to begin. It&",
       "titleJa": "AIが解くべき問題の見つけ方：すべてのプロダクトポッドキャスト",
       "summaryJa": "AI導入時に最初の課題は「何を解くのか」という問題設定にあると指摘。プロダクト開発者がAIを有効活用するための問題定義プロセスと、よくある初期段階のブロッカーを解消するための具体的アプローチを解説している。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "The JMeter Alternative for Teams Who’ve Outgrown Open Source But Can’t Stomach LoadRunner Prices",
-      "url": "https://testguild.com/jmeter-alternative-octoperf/",
-      "publishedAt": "2026-06-30T10:42:15.000Z",
-      "excerpt": "Disclosure: OctoPerf is a TestGuild sponsor. All opinions are my own. Here’s a pattern I’ve seen over and over again […]",
-      "titleJa": "オープンソースから卒業したチームへ：LoadRunner対抗のJMeter代替案",
-      "summaryJa": "OctoPerf提供。成長するチームが直面する課題—オープンソースの限界とLoadRunnerの高コスト問題。その中間に位置する負荷テスト・パフォーマンステストのソリューションを紹介します。"
     }
   ]
 }
