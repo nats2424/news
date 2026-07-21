@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-21T08:05:43.587Z",
+  "updatedAt": "2026-07-21T13:12:59.848Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Why a sabbatical can change everything",
+      "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
+      "publishedAt": "2026-07-21T12:45:10.000Z",
+      "excerpt": "How to take Big Time Off",
+      "titleJa": "サバティカルが人生を変える理由",
+      "summaryJa": "長期休暇(サバティカル)の取得方法とその効果について解説する記事。キャリアや人生に大きな変化をもたらす可能性のある、まとまった時間の休暇の活用方法や意義を探ります。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Interview Agent for Scrum Master and Product Owner Readiness",
+      "url": "https://www.scrum.org/resources/blog/ai-interview-agent-scrum-master-and-product-owner-readiness",
+      "publishedAt": "2026-07-21T09:45:26.000Z",
+      "excerpt": "Image Static interview preparation - a list of questions, a mirror, a memorised Scrum Guide - has a hard ceiling: nothing pushes back. Real panels do. To study that gap, we have developed an autonomous AI agent that conducts adaptive mock interviews for Scrum Master and Product Owner candidates. What it taught us is more interesting than the tool itself: the way an AI interviewer behaves exposes exactly where candidates confuse knowing Scrum with practising it. This article walks through how such an agent works, what it probes for each accountability, and why practising against one trains the ",
+      "titleJa": "スクラムマスター・プロダクトオーナー対応のAI面接エージェント",
+      "summaryJa": "スクラムマスターおよびプロダクトオーナー候補者向けの適応型AI面接ツールについて紹介。従来の静的な面接準備とは異なり、AIが双方向の対話を通じて候補者の実践的スクラム理解度を明らかにし、各職務の要件に対する準備状況を評価する仕組みを解説しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -70,16 +90,6 @@
       "excerpt": "Image When leaders first hear that Scrum teams are self-managing, I don’t blame them for immediately fearing for their jobs. It can sound a little scary. But when we say that Scrum teams are self-managing, we don’t mean that they don’t have a reporting structure or that leadership is not necessary. In fact, the best Scrum teams that I have ever worked with were supported by outstanding leaders. The role of the leader in Scrum is to be a true leader - not a micromanager. When we say that Scrum teams are self-managing, we don’t mean that leadership needs to be fired. Instead, what we are saying ",
       "titleJa": "Scrumにマネージャーは必要ないのか",
       "summaryJa": "Scrumチームの自己管理性について誤解を招きやすいが、実際には報告体制やリーダーシップは必要であり、最高のチームはマネジメント干渉ではなく真のリーダーシップに支えられていることを説明しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Cognitive Trap: Velocity Misinterpretation",
-      "url": "https://www.scrum.org/resources/blog/cognitive-trap-velocity-misinterpretation",
-      "publishedAt": "2026-07-20T12:34:49.000Z",
-      "excerpt": "The Velocity Misinterpretation Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, the Velocity Misinterpretation Trap: treating velocity as an accurate forecast that is stable. Velocity gets treated like a measure of productivity or performance. It’s not. It’s just a rough guide for how much work a team might take into a Sprint based on what t",
-      "titleJa": "認知的罠：ベロシティの誤解",
-      "summaryJa": "Scrumチームが陥りやすい認知的罠の一つとして、ベロシティを安定した精密な予測と見なす誤りを指摘。ベロシティは生産性の指標ではなく、スプリント計画の参考値に過ぎないことを強調しています。"
     },
     {
       "category": "PdM",
@@ -160,16 +170,6 @@
       "excerpt": "I’ve long used products from Cornelius Fichtner of The Project Management PrepCast fame for my own professional development. But I also know the team behind Brain Sensei. So how does Brain Sensei compare to the PM PrepCast? That’s what we’re covering in this article. I’ve used them both, I’ve had conversations with both teams, and over the year’s I’ve come to appreciate what they are both good at. Let’s do the comparison of their PMP training! Packages For a start, both companies offer Project Management Professional (PMP)® training. Brain Sensei offers: A self-paced PMP prep course that inclu",
       "titleJa": "Brain SenseiとPM PrepCastの比較検討",
       "summaryJa": "PMP資格取得の学習教材として知られるBrain SenseiとPM PrepCastの両方を実際に使用した著者が、パッケージ内容や機能、サポート体制などを詳細に比較。プロジェクト管理専門家認定試験対策教材の選択判断に役立つ情報を提供している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: GPT-5.6 review, How a solo builder runs 24/7 local AI, and What an agent harness is and how to build one",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-56-review-how-a-solo",
-      "publishedAt": "2026-07-13T15:02:17.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "🎙️ How I AI: GPT-5.6レビュー、ローカルAIを24時間運用するソロビルダーの秘訣、エージェントハーネスとは何か",
-      "summaryJa": "「How I AI」ポッドキャストシリーズから、GPT-5.6のレビュー、個人開発者がローカルAIを継続的に運用する方法、そしてAIエージェントハーネスの構築方法について学べる内容です。プロダクトマネジャーやAI活用に興味のある方必聴の週次配信です。"
     },
     {
       "category": "PdM",
@@ -280,16 +280,6 @@
       "excerpt": "What is Model Context Protocol (MCP) Model Context Protocol (MCP) is an open standard that lets AI agents — Cursor, […]",
       "titleJa": "2026年のテスト自動化に最適なMCPサーバー13選",
       "summaryJa": "Model Context Protocol（MCP）はAIエージェントを統合するオープン標準。テスト自動化分野で活用できるMCPサーバーを13個紹介し、各サーバーの特徴と活用シーンを解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "AI-Shaped Problems - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/ai-shaped-problems-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-06-30T13:00:17.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Think you don't have big enough problems for AI to help with? Think again. In this episode, Petra and Teresa tackle one of the most common blockers people face when starting out with AI: not knowing where to begin. It&",
-      "titleJa": "AIが解くべき問題の見つけ方：すべてのプロダクトポッドキャスト",
-      "summaryJa": "AI導入時に最初の課題は「何を解くのか」という問題設定にあると指摘。プロダクト開発者がAIを有効活用するための問題定義プロセスと、よくある初期段階のブロッカーを解消するための具体的アプローチを解説している。"
     }
   ]
 }
