@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T13:12:59.848Z",
+  "updatedAt": "2026-07-21T19:01:37.314Z",
   "items": [
     {
       "category": "PdM",
@@ -270,16 +270,6 @@
       "excerpt": "I have long argued that great products are what powers great companies. And while I still believe that great products are necessary for great companies, it’s become quite clear over the years that great products are not sufficient. In fact, as counter-intuitive as this sounds, I have seen too many examples where great products can... The post Great Products, Bad Companies appeared first on Silicon Valley Product Group.",
       "titleJa": "優れた製品と企業の課題",
       "summaryJa": "優れた製品が企業成長に不可欠だが、十分条件ではないことを論述。実際に優れた製品を持ちながら経営が失敗する企業の事例を通じ、製品の質だけでなく組織運営が企業成功に同等に重要であることを主張する。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "13 Best MCP Servers for Test Automation in 2026",
-      "url": "https://testguild.com/top-model-context-protocols-mcp/",
-      "publishedAt": "2026-06-30T13:50:06.000Z",
-      "excerpt": "What is Model Context Protocol (MCP) Model Context Protocol (MCP) is an open standard that lets AI agents — Cursor, […]",
-      "titleJa": "2026年のテスト自動化に最適なMCPサーバー13選",
-      "summaryJa": "Model Context Protocol（MCP）はAIエージェントを統合するオープン標準。テスト自動化分野で活用できるMCPサーバーを13個紹介し、各サーバーの特徴と活用シーンを解説します。"
     }
   ]
 }
