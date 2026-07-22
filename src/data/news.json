@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-22T13:18:38.740Z",
+  "updatedAt": "2026-07-22T18:55:20.366Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "Better Isolate Than Never",
+      "url": "https://qahiccupps.blogspot.com/2026/07/better-isolate-than-never.html",
+      "publishedAt": "2026-07-22T16:38:41.000Z",
+      "excerpt": "How do you test a product with distributed logic and non-deterministic components? Well, it depends on the product and when the question is asked. This post is one answer, for now. A service I work on exposes an API for internal and external clients and calls multiple other services. It orchestrates a reasonably complex journey for a user, with their inputs and the responses of the services determining each step. Our customers can configure the service to provide a variant of the standard journey for their users. This gives them choices on the available steps, the order of the steps, and, impo",
+      "titleJa": "分散ロジック環境でのテスト戦略：隔離の重要性",
+      "summaryJa": "複数のサービスを連携させる分散ロジックと非決定論的なコンポーネントを持つシステムのテスト方法について、実際のAPI設計例を通じて解説します。カスタマイズ可能なワークフロー実装時のテスト上の課題と対策について検討します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From Chaos to Control, Part 6 - Adapt and Control",
+      "url": "https://www.scrum.org/resources/blog/chaos-control-part-6-adapt-and-control",
+      "publishedAt": "2026-07-22T15:42:43.000Z",
+      "excerpt": "Recap In the last post we considered how to align an optimized lean workflow with high-level strategy. If a team understands the relevance of their tasks to business objectives, enterprise agility can then be demonstrated. Adopting a strict definition of \"Done\" proved to be the real catalyst for change at an operational level. Putting the focus on quality encourages a team to move beyond day-to-day fire-fighting, and to build stability into their process. New and valuable technical habits were inculcated through this, such as swarming, tracking Work in Progress (WIP), and shipping early and of",
+      "titleJa": "カオスからコントロールへ(第6回)：適応と管理",
+      "summaryJa": "リーンワークフローとビジネス戦略の整合性を実現するため、チームが「完了」の定義を厳密に設定し、品質に焦点を当てることの重要性を解説します。スウォーミングやWIP管理など、プロセス安定化のための技術的習慣の導入方法を紹介します。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "AI Testing Strategy: Stop Being a Cost Center, Start Protecting Revenue with Nandini Srinivasan",
+      "url": "https://testguild.com/podcast/a597-nandini/",
+      "publishedAt": "2026-07-22T13:28:41.000Z",
+      "excerpt": "About This Episode: Nandini Srinivasan has spent 25 years in the quality industry and leads a global QA organization of […]",
+      "titleJa": "AI時代のテスト戦略：コストセンターから収益保護へ",
+      "summaryJa": "QA業界25年のキャリアを持つNandini Srinivasanが、グローバルなQA組織を率いながら、AI活用によるテスト戦略をコスト削減ツールではなく、ビジネス価値の創造と収益保護につなげるアプローチについて語ります。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -100,16 +130,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "How I AI: Morning Brewの創業者が構築したClaudeコンテンツマシンの秘密",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、Morning Brewの創業者がAIを活用したコンテンツ生成システムについて語る。Claudeを活用したアイデア無限生成マシンの構築方法と運用について紹介している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "No Manager in Scrum?",
-      "url": "https://www.scrum.org/resources/blog/no-manager-scrum",
-      "publishedAt": "2026-07-20T13:00:00.000Z",
-      "excerpt": "Image When leaders first hear that Scrum teams are self-managing, I don’t blame them for immediately fearing for their jobs. It can sound a little scary. But when we say that Scrum teams are self-managing, we don’t mean that they don’t have a reporting structure or that leadership is not necessary. In fact, the best Scrum teams that I have ever worked with were supported by outstanding leaders. The role of the leader in Scrum is to be a true leader - not a micromanager. When we say that Scrum teams are self-managing, we don’t mean that leadership needs to be fired. Instead, what we are saying ",
-      "titleJa": "Scrumにマネージャーは必要ないのか",
-      "summaryJa": "Scrumチームの自己管理性について誤解を招きやすいが、実際には報告体制やリーダーシップは必要であり、最高のチームはマネジメント干渉ではなく真のリーダーシップに支えられていることを説明しています。"
     },
     {
       "category": "PdM",
