@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-22T08:06:12.695Z",
+  "updatedAt": "2026-07-22T13:18:38.740Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Computer and browser use in Codex (5 real examples)",
+      "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
+      "publishedAt": "2026-07-22T12:03:38.000Z",
+      "excerpt": "Watch now | 🎙️ I show you exactly how I use browser use and computer use in Codex to QA my app, manage LinkedIn, and shop for Hawaii, including the under-prompting trick that makes frontier models work harder",
+      "titleJa": "Codexのコンピュータとブラウザ機能を実践活用する5つの例",
+      "summaryJa": "Codexのブラウザ使用とコンピュータ使用機能を活用して、アプリのQA、LinkedIn管理、ハワイ旅行の買い物などを行う方法を紹介。フロンティアモデルをより効果的に動作させるアンダープロンプティング技法も解説しています。"
+    },
     {
       "category": "QA",
       "sourceName": "Google Testing Blog",
@@ -120,16 +130,6 @@
       "excerpt": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
       "titleJa": "Netflix CTPOが語るAI時代のプロダクト・テック職の未来",
       "summaryJa": "NetflixのCPTO（最高プロダクト・テクノロジー責任者）であるエリザベス・ストーンが、AI時代におけるプロダクトチームの管理、システム思考の重要性の高まり、そして卓越性をオペレーティングシステムとして組織に組み込む方法について述べた対談記事です。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Syncing Claude Code and Claude Design, earning trust when customers assume you vibe coded it, co-founder fallout lessons, personal CRMs, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-syncing-claude-code",
-      "publishedAt": "2026-07-18T17:04:04.000Z",
-      "excerpt": "Community Wisdom 194",
-      "titleJa": "🧠 コミュニティの知恵：Claude CodeとClaude Designの連携、顧客の不信を払拭する信頼構築、共同創業者との決裂教訓ほか",
-      "summaryJa": "Lennyのニュースレターのコミュニティウィズダム194号。Claude CodeやClaude Designなどのツール連携、AIツールで自動生成されたコードに対する顧客信頼の醸成方法、共同創業者との関係管理における教訓、個人向けCRMツールなど、プロダクトマネジメントと事業運営に関する実践的な知見が取り上げられている。"
     },
     {
       "category": "PdM",
