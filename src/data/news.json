@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-21T19:01:37.314Z",
+  "updatedAt": "2026-07-22T01:24:23.021Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "Google Testing Blog",
+      "title": "Prefactoring: Clear the Way for Your New Feature",
+      "url": "http://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
+      "publishedAt": "2026-07-21T18:52:05.988Z",
+      "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Rahul Singal “First make the change easy, then make the easy change.” - paraphrased from Kent Beck You're working on a new feature, but the existing code wasn't written with future changes in mind. Trying to force the feature in directly gets complicated fast. One chan",
+      "titleJa": "プリファクタリング：新機能開発への道を整える",
+      "summaryJa": "既存コードが将来の変更を考慮して設計されていない場合、新機能を直接実装しようとすると複雑になります。Kent Beckの「まず変更を簡単にし、次に簡単な変更を実施する」という原則に基づき、プリファクタリングによってコードベースを整備してから新機能を追加するアプローチを紹介しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -260,16 +270,6 @@
       "excerpt": "I’ve talked to a lot of people who claim their tool does “agentic testing.” Most of the time it’s a […]",
       "titleJa": "エージェンティックテストとPlaywright：QA.techからの教訓",
       "summaryJa": "「エージェンティックテスト」を謳うツールが増えているが、その実態について検証する記事。実際のツール比較を通じて、真のエージェンティック機能と見せかけの実装の違いを明確にします。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Silicon Valley Product Group",
-      "title": "Great Products, Bad Companies",
-      "url": "https://www.svpg.com/great-products-bad-companies/",
-      "publishedAt": "2026-06-30T23:09:59.000Z",
-      "excerpt": "I have long argued that great products are what powers great companies. And while I still believe that great products are necessary for great companies, it’s become quite clear over the years that great products are not sufficient. In fact, as counter-intuitive as this sounds, I have seen too many examples where great products can... The post Great Products, Bad Companies appeared first on Silicon Valley Product Group.",
-      "titleJa": "優れた製品と企業の課題",
-      "summaryJa": "優れた製品が企業成長に不可欠だが、十分条件ではないことを論述。実際に優れた製品を持ちながら経営が失敗する企業の事例を通じ、製品の質だけでなく組織運営が企業成功に同等に重要であることを主張する。"
     }
   ]
 }
