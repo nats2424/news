@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-23T13:21:32.895Z",
+  "updatedAt": "2026-07-23T18:56:41.307Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Silicon Valley Product Group",
+      "title": "The AI Productivity Paradox",
+      "url": "https://www.svpg.com/the-ai-productivity-paradox/",
+      "publishedAt": "2026-07-23T18:22:04.000Z",
+      "excerpt": "We’ve been writing a lot lately about product teams that are clearly leveraging AI to deliver faster, yet their outcomes are not improving. Today, this phenomenon, known as the “AI Productivity Paradox,” has been recognized by people from across the industry. From the latest McKinsey Quarterly: “The business world is grappling with an AI paradox:... The post The AI Productivity Paradox appeared first on Silicon Valley Product Group.",
+      "titleJa": "AIが生産性を向上させても成果が出ない矛盾",
+      "summaryJa": "プロダクトチームがAIを活用して開発速度は上げているにもかかわらず、ビジネス成果が改善していない現象「AI生産性のパラドックス」が業界全体で認識されるようになった。McKinsey Quarterlyでも取り上げられているこの問題について、その本質と対策を解説している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Manage Product Risk When You Can’t Predict Everything",
+      "url": "https://www.scrum.org/resources/blog/how-manage-product-risk-when-you-cant-predict-everything",
+      "publishedAt": "2026-07-23T13:09:13.000Z",
+      "excerpt": "Image When working on a product, it is very easy to fall into the trap of thinking that good risk management is mainly about predicting everything in advance. In practice, that rarely works. In my work with product teams, leaders, and management, I often see the same problem: organizations try to manage product risk as if they are operating in a stable, predictable environment. They create risk lists, color-code them, and discuss statuses, yet the most serious problems still show up later. This is not because someone neglected the process, but because some things simply could not have been mea",
+      "titleJa": "すべてを予測できないときのプロダクトリスク管理",
+      "summaryJa": "プロダクト開発において、事前に全てのリスクを予測することは実際には困難である。多くの組織がリスクリストの作成や状態管理は行っているにもかかわらず、予期しない深刻な問題が後から発生する傾向にある。この記事では、予測不可能な環境下での効果的なリスク管理アプローチについて解説する。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -100,16 +120,6 @@
       "excerpt": "Sometimes, when you are using an AI tool like ChatGPT, you get a message that you have reached the context window limit and cannot continue unless you upgrade your plan to a paid version. Another option is to start a new chat window, but you lose all your current conversations. In this blog post, I explain what the context window is. Image The context window is the maximum amount of text (or data) that an AI model can \"see\" and remember in one go when generating a response. It is the AI's working memory. Here is a breakdown of what that means in practice: 1. It includes everything in the curre",
       "titleJa": "AIのコンテキストウィンドウとは？",
       "summaryJa": "ChatGPTなどのAIツール使用時に遭遇するコンテキストウィンドウ制限について解説した記事。コンテキストウィンドウはAIモデルが一度に処理・記憶できるテキストの最大量を指し、AIの作業メモリとして機能することを実際の例を交えて説明しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Warum ich inzwischen Solo-Entwicklung hasse",
-      "url": "https://www.scrum.org/resources/blog/warum-ich-inzwischen-solo-entwicklung-hasse",
-      "publishedAt": "2026-07-21T06:43:48.000Z",
-      "excerpt": "Ich hasse es, über einen längeren Zeitraum alleine zu arbeiten. Was ich stattdessen bevorzuge? Mob-Programming, Pair-Programming oder wenigstens intensives Swarming. Und das sage ich nicht, weil es gerade hip ist oder weil ich es irgendwo in einem Agile-Buch gelesen habe. Ich sage es, weil ich nach Jahren in beiden Welten festgestellt habe: Die enge Zusammenarbeit macht mich nicht nur produktiver – sie macht mich zufriedener, fokussierter und ehrlich gesagt auch zu einem besseren Entwickler. In diesem Artikel möchte ich erklären, warum das so ist. Es geht dabei weniger um die bekannten Argumen",
-      "titleJa": "ソロ開発はもう好きじゃない",
-      "summaryJa": "長期間の個人開発より、モブプログラミングやペアプログラミング、スウォーミングなど密接な協働を重視する開発者の経験を綴った記事。単なるトレンドではなく、実際の経験から協働開発がもたらす生産性向上、集中力強化、スキル向上を実証的に論じています。"
     },
     {
       "category": "QA",
