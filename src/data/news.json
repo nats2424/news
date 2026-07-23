@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-23T08:08:43.654Z",
+  "updatedAt": "2026-07-23T13:21:32.895Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Building AI for Women's Health: How Hertility Combined Bayesian Diagnosis and Scan Automation",
+      "url": "https://www.producttalk.org/building-ai-for-womens-health-how-hertility-combined-bayesian-diagnosis-and-scan-automation/",
+      "publishedAt": "2026-07-23T13:00:17.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts How do you build trustworthy AI diagnostic tools in one of medicine's most historically under-researched areas? In this episode of Just Now Possible, Teresa Torres talks with Tulsi Patel (Director of Product and Technology), Lorna Brightmore (Head of",
+      "titleJa": "女性の健康向けAI構築：Hertilityがベイズ診断とスキャン自動化を統合",
+      "summaryJa": "医療の過去の研究不足分野である女性の健康領域において、信頼できるAI診断ツールをいかに構築するかについて、プロダクトとテクノロジーのディレクターが、ベイズ診断とスキャン自動化の組み合わせを通じた実装戦略を解説するポッドキャスト回。AIの医療応用とプロダクト開発の課題が議論される。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Flow Metrics in Python: 3 Scripts for Ensuring Transparency",
+      "url": "https://www.scrum.org/resources/blog/flow-metrics-python-3-scripts-ensuring-transparency",
+      "publishedAt": "2026-07-23T11:46:59.000Z",
+      "excerpt": "Image Scrum rests on empiricism: transparency enables inspection, and inspection enables adaptation. Most Scrum Teams I work with are reasonably good at inspection and adaptation. Where they struggle is the first one. Transparency is not the same as having a tool. A board shows where every item sits right now, and it shows that well. But a Sprint Retrospective rarely turns on where work is - it turns on where work waited, and for how long, and whether that pattern is changing. That information exists in your tooling. It is almost never on the screen. This article walks through three short Pyth",
+      "titleJa": "Python FlowメトリクスでScrumの透明性を可視化する3つのスクリプト",
+      "summaryJa": "Scrumにおける透明性の重要性を強調し、スプリント中の作業待機時間やボトルネック特定に役立つPythonスクリプト3つを紹介。チームのレトロスペクティブで実際の待機パターン変化を可視化することで、検査と適応の質を向上させる具体的な手法。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -90,16 +110,6 @@
       "excerpt": "Ich hasse es, über einen längeren Zeitraum alleine zu arbeiten. Was ich stattdessen bevorzuge? Mob-Programming, Pair-Programming oder wenigstens intensives Swarming. Und das sage ich nicht, weil es gerade hip ist oder weil ich es irgendwo in einem Agile-Buch gelesen habe. Ich sage es, weil ich nach Jahren in beiden Welten festgestellt habe: Die enge Zusammenarbeit macht mich nicht nur produktiver – sie macht mich zufriedener, fokussierter und ehrlich gesagt auch zu einem besseren Entwickler. In diesem Artikel möchte ich erklären, warum das so ist. Es geht dabei weniger um die bekannten Argumen",
       "titleJa": "ソロ開発はもう好きじゃない",
       "summaryJa": "長期間の個人開発より、モブプログラミングやペアプログラミング、スウォーミングなど密接な協働を重視する開発者の経験を綴った記事。単なるトレンドではなく、実際の経験から協働開発がもたらす生産性向上、集中力強化、スキル向上を実証的に論じています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Vibe-Coding für Anforderungen – geht das? Wie Prototypen das Refinement retten, bevor es peinlich wird",
-      "url": "https://www.scrum.org/resources/blog/vibe-coding-fur-anforderungen-geht-das-wie-prototypen-das-refinement-retten-bevor-es-peinlich-wird",
-      "publishedAt": "2026-07-21T06:00:00.000Z",
-      "excerpt": "Ich erinnere mich noch gut an mein erstes Sprint-Review: Stolz präsentierte ich den Stakeholdern das neue Feature. Dann wurde ich gefragt: „Was passiert, wenn der Export nicht klappt?“ Peinlich. Ich hatte schlicht vergessen, mir über eine Abbruchlogik Gedanken zu machen. Wahrscheinlich wäre das einem erfahrenen Product-Owner nicht passiert – mich als Junior hat es kalt erwischt. Und eigentlich hätte es im Refinement auffallen müssen. Aber Refinement kostet Zeit. Viel Zeit. Wenn ich einen Designer bitte, einen Wireframe zu erstellen, hat das Konsequenzen. Ihm steht dann weniger Zeit für die Fei",
-      "titleJa": "プロトタイプで救うリファインメント—要件の曖昧性をどう解決するか",
-      "summaryJa": "Sprint Reviewで発見された要件漏れの教訓をもとに、プロトタイプがリファインメントプロセスを効率化する手法を提案する記事。時間がかかるリファインメントをデザイナーのワイアフレーム作成などを活用して実質的に改善するアプローチを紹介しています。"
     },
     {
       "category": "QA",
@@ -280,16 +290,6 @@
       "excerpt": "Summary In this episode, Jay Stansell interviews Dave West from Scrum.org about the evolving role of AI in product management. They explore how AI acts as a teammate, its limitations, and its impact",
       "titleJa": "プロダクトマネジメントにおけるAIの強力なチームメイト",
       "summaryJa": "Scrum.orgのDave Westへのインタビュー。プロダクトマネジメント領域でのAIの進化する役割、チームメイトとしての可能性と限界、そしてその実際の影響について探討。AIがどのようにプロダクト開発を支援するのかを解説します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Agentic Testing vs Playwright: Lessons from QA.tech",
-      "url": "https://testguild.com/agentic-testing-vs-playwright/",
-      "publishedAt": "2026-07-02T11:45:12.000Z",
-      "excerpt": "I’ve talked to a lot of people who claim their tool does “agentic testing.” Most of the time it’s a […]",
-      "titleJa": "エージェンティックテストとPlaywright：QA.techからの教訓",
-      "summaryJa": "「エージェンティックテスト」を謳うツールが増えているが、その実態について検証する記事。実際のツール比較を通じて、真のエージェンティック機能と見せかけの実装の違いを明確にします。"
     }
   ]
 }
