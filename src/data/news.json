@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-24T13:14:57.104Z",
+  "updatedAt": "2026-07-24T19:09:33.116Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Do Inicio ao Empreendedor - A Evolução da Carreira de Product Owner",
+      "url": "https://www.scrum.org/resources/blog/do-inicio-ao-empreendedor-evolucao-da-carreira-de-product-owner",
+      "publishedAt": "2026-07-24T18:35:02.000Z",
+      "excerpt": "Simplificando a Jornada do Product Owner: Do Caos do Início à Liderança Estratégica Por Matheus Reis Professional Scrum Trainer (PST) Image Introdução: Dois Caminhos, o Mesmo Ponto de Partida Se você atua no mercado de tecnologia ou está tentando construir sua carreira nele, é muito provável que se identifique com uma destas duas histórias: Inácio (O Aspirante a PO): É analista (de processos, negócios ou projetos), acompanha o mercado de produto de perto e quer muito migrar para a carreira de Product Owner. Ele lê artigos, estuda a teoria, mas trava na hora de dar o primeiro passo prático. Sua",
+      "titleJa": "プロダクトオーナーの進化：初心者からリーダーシップへ",
+      "summaryJa": "Product Ownerのキャリア発展段階を、実務的な視点で解説。アナリストからPOへの転職を目指す人のための実践的ガイド。初期段階の混乱から戦略的リーダーシップへの進化の道のりを示す。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
+      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
+      "publishedAt": "2026-07-24T17:15:25.000Z",
+      "excerpt": "Watch now | 🎙️ I ran Opus 5 through my seven-model benchmark, compared it with six other leading models, and came away with a verdict I genuinely didn’t expect",
+      "titleJa": "Claude Opus 5レビュー：優秀だが厄介な側面も",
+      "summaryJa": "7つのモデルベンチマークでOpsus 5を検証し、他の6つの主要モデルと比較した結果をレポート。予想外の評価が得られたという。このモデルの性能と実用性についての詳細な分析がまとめられている。"
+    },
     {
       "category": "QA",
       "sourceName": "Satisfice (James Bach)",
@@ -122,16 +142,6 @@
       "summaryJa": "長期休暇(サバティカル)の取得方法とその効果について解説する記事。キャリアや人生に大きな変化をもたらす可能性のある、まとまった時間の休暇の活用方法や意義を探ります。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Interview Agent for Scrum Master and Product Owner Readiness",
-      "url": "https://www.scrum.org/resources/blog/ai-interview-agent-scrum-master-and-product-owner-readiness",
-      "publishedAt": "2026-07-21T09:45:26.000Z",
-      "excerpt": "Image Static interview preparation - a list of questions, a mirror, a memorised Scrum Guide - has a hard ceiling: nothing pushes back. Real panels do. To study that gap, we have developed an autonomous AI agent that conducts adaptive mock interviews for Scrum Master and Product Owner candidates. What it taught us is more interesting than the tool itself: the way an AI interviewer behaves exposes exactly where candidates confuse knowing Scrum with practising it. This article walks through how such an agent works, what it probes for each accountability, and why practising against one trains the ",
-      "titleJa": "スクラムマスター・プロダクトオーナー対応のAI面接エージェント",
-      "summaryJa": "スクラムマスターおよびプロダクトオーナー候補者向けの適応型AI面接ツールについて紹介。従来の静的な面接準備とは異なり、AIが双方向の対話を通じて候補者の実践的スクラム理解度を明らかにし、各職務の要件に対する準備状況を評価する仕組みを解説しています。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Testing AI, Duplicate Test Detection, and the Death of Cucumber TGNS190",
@@ -170,16 +180,6 @@
       "excerpt": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
       "titleJa": "Morning Brewの創業者が構築したClaudeコンテンツ生成システムの仕組み",
       "summaryJa": "Alex Liebermanが開発したClaudeワークフローは、執筆前に本人へのインタビュー、Markdownでの音声コード化、投稿前の6ペルソナによる修正ループを実行し、質の高いコンテンツを継続的に生成する仕組みを紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Netflix CPTO on AI and the future of product and tech roles | Elizabeth Stone",
-      "url": "https://www.lennysnewsletter.com/p/netflix-cpto-on-ai-and-the-future",
-      "publishedAt": "2026-07-19T12:31:21.000Z",
-      "excerpt": "Elizabeth Stone, CPTO of Netflix, on managing AI-era product teams, the rise of systems thinking, and how to build excellence as an operating system",
-      "titleJa": "Netflix CTPOが語るAI時代のプロダクト・テック職の未来",
-      "summaryJa": "NetflixのCPTO（最高プロダクト・テクノロジー責任者）であるエリザベス・ストーンが、AI時代におけるプロダクトチームの管理、システム思考の重要性の高まり、そして卓越性をオペレーティングシステムとして組織に組み込む方法について述べた対談記事です。"
     },
     {
       "category": "PdM",
