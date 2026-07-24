@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-24T08:05:13.268Z",
+  "updatedAt": "2026-07-24T13:14:57.104Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Some Class Recordings Are Available",
+      "url": "https://www.satisfice.com/blog/archives/488173",
+      "publishedAt": "2026-07-24T12:34:19.000Z",
+      "excerpt": "For the foreseeable future, I will not be scheduling public classes on my own behalf. I am still available for private classes, and I will even do public classes as long as long I’m not the one organizing and marketing it. But if you REALLY want to take one of my classes, you could purchase […]",
+      "titleJa": "一部のクラス録画が利用可能に",
+      "summaryJa": "講師は当面の間、自主的な公開クラスの開催予定がないことを発表。ただし個人クラスは引き続き提供されており、企画と提供を自ら行わない場合は公開クラスも対応可能。クラス参加希望者は購入オプションを通じて受講できます。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -290,16 +300,6 @@
       "excerpt": "In Looking Good, Testers! I made the case that testing is about looking and that delegating the looking to someone or something else involves a risk calculation: do you both understand the task the same way, is the third party likely to carry out the task in the way you requested, how easily can you check any results they give back, could they complement you in some way, how will you keep your knowledge and skills up to date if you don't do this task any more, how much does this task matter, how much do you care about any of that, ...? I didn't say anything there about selecting what to look a",
       "titleJa": "テスター自身が確認することの重要性",
       "summaryJa": "テストの本質は「確認する」ことであり、その役割を他者やツールに委譲する際には、理解の一致、実行の正確性、結果検証の容易性など複数のリスク要因を検討する必要があります。自動化やアウトソースの判断には、知識・スキルの維持や業務の重要度など多角的な視点が求められます。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP106 AI as a Powerful Teammate in Product Management",
-      "url": "https://www.productcoalition.com/p/ep106-ai-as-a-powerful-teammate-in",
-      "publishedAt": "2026-07-03T09:00:28.000Z",
-      "excerpt": "Summary In this episode, Jay Stansell interviews Dave West from Scrum.org about the evolving role of AI in product management. They explore how AI acts as a teammate, its limitations, and its impact",
-      "titleJa": "プロダクトマネジメントにおけるAIの強力なチームメイト",
-      "summaryJa": "Scrum.orgのDave Westへのインタビュー。プロダクトマネジメント領域でのAIの進化する役割、チームメイトとしての可能性と限界、そしてその実際の影響について探討。AIがどのようにプロダクト開発を支援するのかを解説します。"
     }
   ]
 }
