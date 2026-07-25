@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-25T12:57:09.952Z",
+  "updatedAt": "2026-07-25T18:48:58.193Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
+      "publishedAt": "2026-07-25T16:01:44.000Z",
+      "excerpt": "Community Wisdom 194",
+      "titleJa": "コミュニティの知見：パイロット期間中のクライアント関係維持、Linearと検出ツールの組み合わせ、AIの自動化限界ほか",
+      "summaryJa": "Lennyのニュースレターによるコミュニティの知見まとめ。クライアント関係の維持方法、開発ツール選定のベストプラクティス、AI自動化の実践的な制限、Techstarsの投資価値評価など、プロダクトマネージャーに有用な複数のテーマについての実例と推奨事項を紹介している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -170,16 +180,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "How I AI: Morning Brewの創業者が構築したClaudeコンテンツマシンの秘密",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、Morning Brewの創業者がAIを活用したコンテンツ生成システムについて語る。Claudeを活用したアイデア無限生成マシンの構築方法と運用について紹介している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How the founder of Morning Brew built a Claude content machine that never runs out of ideas and never sounds like slop | Alex Lieberman",
-      "url": "https://www.lennysnewsletter.com/p/how-the-founder-of-morning-brew-built",
-      "publishedAt": "2026-07-20T12:04:47.000Z",
-      "excerpt": "Listen now | 🎙 How Alex Lieberman (Morning Brew) built a Claude workflow that interviews him before drafting, codes his voice in Markdown, and runs a six-persona revision loop before posting",
-      "titleJa": "Morning Brewの創業者が構築したClaudeコンテンツ生成システムの仕組み",
-      "summaryJa": "Alex Liebermanが開発したClaudeワークフローは、執筆前に本人へのインタビュー、Markdownでの音声コード化、投稿前の6ペルソナによる修正ループを実行し、質の高いコンテンツを継続的に生成する仕組みを紹介しています。"
     },
     {
       "category": "PdM",
