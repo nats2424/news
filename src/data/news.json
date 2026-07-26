@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-26T01:42:14.501Z",
+  "updatedAt": "2026-07-26T08:05:16.230Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Culture Follows Structure. Most Transformations Bet the Other Way.",
+      "url": "https://www.scrum.org/resources/blog/culture-follows-structure-most-transformations-bet-other-way",
+      "publishedAt": "2026-07-26T06:00:00.000Z",
+      "excerpt": "Image Two companies start an agile transformation in the same quarter. Same training provider, same skilled coaches, same framework, comparable budgets, equally sincere executives. Three years later one of them ships weekly, kills bad bets early, and holds onto its best people. The other has agile ceremonies, an agile maturity dashboard, and delivery that feels exactly like it did in 2022, except with more meetings. Everyone involved will explain the difference with stories about leadership commitment or culture. The real difference was usually settled before the first workshop, in a decision ",
+      "titleJa": "組織構造が文化を形作る。変革の多くはこれを見落とす",
+      "summaryJa": "同じ条件でアジャイル変革に取り組んだ2社が、3年後に大きく異なる結果になるケースを紹介。一方は週次リリースと俊敏な意思決定を実現し優秀人材を保持したのに対し、もう一方はアジャイル式典とダッシュボードはあるものの、実質的な進捗がなく会議が増えただけ。その差は実は最初のワークショップ前の組織構造上の決断によって決まっていたという指摘。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -100,16 +110,6 @@
       "excerpt": "How do you test a product with distributed logic and non-deterministic components? Well, it depends on the product and when the question is asked. This post is one answer, for now. A service I work on exposes an API for internal and external clients and calls multiple other services. It orchestrates a reasonably complex journey for a user, with their inputs and the responses of the services determining each step. Our customers can configure the service to provide a variant of the standard journey for their users. This gives them choices on the available steps, the order of the steps, and, impo",
       "titleJa": "分散ロジック環境でのテスト戦略：隔離の重要性",
       "summaryJa": "複数のサービスを連携させる分散ロジックと非決定論的なコンポーネントを持つシステムのテスト方法について、実際のAPI設計例を通じて解説します。カスタマイズ可能なワークフロー実装時のテスト上の課題と対策について検討します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From Chaos to Control, Part 6 - Adapt and Control",
-      "url": "https://www.scrum.org/resources/blog/chaos-control-part-6-adapt-and-control",
-      "publishedAt": "2026-07-22T15:42:43.000Z",
-      "excerpt": "Recap In the last post we considered how to align an optimized lean workflow with high-level strategy. If a team understands the relevance of their tasks to business objectives, enterprise agility can then be demonstrated. Adopting a strict definition of \"Done\" proved to be the real catalyst for change at an operational level. Putting the focus on quality encourages a team to move beyond day-to-day fire-fighting, and to build stability into their process. New and valuable technical habits were inculcated through this, such as swarming, tracking Work in Progress (WIP), and shipping early and of",
-      "titleJa": "カオスからコントロールへ(第6回)：適応と管理",
-      "summaryJa": "リーンワークフローとビジネス戦略の整合性を実現するため、チームが「完了」の定義を厳密に設定し、品質に焦点を当てることの重要性を解説します。スウォーミングやWIP管理など、プロセス安定化のための技術的習慣の導入方法を紹介します。"
     },
     {
       "category": "QA",
@@ -290,16 +290,6 @@
       "excerpt": "Continuous Discovery Habits turned five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "『継続的ディスカバリーの習慣』を一緒に読む（2026年7月開始）",
       "summaryJa": "『継続的ディスカバリーの習慣』が5周年を迎えたことを記念して、毎月詳細な読書ガイドを公開するプロジェクトが始まります。各月の学習章、重要なコンセプト、解説動画などが含まれた読書体験プログラムです。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "Just Looking",
-      "url": "https://qahiccupps.blogspot.com/2026/07/just-looking.html",
-      "publishedAt": "2026-07-05T05:24:17.000Z",
-      "excerpt": "In Looking Good, Testers! I made the case that testing is about looking and that delegating the looking to someone or something else involves a risk calculation: do you both understand the task the same way, is the third party likely to carry out the task in the way you requested, how easily can you check any results they give back, could they complement you in some way, how will you keep your knowledge and skills up to date if you don't do this task any more, how much does this task matter, how much do you care about any of that, ...? I didn't say anything there about selecting what to look a",
-      "titleJa": "テスター自身が確認することの重要性",
-      "summaryJa": "テストの本質は「確認する」ことであり、その役割を他者やツールに委譲する際には、理解の一致、実行の正確性、結果検証の容易性など複数のリスク要因を検討する必要があります。自動化やアウトソースの判断には、知識・スキルの維持や業務の重要度など多角的な視点が求められます。"
     }
   ]
 }
