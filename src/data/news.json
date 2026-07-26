@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-26T08:05:16.230Z",
+  "updatedAt": "2026-07-26T12:54:24.487Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
+      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
+      "publishedAt": "2026-07-26T12:32:06.000Z",
+      "excerpt": "Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
+      "titleJa": "Anthropic初代PM、トークン最大化と段階的進化戦略を語る",
+      "summaryJa": "Anthropicの初代PM、Dianne Pennへのインタビュー。Claudeの支配的地位を築いた重要な判断—コーディング機能への注力、Eval駆動開発ループ、そしてコーディング課題解決後の次のフロンティアについて議論している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -170,16 +180,6 @@
       "excerpt": "Looking for Certified Associate in Project Management (CAPM)® training for your PMI certification? You’re probably checking out a lot of training options and you’re here because you want to know if Brain Sensei is right for you. It might be… I’ve been through the course and I’ve got opinions about Brain Sensei! In this review of Brain Sensei’s CAPM training, I’ll share who the course is most appropriate for, what to expect, the cost, the pros and cons and all the features you get included. I’ve been working as a project manager for over 20 years (gulp) and I’ve written a pile of books about it",
       "titleJa": "Brain Sensei CAPM試験対策レビュー（2026年版）",
       "summaryJa": "プロジェクトマネジメント協会（PMI）のCAPM認定資格取得を目指す学習者向けに、Brain SenseiのCARM講座を徹底レビュー。20年以上のプロジェクトマネジャー経験を持つレビュアーが、講座の適性判定、内容、費用、メリット・デメリット、含まれる機能などを詳細に解説している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: How the founder of Morning Brew built a Claude content machine that never runs out of ideas",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-the-founder-of-morning",
-      "publishedAt": "2026-07-20T15:01:56.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "How I AI: Morning Brewの創業者が構築したClaudeコンテンツマシンの秘密",
-      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、Morning Brewの創業者がAIを活用したコンテンツ生成システムについて語る。Claudeを活用したアイデア無限生成マシンの構築方法と運用について紹介している。"
     },
     {
       "category": "PdM",
