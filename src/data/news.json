@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-26T12:54:24.487Z",
+  "updatedAt": "2026-07-26T18:53:41.484Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Pyramid of Impediments",
+      "url": "https://www.scrum.org/resources/blog/pyramid-impediments",
+      "publishedAt": "2026-07-26T16:50:18.000Z",
+      "excerpt": "Introduction The Pyramid of Impediments is a decision framework for Scrum Masters, Agile Coaches and other agile leaders. Every agile leader eventually encounters the same situations: A Scrum Team struggles with Sprint Planning, technical debt continues to grow, conflicts remain unresolved, or customer feedback arrives too late. At the same time, budgeting, governance, and organizational structures create additional obstacles. Every one of these challenges is a genuine impediment. Yet they all lead to a much more important question: Where should attention be focused first to create the greates",
+      "titleJa": "障害のピラミッド：アジャイルリーダーの優先順位フレームワーク",
+      "summaryJa": "スクラムマスターやアジャイルコーチ向けの意思決定フレームワーク「障害のピラミッド」を紹介。スプリント計画の困難、技術債の増加、未解決の対立など、アジャイルチームが直面する様々な課題を整理し、限られたリソースの中でどこに焦点を当てるべきかを判断するための構造化されたアプローチを提供します。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -100,16 +110,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts How do you build trustworthy AI diagnostic tools in one of medicine's most historically under-researched areas? In this episode of Just Now Possible, Teresa Torres talks with Tulsi Patel (Director of Product and Technology), Lorna Brightmore (Head of",
       "titleJa": "女性の健康向けAI構築：Hertilityがベイズ診断とスキャン自動化を統合",
       "summaryJa": "医療の過去の研究不足分野である女性の健康領域において、信頼できるAI診断ツールをいかに構築するかについて、プロダクトとテクノロジーのディレクターが、ベイズ診断とスキャン自動化の組み合わせを通じた実装戦略を解説するポッドキャスト回。AIの医療応用とプロダクト開発の課題が議論される。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Flow Metrics in Python: 3 Scripts for Ensuring Transparency",
-      "url": "https://www.scrum.org/resources/blog/flow-metrics-python-3-scripts-ensuring-transparency",
-      "publishedAt": "2026-07-23T11:46:59.000Z",
-      "excerpt": "Image Scrum rests on empiricism: transparency enables inspection, and inspection enables adaptation. Most Scrum Teams I work with are reasonably good at inspection and adaptation. Where they struggle is the first one. Transparency is not the same as having a tool. A board shows where every item sits right now, and it shows that well. But a Sprint Retrospective rarely turns on where work is - it turns on where work waited, and for how long, and whether that pattern is changing. That information exists in your tooling. It is almost never on the screen. This article walks through three short Pyth",
-      "titleJa": "Python FlowメトリクスでScrumの透明性を可視化する3つのスクリプト",
-      "summaryJa": "Scrumにおける透明性の重要性を強調し、スプリント中の作業待機時間やボトルネック特定に役立つPythonスクリプト3つを紹介。チームのレトロスペクティブで実際の待機パターン変化を可視化することで、検査と適応の質を向上させる具体的な手法。"
     },
     {
       "category": "QA",
