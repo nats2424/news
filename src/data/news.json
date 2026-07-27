@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-27T01:49:25.996Z",
+  "updatedAt": "2026-07-27T09:25:51.163Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Avoid AI Debt by Borrowing from Agile Artifacts",
+      "url": "https://www.scrum.org/resources/blog/how-avoid-ai-debt-borrowing-agile-artifacts",
+      "publishedAt": "2026-07-27T09:16:33.000Z",
+      "excerpt": "TL; DR: Reusing Agile Artifacts to Avoid Accumulating AI Debt In this video from the 76th Hands-on Agile Meetup, I walk you through the A3 Delegation System and show how it helps avoid AI debt by borrowing artifacts and practices from Agile, such as the Definition of Done and Retrospectives. If you’d like to download the corresponding canvases (the artifacts of the A3 Delegation System), check out the original blog post. (You will get a full set of PDFs, along with the guide to the A3 Delegation System, so that you can run the system with your own teams.) Image 🗞 Shall I notify you about arti",
+      "titleJa": "AIの技術的負債を回避するためのアジャイル手法の活用",
+      "summaryJa": "A3デリゲーションシステムを用いて、Definition of Doneやレトロスペクティブなどのアジャイル成果物を再活用し、AI導入時の技術的負債の蓄積を防ぐ方法を紹介。実践的なキャンバスとガイドも提供されている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Der heimliche Feind jedes Product-Owners: 5 Mythen, die Karrieren ruinieren",
+      "url": "https://www.scrum.org/resources/blog/der-heimliche-feind-jedes-product-owners-5-mythen-die-karrieren-ruinieren",
+      "publishedAt": "2026-07-27T05:15:00.000Z",
+      "excerpt": "Werden Mythen über Product-Ownership aktiv verbreitet, um Product-Owner kleinzuhalten? Manchmal kommt es mir so vor. Und ja, ich denke gerade an dich, SAFe – den Saboteur agiler Softwareentwicklung. In diesem Artikel werde ich mit den 5 häufigsten Mythen aufräumen und aufdecken, warum die Verbreitung gefährlich für die Karrieren von Product-Ownern ist. Los geht’s ... Mythos #1: Der Product-Owner muss alle Product-Backlog-Einträge selbst schreiben Viele Product-Owner sind überlastet: Die Hälfte der Zeit vergeht in Abstimmungsmeetings. Die andere Hälfte damit, Tickets in Jira zu formulieren. Dam",
+      "titleJa": "プロダクトオーナーの落とし穴：キャリアを左右する5つの誤解",
+      "summaryJa": "プロダクトオーナーシップに関する5つの一般的な誤解を暴露し、それらがキャリアに及ぼす危険性について解説。バックログアイテムの執筆負担など、実務的な課題の本質を明らかにする。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Project Manager Isn't Dead. It Was Disassembled on Purpose!",
+      "url": "https://www.scrum.org/resources/blog/project-manager-isnt-dead-it-was-disassembled-purpose",
+      "publishedAt": "2026-07-27T02:16:33.000Z",
+      "excerpt": "Image I see it everywhere. In LinkedIn posts, in heated comment threads, and maybe most tellingly, in job descriptions that quietly list \"Scrum Master / Project Manager\" as if the slash were doing no work at all. The framing is always the same: Scrum Master versus Project Manager. Which one is better? Which one is being replaced? Which title should you put on your CV? And every time I see it, I think the same thing: we're asking the wrong question. The comparison that never quite fits On the surface, the comparison makes sense. Both roles hover around a team. Both care about things getting don",
+      "titleJa": "プロジェクトマネージャーは廃止されていない、意図的に分解されたのだ",
+      "summaryJa": "スクラムマスターとプロジェクトマネージャーの比較が頻繁に行われるが、この議論の根本的な問題点を指摘。両職種の役割と関係性を改めて検討する必要性を論じる。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -52,16 +82,6 @@
       "summaryJa": "Lennyのニュースレターによるコミュニティの知見まとめ。クライアント関係の維持方法、開発ツール選定のベストプラクティス、AI自動化の実践的な制限、Techstarsの投資価値評価など、プロダクトマネージャーに有用な複数のテーマについての実例と推奨事項を紹介している。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Do Inicio ao Empreendedor - A Evolução da Carreira de Product Owner",
-      "url": "https://www.scrum.org/resources/blog/do-inicio-ao-empreendedor-evolucao-da-carreira-de-product-owner",
-      "publishedAt": "2026-07-24T18:35:02.000Z",
-      "excerpt": "Simplificando a Jornada do Product Owner: Do Caos do Início à Liderança Estratégica Por Matheus Reis Professional Scrum Trainer (PST) Image Introdução: Dois Caminhos, o Mesmo Ponto de Partida Se você atua no mercado de tecnologia ou está tentando construir sua carreira nele, é muito provável que se identifique com uma destas duas histórias: Inácio (O Aspirante a PO): É analista (de processos, negócios ou projetos), acompanha o mercado de produto de perto e quer muito migrar para a carreira de Product Owner. Ele lê artigos, estuda a teoria, mas trava na hora de dar o primeiro passo prático. Sua",
-      "titleJa": "プロダクトオーナーの進化：初心者からリーダーシップへ",
-      "summaryJa": "Product Ownerのキャリア発展段階を、実務的な視点で解説。アナリストからPOへの転職を目指す人のための実践的ガイド。初期段階の混乱から戦略的リーダーシップへの進化の道のりを示す。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
@@ -82,16 +102,6 @@
       "summaryJa": "講師は当面の間、自主的な公開クラスの開催予定がないことを発表。ただし個人クラスは引き続き提供されており、企画と提供を自ら行わない場合は公開クラスも対応可能。クラス参加希望者は購入オプションを通じて受講できます。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Nobody believes your values page. They're watching the deeds.",
-      "url": "https://www.scrum.org/resources/blog/nobody-believes-your-values-page-theyre-watching-deeds",
-      "publishedAt": "2026-07-23T22:00:00.000Z",
-      "excerpt": "Every organization will tell you what it values. There's usually a poster. The poster has a competitor, though, and the competitor wins every time. Leadership says \"we trust our teams to decide,\" and the org chart sends every decision over five thousand euros to a committee that meets on Thursdays. The town hall says \"quality is non-negotiable,\" and the release that shipped Friday had its testing cut to make the date. The values page says \"we care about outcomes, not output,\" and the budget is built on project plans and how busy everyone looks. Two stories, every time. One the organization tel",
-      "titleJa": "企業文化は言葉ではなく行動で示される",
-      "summaryJa": "組織が掲げる価値観と実際の行動に矛盾があることを指摘しています。「信頼」「品質」「成果重視」といった言葉は掲げられていても、意思決定プロセスの複雑さ、テスト期間の削減、予算配分の現実など、実際の行動は異なるメッセージを発しています。組織の本当の価値観は、ポスターではなく日々の業務実践の中に表れるということを強調しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
       "title": "The AI Productivity Paradox",
@@ -100,16 +110,6 @@
       "excerpt": "We’ve been writing a lot lately about product teams that are clearly leveraging AI to deliver faster, yet their outcomes are not improving. Today, this phenomenon, known as the “AI Productivity Paradox,” has been recognized by people from across the industry. From the latest McKinsey Quarterly: “The business world is grappling with an AI paradox:... The post The AI Productivity Paradox appeared first on Silicon Valley Product Group.",
       "titleJa": "AIが生産性を向上させても成果が出ない矛盾",
       "summaryJa": "プロダクトチームがAIを活用して開発速度は上げているにもかかわらず、ビジネス成果が改善していない現象「AI生産性のパラドックス」が業界全体で認識されるようになった。McKinsey Quarterlyでも取り上げられているこの問題について、その本質と対策を解説している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Manage Product Risk When You Can’t Predict Everything",
-      "url": "https://www.scrum.org/resources/blog/how-manage-product-risk-when-you-cant-predict-everything",
-      "publishedAt": "2026-07-23T13:09:13.000Z",
-      "excerpt": "Image When working on a product, it is very easy to fall into the trap of thinking that good risk management is mainly about predicting everything in advance. In practice, that rarely works. In my work with product teams, leaders, and management, I often see the same problem: organizations try to manage product risk as if they are operating in a stable, predictable environment. They create risk lists, color-code them, and discuss statuses, yet the most serious problems still show up later. This is not because someone neglected the process, but because some things simply could not have been mea",
-      "titleJa": "すべてを予測できないときのプロダクトリスク管理",
-      "summaryJa": "プロダクト開発において、事前に全てのリスクを予測することは実際には困難である。多くの組織がリスクリストの作成や状態管理は行っているにもかかわらず、予期しない深刻な問題が後から発生する傾向にある。この記事では、予測不可能な環境下での効果的なリスク管理アプローチについて解説する。"
     },
     {
       "category": "PdM",
