@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-27T14:08:03.524Z",
+  "updatedAt": "2026-07-27T19:09:00.302Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to become a Release Manager (Skills & Salary)",
+      "url": "https://rebelsguidetopm.com/release-managers/",
+      "publishedAt": "2026-07-27T15:48:47.000Z",
+      "excerpt": "Do you have a release manager on the team? Or are you wondering whether it would be a pretty good job to move into? It wasn’t until I worked in IT as a project manager that I had a lot of contact with the release management process. My software projects needed releasing, so we had to follow the formal process and engage with the release manager to make sure that the bug fixes and new features got pushed to the production environment in a controlled way. It’s an essential role… because without her, we risked putting any old thing live and ending up with software conflicts and no process to roll",
+      "titleJa": "リリースマネージャーのキャリアパス：必要スキルと給与水準",
+      "summaryJa": "リリースマネージャーの職務内容とキャリア形成ガイド。バグ修正と新機能を統制されたプロセスで本番環境に展開するための重要な役割を詳解。プロジェクトマネージャーからのキャリア転換や、この職種への転職を検討している人向けに、必要なスキルセットと給与相場を解説。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
+      "publishedAt": "2026-07-27T15:03:21.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "Claude Opus 5レビュー＆ブラウザ操作機能、CursorとRaspberry Piで体験するAI活用",
+      "summaryJa": "Lenny's Podcast Networkの「How I AI」番組の最新エピソード。Claude Opus 5の性能評価、Codexでのブラウザ自動操作機能、CursorとRaspberry Piを組み合わせたユニークなAI活用例を紹介。プロダクトマネジャーとして知っておきたいAI技術の実践的な活用シーンを複数取り上げている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Understand Yourself Deeply: Why Scrum Masters Decide to Learn AI",
+      "url": "https://www.scrum.org/resources/blog/understand-yourself-deeply-why-scrum-masters-decide-learn-ai",
+      "publishedAt": "2026-07-27T14:15:39.000Z",
+      "excerpt": "This blog post is like a customer discovery to deeply understand a Scrum Master’s fears, anxieties, hopes, dreams, … in the age of AI. Image In February 2026, Scrum.org released its AI course for Scrum Masters named PSM-AI Essentials. Since then, many Scrum Masters have participated in that class to weaponize themselves with the AI skillset that is inevitable. In this blog post, I want to deep dive and dissect why Scrum Masters decide to learn AI. It is like a customer discovery that needs a deep understanding of the Scrum Masters’ fears, anxieties, hopes, dreams, … To do so, I will use the na",
+      "titleJa": "Scrum Masterが今、AIを学ぶべき理由：恐れと期待の深層理解",
+      "summaryJa": "Scrum.orgが2026年2月にリリースした「PSM-AI Essentials」コースの背景を探る記事。Scrum Masterが直面するAI時代への不安と希望を顧客発見的アプローチで分析。キャリア維持と組織への価値提供のため、多くのScrum Masterが主体的にAIスキル習得に踏み切る理由を考察。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +90,6 @@
       "excerpt": "Your developers are shipping more code than they were a year ago. Probably a lot more. And your test coverage […]",
       "titleJa": "Amikooであなたのチームはどう変わるか",
       "summaryJa": "開発チームのコード出荷量が増加する一方で、テストカバレッジの課題に直面しているというシナリオから、Amikooがもたらすチームへの変化について解説しています。開発速度の向上とテスト品質のバランスを取るための実践的なアプローチが示唆されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Pyramid of Impediments",
-      "url": "https://www.scrum.org/resources/blog/pyramid-impediments",
-      "publishedAt": "2026-07-26T16:50:18.000Z",
-      "excerpt": "Introduction The Pyramid of Impediments is a decision framework for Scrum Masters, Agile Coaches and other agile leaders. Every agile leader eventually encounters the same situations: A Scrum Team struggles with Sprint Planning, technical debt continues to grow, conflicts remain unresolved, or customer feedback arrives too late. At the same time, budgeting, governance, and organizational structures create additional obstacles. Every one of these challenges is a genuine impediment. Yet they all lead to a much more important question: Where should attention be focused first to create the greates",
-      "titleJa": "障害のピラミッド：アジャイルリーダーの優先順位フレームワーク",
-      "summaryJa": "スクラムマスターやアジャイルコーチ向けの意思決定フレームワーク「障害のピラミッド」を紹介。スプリント計画の困難、技術債の増加、未解決の対立など、アジャイルチームが直面する様々な課題を整理し、限られたリソースの中でどこに焦点を当てるべきかを判断するための構造化されたアプローチを提供します。"
     },
     {
       "category": "PdM",
@@ -150,16 +170,6 @@
       "excerpt": "About This Episode: Nandini Srinivasan has spent 25 years in the quality industry and leads a global QA organization of […]",
       "titleJa": "AI時代のテスト戦略：コストセンターから収益保護へ",
       "summaryJa": "QA業界25年のキャリアを持つNandini Srinivasanが、グローバルなQA組織を率いながら、AI活用によるテスト戦略をコスト削減ツールではなく、ビジネス価値の創造と収益保護につなげるアプローチについて語ります。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Computer and browser use in Codex (5 real examples)",
-      "url": "https://www.lennysnewsletter.com/p/computer-and-browser-use-in-codex",
-      "publishedAt": "2026-07-22T12:03:38.000Z",
-      "excerpt": "Watch now | 🎙️ I show you exactly how I use browser use and computer use in Codex to QA my app, manage LinkedIn, and shop for Hawaii, including the under-prompting trick that makes frontier models work harder",
-      "titleJa": "Codexのコンピュータとブラウザ機能を実践活用する5つの例",
-      "summaryJa": "Codexのブラウザ使用とコンピュータ使用機能を活用して、アプリのQA、LinkedIn管理、ハワイ旅行の買い物などを行う方法を紹介。フロンティアモデルをより効果的に動作させるアンダープロンプティング技法も解説しています。"
     },
     {
       "category": "QA",
@@ -280,16 +290,6 @@
       "excerpt": "There's a lot riding on getting your PMO mission statement right. After all, the mission statement is what will guide the PMO as it strives to achieve its goals and objectives. Creating a powerful PMO mission statement doesn't have to be difficult - but it does require some thought and careful planning. Why have a mission statement for the PMO? The PMO is responsible for ensuring that an organization's projects are well-organized, well-run, and produce the desired results. A key part of a PMO leader's job is to develop and maintain project management standards and processes and to support the ",
       "titleJa": "効果的なPMOミッションステートメントの策定方法",
       "summaryJa": "PMO(プロジェクト管理オフィス)のミッションステートメント作成の重要性と、その策定プロセスについて解説。組織のプロジェクトが適切に運営され、目標を達成するためのミッションステートメント開発のポイントを紹介している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to make a SIPOC diagram in all the tools (with PowerPoint template)",
-      "url": "https://rebelsguidetopm.com/sipoc/",
-      "publishedAt": "2026-07-06T15:28:20.000Z",
-      "excerpt": "Process mapping creates value as it helps people understand the business context of the work they are doing. One tool to do this is the SIPOC diagram, which I use and I learned about on my Black Belt training. Get a free PowerPoint SIPOC diagram template. Join the Project Management Resource Library to get the template and lots of other free project management templates, checklists, and guides. Whether you want to understand how customers move through your small business, or mapping the processes used on a major civil engineering project, SIPOC is a visual process mapping tool that can help yo",
-      "titleJa": "SIPOC図の作成方法と各ツール対応(PowerPointテンプレート付)",
-      "summaryJa": "プロセスマッピング手法の一つであるSIPOC図の活用方法とテンプレートを紹介。顧客フローから大規模プロジェクトのプロセスまで、ビジュアルなプロセス分析ツールとしてのSIPOC図の使用方法を実践的に解説している。"
     }
   ]
 }
