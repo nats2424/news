@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-27T09:25:51.163Z",
+  "updatedAt": "2026-07-27T14:08:03.524Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Managing AI Risks in your Definition of Done",
+      "url": "https://www.scrum.org/resources/blog/managing-ai-risks-your-definition-done",
+      "publishedAt": "2026-07-27T13:50:13.000Z",
+      "excerpt": "It passed every check. The automated tests were green. The code review was done. The acceptance criteria were met. The feature was deployed to staging and behaved exactly as described in the ticket. By every measure the team had, this work was done. Then it hit production. Within 48 hours, the infosec team flagged two critical security vulnerabilities. A third-party library had been quietly included in the AI-generated code, one with a known Common Vulnerability and Exposure (CVE) and a licensing conflict that Legal was very unhappy about. And when the team sat down to understand what had actu",
+      "titleJa": "Definition of DoneにAIリスク管理を組み込む",
+      "summaryJa": "自動テストやコードレビューに合格し、全ての受け入れ基準を満たしたAI生成コードがプロダクション環境で予期しないセキュリティ脆弱性を引き起こしました。既知のCVEを持つ外部ライブラリが含まれており、Definition of Doneにセキュリティリスク評価を含める必要性を浮き彫りにしています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
+      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
+      "publishedAt": "2026-07-27T12:04:34.000Z",
+      "excerpt": "Watch now | 🎙️ Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
+      "titleJa": "コード未経験からハードウェアハッカーへ：CursorとRaspberry Piで実現するAI活用",
+      "summaryJa": "Maddie Reeseはカーソルとキューの簡単なアイデアを組み合わせて、メッセージ機能付きサーマルプリンター、Twitterポケットベル、パーソナルAPIを構築しました。実用性よりも楽しさを重視することで、ノーコード背景からハードウェアハッキングへと進化させた事例です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +80,6 @@
       "excerpt": "Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
       "titleJa": "Anthropic初代PM、トークン最大化と段階的進化戦略を語る",
       "summaryJa": "Anthropicの初代PM、Dianne Pennへのインタビュー。Claudeの支配的地位を築いた重要な判断—コーディング機能への注力、Eval駆動開発ループ、そしてコーディング課題解決後の次のフロンティアについて議論している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Culture Follows Structure. Most Transformations Bet the Other Way.",
-      "url": "https://www.scrum.org/resources/blog/culture-follows-structure-most-transformations-bet-other-way",
-      "publishedAt": "2026-07-26T06:00:00.000Z",
-      "excerpt": "Image Two companies start an agile transformation in the same quarter. Same training provider, same skilled coaches, same framework, comparable budgets, equally sincere executives. Three years later one of them ships weekly, kills bad bets early, and holds onto its best people. The other has agile ceremonies, an agile maturity dashboard, and delivery that feels exactly like it did in 2022, except with more meetings. Everyone involved will explain the difference with stories about leadership commitment or culture. The real difference was usually settled before the first workshop, in a decision ",
-      "titleJa": "組織構造が文化を形作る。変革の多くはこれを見落とす",
-      "summaryJa": "同じ条件でアジャイル変革に取り組んだ2社が、3年後に大きく異なる結果になるケースを紹介。一方は週次リリースと俊敏な意思決定を実現し優秀人材を保持したのに対し、もう一方はアジャイル式典とダッシュボードはあるものの、実質的な進捗がなく会議が増えただけ。その差は実は最初のワークショップ前の組織構造上の決断によって決まっていたという指摘。"
     },
     {
       "category": "PdM",
@@ -160,16 +170,6 @@
       "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Rahul Singal “First make the change easy, then make the easy change.” - paraphrased from Kent Beck You're working on a new feature, but the existing code wasn't written with future changes in mind. Trying to force the feature in directly gets complicated fast. One chan",
       "titleJa": "プリファクタリング：新機能開発への道を整える",
       "summaryJa": "既存コードが将来の変更を考慮して設計されていない場合、新機能を直接実装しようとすると複雑になります。Kent Beckの「まず変更を簡単にし、次に簡単な変更を実施する」という原則に基づき、プリファクタリングによってコードベースを整備してから新機能を追加するアプローチを紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Why a sabbatical can change everything",
-      "url": "https://www.lennysnewsletter.com/p/how-to-take-a-sabbatical",
-      "publishedAt": "2026-07-21T12:45:10.000Z",
-      "excerpt": "How to take Big Time Off",
-      "titleJa": "サバティカルが人生を変える理由",
-      "summaryJa": "長期休暇(サバティカル)の取得方法とその効果について解説する記事。キャリアや人生に大きな変化をもたらす可能性のある、まとまった時間の休暇の活用方法や意義を探ります。"
     },
     {
       "category": "QA",
@@ -290,16 +290,6 @@
       "excerpt": "Process mapping creates value as it helps people understand the business context of the work they are doing. One tool to do this is the SIPOC diagram, which I use and I learned about on my Black Belt training. Get a free PowerPoint SIPOC diagram template. Join the Project Management Resource Library to get the template and lots of other free project management templates, checklists, and guides. Whether you want to understand how customers move through your small business, or mapping the processes used on a major civil engineering project, SIPOC is a visual process mapping tool that can help yo",
       "titleJa": "SIPOC図の作成方法と各ツール対応(PowerPointテンプレート付)",
       "summaryJa": "プロセスマッピング手法の一つであるSIPOC図の活用方法とテンプレートを紹介。顧客フローから大規模プロジェクトのプロセスまで、ビジュアルなプロセス分析ツールとしてのSIPOC図の使用方法を実践的に解説している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Let's Read Continuous Discovery Habits Together (July 2026)",
-      "url": "https://www.producttalk.org/cdh-book-club-july-2026/",
-      "publishedAt": "2026-07-06T13:00:02.000Z",
-      "excerpt": "Continuous Discovery Habits turned five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
-      "titleJa": "『継続的ディスカバリーの習慣』を一緒に読む（2026年7月開始）",
-      "summaryJa": "『継続的ディスカバリーの習慣』が5周年を迎えたことを記念して、毎月詳細な読書ガイドを公開するプロジェクトが始まります。各月の学習章、重要なコンセプト、解説動画などが含まれた読書体験プログラムです。"
     }
   ]
 }
