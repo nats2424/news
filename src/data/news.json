@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-28T13:27:34.986Z",
+  "updatedAt": "2026-07-28T19:04:22.277Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
+      "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
+      "publishedAt": "2026-07-28T15:54:24.000Z",
+      "excerpt": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
+      "titleJa": "11の人気プロダクト、1年間無料—Product Pass過去2年最大の拡大",
+      "summaryJa": "Runway、Higgsfield、Waking Up、Brain.fmなど11のプロダクトがProduct Passに新たに加わり、Annual及びInsiderメンバーシップに含まれることが発表されました。2年間で最大規模の拡大です。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to Manage Project Scope Without Scope Creep (with examples)",
+      "url": "https://rebelsguidetopm.com/how-to-manage-project-scope-without-scope-creep/",
+      "publishedAt": "2026-07-28T13:51:57.000Z",
+      "excerpt": "Most projects don’t deliver their original scope: 54% of projects fail to deliver the agreed-upon functionality. One of the reasons for that is scope creep – and that’s what this article is all about. What is scope creep? Scope creep in project management is where additional requirements are added to the project, beyond what was originally agreed, and these additions are not formally authorized. Scope creep happens when the project sponsor says, “Can you just…?” (By the way, the answer to that question is: “Yes, let me analyze what the impact will be and bring you a recommendation for what tha",
+      "titleJa": "スコープクリープなしでプロジェクト範囲を管理する方法",
+      "summaryJa": "54%のプロジェクトが当初の合意機能を提供できていない原因の一つがスコープクリープです。本記事では、正式に承認されていない追加要件がプロジェクトに加わることの対策と、スポンサーからの追加リクエストへの対応方法を解説します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -120,16 +140,6 @@
       "excerpt": "Community Wisdom 194",
       "titleJa": "コミュニティの知見：パイロット期間中のクライアント関係維持、Linearと検出ツールの組み合わせ、AIの自動化限界ほか",
       "summaryJa": "Lennyのニュースレターによるコミュニティの知見まとめ。クライアント関係の維持方法、開発ツール選定のベストプラクティス、AI自動化の実践的な制限、Techstarsの投資価値評価など、プロダクトマネージャーに有用な複数のテーマについての実例と推奨事項を紹介している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Claude Opus 5 review: this model is brilliant (but annoying)",
-      "url": "https://www.lennysnewsletter.com/p/claude-opus-5-review-this-model-is",
-      "publishedAt": "2026-07-24T17:15:25.000Z",
-      "excerpt": "Watch now | 🎙️ I ran Opus 5 through my seven-model benchmark, compared it with six other leading models, and came away with a verdict I genuinely didn’t expect",
-      "titleJa": "Claude Opus 5レビュー：優秀だが厄介な側面も",
-      "summaryJa": "7つのモデルベンチマークでOpsus 5を検証し、他の6つの主要モデルと比較した結果をレポート。予想外の評価が得られたという。このモデルの性能と実用性についての詳細な分析がまとめられている。"
     },
     {
       "category": "QA",
