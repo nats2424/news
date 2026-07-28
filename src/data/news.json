@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-28T08:11:58.763Z",
+  "updatedAt": "2026-07-28T13:27:34.986Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum isn't for stormtroopers",
+      "url": "https://www.scrum.org/resources/blog/scrum-isnt-stormtroopers",
+      "publishedAt": "2026-07-28T13:00:00.000Z",
+      "excerpt": "Image When managers rely on command-and-control leadership instead of empowering the Scrum team to solve problems, they stifle creativity and limit the value the team can deliver. Scrum is designed for complex environments: places where creativity, adaptation, and real-time problem-solving are essential to delivering value. In that setting, leaders need to lead differently. Rather using the force (or velocity) to choke their underlings, leaders should: Empower Scrum team members Remove impediments Ensure the team has the resources it needs Promote role clarity Investing in the team’s growth an",
+      "titleJa": "Scrumは命令統制型の管理手法ではない",
+      "summaryJa": "マネージャーが命令統制型のリーダーシップに頼ると、Scrumチームの創意工夫を阻害し、チームが提供できる価値を制限してしまいます。複雑な環境での創造性と適応を重視するScrumでは、リーダーはチームの権限化、障害物の除去、必要なリソース確保、役割明確化、成長への投資を通じて異なるリーダーシップが必要です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -70,16 +80,6 @@
       "excerpt": "This blog post is like a customer discovery to deeply understand a Scrum Master’s fears, anxieties, hopes, dreams, … in the age of AI. Image In February 2026, Scrum.org released its AI course for Scrum Masters named PSM-AI Essentials. Since then, many Scrum Masters have participated in that class to weaponize themselves with the AI skillset that is inevitable. In this blog post, I want to deep dive and dissect why Scrum Masters decide to learn AI. It is like a customer discovery that needs a deep understanding of the Scrum Masters’ fears, anxieties, hopes, dreams, … To do so, I will use the na",
       "titleJa": "Scrum Masterが今、AIを学ぶべき理由：恐れと期待の深層理解",
       "summaryJa": "Scrum.orgが2026年2月にリリースした「PSM-AI Essentials」コースの背景を探る記事。Scrum Masterが直面するAI時代への不安と希望を顧客発見的アプローチで分析。キャリア維持と組織への価値提供のため、多くのScrum Masterが主体的にAIスキル習得に踏み切る理由を考察。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Managing AI Risks in your Definition of Done",
-      "url": "https://www.scrum.org/resources/blog/managing-ai-risks-your-definition-done",
-      "publishedAt": "2026-07-27T13:50:13.000Z",
-      "excerpt": "It passed every check. The automated tests were green. The code review was done. The acceptance criteria were met. The feature was deployed to staging and behaved exactly as described in the ticket. By every measure the team had, this work was done. Then it hit production. Within 48 hours, the infosec team flagged two critical security vulnerabilities. A third-party library had been quietly included in the AI-generated code, one with a known Common Vulnerability and Exposure (CVE) and a licensing conflict that Legal was very unhappy about. And when the team sat down to understand what had actu",
-      "titleJa": "Definition of DoneにAIリスク管理を組み込む",
-      "summaryJa": "自動テストやコードレビューに合格し、全ての受け入れ基準を満たしたAI生成コードがプロダクション環境で予期しないセキュリティ脆弱性を引き起こしました。既知のCVEを持つ外部ライブラリが含まれており、Definition of Doneにセキュリティリスク評価を含める必要性を浮き彫りにしています。"
     },
     {
       "category": "PdM",
@@ -270,26 +270,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to reinvent a 14-year-old company—not once, but twice? In this episode of Just Now Possible, Teresa Torres talks with Sam Eitzen (Co-founder & CEO), Joe Eitzen (Co-founder & CPO), and Patrick Ellis",
       "titleJa": "14年の歴史を2度再発明：Snapbarの写真体験革新の軌跡",
       "summaryJa": "COVID禍でのピボットからAI時代への適応まで、Snapbarがどのように企業を根本的に変革したかを、創業者兼CEO、創業者兼CPOへのインタビューを通じて紹介します。長年のプロダクトを革新し続けるための戦略と実行力に迫ります。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Stepping Into Leadership - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/stepping-into-leadership-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-07-07T13:00:28.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Every product manager wants to move into leadership — but nobody wants to hire a leader without leadership experience. So how do you break the cycle? In this episode, Teresa and Petra unpack the practical, often-overlooked ways individual contributors can build",
-      "titleJa": "プロダクトマネージャーのリーダーシップへのキャリアパス",
-      "summaryJa": "プロダクトマネージャーがリーダーシップポジションへ昇進する際の課題と対策を、Teresa TorresとPetra Willeが探討。リーダーシップ経験がない状態での採用という矛盾を解決するため、個別貢献者が実践的にリーダーシップスキルを構築する方法を紹介。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to Create a Powerful PMO Mission Statement",
-      "url": "https://rebelsguidetopm.com/pmo-mission-statement/",
-      "publishedAt": "2026-07-07T12:01:16.000Z",
-      "excerpt": "There's a lot riding on getting your PMO mission statement right. After all, the mission statement is what will guide the PMO as it strives to achieve its goals and objectives. Creating a powerful PMO mission statement doesn't have to be difficult - but it does require some thought and careful planning. Why have a mission statement for the PMO? The PMO is responsible for ensuring that an organization's projects are well-organized, well-run, and produce the desired results. A key part of a PMO leader's job is to develop and maintain project management standards and processes and to support the ",
-      "titleJa": "効果的なPMOミッションステートメントの策定方法",
-      "summaryJa": "PMO(プロジェクト管理オフィス)のミッションステートメント作成の重要性と、その策定プロセスについて解説。組織のプロジェクトが適切に運営され、目標を達成するためのミッションステートメント開発のポイントを紹介している。"
     }
   ]
 }
