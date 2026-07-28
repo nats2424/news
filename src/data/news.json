@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-27T19:09:00.302Z",
+  "updatedAt": "2026-07-28T01:24:23.692Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Sauce Labs AURA, Playwright Tracing, Loop Engineering and More TGNS191",
+      "url": "https://testguild.com/podcast/n191-jul27/",
+      "publishedAt": "2026-07-27T21:43:05.000Z",
+      "excerpt": "About This Episode: Did you know that more than half of enterprises admit they ship code with known critical defects? […]",
+      "titleJa": "Sauce Labs AURA、Playwright Tracing、Loop Engineeringなど",
+      "summaryJa": "エンタープライズの半数以上が既知の重大欠陥を持つコードを出荷していることが実態として指摘されている。本エピソードではSauce Labs AURAやPlaywright Tracingなど、テスト自動化と品質保証の最新ツール・技術について取り上げている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -260,16 +270,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to reinvent a 14-year-old company—not once, but twice? In this episode of Just Now Possible, Teresa Torres talks with Sam Eitzen (Co-founder & CEO), Joe Eitzen (Co-founder & CPO), and Patrick Ellis",
       "titleJa": "14年の歴史を2度再発明：Snapbarの写真体験革新の軌跡",
       "summaryJa": "COVID禍でのピボットからAI時代への適応まで、Snapbarがどのように企業を根本的に変革したかを、創業者兼CEO、創業者兼CPOへのインタビューを通じて紹介します。長年のプロダクトを革新し続けるための戦略と実行力に迫ります。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Agentic Engineering for Testers: How to Automate Your Way to the Top with Amit Rawat",
-      "url": "https://testguild.com/podcast/a595-amit/",
-      "publishedAt": "2026-07-07T23:03:51.000Z",
-      "excerpt": "About This Episode: Amit Rawat is an agentic engineer who spent two decades in QA before shifting fully into building […]",
-      "titleJa": "テスターのためのエージェンティック・エンジニアリング：Amit Rawatと学ぶ自動化による成長",
-      "summaryJa": "20年間のQA経験を持つアジェンティック・エンジニア、Amit Rawatが、テスターのキャリア発展を支援する話。自動化技術を活用して業務効率を高め、スキルアップを実現する方法について解説されている。"
     },
     {
       "category": "PdM",
