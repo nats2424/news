@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-07-28T01:24:23.692Z",
+  "updatedAt": "2026-07-28T08:11:58.763Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Warum Aufwandsschätzungen in der Softwareentwicklung gleichzeitig sinnvoll und gefährlich sind",
+      "url": "https://www.scrum.org/resources/blog/warum-aufwandsschatzungen-der-softwareentwicklung-gleichzeitig-sinnvoll-und-gefahrlich-sind",
+      "publishedAt": "2026-07-28T06:55:58.000Z",
+      "excerpt": "Softwareentwicklung ist komplex – und Komplexität lässt sich nicht exakt planen Viele Diskussionen rund um Aufwandsschätzungen beginnen mit einer stillschweigenden Annahme: Wenn ein Team nur genug Erfahrung hat und sorgfältig genug schätzt, dann müssten die Ergebnisse doch irgendwann zuverlässig werden. Genau darin liegt jedoch oft der Denkfehler. Softwareentwicklung ist in vielen Fällen keine komplizierte, sondern eine komplexe Arbeit. Der Unterschied ist entscheidend. Ein kompliziertes Problem lässt sich analysieren, zerlegen und mit genügend Fachwissen relativ verlässlich planen. Ein komple",
+      "titleJa": "ソフトウェア開発の見積もりが有用でもあり危険でもある理由",
+      "summaryJa": "ソフトウェア開発は複雑な作業であり、単なる経験と慎重な見積もりだけでは信頼性の高い計画は実現しない。複雑な問題は単純に分解・分析できず、完全な予測は困難であるという認識が重要である。見積もりの信頼性向上には、この本質的な限界を理解した上でのアプローチが必要である。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Mein KI-Set-up für Product-Discovery: Wie ich Kundeninterviews und „Opportunity-Mining“ nie wieder manuell auswerte",
+      "url": "https://www.scrum.org/resources/blog/mein-ki-set-fur-product-discovery-wie-ich-kundeninterviews-und-opportunity-mining-nie-wieder-manuell-auswerte",
+      "publishedAt": "2026-07-28T06:00:00.000Z",
+      "excerpt": "Produktentdeckung auf das Wesentliche reduziert: Mit einem angestrebten Impact beginnen – also mit messbarem Geschäftswert Unerfüllte Kundenbedürfnisse, Probleme und Wünsche entdecken – wir nennen sie Möglichkeiten oder Opportunities Lösungen finden, die diese Opportunities so adressieren, dass sie Geschäftswert erzeugen Der Impact beschreibt den Geschäftswert. Die Opportunities stellen den Kundenwert dar. Product-Ownern müssen sicherzustellen, dass mögliche Lösungen beidem gerecht werden. So einfach ist es in der Theorie. In der Praxis kostet Produktentdeckung viel Zeit. Heute stelle ich dir ",
+      "titleJa": "プロダクトディスカバリーをAIで自動化する実践的セットアップ",
+      "summaryJa": "顧客インタビューやOpportunity分析の手動作業を削減するため、AIを活用したプロダクトディスカバリーの自動化手法を紹介。ビジネス価値を起点に顧客ニーズを発掘し、それに対応する解決策を効率的に評価することで、Product Ownerの意思決定を加速させる。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Wie drei Jira-Spalten Release-Prognosen sabotieren – und wie Scrum Teams ihr Board reparieren",
+      "url": "https://www.scrum.org/resources/blog/wie-drei-jira-spalten-release-prognosen-sabotieren-und-wie-scrum-teams-ihr-board-reparieren",
+      "publishedAt": "2026-07-28T06:00:00.000Z",
+      "excerpt": "Wenn Unternehmen mich anfragen, klingt das häufig so: „Teams sollen verlässlicher liefern. Termine müssen eingehalten werden. Releases müssen planbar werden.“ Hinter jedem verpassten Termin stehen Budget, Marktchancen, Kundenvertrauen und strategische Entscheidungen. Eine Analyse von McKinsey und der University of Oxford hat mehr als 5400 große IT-Projekte ausgewertet und kommt zu einem ernüchternden Ergebnis: Große IT-Vorhaben überziehen ihr Budget im Schnitt um 45 Prozent, ihre Zeit um 7 Prozent und liefern dabei 56 Prozent weniger Wert als ursprünglich erwartet. Die CHAOS Reports der Standi",
+      "titleJa": "Jiraのボード設計がリリース予測を阻害する理由と改善方法",
+      "summaryJa": "多くのIT大型プロジェクトが予算超過や納期遅延に直面している現状から、Jiraボードの不適切な列構成がリリース予測精度を低下させることを指摘。チームが正確な予測と信頼性の高い納期達成のため、ボード設計を改善する具体的なアプローチを解説する。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -60,36 +90,6 @@
       "excerpt": "Watch now | 🎙️ Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
       "titleJa": "コード未経験からハードウェアハッカーへ：CursorとRaspberry Piで実現するAI活用",
       "summaryJa": "Maddie Reeseはカーソルとキューの簡単なアイデアを組み合わせて、メッセージ機能付きサーマルプリンター、Twitterポケットベル、パーソナルAPIを構築しました。実用性よりも楽しさを重視することで、ノーコード背景からハードウェアハッキングへと進化させた事例です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Avoid AI Debt by Borrowing from Agile Artifacts",
-      "url": "https://www.scrum.org/resources/blog/how-avoid-ai-debt-borrowing-agile-artifacts",
-      "publishedAt": "2026-07-27T09:16:33.000Z",
-      "excerpt": "TL; DR: Reusing Agile Artifacts to Avoid Accumulating AI Debt In this video from the 76th Hands-on Agile Meetup, I walk you through the A3 Delegation System and show how it helps avoid AI debt by borrowing artifacts and practices from Agile, such as the Definition of Done and Retrospectives. If you’d like to download the corresponding canvases (the artifacts of the A3 Delegation System), check out the original blog post. (You will get a full set of PDFs, along with the guide to the A3 Delegation System, so that you can run the system with your own teams.) Image 🗞 Shall I notify you about arti",
-      "titleJa": "AIの技術的負債を回避するためのアジャイル手法の活用",
-      "summaryJa": "A3デリゲーションシステムを用いて、Definition of Doneやレトロスペクティブなどのアジャイル成果物を再活用し、AI導入時の技術的負債の蓄積を防ぐ方法を紹介。実践的なキャンバスとガイドも提供されている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Der heimliche Feind jedes Product-Owners: 5 Mythen, die Karrieren ruinieren",
-      "url": "https://www.scrum.org/resources/blog/der-heimliche-feind-jedes-product-owners-5-mythen-die-karrieren-ruinieren",
-      "publishedAt": "2026-07-27T05:15:00.000Z",
-      "excerpt": "Werden Mythen über Product-Ownership aktiv verbreitet, um Product-Owner kleinzuhalten? Manchmal kommt es mir so vor. Und ja, ich denke gerade an dich, SAFe – den Saboteur agiler Softwareentwicklung. In diesem Artikel werde ich mit den 5 häufigsten Mythen aufräumen und aufdecken, warum die Verbreitung gefährlich für die Karrieren von Product-Ownern ist. Los geht’s ... Mythos #1: Der Product-Owner muss alle Product-Backlog-Einträge selbst schreiben Viele Product-Owner sind überlastet: Die Hälfte der Zeit vergeht in Abstimmungsmeetings. Die andere Hälfte damit, Tickets in Jira zu formulieren. Dam",
-      "titleJa": "プロダクトオーナーの落とし穴：キャリアを左右する5つの誤解",
-      "summaryJa": "プロダクトオーナーシップに関する5つの一般的な誤解を暴露し、それらがキャリアに及ぼす危険性について解説。バックログアイテムの執筆負担など、実務的な課題の本質を明らかにする。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Project Manager Isn't Dead. It Was Disassembled on Purpose!",
-      "url": "https://www.scrum.org/resources/blog/project-manager-isnt-dead-it-was-disassembled-purpose",
-      "publishedAt": "2026-07-27T02:16:33.000Z",
-      "excerpt": "Image I see it everywhere. In LinkedIn posts, in heated comment threads, and maybe most tellingly, in job descriptions that quietly list \"Scrum Master / Project Manager\" as if the slash were doing no work at all. The framing is always the same: Scrum Master versus Project Manager. Which one is better? Which one is being replaced? Which title should you put on your CV? And every time I see it, I think the same thing: we're asking the wrong question. The comparison that never quite fits On the surface, the comparison makes sense. Both roles hover around a team. Both care about things getting don",
-      "titleJa": "プロジェクトマネージャーは廃止されていない、意図的に分解されたのだ",
-      "summaryJa": "スクラムマスターとプロジェクトマネージャーの比較が頻繁に行われるが、この議論の根本的な問題点を指摘。両職種の役割と関係性を改めて検討する必要性を論じる。"
     },
     {
       "category": "QA",
