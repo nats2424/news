@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-28T19:04:22.277Z",
+  "updatedAt": "2026-07-29T01:24:42.907Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Test Automation Won’t Save Your QA Career, but These Skills Will with Keith Klain",
+      "url": "https://testguild.com/podcast/a598-keith/",
+      "publishedAt": "2026-07-28T19:32:00.000Z",
+      "excerpt": "About This Episode: Keith Klain has spent 25+ years leading enterprise quality programs in financial services and is one of […]",
+      "titleJa": "テスト自動化だけでは不十分、QAキャリアを守るために必要なスキルとは",
+      "summaryJa": "25年以上の金融サービス業界での品質プログラム経営経験を持つKeith Klainが、QAプロフェッショナルのキャリア発展に必要とされるスキルについて解説。テスト自動化技術だけでなく、それ以外の視点から求められる能力や経験について論じた内容。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -240,16 +250,6 @@
       "excerpt": "Projects and operations are both necessary for businesses to succeed, but they require different approaches. When it comes to managing them effectively, understanding the differences between projects and operations is key. From examples of project activities in a business versus operational activities to strategies for balancing projects and operations simultaneously -- this article will help you understand the differences and consider the similarities. Projects vs operations The short answer to the question: “What’s the difference between projects and operations?” is this. Projects change the",
       "titleJa": "プロジェクトと運用業務の違いを理解する",
       "summaryJa": "ビジネス成功に必要なプロジェクトと運用業務は異なるアプローチが必要です。本記事では、プロジェクト活動と運用活動の具体例を通じて両者の相違点を解説し、同時に両者のバランスを取るための戦略を提示します。プロジェクトマネジメント実践のために両概念を正確に理解することが重要です。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "How to Move from Prompt Engineering to Harness Engineering in Testing with Matt Wynne",
-      "url": "https://testguild.com/podcast/a596-matt/",
-      "publishedAt": "2026-07-14T21:39:06.000Z",
-      "excerpt": "About This Episode: Matt Wynne, co-creator of Cucumber and BDD practitioner, joins Joe for the first time in over a […]",
-      "titleJa": "テストにおけるプロンプトエンジニアリングからハーネスエンジニアリングへの移行（Matt Wynne氏出演）",
-      "summaryJa": "Cucumberの共同開発者でBDD実践者のMatt Wynne氏がゲスト出演。テスト領域におけるプロンプトエンジニアリングからハーネスエンジニアリングへの転換について、その必要性と実装方法を探る内容。AIの活用がテスト自動化にもたらす変化と、効果的なテスト戦略の進化について議論される。"
     },
     {
       "category": "PdM",
