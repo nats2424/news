@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-30T08:04:53.822Z",
+  "updatedAt": "2026-07-30T13:23:32.345Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "🇩🇪 Konflikte surfen statt lösen",
+      "url": "https://www.scrum.org/resources/blog/konflikte-surfen-statt-losen",
+      "publishedAt": "2026-07-30T10:58:27.000Z",
+      "excerpt": "Konflikte surfen statt lösen Wenn in Deinem Team nie gestritten wird, ist das kein gutes Zeichen. Klingt verkehrt? Ich weiss. Denn die meisten von uns haben gelernt: Ein gutes Team ist ein ruhiges Team. Keine Reibung, kein Streit, alle nicken im Review, alle gehen zufrieden raus. Und wenn es doch mal knirscht, dann ist das unser Job - schnell drüber, Harmonie wiederherstellen, weiter im Text. Ich habe das jahrelang geglaubt. Konflikte haben mir früher schlicht Angst gemacht. Sie sind unberechenbar, schwer steuerbar, man weiss nie, wo es hingeht. Eskaliert das? Kriege ich das wieder eingefangen",
+      "titleJa": "チームの対立を避けるのではなく向き合う",
+      "summaryJa": "多くのマネージャーは衝突のないチームが良いチームだと考えがちですが、実際には健全なチームには建設的な議論が不可欠です。本記事は、対立を恐れるのではなく、それを適切に管理し、チームの成長に活かす重要性について論じています。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -100,16 +110,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "Claude Opus 5レビュー＆ブラウザ操作機能、CursorとRaspberry Piで体験するAI活用",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」番組の最新エピソード。Claude Opus 5の性能評価、Codexでのブラウザ自動操作機能、CursorとRaspberry Piを組み合わせたユニークなAI活用例を紹介。プロダクトマネジャーとして知っておきたいAI技術の実践的な活用シーンを複数取り上げている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Understand Yourself Deeply: Why Scrum Masters Decide to Learn AI",
-      "url": "https://www.scrum.org/resources/blog/understand-yourself-deeply-why-scrum-masters-decide-learn-ai",
-      "publishedAt": "2026-07-27T14:15:39.000Z",
-      "excerpt": "This blog post is like a customer discovery to deeply understand a Scrum Master’s fears, anxieties, hopes, dreams, … in the age of AI. Image In February 2026, Scrum.org released its AI course for Scrum Masters named PSM-AI Essentials. Since then, many Scrum Masters have participated in that class to weaponize themselves with the AI skillset that is inevitable. In this blog post, I want to deep dive and dissect why Scrum Masters decide to learn AI. It is like a customer discovery that needs a deep understanding of the Scrum Masters’ fears, anxieties, hopes, dreams, … To do so, I will use the na",
-      "titleJa": "Scrum Masterが今、AIを学ぶべき理由：恐れと期待の深層理解",
-      "summaryJa": "Scrum.orgが2026年2月にリリースした「PSM-AI Essentials」コースの背景を探る記事。Scrum Masterが直面するAI時代への不安と希望を顧客発見的アプローチで分析。キャリア維持と組織への価値提供のため、多くのScrum Masterが主体的にAIスキル習得に踏み切る理由を考察。"
     },
     {
       "category": "PdM",
@@ -270,16 +270,6 @@
       "excerpt": "I’ve long used products from Cornelius Fichtner of The Project Management PrepCast fame for my own professional development. But I also know the team behind Brain Sensei. So how does Brain Sensei compare to the PM PrepCast? That’s what we’re covering in this article. I’ve used them both, I’ve had conversations with both teams, and over the year’s I’ve come to appreciate what they are both good at. Let’s do the comparison of their PMP training! Packages For a start, both companies offer Project Management Professional (PMP)® training. Brain Sensei offers: A self-paced PMP prep course that inclu",
       "titleJa": "Brain SenseiとPM PrepCastの比較検討",
       "summaryJa": "PMP資格取得の学習教材として知られるBrain SenseiとPM PrepCastの両方を実際に使用した著者が、パッケージ内容や機能、サポート体制などを詳細に比較。プロジェクト管理専門家認定試験対策教材の選択判断に役立つ情報を提供している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "From COVID Pivot to AI World Building: How Snapbar Reinvented the Photo Experience",
-      "url": "https://www.producttalk.org/from-covid-pivot-to-ai-world-building-how-snapbar-reinvented-the-photo-experience/",
-      "publishedAt": "2026-07-09T13:00:43.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to reinvent a 14-year-old company—not once, but twice? In this episode of Just Now Possible, Teresa Torres talks with Sam Eitzen (Co-founder & CEO), Joe Eitzen (Co-founder & CPO), and Patrick Ellis",
-      "titleJa": "14年の歴史を2度再発明：Snapbarの写真体験革新の軌跡",
-      "summaryJa": "COVID禍でのピボットからAI時代への適応まで、Snapbarがどのように企業を根本的に変革したかを、創業者兼CEO、創業者兼CPOへのインタビューを通じて紹介します。長年のプロダクトを革新し続けるための戦略と実行力に迫ります。"
     }
   ]
 }
