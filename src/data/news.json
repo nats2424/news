@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-07-31T13:28:05.864Z",
+  "updatedAt": "2026-07-31T19:05:16.249Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP108 Why Product Teams Slow Down as Companies Scale — And What to Do About It",
+      "url": "https://www.productcoalition.com/p/ep108-why-product-teams-slow-down",
+      "publishedAt": "2026-07-31T17:03:04.000Z",
+      "excerpt": "Summary",
+      "titleJa": "企業成長に伴うプロダクトチームの停滞と対策",
+      "summaryJa": "企業規模の拡大に伴い、プロダクトチームの開発速度が低下する理由と、その問題に対する具体的な対策について解説します。組織の成長段階での課題認識と改善方法を取り上げています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
