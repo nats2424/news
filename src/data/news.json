@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-07-30T19:06:49.632Z",
+  "updatedAt": "2026-07-31T01:44:20.432Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your framework has been doing your thinking. That's the problem.",
+      "url": "https://www.scrum.org/resources/blog/your-framework-has-been-doing-your-thinking-thats-problem",
+      "publishedAt": "2026-07-30T22:00:00.000Z",
+      "excerpt": "The new engineer asked her question in the second week, in the most innocent voice imaginable. \"Why do we do the estimation poker?\" The room paused. Someone said it helps with planning. She asked how. Someone else said it surfaces different perspectives. She asked whether it had ever actually changed a plan. Nobody could think of a time. Then the facilitator said the sentence that ends every conversation like this one. \"It's just part of how Scrum works.\" And that was that. The meeting moved on. The team kept doing the thing none of them could justify, because the framework said to, and a fram",
+      "titleJa": "フレームワークが思考を奪っている問題",
+      "summaryJa": "新入りエンジニアがプランニングポーカーの必要性を質問し、チームが正当な理由を説明できず「Scrumに含まれているから」という答えに落ち着く。フレームワークが指示するから実行する思考停止的なプラクティスの危険性を指摘した記事。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "“Scrum didn’t work for us.”",
+      "url": "https://www.scrum.org/resources/blog/scrum-didnt-work-us",
+      "publishedAt": "2026-07-30T19:31:05.000Z",
+      "excerpt": "Image This is what a colleague said to me once. Hey, I’m not religious about Scrum, and if it really didn’t work, that’s really fine with me — but in my experience Scrum is so lightweight that if it isn’t working for us, it probably isn’t the framework itself, but gaps or distortions in how it is used. For instance, Scrum won’t help us if our Scrum Teams are not cross-functional and self-managing, which was the truth of the person who said that to me. If they are not cross-functional and self-managing, it’s not Scrum. It may be a case of externally managed teams working in something that looks",
+      "titleJa": "「Scrumが機能しなかった」という誤解",
+      "summaryJa": "Scrumが上手くいかないと報告するチームの多くは、フレームワーク自体の問題ではなく、その使用方法に歪みや欠陥がある場合が多い。特にクロスファンクショナルで自己管理できるチーム構成になっていないと、真のScrumにはならないという指摘。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,26 +80,6 @@
       "excerpt": "Softwareentwicklung ist komplex – und Komplexität lässt sich nicht exakt planen Viele Diskussionen rund um Aufwandsschätzungen beginnen mit einer stillschweigenden Annahme: Wenn ein Team nur genug Erfahrung hat und sorgfältig genug schätzt, dann müssten die Ergebnisse doch irgendwann zuverlässig werden. Genau darin liegt jedoch oft der Denkfehler. Softwareentwicklung ist in vielen Fällen keine komplizierte, sondern eine komplexe Arbeit. Der Unterschied ist entscheidend. Ein kompliziertes Problem lässt sich analysieren, zerlegen und mit genügend Fachwissen relativ verlässlich planen. Ein komple",
       "titleJa": "ソフトウェア開発の見積もりが有用でもあり危険でもある理由",
       "summaryJa": "ソフトウェア開発は複雑な作業であり、単なる経験と慎重な見積もりだけでは信頼性の高い計画は実現しない。複雑な問題は単純に分解・分析できず、完全な予測は困難であるという認識が重要である。見積もりの信頼性向上には、この本質的な限界を理解した上でのアプローチが必要である。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Mein KI-Set-up für Product-Discovery: Wie ich Kundeninterviews und „Opportunity-Mining“ nie wieder manuell auswerte",
-      "url": "https://www.scrum.org/resources/blog/mein-ki-set-fur-product-discovery-wie-ich-kundeninterviews-und-opportunity-mining-nie-wieder-manuell-auswerte",
-      "publishedAt": "2026-07-28T06:00:00.000Z",
-      "excerpt": "Produktentdeckung auf das Wesentliche reduziert: Mit einem angestrebten Impact beginnen – also mit messbarem Geschäftswert Unerfüllte Kundenbedürfnisse, Probleme und Wünsche entdecken – wir nennen sie Möglichkeiten oder Opportunities Lösungen finden, die diese Opportunities so adressieren, dass sie Geschäftswert erzeugen Der Impact beschreibt den Geschäftswert. Die Opportunities stellen den Kundenwert dar. Product-Ownern müssen sicherzustellen, dass mögliche Lösungen beidem gerecht werden. So einfach ist es in der Theorie. In der Praxis kostet Produktentdeckung viel Zeit. Heute stelle ich dir ",
-      "titleJa": "プロダクトディスカバリーをAIで自動化する実践的セットアップ",
-      "summaryJa": "顧客インタビューやOpportunity分析の手動作業を削減するため、AIを活用したプロダクトディスカバリーの自動化手法を紹介。ビジネス価値を起点に顧客ニーズを発掘し、それに対応する解決策を効率的に評価することで、Product Ownerの意思決定を加速させる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Wie drei Jira-Spalten Release-Prognosen sabotieren – und wie Scrum Teams ihr Board reparieren",
-      "url": "https://www.scrum.org/resources/blog/wie-drei-jira-spalten-release-prognosen-sabotieren-und-wie-scrum-teams-ihr-board-reparieren",
-      "publishedAt": "2026-07-28T06:00:00.000Z",
-      "excerpt": "Wenn Unternehmen mich anfragen, klingt das häufig so: „Teams sollen verlässlicher liefern. Termine müssen eingehalten werden. Releases müssen planbar werden.“ Hinter jedem verpassten Termin stehen Budget, Marktchancen, Kundenvertrauen und strategische Entscheidungen. Eine Analyse von McKinsey und der University of Oxford hat mehr als 5400 große IT-Projekte ausgewertet und kommt zu einem ernüchternden Ergebnis: Große IT-Vorhaben überziehen ihr Budget im Schnitt um 45 Prozent, ihre Zeit um 7 Prozent und liefern dabei 56 Prozent weniger Wert als ursprünglich erwartet. Die CHAOS Reports der Standi",
-      "titleJa": "Jiraのボード設計がリリース予測を阻害する理由と改善方法",
-      "summaryJa": "多くのIT大型プロジェクトが予算超過や納期遅延に直面している現状から、Jiraボードの不適切な列構成がリリース予測精度を低下させることを指摘。チームが正確な予測と信頼性の高い納期達成のため、ボード設計を改善する具体的なアプローチを解説する。"
     },
     {
       "category": "QA",
