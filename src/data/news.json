@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-01T12:52:48.630Z",
+  "updatedAt": "2026-08-01T18:51:40.565Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-started",
+      "publishedAt": "2026-08-01T17:25:18.000Z",
+      "excerpt": "Community Wisdom 195",
+      "titleJa": "コミュニティの知見：オープンソースモデル入門から組織の課題まで",
+      "summaryJa": "Lenny's Newsletterのコミュニティ知見コーナーが、オープンソースモデルの導入、出張の有効活用、レイオフへの準備、マーケティングと製品開発のギャップなど、プロダクト・マネージャーが直面する実践的な課題や知識を共有。複数のトピックを通じて、組織横断的な問題解決のヒントを提供している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -150,16 +160,6 @@
       "excerpt": "Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
       "titleJa": "Anthropic初代PM、トークン最大化と段階的進化戦略を語る",
       "summaryJa": "Anthropicの初代PM、Dianne Pennへのインタビュー。Claudeの支配的地位を築いた重要な判断—コーディング機能への注力、Eval駆動開発ループ、そしてコーディング課題解決後の次のフロンティアについて議論している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Staying on a client’s radar during pilot purgatory, pairing Linear with a discovery tool, the limits of what AI can automate, whether Techstars is worth it, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-staying-on-a-clients",
-      "publishedAt": "2026-07-25T16:01:44.000Z",
-      "excerpt": "Community Wisdom 194",
-      "titleJa": "コミュニティの知見：パイロット期間中のクライアント関係維持、Linearと検出ツールの組み合わせ、AIの自動化限界ほか",
-      "summaryJa": "Lennyのニュースレターによるコミュニティの知見まとめ。クライアント関係の維持方法、開発ツール選定のベストプラクティス、AI自動化の実践的な制限、Techstarsの投資価値評価など、プロダクトマネージャーに有用な複数のテーマについての実例と推奨事項を紹介している。"
     },
     {
       "category": "QA",
