@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T08:00:31.903Z",
+  "updatedAt": "2026-08-01T12:52:48.630Z",
   "items": [
     {
       "category": "PdM",
@@ -160,6 +160,16 @@
       "excerpt": "Community Wisdom 194",
       "titleJa": "コミュニティの知見：パイロット期間中のクライアント関係維持、Linearと検出ツールの組み合わせ、AIの自動化限界ほか",
       "summaryJa": "Lennyのニュースレターによるコミュニティの知見まとめ。クライアント関係の維持方法、開発ツール選定のベストプラクティス、AI自動化の実践的な制限、Techstarsの投資価値評価など、プロダクトマネージャーに有用な複数のテーマについての実例と推奨事項を紹介している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Some Class Recordings Are Available",
+      "url": "https://www.satisfice.com/blog/archives/488173",
+      "publishedAt": "2026-07-24T12:34:19.000Z",
+      "excerpt": "For the foreseeable future, I will not be scheduling public classes on my own behalf. I am still available for private classes, and I will even do public classes as long as long I’m not the one organizing and marketing it. But if you REALLY want to take one of my classes, you could purchase […]",
+      "titleJa": "クラス録画の一部が利用可能に",
+      "summaryJa": "著者は今後、自ら公開クラスの開催予定を立てないと発表しています。ただしプライベートクラスは引き続き提供しており、他者が企画・マーケティングを行う場合は公開クラスも実施可能です。詳細は本文を参照してください。"
     },
     {
       "category": "PdM",
