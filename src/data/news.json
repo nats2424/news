@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-02T08:02:31.626Z",
+  "updatedAt": "2026-08-02T12:54:27.040Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
+      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
+      "publishedAt": "2026-08-02T12:32:02.000Z",
+      "excerpt": "Listen now | Tom Verrilli explains why fewer, more senior PMs doing real IC work outperform any ratio-driven org structure",
+      "titleJa": "プロダクトマネジメント職の存在を後悔するCPO",
+      "summaryJa": "Whatnotの最高プロダクト責任者Tom Verrilliは、比率主導の組織構造よりも、実装作業に携わるシニアPMが少数精鋭で活動する方が高いパフォーマンスを発揮すると説明しています。プロダクト管理の役割設計に関する重要な考察です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -150,16 +160,6 @@
       "excerpt": "Your developers are shipping more code than they were a year ago. Probably a lot more. And your test coverage […]",
       "titleJa": "Amikooであなたのチームはどう変わるか",
       "summaryJa": "開発チームのコード出荷量が増加する一方で、テストカバレッジの課題に直面しているというシナリオから、Amikooがもたらすチームへの変化について解説しています。開発速度の向上とテスト品質のバランスを取るための実践的なアプローチが示唆されています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Anthropic’s first technical PM on token maxing, the jagged edge, and living in the future | Dianne Penn",
-      "url": "https://www.lennysnewsletter.com/p/anthropics-first-technical-pm-on",
-      "publishedAt": "2026-07-26T12:32:06.000Z",
-      "excerpt": "Listen now | Dianne Penn, Anthropic’s first PM, on the bets that made Claude dominant: the coding pivot, the eval-driven development loop, and what comes after coding is solved",
-      "titleJa": "Anthropic初代PM、トークン最大化と段階的進化戦略を語る",
-      "summaryJa": "Anthropicの初代PM、Dianne Pennへのインタビュー。Claudeの支配的地位を築いた重要な判断—コーディング機能への注力、Eval駆動開発ループ、そしてコーディング課題解決後の次のフロンティアについて議論している。"
     },
     {
       "category": "QA",
