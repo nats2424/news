@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-02T01:30:34.146Z",
+  "updatedAt": "2026-08-02T08:02:31.626Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Made Output Cheap. It Also Made Bad Strategy Impossible to Hide.",
+      "url": "https://www.scrum.org/resources/blog/ai-made-output-cheap-it-also-made-bad-strategy-impossible-hide",
+      "publishedAt": "2026-08-02T06:00:00.000Z",
+      "excerpt": "Image Somewhere in a quarterly business review this month, a technology leader is presenting a genuinely impressive number. Pull requests up. Features shipped, way up. The AI tooling landed last year and the output curve bent hard. Then someone from finance asks what all of it did to revenue, retention, or margin, and the room goes quiet in a very particular way. The honest answer is that nobody ever built the instrument that would know. On 14 July, Mik Kersten published Output to Outcome, the sequel to Project to Product. It is a 336 page answer to that silence, and the argument underneath it",
+      "titleJa": "AI が出力を低コスト化。同時に欠陥のある戦略を隠すことを不可能にした",
+      "summaryJa": "AI ツールの導入により、プルリクエストやリリース機能数が急増する一方、それが売上や顧客維持率、利益率にどう影響するかは不明確なままという課題に直面する企業が増えている。Mik Kersten 著『Output to Outcome』は、出力指標と事業成果の乖離を可視化し、真の戦略的価値を測定するための指針を示す著作。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -90,16 +100,6 @@
       "excerpt": "Image When managers rely on command-and-control leadership instead of empowering the Scrum team to solve problems, they stifle creativity and limit the value the team can deliver. Scrum is designed for complex environments: places where creativity, adaptation, and real-time problem-solving are essential to delivering value. In that setting, leaders need to lead differently. Rather using the force (or velocity) to choke their underlings, leaders should: Empower Scrum team members Remove impediments Ensure the team has the resources it needs Promote role clarity Investing in the team’s growth an",
       "titleJa": "Scrumは命令統制型の管理手法ではない",
       "summaryJa": "マネージャーが命令統制型のリーダーシップに頼ると、Scrumチームの創意工夫を阻害し、チームが提供できる価値を制限してしまいます。複雑な環境での創造性と適応を重視するScrumでは、リーダーはチームの権限化、障害物の除去、必要なリソース確保、役割明確化、成長への投資を通じて異なるリーダーシップが必要です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Warum Aufwandsschätzungen in der Softwareentwicklung gleichzeitig sinnvoll und gefährlich sind",
-      "url": "https://www.scrum.org/resources/blog/warum-aufwandsschatzungen-der-softwareentwicklung-gleichzeitig-sinnvoll-und-gefahrlich-sind",
-      "publishedAt": "2026-07-28T06:55:58.000Z",
-      "excerpt": "Softwareentwicklung ist komplex – und Komplexität lässt sich nicht exakt planen Viele Diskussionen rund um Aufwandsschätzungen beginnen mit einer stillschweigenden Annahme: Wenn ein Team nur genug Erfahrung hat und sorgfältig genug schätzt, dann müssten die Ergebnisse doch irgendwann zuverlässig werden. Genau darin liegt jedoch oft der Denkfehler. Softwareentwicklung ist in vielen Fällen keine komplizierte, sondern eine komplexe Arbeit. Der Unterschied ist entscheidend. Ein kompliziertes Problem lässt sich analysieren, zerlegen und mit genügend Fachwissen relativ verlässlich planen. Ein komple",
-      "titleJa": "ソフトウェア開発の見積もりが有用でもあり危険でもある理由",
-      "summaryJa": "ソフトウェア開発は複雑な作業であり、単なる経験と慎重な見積もりだけでは信頼性の高い計画は実現しない。複雑な問題は単純に分解・分析できず、完全な予測は困難であるという認識が重要である。見積もりの信頼性向上には、この本質的な限界を理解した上でのアプローチが必要である。"
     },
     {
       "category": "QA",
