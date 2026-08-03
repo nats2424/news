@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-03T01:44:22.567Z",
+  "updatedAt": "2026-08-03T08:59:23.777Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What AI Training Courses Are Available in the Market for Scrum Masters?",
+      "url": "https://www.scrum.org/resources/blog/what-ai-training-courses-are-available-market-scrum-masters",
+      "publishedAt": "2026-08-03T05:58:13.000Z",
+      "excerpt": "If you search the internet, you will find a flood of AI courses. Most of them are pointless for Scrum Masters. But which one of them is worth thinking about? Let me explain … Image This is important to know because you want to spend your time, money, and effort on a training course that gives you the best results. Let me be honest and to the point here. There are a lot of generic, low-quality AI courses out there, and even some of them come from the dark market. You should be careful not to get into their traps. So, the options are not too many. There are just three courses by the three main a",
+      "titleJa": "スクラムマスター向けAI研修コース：市場で本当に価値のある選択肢は？",
+      "summaryJa": "市場に溢れるAIコースの中から、スクラムマスターにとって実際に価値のあるコースを見極める方法を解説。低品質な汎用コースが多い中、実務に役立つ数少ない選択肢について、その特徴と選び方のポイントを紹介しています。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -110,16 +120,6 @@
       "excerpt": "Most projects don’t deliver their original scope: 54% of projects fail to deliver the agreed-upon functionality. One of the reasons for that is scope creep – and that’s what this article is all about. What is scope creep? Scope creep in project management is where additional requirements are added to the project, beyond what was originally agreed, and these additions are not formally authorized. Scope creep happens when the project sponsor says, “Can you just…?” (By the way, the answer to that question is: “Yes, let me analyze what the impact will be and bring you a recommendation for what tha",
       "titleJa": "スコープクリープなしでプロジェクト範囲を管理する方法",
       "summaryJa": "54%のプロジェクトが当初の合意機能を提供できていない原因の一つがスコープクリープです。本記事では、正式に承認されていない追加要件がプロジェクトに加わることの対策と、スポンサーからの追加リクエストへの対応方法を解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum isn't for stormtroopers",
-      "url": "https://www.scrum.org/resources/blog/scrum-isnt-stormtroopers",
-      "publishedAt": "2026-07-28T13:00:00.000Z",
-      "excerpt": "Image When managers rely on command-and-control leadership instead of empowering the Scrum team to solve problems, they stifle creativity and limit the value the team can deliver. Scrum is designed for complex environments: places where creativity, adaptation, and real-time problem-solving are essential to delivering value. In that setting, leaders need to lead differently. Rather using the force (or velocity) to choke their underlings, leaders should: Empower Scrum team members Remove impediments Ensure the team has the resources it needs Promote role clarity Investing in the team’s growth an",
-      "titleJa": "Scrumは命令統制型の管理手法ではない",
-      "summaryJa": "マネージャーが命令統制型のリーダーシップに頼ると、Scrumチームの創意工夫を阻害し、チームが提供できる価値を制限してしまいます。複雑な環境での創造性と適応を重視するScrumでは、リーダーはチームの権限化、障害物の除去、必要なリソース確保、役割明確化、成長への投資を通じて異なるリーダーシップが必要です。"
     },
     {
       "category": "QA",
