@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-03T14:12:26.736Z",
+  "updatedAt": "2026-08-03T19:16:35.326Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to write a project charter that gets stakeholder buy-in",
+      "url": "https://rebelsguidetopm.com/how-to-write-a-project-charter/",
+      "publishedAt": "2026-08-03T15:56:32.000Z",
+      "excerpt": "Every project starts with an idea, but ideas alone don't get teams aligned or budgets approved. That's where a project charter comes in. Writing a strong project charter gives your project a clear foundation, and more importantly, it gives you the authorization from the sponsor to begin the work. What is a project charter and why does it matter? A project charter is the official document that authorizes a project to exist. It names the project manager, outlines the high-level objectives, identifies key stakeholders, and sets the boundaries for what the project will and won't do. Think of it as",
+      "titleJa": "ステークホルダーの賛同を得られるプロジェクトチャーター作成法",
+      "summaryJa": "プロジェクトの成功には、明確なプロジェクトチャーターが不可欠。このドキュメントはプロジェクトの目的、スコープ、主要ステークホルダーを定義し、スポンサーの承認を得るための基盤となる。ステークホルダーの合意形成と予算承認に必要な要素を解説。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
+      "publishedAt": "2026-08-03T15:02:21.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "ChatGPT、Codex、音声入力を組み合わせたAIワークフロー",
+      "summaryJa": "OpenAIのNick Baumannが、ChatGPT、Codex、ブラウザ、Sitesを活用した実践的なAIワークフローについて解説するポッドキャスト。専門家の視点から、これらのツールを組み合わせた効率的な業務プロセスを紹介する。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -162,16 +182,6 @@
       "summaryJa": "リリースマネージャーの職務内容とキャリア形成ガイド。バグ修正と新機能を統制されたプロセスで本番環境に展開するための重要な役割を詳解。プロジェクトマネージャーからのキャリア転換や、この職種への転職を検討している人向けに、必要なスキルセットと給与相場を解説。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: Claude Opus 5 Review + Browser use in Codex + How Cursor and a Raspberry Pi makes AI fun",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-opus-5-review-browser",
-      "publishedAt": "2026-07-27T15:03:21.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "Claude Opus 5レビュー＆ブラウザ操作機能、CursorとRaspberry Piで体験するAI活用",
-      "summaryJa": "Lenny's Podcast Networkの「How I AI」番組の最新エピソード。Claude Opus 5の性能評価、Codexでのブラウザ自動操作機能、CursorとRaspberry Piを組み合わせたユニークなAI活用例を紹介。プロダクトマネジャーとして知っておきたいAI技術の実践的な活用シーンを複数取り上げている。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "What Changes for Your Team with Amikoo",
@@ -290,16 +300,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got behavioral analytics, support tickets, sales call notes, and a feedback inbox that never empties. With all that data coming in, do product teams actually still need to go out and talk to users? In this episode, Petra Wille",
       "titleJa": "エビデンスの質――プロダクト開発における定量・定性データの使い分け",
       "summaryJa": "行動分析、サポートチケット、営業記録、フィードバックなど豊富なデータがある現代、プロダクトチームは本当にユーザーインタビューが必要なのか。Teresa TorresとPetra Willeが、データドリブン意思決定におけるエビデンスの質の重要性について議論するポッドキャスト。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Brain Sensei vs PM PrepCast",
-      "url": "https://rebelsguidetopm.com/brain-sensei-vs-pm-prepcast/",
-      "publishedAt": "2026-07-13T15:27:28.000Z",
-      "excerpt": "I’ve long used products from Cornelius Fichtner of The Project Management PrepCast fame for my own professional development. But I also know the team behind Brain Sensei. So how does Brain Sensei compare to the PM PrepCast? That’s what we’re covering in this article. I’ve used them both, I’ve had conversations with both teams, and over the year’s I’ve come to appreciate what they are both good at. Let’s do the comparison of their PMP training! Packages For a start, both companies offer Project Management Professional (PMP)® training. Brain Sensei offers: A self-paced PMP prep course that inclu",
-      "titleJa": "Brain SenseiとPM PrepCastの比較検討",
-      "summaryJa": "PMP資格取得の学習教材として知られるBrain SenseiとPM PrepCastの両方を実際に使用した著者が、パッケージ内容や機能、サポート体制などを詳細に比較。プロジェクト管理専門家認定試験対策教材の選択判断に役立つ情報を提供している。"
     }
   ]
 }
