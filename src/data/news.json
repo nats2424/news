@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-02T18:52:09.163Z",
+  "updatedAt": "2026-08-03T01:44:22.567Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "Test Data Three Ways",
+      "url": "https://qahiccupps.blogspot.com/2026/08/test-data-three-ways.html",
+      "publishedAt": "2026-08-02T20:38:14.000Z",
+      "excerpt": "You know when you suddenly realise you have an internal model of a chunk of the world that's been guiding your thinking and behaviour but you never realised? I love that. Of course I do! Duh. Data for specific logic. I use this in traditional regression tests that need a static expected result: unit tests, for instance. I see a lot of examples that have clearly grabbed runtime application data that's the right shape and bunged it into the test. This is convenient for the writer but can obscure the test intent and make later understanding and failure investigation more costly. As I usually want",
+      "titleJa": "テストデータの3つの活用方法",
+      "summaryJa": "テストデータの設計について、実運用データの流用ではなく目的に応じた適切なデータ選択の重要性を論じています。リグレッションテストやユニットテストで静的な期待値が必要な場合、テスト意図を明確にし後の保守性を高めるデータ戦略が必須である点を強調しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
