@@ -1,15 +1,35 @@
 {
-  "updatedAt": "2026-08-03T08:59:23.777Z",
+  "updatedAt": "2026-08-03T14:12:26.736Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Ch. 9: Identifying Hidden Assumptions",
+      "url": "https://www.producttalk.org/cdh-book-club-august-2026/",
+      "publishedAt": "2026-08-03T13:00:27.000Z",
+      "excerpt": "Continuous Discovery Habits turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
+      "titleJa": "第9章：隠れた前提条件を識別する",
+      "summaryJa": "『継続的なディスカバリーの習慣』の5周年を記念して、書籍を深掘りする読書ガイドを公開。重要な概念の解説と映像を通じて、プロダクト開発における隠れた仮定を見つけるための実践的なアプローチを学べます。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
+      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
+      "publishedAt": "2026-08-03T12:04:26.000Z",
+      "excerpt": "Watch now | 🎙️ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live",
+      "titleJa": "ChatGPT音声でコーディングからブラウジングまで：OpenAIエキスパートのAIワークフロー",
+      "summaryJa": "ChatGPT Voiceが複数スレッドの管理、画面読み込み、バックグラウンドタスク実行に対応。OpenAIのNick Baumannが実際のワークフローを実演しながら、最新のAI統合開発環境の活用方法を紹介します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
-      "title": "What AI Training Courses Are Available in the Market for Scrum Masters?",
-      "url": "https://www.scrum.org/resources/blog/what-ai-training-courses-are-available-market-scrum-masters",
-      "publishedAt": "2026-08-03T05:58:13.000Z",
-      "excerpt": "If you search the internet, you will find a flood of AI courses. Most of them are pointless for Scrum Masters. But which one of them is worth thinking about? Let me explain … Image This is important to know because you want to spend your time, money, and effort on a training course that gives you the best results. Let me be honest and to the point here. There are a lot of generic, low-quality AI courses out there, and even some of them come from the dark market. You should be careful not to get into their traps. So, the options are not too many. There are just three courses by the three main a",
-      "titleJa": "スクラムマスター向けAI研修コース：市場で本当に価値のある選択肢は？",
-      "summaryJa": "市場に溢れるAIコースの中から、スクラムマスターにとって実際に価値のあるコースを見極める方法を解説。低品質な汎用コースが多い中、実務に役立つ数少ない選択肢について、その特徴と選び方のポイントを紹介しています。"
+      "title": "Survey: From Agile to a Product Operating Model: What Is Actually Changing?",
+      "url": "https://www.scrum.org/resources/blog/survey-agile-product-operating-model-what-actually-changing",
+      "publishedAt": "2026-08-03T09:52:51.000Z",
+      "excerpt": "Product Operating Model or Product Washing? The debate over the product operating model (POM) has a data problem. Most of us, including me, argue from the organizations we know. When I interviewed Marty Cagan, see the article below, he called a Scrum team “quite amateur compared to a professional product team.” I later called the theater version of the shift from Scrum/Agile to POM product washing, a form of “transformation by reprinting business cards.” Consultants generalize from their clients and bloggers from their respondents. I have not seen a dataset showing what changed across several ",
+      "titleJa": "調査：アジャイルからプロダクト運用モデルへ―実際に何が変わったのか？",
+      "summaryJa": "プロダクト運用モデル(POM)への移行が本当に組織に変化をもたらしているかを検証。Scrum/Agileからの転換が表面的な変化に留まっていないか、実際のデータに基づく分析と業界の議論を紹介します。"
     },
     {
       "category": "QA",
@@ -150,16 +170,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "Claude Opus 5レビュー＆ブラウザ操作機能、CursorとRaspberry Piで体験するAI活用",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」番組の最新エピソード。Claude Opus 5の性能評価、Codexでのブラウザ自動操作機能、CursorとRaspberry Piを組み合わせたユニークなAI活用例を紹介。プロダクトマネジャーとして知っておきたいAI技術の実践的な活用シーンを複数取り上げている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "From zero coding background to hardware hacker: How Cursor + a Raspberry Pi makes AI fun",
-      "url": "https://www.lennysnewsletter.com/p/from-zero-coding-background-to-hardware",
-      "publishedAt": "2026-07-27T12:04:34.000Z",
-      "excerpt": "Watch now | 🎙️ Maddie Reese built a thermal printer anyone can message, a working Twitter pager, and a personal API using Cursor, a Raspberry Pi, and the radical idea that fun beats practical",
-      "titleJa": "コード未経験からハードウェアハッカーへ：CursorとRaspberry Piで実現するAI活用",
-      "summaryJa": "Maddie Reeseはカーソルとキューの簡単なアイデアを組み合わせて、メッセージ機能付きサーマルプリンター、Twitterポケットベル、パーソナルAPIを構築しました。実用性よりも楽しさを重視することで、ノーコード背景からハードウェアハッキングへと進化させた事例です。"
     },
     {
       "category": "QA",
