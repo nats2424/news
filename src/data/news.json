@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-08-04T13:43:28.088Z",
+  "updatedAt": "2026-08-04T19:17:36.481Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Coursera: Why it’s worth it in 2026",
+      "url": "https://rebelsguidetopm.com/coursera-plus-why-its-worth-it/",
+      "publishedAt": "2026-08-04T16:34:29.000Z",
+      "excerpt": "As a project manager, we are always learning new things. If you hold a professional certification like the Project Management Professional, an APM qualification, or PRINCE2, you’ll also be expected to carry out some professional development each year as well. And that all costs money – often money that our employers won’t pay for us. There is another way to build your skills and manage your budget: Coursera. I have used Coursera since 2023, so here's my review. Verdict at a glance Coursera is an online learning platform that offers non-certificate, certificate and full degree courses for digit",
+      "titleJa": "2026年にCourseraは価値があるのか：プロジェクトマネージャー向け学習活用ガイド",
+      "summaryJa": "PMP、APM、PRINCE2などの認定資格を取得したプロジェクトマネージャーは継続的な専門能力開発が求められます。本記事では、費用効率的にスキルを磨くための学習プラットフォーム「Coursera」の2026年時点での活用価値を、実際の利用者視点から検証します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The AWS AI-DLC: Why AI Coding Still Needs Human Accountability",
+      "url": "https://www.scrum.org/resources/blog/aws-ai-dlc-why-ai-coding-still-needs-human-accountability",
+      "publishedAt": "2026-08-04T15:03:07.000Z",
+      "excerpt": "Image Amazon Web Services recently published a paper defining the AI-Driven Development Lifecycle, or AI-DLC — a reimagined SDLC (Software Development Lifecycle) for a world where AI, not humans, initiates the workflow. I read it the way I read most new methodology proposals by hunting for what's missing before I look at what's new. It didn't take long. To be fair, there's real thinking here. AI-DLC replaces Sprints with \"Bolts\" (yes, really), measured in hours rather than weeks. It folds design techniques such as Domain-Driven Design into the method rather than leaving them as homework. It re",
+      "titleJa": "AWSのAI-DLC：AI開発ライフサイクルも人間の責任が不可欠",
+      "summaryJa": "AmazonWebServicesが提唱するAI駆動開発ライフサイクル（AI-DLC）は、AIが主導するSDLCの再構想です。SprintをBoltに置き換え、ドメイン駆動設計を組み込むなど革新的な手法を提案していますが、導入にはAI開発における人間の責任と説明責任の確保が重要です。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Playwright With AI: How to Automate Tests Without Shipping AI Slop with Andrew Knight",
+      "url": "https://testguild.com/podcast/a599-andrew/",
+      "publishedAt": "2026-08-04T14:13:27.000Z",
+      "excerpt": "About This Episode: Your developers just got supercharged by AI coding agents. Your test coverage did not. So how do […]",
+      "titleJa": "PlaywrightとAI：Andrew Knightに学ぶ、AIスロップを避けたテスト自動化",
+      "summaryJa": "AI開発エージェントが開発チームの生産性を向上させる一方で、テストカバレッジはそのペースに追いついていません。本エピソードでは、Playwrightを使用してAIの力を活かしながら、品質を保証したテスト自動化の実装方法について解説します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum and AI: AI Doesn’t Replace Scrum, It Sharpens its Focus",
+      "url": "https://www.scrum.org/resources/blog/scrum-and-ai-ai-doesnt-replace-scrum-it-sharpens-its-focus",
+      "publishedAt": "2026-08-04T13:33:06.000Z",
+      "excerpt": "Image Somewhere along the way, Scrum picked up a reputation it never earned. In today’s discussions about Scrum and AI, ask a room full of managers what Scrum is for, and most will say the same thing: it helps teams ship faster. That answer is so common it feels like fact. It is also wrong, and the gap between what Scrum is for and what people think it is for has never mattered more than it does now, in the age of AI. The reason is simple. Scrum and AI are both being sold on the same promise: do more, faster. But speed was never the point of Scrum, and treating AI as a pure accelerator is how ",
+      "titleJa": "ScrumとAI：AIはScrumの代替ではなく、その本質をより鮮明にする",
+      "summaryJa": "Scrumは単なるスピード重視のフレームワークとして誤解されることが多いですが、本来の目的は異なります。AI時代においてこそ、Scrumの正しい価値を理解し、AIを単なる加速装置ではなく戦略的に活用することが重要です。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -102,16 +142,6 @@
       "summaryJa": "Whatnotの最高プロダクト責任者Tom Verrilliは、比率主導の組織構造よりも、実装作業に携わるシニアPMが少数精鋭で活動する方が高いパフォーマンスを発揮すると説明しています。プロダクト管理の役割設計に関する重要な考察です。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Made Output Cheap. It Also Made Bad Strategy Impossible to Hide.",
-      "url": "https://www.scrum.org/resources/blog/ai-made-output-cheap-it-also-made-bad-strategy-impossible-hide",
-      "publishedAt": "2026-08-02T06:00:00.000Z",
-      "excerpt": "Image Somewhere in a quarterly business review this month, a technology leader is presenting a genuinely impressive number. Pull requests up. Features shipped, way up. The AI tooling landed last year and the output curve bent hard. Then someone from finance asks what all of it did to revenue, retention, or margin, and the room goes quiet in a very particular way. The honest answer is that nobody ever built the instrument that would know. On 14 July, Mik Kersten published Output to Outcome, the sequel to Project to Product. It is a 336 page answer to that silence, and the argument underneath it",
-      "titleJa": "AI が出力を低コスト化。同時に欠陥のある戦略を隠すことを不可能にした",
-      "summaryJa": "AI ツールの導入により、プルリクエストやリリース機能数が急増する一方、それが売上や顧客維持率、利益率にどう影響するかは不明確なままという課題に直面する企業が増えている。Mik Kersten 著『Output to Outcome』は、出力指標と事業成果の乖離を可視化し、真の戦略的価値を測定するための指針を示す著作。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Getting started with open source models, making a U.S. business trip worth it, preparing for a possible layoff, when marketing can’t keep up with product, and more",
@@ -130,16 +160,6 @@
       "excerpt": "Summary",
       "titleJa": "企業成長に伴うプロダクトチームの停滞と対策",
       "summaryJa": "企業規模の拡大に伴い、プロダクトチームの開発速度が低下する理由と、その問題に対する具体的な対策について解説します。組織の成長段階での課題認識と改善方法を取り上げています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your framework has been doing your thinking. That's the problem.",
-      "url": "https://www.scrum.org/resources/blog/your-framework-has-been-doing-your-thinking-thats-problem",
-      "publishedAt": "2026-07-30T22:00:00.000Z",
-      "excerpt": "The new engineer asked her question in the second week, in the most innocent voice imaginable. \"Why do we do the estimation poker?\" The room paused. Someone said it helps with planning. She asked how. Someone else said it surfaces different perspectives. She asked whether it had ever actually changed a plan. Nobody could think of a time. Then the facilitator said the sentence that ends every conversation like this one. \"It's just part of how Scrum works.\" And that was that. The meeting moved on. The team kept doing the thing none of them could justify, because the framework said to, and a fram",
-      "titleJa": "フレームワークが思考を奪っている問題",
-      "summaryJa": "新入りエンジニアがプランニングポーカーの必要性を質問し、チームが正当な理由を説明できず「Scrumに含まれているから」という答えに落ち着く。フレームワークが指示するから実行する思考停止的なプラクティスの危険性を指摘した記事。"
     },
     {
       "category": "QA",
@@ -252,16 +272,6 @@
       "summaryJa": "既存コードが将来の変更を考慮して設計されていない場合、新機能を直接実装しようとすると複雑になります。Kent Beckの「まず変更を簡単にし、次に簡単な変更を実施する」という原則に基づき、プリファクタリングによってコードベースを整備してから新機能を追加するアプローチを紹介しています。"
     },
     {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Testing AI, Duplicate Test Detection, and the Death of Cucumber TGNS190",
-      "url": "https://testguild.com/podcast/n190-jul20/",
-      "publishedAt": "2026-07-20T20:00:36.000Z",
-      "excerpt": "About This Episode: Is your test suite quietly billing you every single time it runs? Your agent wrote 30 new […]",
-      "titleJa": "AI テスト・重複テスト検出・Cucumber の終焉 TGNS190",
-      "summaryJa": "テスト実行のたびに隠れたコストが発生していないか、AIが生成した30個の新しいテストについて、重複検出とテスト効率化の課題を探る。テストスイートの最適化とCucumberフレームワークの将来性について議論するエピソード。"
-    },
-    {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "Brain Sensei CAPM Review (for 2026 exam)",
@@ -280,16 +290,6 @@
       "excerpt": "Summary",
       "titleJa": "創業者からVPへ：スケール段階でのプロダクト判断の変化",
       "summaryJa": "創業者からVP（VP）へのキャリア進化に伴い、プロダクト判断にどのような変化が生じるかについて解説しています。組織の成長に応じた意思決定プロセス、チーム編成、戦略的優先順位付けの変動を扱う、プロダクトマネジメント領域での重要なテーマです。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Exploring the differences: Projects vs operations examples",
-      "url": "https://rebelsguidetopm.com/projects-vs-operations-examples/",
-      "publishedAt": "2026-07-16T16:10:55.000Z",
-      "excerpt": "Projects and operations are both necessary for businesses to succeed, but they require different approaches. When it comes to managing them effectively, understanding the differences between projects and operations is key. From examples of project activities in a business versus operational activities to strategies for balancing projects and operations simultaneously -- this article will help you understand the differences and consider the similarities. Projects vs operations The short answer to the question: “What’s the difference between projects and operations?” is this. Projects change the",
-      "titleJa": "プロジェクトと運用業務の違いを理解する",
-      "summaryJa": "ビジネス成功に必要なプロジェクトと運用業務は異なるアプローチが必要です。本記事では、プロジェクト活動と運用活動の具体例を通じて両者の相違点を解説し、同時に両者のバランスを取るための戦略を提示します。プロジェクトマネジメント実践のために両概念を正確に理解することが重要です。"
     }
   ]
 }
