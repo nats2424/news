@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-04T08:15:22.526Z",
+  "updatedAt": "2026-08-04T13:43:28.088Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "What if you’re not supposed to have a long-term plan?",
+      "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
+      "publishedAt": "2026-08-04T13:02:53.000Z",
+      "excerpt": "The case for career emergence",
+      "titleJa": "長期キャリアプランは本当に必要か？",
+      "summaryJa": "従来の長期キャリア計画の必要性に疑問を呈し、キャリア形成の新しいアプローチを提唱した記事。予測不可能な時代において、柔軟で段階的なキャリア発展（キャリアエマージェンス）の重要性が強調されています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "5 questions Scrum teams ask all the time",
+      "url": "https://www.scrum.org/resources/blog/5-questions-scrum-teams-ask-all-time",
+      "publishedAt": "2026-08-04T13:00:00.000Z",
+      "excerpt": "I've been teaching Scrum for a while now, and the same questions come up again and again. So if you're new to Scrum or just thinking about making the switch, here are five of the most common questions I hear about Scrum and how I answer them. 1. Do we still have managers in Scrum? Yes. Managers are essential to the Scrum team. What changes is how they lead. Managers of a high-functioning Scrum team are freed up to step away from day-to-day task management on how the work gets done. But managers and leaders still play a critical role. Managers should: Remove impediments slowing the work of the ",
+      "titleJa": "Scrumチームがよく質問する5つのこと",
+      "summaryJa": "Scrum導入時によく寄せられる質問と回答をまとめた実践ガイド。マネージャーの役割変化、組織構造などScrumチームの運営について、実経験に基づいた具体的な解説が提供されています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -122,16 +142,6 @@
       "summaryJa": "新入りエンジニアがプランニングポーカーの必要性を質問し、チームが正当な理由を説明できず「Scrumに含まれているから」という答えに落ち着く。フレームワークが指示するから実行する思考停止的なプラクティスの危険性を指摘した記事。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "“Scrum didn’t work for us.”",
-      "url": "https://www.scrum.org/resources/blog/scrum-didnt-work-us",
-      "publishedAt": "2026-07-30T19:31:05.000Z",
-      "excerpt": "Image This is what a colleague said to me once. Hey, I’m not religious about Scrum, and if it really didn’t work, that’s really fine with me — but in my experience Scrum is so lightweight that if it isn’t working for us, it probably isn’t the framework itself, but gaps or distortions in how it is used. For instance, Scrum won’t help us if our Scrum Teams are not cross-functional and self-managing, which was the truth of the person who said that to me. If they are not cross-functional and self-managing, it’s not Scrum. It may be a case of externally managed teams working in something that looks",
-      "titleJa": "「Scrumが機能しなかった」という誤解",
-      "summaryJa": "Scrumが上手くいかないと報告するチームの多くは、フレームワーク自体の問題ではなく、その使用方法に歪みや欠陥がある場合が多い。特にクロスファンクショナルで自己管理できるチーム構成になっていないと、真のScrumにはならないという指摘。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Test Automation Won’t Save Your QA Career, but These Skills Will with Keith Klain",
@@ -140,16 +150,6 @@
       "excerpt": "About This Episode: Keith Klain has spent 25+ years leading enterprise quality programs in financial services and is one of […]",
       "titleJa": "テスト自動化だけでは不十分、QAキャリアを守るために必要なスキルとは",
       "summaryJa": "25年以上の金融サービス業界での品質プログラム経営経験を持つKeith Klainが、QAプロフェッショナルのキャリア発展に必要とされるスキルについて解説。テスト自動化技術だけでなく、それ以外の視点から求められる能力や経験について論じた内容。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "11 products I love, free for a year—the biggest Product Pass expansion in 2 years",
-      "url": "https://www.lennysnewsletter.com/p/productpass-summer2026launch",
-      "publishedAt": "2026-07-28T15:54:24.000Z",
-      "excerpt": "Runway, Higgsfield, Waking Up, Brain.fm, Customer.io, Resend, Pangram, Mercury Personal, Supercut, Readwise, and Jam are joining Product Pass today, all included with Annual and Insider memberships",
-      "titleJa": "11の人気プロダクト、1年間無料—Product Pass過去2年最大の拡大",
-      "summaryJa": "Runway、Higgsfield、Waking Up、Brain.fmなど11のプロダクトがProduct Passに新たに加わり、Annual及びInsiderメンバーシップに含まれることが発表されました。2年間で最大規模の拡大です。"
     },
     {
       "category": "PjM",
@@ -290,16 +290,6 @@
       "excerpt": "Projects and operations are both necessary for businesses to succeed, but they require different approaches. When it comes to managing them effectively, understanding the differences between projects and operations is key. From examples of project activities in a business versus operational activities to strategies for balancing projects and operations simultaneously -- this article will help you understand the differences and consider the similarities. Projects vs operations The short answer to the question: “What’s the difference between projects and operations?” is this. Projects change the",
       "titleJa": "プロジェクトと運用業務の違いを理解する",
       "summaryJa": "ビジネス成功に必要なプロジェクトと運用業務は異なるアプローチが必要です。本記事では、プロジェクト活動と運用活動の具体例を通じて両者の相違点を解説し、同時に両者のバランスを取るための戦略を提示します。プロジェクトマネジメント実践のために両概念を正確に理解することが重要です。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Quality of Evidence - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/quality-of-evidence-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-07-14T13:00:09.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got behavioral analytics, support tickets, sales call notes, and a feedback inbox that never empties. With all that data coming in, do product teams actually still need to go out and talk to users? In this episode, Petra Wille",
-      "titleJa": "エビデンスの質――プロダクト開発における定量・定性データの使い分け",
-      "summaryJa": "行動分析、サポートチケット、営業記録、フィードバックなど豊富なデータがある現代、プロダクトチームは本当にユーザーインタビューが必要なのか。Teresa TorresとPetra Willeが、データドリブン意思決定におけるエビデンスの質の重要性について議論するポッドキャスト。"
     }
   ]
 }
