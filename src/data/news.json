@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-04T01:20:25.133Z",
+  "updatedAt": "2026-08-04T08:15:22.526Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What You Will Learn & Do in a PSM-AI Essentials Class",
+      "url": "https://www.scrum.org/resources/blog/what-you-will-learn-do-psm-ai-essentials-class",
+      "publishedAt": "2026-08-04T06:11:07.000Z",
+      "excerpt": "In this blog post, I extensively explain what exercises and activities you do in each session of a PSM-AI Essentials class, why you do them, what you learn, and ultimately what benefits you get from them. Image Session 1: Effective Communication with AI In this training, you will be hired as a new Scrum Master in a fictional company to help their Scrum Teams with their AI journey. All exercises of the class happen in the context of that company. Through the first session, you learn how to talk differently with AI to get the most out of the knowledge of AI. Most people talk with AI inefficientl",
+      "titleJa": "PSM-AI Essentials研修で学ぶこと・実践すること",
+      "summaryJa": "PSM-AI Essentials研修の各セッションで行う演習内容、学習目的、得られるメリットを詳しく解説します。第1セッションでは、架空企業の新任スクラムマスターとして、チームのAI活用を支援しながら、AIとの効果的なコミュニケーション方法を習得します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -120,16 +130,6 @@
       "excerpt": "Image This is what a colleague said to me once. Hey, I’m not religious about Scrum, and if it really didn’t work, that’s really fine with me — but in my experience Scrum is so lightweight that if it isn’t working for us, it probably isn’t the framework itself, but gaps or distortions in how it is used. For instance, Scrum won’t help us if our Scrum Teams are not cross-functional and self-managing, which was the truth of the person who said that to me. If they are not cross-functional and self-managing, it’s not Scrum. It may be a case of externally managed teams working in something that looks",
       "titleJa": "「Scrumが機能しなかった」という誤解",
       "summaryJa": "Scrumが上手くいかないと報告するチームの多くは、フレームワーク自体の問題ではなく、その使用方法に歪みや欠陥がある場合が多い。特にクロスファンクショナルで自己管理できるチーム構成になっていないと、真のScrumにはならないという指摘。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "🇩🇪 Konflikte surfen statt lösen",
-      "url": "https://www.scrum.org/resources/blog/konflikte-surfen-statt-losen",
-      "publishedAt": "2026-07-30T10:58:27.000Z",
-      "excerpt": "Konflikte surfen statt lösen Wenn in Deinem Team nie gestritten wird, ist das kein gutes Zeichen. Klingt verkehrt? Ich weiss. Denn die meisten von uns haben gelernt: Ein gutes Team ist ein ruhiges Team. Keine Reibung, kein Streit, alle nicken im Review, alle gehen zufrieden raus. Und wenn es doch mal knirscht, dann ist das unser Job - schnell drüber, Harmonie wiederherstellen, weiter im Text. Ich habe das jahrelang geglaubt. Konflikte haben mir früher schlicht Angst gemacht. Sie sind unberechenbar, schwer steuerbar, man weiss nie, wo es hingeht. Eskaliert das? Kriege ich das wieder eingefangen",
-      "titleJa": "チームの対立を避けるのではなく向き合う",
-      "summaryJa": "多くのマネージャーは衝突のないチームが良いチームだと考えがちですが、実際には健全なチームには建設的な議論が不可欠です。本記事は、対立を恐れるのではなく、それを適切に管理し、チームの成長に活かす重要性について論じています。"
     },
     {
       "category": "QA",
