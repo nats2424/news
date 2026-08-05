@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-05T01:25:27.933Z",
+  "updatedAt": "2026-08-05T08:13:41.141Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Wenn Chatbots halluzinieren – wer haftet? So machen Scrum Teams ihre „Definition of Done“ KI-sicher",
+      "url": "https://www.scrum.org/resources/blog/wenn-chatbots-halluzinieren-wer-haftet-so-machen-scrum-teams-ihre-definition-done-ki-sicher",
+      "publishedAt": "2026-08-05T06:00:00.000Z",
+      "excerpt": "Braucht es noch Scrum Teams – jetzt, wo wir KI haben? Ich stelle mir diese Frage selbst und wahrscheinlich bin ich nicht der Einzige. Auf meiner Suche nach Antworten schaue ich auf die Menschen, die die agile Softwareentwicklung geprägt haben. Einer von ihnen ist Henrik. Henrik hat Jahrzehnte in der Softwareentwicklung gearbeitet – als Entwickler, Coach, Designer, Unternehmer. Bis Mitte 2022 hatte er eine klare Antwort auf diese Frage: Ja. Menschen werden immer gebraucht. Die Übersetzung von Anforderungen in Code – „the manual translation layer“ – sei schlicht unvermeidbar. Dann kam ChatGPT. N",
+      "titleJa": "ChatbotのハルシネーションにScrum Teamsはどう対応する？「Done の定義」をAI対応させる方法",
+      "summaryJa": "AIの進化によってScrum Teamsの必要性が問われている。本記事では、アジャイル開発の第一人者Henrikが「要件からコードへの手動変換層は避けられない」という従来の見方を、ChatGPTの登場を機に見直す必要性を提示。Scrum Teamsが「Done の定義」をAI時代に対応させ、Chatbotのハルシネーションなどのリスクに対する責任を明確にすることの重要性を探る。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -110,16 +120,6 @@
       "excerpt": "Watch now | 🎙️ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live",
       "titleJa": "ChatGPT音声でコーディングからブラウジングまで：OpenAIエキスパートのAIワークフロー",
       "summaryJa": "ChatGPT Voiceが複数スレッドの管理、画面読み込み、バックグラウンドタスク実行に対応。OpenAIのNick Baumannが実際のワークフローを実演しながら、最新のAI統合開発環境の活用方法を紹介します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Survey: From Agile to a Product Operating Model: What Is Actually Changing?",
-      "url": "https://www.scrum.org/resources/blog/survey-agile-product-operating-model-what-actually-changing",
-      "publishedAt": "2026-08-03T09:52:51.000Z",
-      "excerpt": "Product Operating Model or Product Washing? The debate over the product operating model (POM) has a data problem. Most of us, including me, argue from the organizations we know. When I interviewed Marty Cagan, see the article below, he called a Scrum team “quite amateur compared to a professional product team.” I later called the theater version of the shift from Scrum/Agile to POM product washing, a form of “transformation by reprinting business cards.” Consultants generalize from their clients and bloggers from their respondents. I have not seen a dataset showing what changed across several ",
-      "titleJa": "調査：アジャイルからプロダクト運用モデルへ―実際に何が変わったのか？",
-      "summaryJa": "プロダクト運用モデル(POM)への移行が本当に組織に変化をもたらしているかを検証。Scrum/Agileからの転換が表面的な変化に留まっていないか、実際のデータに基づく分析と業界の議論を紹介します。"
     },
     {
       "category": "QA",
