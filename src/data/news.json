@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-05T13:39:09.862Z",
+  "updatedAt": "2026-08-05T19:11:44.390Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "If the Project Manager Was Disassembled, Who Answers to the Customer?",
+      "url": "https://www.scrum.org/resources/blog/if-project-manager-was-disassembled-who-answers-customer",
+      "publishedAt": "2026-08-05T13:52:11.000Z",
+      "excerpt": "Image A while ago I wrote that the Project Manager didn't die under Scrum. The role was taken apart on purpose, its responsibilities distributed across the Scrum Team, and some of them absorbed into the framework itself. Then Daniel Pokrývka read it on LinkedIn and asked the one question that should make you pause: Who is responsible for the deliver of what was promised or paid by the customer? It's a fair challenge. Maybe the fairest one you can throw at the whole idea. Because if everything got distributed, the natural fear is that accountability got diluted, that we spread it so thin nobody",
+      "titleJa": "プロジェクトマネージャーを解体した後、顧客との責任は誰が負うのか",
+      "summaryJa": "Scrum導入時にプロジェクトマネージャーの職務がスクラムチーム全体に分散される際、顧客への約束や支払われた対価の納品責任が曖昧になるという課題を提起しています。責任の分散がアカウンタビリティの希薄化につながるリスクを指摘した重要な問題提起です。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -120,16 +130,6 @@
       "excerpt": "I've been teaching Scrum for a while now, and the same questions come up again and again. So if you're new to Scrum or just thinking about making the switch, here are five of the most common questions I hear about Scrum and how I answer them. 1. Do we still have managers in Scrum? Yes. Managers are essential to the Scrum team. What changes is how they lead. Managers of a high-functioning Scrum team are freed up to step away from day-to-day task management on how the work gets done. But managers and leaders still play a critical role. Managers should: Remove impediments slowing the work of the ",
       "titleJa": "Scrumチームがよく質問する5つのこと",
       "summaryJa": "Scrum導入時によく寄せられる質問と回答をまとめた実践ガイド。マネージャーの役割変化、組織構造などScrumチームの運営について、実経験に基づいた具体的な解説が提供されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "What You Will Learn & Do in a PSM-AI Essentials Class",
-      "url": "https://www.scrum.org/resources/blog/what-you-will-learn-do-psm-ai-essentials-class",
-      "publishedAt": "2026-08-04T06:11:07.000Z",
-      "excerpt": "In this blog post, I extensively explain what exercises and activities you do in each session of a PSM-AI Essentials class, why you do them, what you learn, and ultimately what benefits you get from them. Image Session 1: Effective Communication with AI In this training, you will be hired as a new Scrum Master in a fictional company to help their Scrum Teams with their AI journey. All exercises of the class happen in the context of that company. Through the first session, you learn how to talk differently with AI to get the most out of the knowledge of AI. Most people talk with AI inefficientl",
-      "titleJa": "PSM-AI Essentials研修で学ぶこと・実践すること",
-      "summaryJa": "PSM-AI Essentials研修の各セッションで行う演習内容、学習目的、得られるメリットを詳しく解説します。第1セッションでは、架空企業の新任スクラムマスターとして、チームのAI活用を支援しながら、AIとの効果的なコミュニケーション方法を習得します。"
     },
     {
       "category": "PjM",
