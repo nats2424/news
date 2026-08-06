@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-06T01:22:34.880Z",
+  "updatedAt": "2026-08-06T08:12:58.379Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How To Build A Project Scorecard",
+      "url": "https://rebelsguidetopm.com/how-to-build-a-project-scorecard/",
+      "publishedAt": "2026-08-06T05:23:00.000Z",
+      "excerpt": "A balanced scorecard is a way to monitor progress against a set of key, agreed measures. Companies typically have goals to focus on each year, such as revenue growth or health and safety targets. It’s called a balanced scorecard because there are different measures on it and the company has to balance performance across the whole piece – it’s no good having amazing customer satisfaction scores if your staff costs are spiralling out of control, for example. This model is in use in many businesses and it’s really helpful to scale it down for projects too. It is a sensible and standard way of mon",
+      "titleJa": "プロジェクト成績表の構築方法",
+      "summaryJa": "バランススコアカードは、合意した主要指標に対する進捗を監視するための手法です。売上成長や安全衛生目標など、企業が年間で重視すべき目標に対し、複数の指標でバランスよくパフォーマンスを評価することが重要です。この手法はプロジェクトレベルにも応用でき、プロジェクトの進捗管理を体系的に行うための標準的で実用的なアプローチとされています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -130,16 +140,6 @@
       "excerpt": "I've been teaching Scrum for a while now, and the same questions come up again and again. So if you're new to Scrum or just thinking about making the switch, here are five of the most common questions I hear about Scrum and how I answer them. 1. Do we still have managers in Scrum? Yes. Managers are essential to the Scrum team. What changes is how they lead. Managers of a high-functioning Scrum team are freed up to step away from day-to-day task management on how the work gets done. But managers and leaders still play a critical role. Managers should: Remove impediments slowing the work of the ",
       "titleJa": "Scrumチームがよく質問する5つのこと",
       "summaryJa": "Scrum導入時によく寄せられる質問と回答をまとめた実践ガイド。マネージャーの役割変化、組織構造などScrumチームの運営について、実経験に基づいた具体的な解説が提供されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to write a project charter that gets stakeholder buy-in",
-      "url": "https://rebelsguidetopm.com/how-to-write-a-project-charter/",
-      "publishedAt": "2026-08-03T15:56:32.000Z",
-      "excerpt": "Every project starts with an idea, but ideas alone don't get teams aligned or budgets approved. That's where a project charter comes in. Writing a strong project charter gives your project a clear foundation, and more importantly, it gives you the authorization from the sponsor to begin the work. What is a project charter and why does it matter? A project charter is the official document that authorizes a project to exist. It names the project manager, outlines the high-level objectives, identifies key stakeholders, and sets the boundaries for what the project will and won't do. Think of it as",
-      "titleJa": "ステークホルダーの賛同を得られるプロジェクトチャーター作成法",
-      "summaryJa": "プロジェクトの成功には、明確なプロジェクトチャーターが不可欠。このドキュメントはプロジェクトの目的、スコープ、主要ステークホルダーを定義し、スポンサーの承認を得るための基盤となる。ステークホルダーの合意形成と予算承認に必要な要素を解説。"
     },
     {
       "category": "PdM",
