@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-06T13:37:54.344Z",
+  "updatedAt": "2026-08-06T23:47:58.296Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your last failed transformation is not a strategy",
+      "url": "https://www.scrum.org/resources/blog/your-last-failed-transformation-not-strategy",
+      "publishedAt": "2026-08-06T22:00:00.000Z",
+      "excerpt": "\"We tried that before.\" Four words, and the idea was dead. Nobody asked when \"before\" was, or what was different then, or whether the thing that killed it last time even still exists. The four words did all the work a careful argument would have done, minus the argument. The meeting moved on, a little more certain that nothing here ever really changes, which by now is the one thing the team can reliably predict. Listen for it and you'll hear a whole liturgy. \"That'll never work here.\" \"Management will never allow it.\" \"The legacy system makes it impossible.\" \"This is just how we are.\" Each one",
+      "titleJa": "過去の失敗は戦略ではない",
+      "summaryJa": "「以前試したことがある」という一言で、新しいアイデアが即座に却下される組織の問題を指摘しています。いつの話か、何が異なるのか、当時の障害がまだ存在するのかを検討せず、経験則だけで判断する傾向が、組織の変革を阻害している実態を描いています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -132,16 +142,6 @@
       "summaryJa": "従来の長期キャリア計画の必要性に疑問を呈し、キャリア形成の新しいアプローチを提唱した記事。予測不可能な時代において、柔軟で段階的なキャリア発展（キャリアエマージェンス）の重要性が強調されています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "5 questions Scrum teams ask all the time",
-      "url": "https://www.scrum.org/resources/blog/5-questions-scrum-teams-ask-all-time",
-      "publishedAt": "2026-08-04T13:00:00.000Z",
-      "excerpt": "I've been teaching Scrum for a while now, and the same questions come up again and again. So if you're new to Scrum or just thinking about making the switch, here are five of the most common questions I hear about Scrum and how I answer them. 1. Do we still have managers in Scrum? Yes. Managers are essential to the Scrum team. What changes is how they lead. Managers of a high-functioning Scrum team are freed up to step away from day-to-day task management on how the work gets done. But managers and leaders still play a critical role. Managers should: Remove impediments slowing the work of the ",
-      "titleJa": "Scrumチームがよく質問する5つのこと",
-      "summaryJa": "Scrum導入時によく寄せられる質問と回答をまとめた実践ガイド。マネージャーの役割変化、組織構造などScrumチームの運営について、実経験に基づいた具体的な解説が提供されています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
@@ -230,16 +230,6 @@
       "excerpt": "Your developers are shipping more code than they were a year ago. Probably a lot more. And your test coverage […]",
       "titleJa": "Amikooであなたのチームはどう変わるか",
       "summaryJa": "開発チームのコード出荷量が増加する一方で、テストカバレッジの課題に直面しているというシナリオから、Amikooがもたらすチームへの変化について解説しています。開発速度の向上とテスト品質のバランスを取るための実践的なアプローチが示唆されています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Some Class Recordings Are Available",
-      "url": "https://www.satisfice.com/blog/archives/488173",
-      "publishedAt": "2026-07-24T12:34:19.000Z",
-      "excerpt": "For the foreseeable future, I will not be scheduling public classes on my own behalf. I am still available for private classes, and I will even do public classes as long as long I’m not the one organizing and marketing it. But if you REALLY want to take one of my classes, you could purchase […]",
-      "titleJa": "クラス録画の一部が利用可能に",
-      "summaryJa": "著者は今後、自ら公開クラスの開催予定を立てないと発表しています。ただしプライベートクラスは引き続き提供しており、他者が企画・マーケティングを行う場合は公開クラスも実施可能です。詳細は本文を参照してください。"
     },
     {
       "category": "PdM",
