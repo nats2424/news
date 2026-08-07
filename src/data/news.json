@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T06:58:18.230Z",
+  "updatedAt": "2026-08-07T12:37:06.447Z",
   "items": [
     {
       "category": "PjM",
@@ -20,6 +20,16 @@
       "excerpt": "\"We tried that before.\" Four words, and the idea was dead. Nobody asked when \"before\" was, or what was different then, or whether the thing that killed it last time even still exists. The four words did all the work a careful argument would have done, minus the argument. The meeting moved on, a little more certain that nothing here ever really changes, which by now is the one thing the team can reliably predict. Listen for it and you'll hear a whole liturgy. \"That'll never work here.\" \"Management will never allow it.\" \"The legacy system makes it impossible.\" \"This is just how we are.\" Each one",
       "titleJa": "過去の失敗は戦略ではない",
       "summaryJa": "「以前試したことがある」という一言で、新しいアイデアが即座に却下される組織の問題を指摘しています。いつの話か、何が異なるのか、当時の障害がまだ存在するのかを検討せず、経験則だけで判断する傾向が、組織の変革を阻害している実態を描いています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "What Is AI-DLC? The AI Delivery Lifecycle for Governed Software Delivery",
+      "url": "https://testguild.com/what-is-ai-dlc/",
+      "publishedAt": "2026-08-06T08:00:05.000Z",
+      "excerpt": "A Director of Sales hit me with “AI-DLC” last week like I should already know it. I nodded. Then I […]",
+      "titleJa": "AI-DLC とは？ガバナンス重視のソフトウェア配信におけるAIデリバリーライフサイクル",
+      "summaryJa": "AI-DLCはAIを活用したソフトウェア配信ライフサイクルのフレームワークです。従来のデリバリープロセスにAIを統合し、ガバナンスを確保しながら効率的なソフトウェア配信を実現するアプローチについて解説されています。"
     },
     {
       "category": "PjM",
@@ -273,16 +283,6 @@
     },
     {
       "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "AI Testing Strategy: Stop Being a Cost Center, Start Protecting Revenue with Nandini Srinivasan",
-      "url": "https://testguild.com/podcast/a597-nandini/",
-      "publishedAt": "2026-07-22T13:28:41.000Z",
-      "excerpt": "About This Episode: Nandini Srinivasan has spent 25 years in the quality industry and leads a global QA organization of […]",
-      "titleJa": "AI時代のテスト戦略：コストセンターから収益保護へ",
-      "summaryJa": "QA業界25年のキャリアを持つNandini Srinivasanが、グローバルなQA組織を率いながら、AI活用によるテスト戦略をコスト削減ツールではなく、ビジネス価値の創造と収益保護につなげるアプローチについて語ります。"
-    },
-    {
-      "category": "QA",
       "sourceName": "Google Testing Blog",
       "title": "Prefactoring: Clear the Way for Your New Feature",
       "url": "http://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
@@ -290,16 +290,6 @@
       "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Rahul Singal “First make the change easy, then make the easy change.” - paraphrased from Kent Beck You're working on a new feature, but the existing code wasn't written with future changes in mind. Trying to force the feature in directly gets complicated fast. One chan",
       "titleJa": "プリファクタリング：新機能開発への道を整える",
       "summaryJa": "既存コードが将来の変更を考慮して設計されていない場合、新機能を直接実装しようとすると複雑になります。Kent Beckの「まず変更を簡単にし、次に簡単な変更を実施する」という原則に基づき、プリファクタリングによってコードベースを整備してから新機能を追加するアプローチを紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP107 From Founder to VP: What Changes About Product Judgment at Scale",
-      "url": "https://www.productcoalition.com/p/ep107-from-founder-to-vp-what-changes",
-      "publishedAt": "2026-07-17T09:00:37.000Z",
-      "excerpt": "Summary",
-      "titleJa": "創業者からVPへ：スケール段階でのプロダクト判断の変化",
-      "summaryJa": "創業者からVP（VP）へのキャリア進化に伴い、プロダクト判断にどのような変化が生じるかについて解説しています。組織の成長に応じた意思決定プロセス、チーム編成、戦略的優先順位付けの変動を扱う、プロダクトマネジメント領域での重要なテーマです。"
     }
   ]
 }
