@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-06T23:47:58.296Z",
+  "updatedAt": "2026-08-07T02:01:54.514Z",
   "items": [
     {
       "category": "PjM",
@@ -230,6 +230,16 @@
       "excerpt": "Your developers are shipping more code than they were a year ago. Probably a lot more. And your test coverage […]",
       "titleJa": "Amikooであなたのチームはどう変わるか",
       "summaryJa": "開発チームのコード出荷量が増加する一方で、テストカバレッジの課題に直面しているというシナリオから、Amikooがもたらすチームへの変化について解説しています。開発速度の向上とテスト品質のバランスを取るための実践的なアプローチが示唆されています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Some Class Recordings Are Available",
+      "url": "https://www.satisfice.com/blog/archives/488173",
+      "publishedAt": "2026-07-24T12:34:19.000Z",
+      "excerpt": "For the foreseeable future, I will not be scheduling public classes on my own behalf. I am still available for private classes, and I will even do public classes as long as long I’m not the one organizing and marketing it. But if you REALLY want to take one of my classes, you could purchase […]",
+      "titleJa": "クラス録画が利用可能に",
+      "summaryJa": "著者は当面の間、自主的な公開クラスのスケジューリングを行わない方針を発表。ただし個別クラスは引き続き受け付けており、自ら企画・マーケティングしない形での公開クラス講師には応じる姿勢を示している。"
     },
     {
       "category": "PdM",
