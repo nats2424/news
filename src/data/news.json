@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-07T02:01:54.514Z",
+  "updatedAt": "2026-08-07T06:58:18.230Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Google Data Analytics Certificate: Time Commitment + 10-Week Study Plan [Realistic Breakdown]",
+      "url": "https://rebelsguidetopm.com/google-data-analytics-time-commitment/",
+      "publishedAt": "2026-08-07T05:05:00.000Z",
+      "excerpt": "I put off taking the Google data analytics certificate because I thought it would take forever… in this article I’ll share what I learned so you can plan your time. So, how long does Google data analytics certificate take? First, we should acknowledge that the course is advertised as around 140+ hours for the mandatory modules, but my experience and other students’ experience show that completion time varies. How long it’s going to take you is determined by: Your previous data analytics experience (I had none) Your willingness to put the time in How comfortable you feel with the tools, and how",
+      "titleJa": "Google Data Analytics認定資格：実際の学習時間と10週間の学習計画",
+      "summaryJa": "Google Data Analytics認定資格の習得に必要な時間についての実体験に基づいた解説です。公式では140時間以上とされていますが、実際の習得時間は前知識、学習への投入時間、ツールの習熟度など複数の要因によって大きく異なります。効果的な学習計画の立案に役立つ実践的なアドバイスを提供しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -90,16 +100,6 @@
       "excerpt": "Braucht es noch Scrum Teams – jetzt, wo wir KI haben? Ich stelle mir diese Frage selbst und wahrscheinlich bin ich nicht der Einzige. Auf meiner Suche nach Antworten schaue ich auf die Menschen, die die agile Softwareentwicklung geprägt haben. Einer von ihnen ist Henrik. Henrik hat Jahrzehnte in der Softwareentwicklung gearbeitet – als Entwickler, Coach, Designer, Unternehmer. Bis Mitte 2022 hatte er eine klare Antwort auf diese Frage: Ja. Menschen werden immer gebraucht. Die Übersetzung von Anforderungen in Code – „the manual translation layer“ – sei schlicht unvermeidbar. Dann kam ChatGPT. N",
       "titleJa": "ChatbotのハルシネーションにScrum Teamsはどう対応する？「Done の定義」をAI対応させる方法",
       "summaryJa": "AIの進化によってScrum Teamsの必要性が問われている。本記事では、アジャイル開発の第一人者Henrikが「要件からコードへの手動変換層は避けられない」という従来の見方を、ChatGPTの登場を機に見直す必要性を提示。Scrum Teamsが「Done の定義」をAI時代に対応させ、Chatbotのハルシネーションなどのリスクに対する責任を明確にすることの重要性を探る。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Coursera: Why it’s worth it in 2026",
-      "url": "https://rebelsguidetopm.com/coursera-plus-why-its-worth-it/",
-      "publishedAt": "2026-08-04T16:34:29.000Z",
-      "excerpt": "As a project manager, we are always learning new things. If you hold a professional certification like the Project Management Professional, an APM qualification, or PRINCE2, you’ll also be expected to carry out some professional development each year as well. And that all costs money – often money that our employers won’t pay for us. There is another way to build your skills and manage your budget: Coursera. I have used Coursera since 2023, so here's my review. Verdict at a glance Coursera is an online learning platform that offers non-certificate, certificate and full degree courses for digit",
-      "titleJa": "2026年にCourseraは価値があるのか：プロジェクトマネージャー向け学習活用ガイド",
-      "summaryJa": "PMP、APM、PRINCE2などの認定資格を取得したプロジェクトマネージャーは継続的な専門能力開発が求められます。本記事では、費用効率的にスキルを磨くための学習プラットフォーム「Coursera」の2026年時点での活用価値を、実際の利用者視点から検証します。"
     },
     {
       "category": "PjM",
