@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-08T00:45:20.064Z",
+  "updatedAt": "2026-08-08T06:32:22.379Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Level up your project schedules: 5 advanced techniques",
+      "url": "https://rebelsguidetopm.com/level-up-your-project-schedules-5-advanced-techniques/",
+      "publishedAt": "2026-08-08T04:59:00.000Z",
+      "excerpt": "For many projects, basic scheduling techniques are fine. You can’t go too far wrong with a task list and start and finish dates. Throw in some start-to-finish dependencies, make a Gantt chart, and that’s a pretty good plan. But when projects become larger, involve multiple suppliers or have immovable deadlines, a simple Gantt chart isn't enough. Advanced scheduling techniques help you identify delivery risks earlier, manage limited resources more effectively and give stakeholders realistic completion dates. Below, I'll show you 5 advanced project scheduling techniques used on complex (and not-",
+      "titleJa": "プロジェクトスケジュールを高度化する5つの手法",
+      "summaryJa": "基本的なガントチャートでは複雑なプロジェクト管理に対応できません。本記事では、大規模プロジェクトや複数のサプライヤー、固定されたデッドラインがある場合に有効な5つの高度なスケジューリング技法を紹介します。これらの手法により、納期リスクを早期に特定し、限定的なリソースをより効果的に管理し、ステークホルダーに現実的な完了日程を提示できます。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -90,16 +100,6 @@
       "excerpt": "One of the questions I’m asked most often via LinkedIn or through my mentoring practice is whether the Google Project Management Certificate is enough to get a job. People are worried that they’ll invest time and energy and it still won’t be enough. So is it? I’ve taken the Google PM Certificate myself, and passed, (as well as many other project management exams over the years) and I used to lead a team of project managers, so this is my take on the job prospects linked to this particular training. Key things to know The Google PM Certificate can open doors to a new job (phew!). You’ll build a",
       "titleJa": "Googleプロジェクトマネジメント認定資格で就職できる？その現実と戦略",
       "summaryJa": "Google PM認定資格が転職に有効かどうかについて、資格取得者の視点から実践的に解説。認定資格は新しい職へのドアを開く一助になることを示しながら、就職成功のための具体的なポイントを紹介しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Your First PMO Toolkit: The Essentials You Actually Need",
-      "url": "https://rebelsguidetopm.com/pmo-toolkit/",
-      "publishedAt": "2026-08-05T08:33:11.000Z",
-      "excerpt": "So you’ve been asked to set up a Project Management Office. Great! That means your company is moving on and taking project management seriously. But for you, that means having to pull together assets and processes, standards and approaches, checklists and guidelines… the list goes on. I can help! If you are setting up a lightweight PMO in a small business or team, and you need structure but not bureaucracy, this is for you. We’ll cover the 5 templates you need to have in place first, 3 simple processes to kickstart your PMO, the tools that work for small teams and the governance frameworks tha",
-      "titleJa": "最初のPMOツールキット：本当に必要な基本要素",
-      "summaryJa": "新たにPMO（プロジェクト管理オフィス）を立ち上げる際に、軽量で実用的な構成を実現するための実践ガイド。必要な5つのテンプレート、3つの基本プロセス、スモールチーム向けツール、ガバナンスフレームワークを紹介しています。"
     },
     {
       "category": "PjM",
