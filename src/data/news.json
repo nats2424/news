@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-08T12:22:32.686Z",
+  "updatedAt": "2026-08-08T18:20:39.966Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-crafting-outreach",
+      "publishedAt": "2026-08-08T17:08:14.000Z",
+      "excerpt": "Community Wisdom 196",
+      "titleJa": "コミュニティの知見：本物らしいアウトリーチの工夫、デザインパートナー探し、差別化要因の定義など",
+      "summaryJa": "Lennyのニュースレター「Community Wisdom 196」では、本物らしく見えるアウトリーチの作成方法、デザインパートナーの見つけ方、競争力の高い時代での製品差別化の定義、プロダクトビジョンの浸透方法など、プロダクトマネジメント実務に関わる複数の課題について、コミュニティの知見を集約した内容となっている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -190,16 +200,6 @@
       "excerpt": "You know when you suddenly realise you have an internal model of a chunk of the world that's been guiding your thinking and behaviour but you never realised? I love that. Of course I do! Duh. Data for specific logic. I use this in traditional regression tests that need a static expected result: unit tests, for instance. I see a lot of examples that have clearly grabbed runtime application data that's the right shape and bunged it into the test. This is convenient for the writer but can obscure the test intent and make later understanding and failure investigation more costly. As I usually want",
       "titleJa": "テストデータの3つの活用方法",
       "summaryJa": "テストデータの設計について、実運用データの流用ではなく目的に応じた適切なデータ選択の重要性を論じています。リグレッションテストやユニットテストで静的な期待値が必要な場合、テスト意図を明確にし後の保守性を高めるデータ戦略が必須である点を強調しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "This CPO regrets that product management exists | Tom Verrilli (CPO of Whatnot)",
-      "url": "https://www.lennysnewsletter.com/p/this-cpo-regrets-that-product-management",
-      "publishedAt": "2026-08-02T12:32:02.000Z",
-      "excerpt": "Listen now | Tom Verrilli explains why fewer, more senior PMs doing real IC work outperform any ratio-driven org structure",
-      "titleJa": "プロダクトマネジメント職の存在を後悔するCPO",
-      "summaryJa": "Whatnotの最高プロダクト責任者Tom Verrilliは、比率主導の組織構造よりも、実装作業に携わるシニアPMが少数精鋭で活動する方が高いパフォーマンスを発揮すると説明しています。プロダクト管理の役割設計に関する重要な考察です。"
     },
     {
       "category": "PdM",
