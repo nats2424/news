@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-09T00:48:58.870Z",
+  "updatedAt": "2026-08-09T06:35:55.412Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Focus Is Not Genius. It Is a Kata.",
+      "url": "https://www.scrum.org/resources/blog/focus-not-genius-it-kata",
+      "publishedAt": "2026-08-09T06:00:00.000Z",
+      "excerpt": "Image In May 1997, at Apple's developer conference, an audience member stood up and insulted Steve Jobs to his face. Jobs paused, took a sip of water, and gave an answer that had nothing to do with the insult and everything to do with how he ran companies. \"Focusing is about saying no,\" he said. \"You've got to say no, no, no.\" And then the line that should be pinned above every roadmap: when you pursue too many directions at once, the total is less than the sum of the parts. We file moments like that under biography. Jobs was driven. Musk is driven. They separate signal from noise, work brutal",
+      "titleJa": "フォーカスは才能ではなく、型稽古である",
+      "summaryJa": "スティーブ・ジョブズが語った「フォーカスすることは『ノー』と言うことだ」という言葉から、経営における優先順位の重要性を学ぶ。複数の方向を同時に追求すると、全体は個別の合計より小さくなってしまう。真のリーダーシップは、ノイズから信号を分離し、集中力を鍛える型稽古として磨かれるスキルである。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -140,16 +150,6 @@
       "excerpt": "About This Episode: Your developers just got supercharged by AI coding agents. Your test coverage did not. So how do […]",
       "titleJa": "PlaywrightとAI：Andrew Knightに学ぶ、AIスロップを避けたテスト自動化",
       "summaryJa": "AI開発エージェントが開発チームの生産性を向上させる一方で、テストカバレッジはそのペースに追いついていません。本エピソードでは、Playwrightを使用してAIの力を活かしながら、品質を保証したテスト自動化の実装方法について解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum and AI: AI Doesn’t Replace Scrum, It Sharpens its Focus",
-      "url": "https://www.scrum.org/resources/blog/scrum-and-ai-ai-doesnt-replace-scrum-it-sharpens-its-focus",
-      "publishedAt": "2026-08-04T13:33:06.000Z",
-      "excerpt": "Image Somewhere along the way, Scrum picked up a reputation it never earned. In today’s discussions about Scrum and AI, ask a room full of managers what Scrum is for, and most will say the same thing: it helps teams ship faster. That answer is so common it feels like fact. It is also wrong, and the gap between what Scrum is for and what people think it is for has never mattered more than it does now, in the age of AI. The reason is simple. Scrum and AI are both being sold on the same promise: do more, faster. But speed was never the point of Scrum, and treating AI as a pure accelerator is how ",
-      "titleJa": "ScrumとAI：AIはScrumの代替ではなく、その本質をより鮮明にする",
-      "summaryJa": "Scrumは単なるスピード重視のフレームワークとして誤解されることが多いですが、本来の目的は異なります。AI時代においてこそ、Scrumの正しい価値を理解し、AIを単なる加速装置ではなく戦略的に活用することが重要です。"
     },
     {
       "category": "PdM",
