@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-09T12:24:49.587Z",
+  "updatedAt": "2026-08-09T18:22:41.428Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
+      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
+      "publishedAt": "2026-08-09T12:31:29.000Z",
+      "excerpt": "Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting",
+      "titleJa": "高い人材密度チームを構築するプレイブック | Cursorタレント責任者アダム・ウォード",
+      "summaryJa": "Cursorのアダム・ウォードが、採用の「doom funnel」問題、すべての採用を経営幹部レベルの検索として扱うアプローチ、そしてリクルーティングにおいて人的配慮が最大の競争優位性となる理由について語っています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -180,16 +190,6 @@
       "excerpt": "Continuous Discovery Habits turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "第9章：隠れた前提条件を識別する",
       "summaryJa": "『継続的なディスカバリーの習慣』の5周年を記念して、書籍を深掘りする読書ガイドを公開。重要な概念の解説と映像を通じて、プロダクト開発における隠れた仮定を見つけるための実践的なアプローチを学べます。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-      "url": "https://www.lennysnewsletter.com/p/chatgpt-codex-voice-browser-sites",
-      "publishedAt": "2026-08-03T12:04:26.000Z",
-      "excerpt": "Watch now | 🎙️ChatGPT Voice now manages multiple threads, reads your screen, and runs background tasks, and Nick Baumann walks me through the whole workflow live",
-      "titleJa": "ChatGPT音声でコーディングからブラウジングまで：OpenAIエキスパートのAIワークフロー",
-      "summaryJa": "ChatGPT Voiceが複数スレッドの管理、画面読み込み、バックグラウンドタスク実行に対応。OpenAIのNick Baumannが実際のワークフローを実演しながら、最新のAI統合開発環境の活用方法を紹介します。"
     },
     {
       "category": "QA",
