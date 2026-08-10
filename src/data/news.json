@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-08-10T07:06:27.647Z",
+  "updatedAt": "2026-08-10T12:40:59.733Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to list project management skills on your resume",
+      "url": "https://rebelsguidetopm.com/project-management-skills-resume/",
+      "publishedAt": "2026-08-10T12:27:42.000Z",
+      "excerpt": "If you’re putting together an application for a job, you’ve probably found that there is a long list of project management skills to include in your resume (which over here in the UK we call a CV). How do you list the project management skills required without it turning into a giant list of buzzwords? The job market is tough, so you want your application to stand out, and for employers to see you have the skills required to do the job. Here's how to manage the skills section on your resume. How to include project management skills on your CV Let’s just go with the fact that CV and resume are ",
+      "titleJa": "職務経歴書でのプロジェクトマネジメント・スキルの効果的な記載方法",
+      "summaryJa": "職務経歴書にプロジェクトマネジメント・スキルを適切に記載する方法を指南。多くのスキルを列挙するだけではなく、採用担当者に必要なスキルを効果的にアピールできる記載のコツを紹介。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
+      "publishedAt": "2026-08-10T12:01:44.000Z",
+      "excerpt": "Listen now | 🎙️ Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email",
+      "titleJa": "Claude Codeで実現する非技術者向けAI活用：音声機能と協働の実践",
+      "summaryJa": "一般的なユーザーがClaudeを活用して業務を自動化した事例を紹介。週20時間の事務作業を提案書作成、顧客管理、メール対応の自動化パイプラインに一本化し、サービス事業を効率化した実践例。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Survey Results: Agile to the Product Operating Model",
+      "url": "https://www.scrum.org/resources/blog/survey-results-agile-product-operating-model",
+      "publishedAt": "2026-08-10T09:07:32.000Z",
+      "excerpt": "TL; DR: The “Agile to the Product Operating Model” Survey Results Between August 2 and August 10, 2026, 48 practitioners participated in my Agile to Product Operating Model (POM) survey, which tries to shed light on what is actually changing. Let me summarize the answers for you: the reported transformations change decision-making less than the Cagan framework suggests. Where respondents report improvements, they appear in delivery and collaboration rather than in business results. Unfortunately, the human side of the transition is the least encouraging part of the answers. Take all the follow",
+      "titleJa": "調査結果：アジャイルからプロダクト・オペレーティング・モデルへの転換",
+      "summaryJa": "2026年8月に実施されたアジャイルからプロダクト・オペレーティング・モデルへの転換調査の結果分析。48の実践者が参加し、意思決定の改善より配信とコラボレーションの向上が報告される一方で、組織的側面での課題が明らかになった。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Let there be flow – Die Magie hinter Kanban und Flow",
+      "url": "https://www.scrum.org/resources/blog/let-there-be-flow-die-magie-hinter-kanban-und-flow",
+      "publishedAt": "2026-08-10T08:57:28.000Z",
+      "excerpt": "Kanban wurde bereits 1947 von Taiichi Ohno bei Toyota entwickelt und stammt somit ursprünglich aus der Fertigung. Die Anwendung von Kanban in der Softwareentwicklung ist eigentlich auch nicht mehr so neu. David J. Anderson beschäftigte sich schon 2005 mit der Anwendung von Kanban-Prinzipien in der Softwareentwicklung und veröffentlichte dann 2010 das Buch \"Kanban: Successful Evolutionary Change for Your Technology Business\", das als eines der zentralen Werke der modernen Kanban-Bewegung in der Softwareentwicklung gilt. Kanban wird jedoch häufig auf einige wenige Praktiken reduziert, ohne die z",
+      "titleJa": "フロー実現のためのKanban：その本質と活用法",
+      "summaryJa": "1947年にトヨタで開発されたKanbanの基本から、2005年のソフトウェア開発への応用、2010年の重要著作「Kanban: Successful Evolutionary Change for Your Technology Business」の出版を経て現在に至る進化を解説。Kanbanの本質的な考え方と実践的な活用法を深掘りする。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -72,16 +112,6 @@
       "summaryJa": "Google Data Analytics認定資格の習得に必要な時間についての実体験に基づいた解説です。公式では140時間以上とされていますが、実際の習得時間は前知識、学習への投入時間、ツールの習熟度など複数の要因によって大きく異なります。効果的な学習計画の立案に役立つ実践的なアドバイスを提供しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your last failed transformation is not a strategy",
-      "url": "https://www.scrum.org/resources/blog/your-last-failed-transformation-not-strategy",
-      "publishedAt": "2026-08-06T22:00:00.000Z",
-      "excerpt": "\"We tried that before.\" Four words, and the idea was dead. Nobody asked when \"before\" was, or what was different then, or whether the thing that killed it last time even still exists. The four words did all the work a careful argument would have done, minus the argument. The meeting moved on, a little more certain that nothing here ever really changes, which by now is the one thing the team can reliably predict. Listen for it and you'll hear a whole liturgy. \"That'll never work here.\" \"Management will never allow it.\" \"The legacy system makes it impossible.\" \"This is just how we are.\" Each one",
-      "titleJa": "過去の失敗は戦略ではない",
-      "summaryJa": "「以前試したことがある」という一言で、新しいアイデアが即座に却下される組織の問題を指摘しています。いつの話か、何が異なるのか、当時の障害がまだ存在するのかを検討せず、経験則だけで判断する傾向が、組織の変革を阻害している実態を描いています。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "What Is AI-DLC? The AI Delivery Lifecycle for Governed Software Delivery",
@@ -100,16 +130,6 @@
       "excerpt": "A balanced scorecard is a way to monitor progress against a set of key, agreed measures. Companies typically have goals to focus on each year, such as revenue growth or health and safety targets. It’s called a balanced scorecard because there are different measures on it and the company has to balance performance across the whole piece – it’s no good having amazing customer satisfaction scores if your staff costs are spiralling out of control, for example. This model is in use in many businesses and it’s really helpful to scale it down for projects too. It is a sensible and standard way of mon",
       "titleJa": "プロジェクト成績表の構築方法",
       "summaryJa": "バランススコアカードは、合意した主要指標に対する進捗を監視するための手法です。売上成長や安全衛生目標など、企業が年間で重視すべき目標に対し、複数の指標でバランスよくパフォーマンスを評価することが重要です。この手法はプロジェクトレベルにも応用でき、プロジェクトの進捗管理を体系的に行うための標準的で実用的なアプローチとされています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "If the Project Manager Was Disassembled, Who Answers to the Customer?",
-      "url": "https://www.scrum.org/resources/blog/if-project-manager-was-disassembled-who-answers-customer",
-      "publishedAt": "2026-08-05T13:52:11.000Z",
-      "excerpt": "Image A while ago I wrote that the Project Manager didn't die under Scrum. The role was taken apart on purpose, its responsibilities distributed across the Scrum Team, and some of them absorbed into the framework itself. Then Daniel Pokrývka read it on LinkedIn and asked the one question that should make you pause: Who is responsible for the deliver of what was promised or paid by the customer? It's a fair challenge. Maybe the fairest one you can throw at the whole idea. Because if everything got distributed, the natural fear is that accountability got diluted, that we spread it so thin nobody",
-      "titleJa": "プロジェクトマネージャーを解体した後、顧客との責任は誰が負うのか",
-      "summaryJa": "Scrum導入時にプロジェクトマネージャーの職務がスクラムチーム全体に分散される際、顧客への約束や支払われた対価の納品責任が曖昧になるという課題を提起しています。責任の分散がアカウンタビリティの希薄化につながるリスクを指摘した重要な問題提起です。"
     },
     {
       "category": "PdM",
@@ -142,16 +162,6 @@
       "summaryJa": "プロジェクトマネージャーが変更を推進する際に直面する課題として、実行フェーズに重点が置かれやすく、エンドユーザーへの影響が見落とされることが多い点を指摘。従業員の抵抗など、変更導入時の課題に対応する必要性を解説しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Can You Get a Job with the Google Project Management Certificate? (Yes, here’s how)",
-      "url": "https://rebelsguidetopm.com/get-a-job-google-project-management/",
-      "publishedAt": "2026-08-05T08:55:22.000Z",
-      "excerpt": "One of the questions I’m asked most often via LinkedIn or through my mentoring practice is whether the Google Project Management Certificate is enough to get a job. People are worried that they’ll invest time and energy and it still won’t be enough. So is it? I’ve taken the Google PM Certificate myself, and passed, (as well as many other project management exams over the years) and I used to lead a team of project managers, so this is my take on the job prospects linked to this particular training. Key things to know The Google PM Certificate can open doors to a new job (phew!). You’ll build a",
-      "titleJa": "Googleプロジェクトマネジメント認定資格で就職できる？その現実と戦略",
-      "summaryJa": "Google PM認定資格が転職に有効かどうかについて、資格取得者の視点から実践的に解説。認定資格は新しい職へのドアを開く一助になることを示しながら、就職成功のための具体的なポイントを紹介しています。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Playwright With AI: How to Automate Tests Without Shipping AI Slop with Andrew Knight",
@@ -170,16 +180,6 @@
       "excerpt": "The case for career emergence",
       "titleJa": "長期キャリアプランは本当に必要か？",
       "summaryJa": "従来の長期キャリア計画の必要性に疑問を呈し、キャリア形成の新しいアプローチを提唱した記事。予測不可能な時代において、柔軟で段階的なキャリア発展（キャリアエマージェンス）の重要性が強調されています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: ChatGPT Codex Voice + browser + Sites: an expert’s AI workflow | Nick Baumann (OpenAI)",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-chatgpt-codex-voice-browser",
-      "publishedAt": "2026-08-03T15:02:21.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "ChatGPT、Codex、音声入力を組み合わせたAIワークフロー",
-      "summaryJa": "OpenAIのNick Baumannが、ChatGPT、Codex、ブラウザ、Sitesを活用した実践的なAIワークフローについて解説するポッドキャスト。専門家の視点から、これらのツールを組み合わせた効率的な業務プロセスを紹介する。"
     },
     {
       "category": "PdM",
