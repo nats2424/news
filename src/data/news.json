@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-08-10T12:40:59.733Z",
+  "updatedAt": "2026-08-10T18:40:25.293Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to write a terms of reference with template & examples",
+      "url": "https://rebelsguidetopm.com/terms-of-reference-free-template/",
+      "publishedAt": "2026-08-10T16:08:06.000Z",
+      "excerpt": "Why use a Terms of Reference document? A Terms of Reference document is a really versatile document. I use it mainly for two things: First, putting down in writing what my Steering Group are actually supposed to do to set the 'ground rules' for that group and their meetings. This helps them keep a focus on the job at hand, not get too much into the detail and helps them and others take the project seriously. Second, to define what a particular workstream on a project is supposed to do. I find a ToR is helpful when there's a technical stream of work being led by someone, and then other strands ",
+      "titleJa": "プロジェクト開始時の必須文書：Terms of Referenceの書き方",
+      "summaryJa": "Terms of Reference（ToR）文書はステアリンググループの責任範囲を明確にし、プロジェクトの焦点を保つのに有効です。技術的なワークストリームを含む複雑なプロジェクトにおいて、各チームの役割を定義する重要なドキュメントです。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
+      "publishedAt": "2026-08-10T15:01:49.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "AI時代の仕事術：30分でAIコードレビューボットを構築",
+      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズから、Claude Codeを活用してAIコードレビューボットを短時間で構築する方法について解説します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Silicon Valley Product Group",
+      "title": "A Fresh Definition of The Product Role",
+      "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
+      "publishedAt": "2026-08-10T12:49:18.000Z",
+      "excerpt": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group.",
+      "titleJa": "プロダクトマネージャーの役割を再定義する",
+      "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -152,16 +182,6 @@
       "summaryJa": "Vercel EveのエージェントとCodexを活用して、PR内容のリスクをスコアリングし、簡単なものは自動承認、その他はSlackで通知するコードレビューボット「Merge Mommy」を構築する方法を紹介しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "5 Common Change Models and How Useful They Are at Work",
-      "url": "https://rebelsguidetopm.com/4-common-change-models/",
-      "publishedAt": "2026-08-05T10:24:24.000Z",
-      "excerpt": "Project managers deliver change all the time, but in my experience, we aren’t always focused on the change side of change… if you see what I mean. Project managers tend to focus on the delivery and execution, and hopefully there’s a change manager who picks up the impact on the end users. But if there isn’t, then you need to spend at least a little time on making sure your project changes land well. Employees experience change in different ways: some embrace it, while others resist. Whether it’s a new software rollout, a company restructure, or a shift in business strategy, change requires peo",
-      "titleJa": "よく使われる5つの変更管理モデルと実務での活用価値",
-      "summaryJa": "プロジェクトマネージャーが変更を推進する際に直面する課題として、実行フェーズに重点が置かれやすく、エンドユーザーへの影響が見落とされることが多い点を指摘。従業員の抵抗など、変更導入時の課題に対応する必要性を解説しています。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Playwright With AI: How to Automate Tests Without Shipping AI Slop with Andrew Knight",
@@ -170,16 +190,6 @@
       "excerpt": "About This Episode: Your developers just got supercharged by AI coding agents. Your test coverage did not. So how do […]",
       "titleJa": "PlaywrightとAI：Andrew Knightに学ぶ、AIスロップを避けたテスト自動化",
       "summaryJa": "AI開発エージェントが開発チームの生産性を向上させる一方で、テストカバレッジはそのペースに追いついていません。本エピソードでは、Playwrightを使用してAIの力を活かしながら、品質を保証したテスト自動化の実装方法について解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "What if you’re not supposed to have a long-term plan?",
-      "url": "https://www.lennysnewsletter.com/p/what-if-youre-not-supposed-to-have",
-      "publishedAt": "2026-08-04T13:02:53.000Z",
-      "excerpt": "The case for career emergence",
-      "titleJa": "長期キャリアプランは本当に必要か？",
-      "summaryJa": "従来の長期キャリア計画の必要性に疑問を呈し、キャリア形成の新しいアプローチを提唱した記事。予測不可能な時代において、柔軟で段階的なキャリア発展（キャリアエマージェンス）の重要性が強調されています。"
     },
     {
       "category": "PdM",
