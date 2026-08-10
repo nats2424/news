@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-10T00:51:25.491Z",
+  "updatedAt": "2026-08-10T07:06:27.647Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Tools Evaluation & Approval Framework for Scrum Teams",
+      "url": "https://www.scrum.org/resources/blog/ai-tools-evaluation-approval-framework-scrum-teams",
+      "publishedAt": "2026-08-10T07:05:54.000Z",
+      "excerpt": "When you see an impressive AI tool, you want to bring it to your team immediately. But it can bring risks. Don’t blame your organization if they don’t easily allow any AI tool to be used. Why? Image I regularly hear from my students in my AI classes that their organizations don’t easily allow them to use every type of AI tool, and they are highly restricted. They usually describe it as a negative point of their organization. But is it really negative? Isn’t there any advantage in it? In this blog post, I want to dissect this topic and give you a practical framework that you can use to evaluate",
+      "titleJa": "Scrumチームのための AI ツール評価・承認フレームワーク",
+      "summaryJa": "魅力的なAIツールをチームに導入したいという衝動は理解できますが、組織が慎重に制限を設ける理由があります。本記事は、AIツールの導入リスクを考慮した実践的な評価フレームワークを提供し、制限が実は組織にとって利点になり得ることを解説しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Cognitive Trap: Scrum Master as a Manager",
+      "url": "https://www.scrum.org/resources/blog/cognitive-trap-scrum-master-manager",
+      "publishedAt": "2026-08-10T04:00:00.000Z",
+      "excerpt": "Scrum Master as Manager Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Scrum Master as a Manager. A Scrum Master that is directing work instead of enabling the system reduces team ownership and weakens self-management. Simulated Assessment Question A Scrum Master assigns tasks during the sprint to improve flow. What is the best assessment ",
+      "titleJa": "認知バイアス:スクラムマスターの管理者化の罠",
+      "summaryJa": "Scrumの失敗の多くは、透明性・検査・適応よりも効率性・コントロール・快適性を優先する認知バイアスに起因します。スクラムマスターが作業指示を行い、チームの自己管理を弱めることは典型的な罠であり、チーム所有権の低下につながるため注意が必要です。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -130,26 +150,6 @@
       "excerpt": "One of the questions I’m asked most often via LinkedIn or through my mentoring practice is whether the Google Project Management Certificate is enough to get a job. People are worried that they’ll invest time and energy and it still won’t be enough. So is it? I’ve taken the Google PM Certificate myself, and passed, (as well as many other project management exams over the years) and I used to lead a team of project managers, so this is my take on the job prospects linked to this particular training. Key things to know The Google PM Certificate can open doors to a new job (phew!). You’ll build a",
       "titleJa": "Googleプロジェクトマネジメント認定資格で就職できる？その現実と戦略",
       "summaryJa": "Google PM認定資格が転職に有効かどうかについて、資格取得者の視点から実践的に解説。認定資格は新しい職へのドアを開く一助になることを示しながら、就職成功のための具体的なポイントを紹介しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Wenn Chatbots halluzinieren – wer haftet? So machen Scrum Teams ihre „Definition of Done“ KI-sicher",
-      "url": "https://www.scrum.org/resources/blog/wenn-chatbots-halluzinieren-wer-haftet-so-machen-scrum-teams-ihre-definition-done-ki-sicher",
-      "publishedAt": "2026-08-05T06:00:00.000Z",
-      "excerpt": "Braucht es noch Scrum Teams – jetzt, wo wir KI haben? Ich stelle mir diese Frage selbst und wahrscheinlich bin ich nicht der Einzige. Auf meiner Suche nach Antworten schaue ich auf die Menschen, die die agile Softwareentwicklung geprägt haben. Einer von ihnen ist Henrik. Henrik hat Jahrzehnte in der Softwareentwicklung gearbeitet – als Entwickler, Coach, Designer, Unternehmer. Bis Mitte 2022 hatte er eine klare Antwort auf diese Frage: Ja. Menschen werden immer gebraucht. Die Übersetzung von Anforderungen in Code – „the manual translation layer“ – sei schlicht unvermeidbar. Dann kam ChatGPT. N",
-      "titleJa": "ChatbotのハルシネーションにScrum Teamsはどう対応する？「Done の定義」をAI対応させる方法",
-      "summaryJa": "AIの進化によってScrum Teamsの必要性が問われている。本記事では、アジャイル開発の第一人者Henrikが「要件からコードへの手動変換層は避けられない」という従来の見方を、ChatGPTの登場を機に見直す必要性を提示。Scrum Teamsが「Done の定義」をAI時代に対応させ、Chatbotのハルシネーションなどのリスクに対する責任を明確にすることの重要性を探る。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The AWS AI-DLC: Why AI Coding Still Needs Human Accountability",
-      "url": "https://www.scrum.org/resources/blog/aws-ai-dlc-why-ai-coding-still-needs-human-accountability",
-      "publishedAt": "2026-08-04T15:03:07.000Z",
-      "excerpt": "Image Amazon Web Services recently published a paper defining the AI-Driven Development Lifecycle, or AI-DLC — a reimagined SDLC (Software Development Lifecycle) for a world where AI, not humans, initiates the workflow. I read it the way I read most new methodology proposals by hunting for what's missing before I look at what's new. It didn't take long. To be fair, there's real thinking here. AI-DLC replaces Sprints with \"Bolts\" (yes, really), measured in hours rather than weeks. It folds design techniques such as Domain-Driven Design into the method rather than leaving them as homework. It re",
-      "titleJa": "AWSのAI-DLC：AI開発ライフサイクルも人間の責任が不可欠",
-      "summaryJa": "AmazonWebServicesが提唱するAI駆動開発ライフサイクル（AI-DLC）は、AIが主導するSDLCの再構想です。SprintをBoltに置き換え、ドメイン駆動設計を組み込むなど革新的な手法を提案していますが、導入にはAI開発における人間の責任と説明責任の確保が重要です。"
     },
     {
       "category": "QA",
