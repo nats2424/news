@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-08-11T06:44:37.519Z",
+  "updatedAt": "2026-08-11T12:38:22.972Z",
   "items": [
     {
       "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "RAID logs in project management: How to actually use one",
-      "url": "https://rebelsguidetopm.com/raid-in-project-management/",
-      "publishedAt": "2026-08-11T01:14:00.000Z",
-      "excerpt": "You've probably seen the definition: Risks, Assumptions, Issues and Dependencies. That's the easy bit. The useful question is what you actually do with a RAID log once your project is underway. You'll hear project managers talking about their RAID logs as part of how to manage a project, or updating the RAID, but what does it all mean? I've been working with RAID logs for over 20 years, so I have plenty of practical tips to share! My RAID log is THE most useful tool I use to keep my projects on track, and it will do the same for you. Get a RAID log template as part of a complete project workbo",
-      "titleJa": "プロジェクト管理のRAIDログ：実践的な活用方法",
-      "summaryJa": "リスク、仮定、課題、依存関係を管理するRAIDログの実装方法を解説します。20年以上の経験から、RAIDログをプロジェクト追跡の最も有効なツールとして活用するための実践的なコツとテンプレートを紹介しています。"
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Create Multilingual User Tutorial Videos with AI",
+      "url": "https://www.scrum.org/resources/blog/how-create-multilingual-user-tutorial-videos-ai",
+      "publishedAt": "2026-08-11T07:05:58.000Z",
+      "excerpt": "Imagine you want to create a tutorial video for your users to learn how to use a specific feature of your product. Your users are from the UK, Germany, and Sweden. Let’s see how you can build a multilingual video for it with AI. Image You are a Product Owner of a product that is being used internationally. You have users from different countries in Europe (UK, Germany, Sweden, …). Although they understand English, they prefer to get the service in their own language (German, Swedish, …). To give a better experience to users, you decide to build user tutorial videos in their own languages. Trad",
+      "titleJa": "AIで多言語ユーザー向けチュートリアル動画を作成する方法",
+      "summaryJa": "国際展開するプロダクトにおいて、異なる国の複数ユーザーに対応したチュートリアル動画の作成をAIを活用して実現する方法を紹介しています。英語理解の有無に関わらず、ユーザーが自国の言語でサービスを学べる環境を整備することで、ユーザー体験を向上させるアプローチについて解説しています。"
     },
     {
       "category": "QA",
@@ -20,16 +20,6 @@
       "excerpt": "About This Episode: Is Microsoft is quietly steering you off Playwright MCP? OWASP tested 12 AI defenses but most of […]",
       "titleJa": "Playwright MCPのコスト、OWASPの警告、そして誰も問わない質問",
       "summaryJa": "MicrosoftがPlaywright MCPから利用者を遠ざけているのかを検証。OWASPが12のAI防御をテストした結果、ほとんどが期待に応えていないことが明らかになる。テスト業界の最新動向と未解決の課題について取り上げたエピソード。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to write a terms of reference with template & examples",
-      "url": "https://rebelsguidetopm.com/terms-of-reference-free-template/",
-      "publishedAt": "2026-08-10T16:08:06.000Z",
-      "excerpt": "Why use a Terms of Reference document? A Terms of Reference document is a really versatile document. I use it mainly for two things: First, putting down in writing what my Steering Group are actually supposed to do to set the 'ground rules' for that group and their meetings. This helps them keep a focus on the job at hand, not get too much into the detail and helps them and others take the project seriously. Second, to define what a particular workstream on a project is supposed to do. I find a ToR is helpful when there's a technical stream of work being led by someone, and then other strands ",
-      "titleJa": "プロジェクト開始時の必須文書：Terms of Referenceの書き方",
-      "summaryJa": "Terms of Reference（ToR）文書はステアリンググループの責任範囲を明確にし、プロジェクトの焦点を保つのに有効です。技術的なワークストリームを含む複雑なプロジェクトにおいて、各チームの役割を定義する重要なドキュメントです。"
     },
     {
       "category": "PdM",
@@ -50,16 +40,6 @@
       "excerpt": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "プロダクトマネージャーの役割を再定義する",
       "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to list project management skills on your resume",
-      "url": "https://rebelsguidetopm.com/project-management-skills-resume/",
-      "publishedAt": "2026-08-10T12:27:42.000Z",
-      "excerpt": "If you’re putting together an application for a job, you’ve probably found that there is a long list of project management skills to include in your resume (which over here in the UK we call a CV). How do you list the project management skills required without it turning into a giant list of buzzwords? The job market is tough, so you want your application to stand out, and for employers to see you have the skills required to do the job. Here's how to manage the skills section on your resume. How to include project management skills on your CV Let’s just go with the fact that CV and resume are ",
-      "titleJa": "職務経歴書でのプロジェクトマネジメント・スキルの効果的な記載方法",
-      "summaryJa": "職務経歴書にプロジェクトマネジメント・スキルを適切に記載する方法を指南。多くのスキルを列挙するだけではなく、採用担当者に必要なスキルを効果的にアピールできる記載のコツを紹介。"
     },
     {
       "category": "PdM",
@@ -122,16 +102,6 @@
       "summaryJa": "Cursorのアダム・ウォードが、採用の「doom funnel」問題、すべての採用を経営幹部レベルの検索として扱うアプローチ、そしてリクルーティングにおいて人的配慮が最大の競争優位性となる理由について語っています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Focus Is Not Genius. It Is a Kata.",
-      "url": "https://www.scrum.org/resources/blog/focus-not-genius-it-kata",
-      "publishedAt": "2026-08-09T06:00:00.000Z",
-      "excerpt": "Image In May 1997, at Apple's developer conference, an audience member stood up and insulted Steve Jobs to his face. Jobs paused, took a sip of water, and gave an answer that had nothing to do with the insult and everything to do with how he ran companies. \"Focusing is about saying no,\" he said. \"You've got to say no, no, no.\" And then the line that should be pinned above every roadmap: when you pursue too many directions at once, the total is less than the sum of the parts. We file moments like that under biography. Jobs was driven. Musk is driven. They separate signal from noise, work brutal",
-      "titleJa": "フォーカスは才能ではなく、型稽古である",
-      "summaryJa": "スティーブ・ジョブズが語った「フォーカスすることは『ノー』と言うことだ」という言葉から、経営における優先順位の重要性を学ぶ。複数の方向を同時に追求すると、全体は個別の合計より小さくなってしまう。真のリーダーシップは、ノイズから信号を分離し、集中力を鍛える型稽古として磨かれるスキルである。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Crafting outreach that reads as authentic, finding design partners, what counts as a moat when anyone can build, making a product vision stick, and more",
@@ -140,26 +110,6 @@
       "excerpt": "Community Wisdom 196",
       "titleJa": "コミュニティの知見：本物らしいアウトリーチの工夫、デザインパートナー探し、差別化要因の定義など",
       "summaryJa": "Lennyのニュースレター「Community Wisdom 196」では、本物らしく見えるアウトリーチの作成方法、デザインパートナーの見つけ方、競争力の高い時代での製品差別化の定義、プロダクトビジョンの浸透方法など、プロダクトマネジメント実務に関わる複数の課題について、コミュニティの知見を集約した内容となっている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Level up your project schedules: 5 advanced techniques",
-      "url": "https://rebelsguidetopm.com/level-up-your-project-schedules-5-advanced-techniques/",
-      "publishedAt": "2026-08-08T04:59:00.000Z",
-      "excerpt": "For many projects, basic scheduling techniques are fine. You can’t go too far wrong with a task list and start and finish dates. Throw in some start-to-finish dependencies, make a Gantt chart, and that’s a pretty good plan. But when projects become larger, involve multiple suppliers or have immovable deadlines, a simple Gantt chart isn't enough. Advanced scheduling techniques help you identify delivery risks earlier, manage limited resources more effectively and give stakeholders realistic completion dates. Below, I'll show you 5 advanced project scheduling techniques used on complex (and not-",
-      "titleJa": "プロジェクトスケジュールを高度化する5つの手法",
-      "summaryJa": "基本的なガントチャートでは複雑なプロジェクト管理に対応できません。本記事では、大規模プロジェクトや複数のサプライヤー、固定されたデッドラインがある場合に有効な5つの高度なスケジューリング技法を紹介します。これらの手法により、納期リスクを早期に特定し、限定的なリソースをより効果的に管理し、ステークホルダーに現実的な完了日程を提示できます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Google Data Analytics Certificate: Time Commitment + 10-Week Study Plan [Realistic Breakdown]",
-      "url": "https://rebelsguidetopm.com/google-data-analytics-time-commitment/",
-      "publishedAt": "2026-08-07T05:05:00.000Z",
-      "excerpt": "I put off taking the Google data analytics certificate because I thought it would take forever… in this article I’ll share what I learned so you can plan your time. So, how long does Google data analytics certificate take? First, we should acknowledge that the course is advertised as around 140+ hours for the mandatory modules, but my experience and other students’ experience show that completion time varies. How long it’s going to take you is determined by: Your previous data analytics experience (I had none) Your willingness to put the time in How comfortable you feel with the tools, and how",
-      "titleJa": "Google Data Analytics認定資格：実際の学習時間と10週間の学習計画",
-      "summaryJa": "Google Data Analytics認定資格の習得に必要な時間についての実体験に基づいた解説です。公式では140時間以上とされていますが、実際の習得時間は前知識、学習への投入時間、ツールの習熟度など複数の要因によって大きく異なります。効果的な学習計画の立案に役立つ実践的なアドバイスを提供しています。"
     },
     {
       "category": "QA",
