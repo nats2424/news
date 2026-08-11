@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-11T12:38:22.972Z",
+  "updatedAt": "2026-08-11T18:44:21.038Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How to make people care about your startup",
+      "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
+      "publishedAt": "2026-08-11T13:31:07.000Z",
+      "excerpt": "Three founder archetypes—and how to turn your origin story into a communications strategy",
+      "titleJa": "スタートアップへの関心を引き出す方法",
+      "summaryJa": "創業者の3つのアーキタイプを活用し、オリジンストーリーを効果的なコミュニケーション戦略に変える方法を解説します。スタートアップが人々の興味を獲得するためのアプローチが紹介されています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -12,6 +22,16 @@
       "summaryJa": "国際展開するプロダクトにおいて、異なる国の複数ユーザーに対応したチュートリアル動画の作成をAIを活用して実現する方法を紹介しています。英語理解の有無に関わらず、ユーザーが自国の言語でサービスを学べる環境を整備することで、ユーザー体験を向上させるアプローチについて解説しています。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "RAID logs in project management: How to actually use one",
+      "url": "https://rebelsguidetopm.com/raid-in-project-management/",
+      "publishedAt": "2026-08-11T01:14:00.000Z",
+      "excerpt": "You've probably seen the definition: Risks, Assumptions, Issues and Dependencies. That's the easy bit. The useful question is what you actually do with a RAID log once your project is underway. You'll hear project managers talking about their RAID logs as part of how to manage a project, or updating the RAID, but what does it all mean? I've been working with RAID logs for over 20 years, so I have plenty of practical tips to share! My RAID log is THE most useful tool I use to keep my projects on track, and it will do the same for you. Get a RAID log template as part of a complete project workbo",
+      "titleJa": "プロジェクト管理におけるRAIDログの実践活用法",
+      "summaryJa": "RAIDログ(リスク、仮定、課題、依存関係)の定義だけでなく、プロジェクト実行中の具体的な活用方法を20年の実践経験から解説します。プロジェクトを軌道に乗せるための最も有用なツールとして、実践的なテンプレートと運用tips を提供します。"
+    },
+    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Playwright MCP Cost, OWASP’s Warning, and the Question Nobody’s Asking TGNS192",
@@ -20,6 +40,16 @@
       "excerpt": "About This Episode: Is Microsoft is quietly steering you off Playwright MCP? OWASP tested 12 AI defenses but most of […]",
       "titleJa": "Playwright MCPのコスト、OWASPの警告、そして誰も問わない質問",
       "summaryJa": "MicrosoftがPlaywright MCPから利用者を遠ざけているのかを検証。OWASPが12のAI防御をテストした結果、ほとんどが期待に応えていないことが明らかになる。テスト業界の最新動向と未解決の課題について取り上げたエピソード。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to write a terms of reference with template & examples",
+      "url": "https://rebelsguidetopm.com/terms-of-reference-free-template/",
+      "publishedAt": "2026-08-10T16:08:06.000Z",
+      "excerpt": "Why use a Terms of Reference document? A Terms of Reference document is a really versatile document. I use it mainly for two things: First, putting down in writing what my Steering Group are actually supposed to do to set the 'ground rules' for that group and their meetings. This helps them keep a focus on the job at hand, not get too much into the detail and helps them and others take the project seriously. Second, to define what a particular workstream on a project is supposed to do. I find a ToR is helpful when there's a technical stream of work being led by someone, and then other strands ",
+      "titleJa": "計画書(Terms of Reference)の作成方法",
+      "summaryJa": "計画書(ToR)は、ステアリンググループの役割定義とプロジェクトのワークストリーム管理に活用できる汎用ドキュメントです。プロジェクトの焦点維持と関係者の関与促進に有効なテンプレートと事例を紹介します。"
     },
     {
       "category": "PdM",
@@ -40,6 +70,16 @@
       "excerpt": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "プロダクトマネージャーの役割を再定義する",
       "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to list project management skills on your resume",
+      "url": "https://rebelsguidetopm.com/project-management-skills-resume/",
+      "publishedAt": "2026-08-10T12:27:42.000Z",
+      "excerpt": "If you’re putting together an application for a job, you’ve probably found that there is a long list of project management skills to include in your resume (which over here in the UK we call a CV). How do you list the project management skills required without it turning into a giant list of buzzwords? The job market is tough, so you want your application to stand out, and for employers to see you have the skills required to do the job. Here's how to manage the skills section on your resume. How to include project management skills on your CV Let’s just go with the fact that CV and resume are ",
+      "titleJa": "履歴書でのプロジェクト管理スキル記載法",
+      "summaryJa": "採用市場で競争力を持つため、プロジェクト管理スキルを履歴書に効果的に記載する方法を紹介します。バズワードの羅列を避けながら、採用担当者に必要なスキルをアピールするコツを解説します。"
     },
     {
       "category": "PdM",
@@ -112,6 +152,26 @@
       "summaryJa": "Lennyのニュースレター「Community Wisdom 196」では、本物らしく見えるアウトリーチの作成方法、デザインパートナーの見つけ方、競争力の高い時代での製品差別化の定義、プロダクトビジョンの浸透方法など、プロダクトマネジメント実務に関わる複数の課題について、コミュニティの知見を集約した内容となっている。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Level up your project schedules: 5 advanced techniques",
+      "url": "https://rebelsguidetopm.com/level-up-your-project-schedules-5-advanced-techniques/",
+      "publishedAt": "2026-08-08T04:59:00.000Z",
+      "excerpt": "For many projects, basic scheduling techniques are fine. You can’t go too far wrong with a task list and start and finish dates. Throw in some start-to-finish dependencies, make a Gantt chart, and that’s a pretty good plan. But when projects become larger, involve multiple suppliers or have immovable deadlines, a simple Gantt chart isn't enough. Advanced scheduling techniques help you identify delivery risks earlier, manage limited resources more effectively and give stakeholders realistic completion dates. Below, I'll show you 5 advanced project scheduling techniques used on complex (and not-",
+      "titleJa": "プロジェクトスケジュール5つの高度なテクニック",
+      "summaryJa": "複数サプライヤーや動かせない期限を含む大規模プロジェクトでは、基本的なガントチャートだけでは不十分です。5つの高度なスケジューリング手法により、リスク特定の早期化、リソース最適化、ステークホルダーへの現実的な完了予測を実現します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Google Data Analytics Certificate: 10-week study plan",
+      "url": "https://rebelsguidetopm.com/google-data-analytics-time-commitment/",
+      "publishedAt": "2026-08-07T05:05:00.000Z",
+      "excerpt": "I put off taking the Google data analytics certificate because I thought it would take forever… in this article I’ll share what I learned so you can plan your time. So, how long does Google data analytics certificate take? First, we should acknowledge that the course is advertised as around 140+ hours for the mandatory modules, but my experience and other students’ experience show that completion time varies. How long it’s going to take you is determined by: Your previous data analytics experience (I had none) Your willingness to put the time in How comfortable you feel with the tools, and how",
+      "titleJa": "Googleデータアナリティクス認定資格:10週間の学習計画",
+      "summaryJa": "Googleのデータアナリティクス認定資格取得に要する実際の期間と学習計画を紹介します。公称140時間以上の必修モジュールが、実経験では個人差が大きく、事前経験やツール習熟度により大きく変動することを解説します。"
+    },
+    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "What Is AI-DLC? The AI Delivery Lifecycle for Governed Software Delivery",
@@ -130,16 +190,6 @@
       "excerpt": "Share this article In June, I returned to Product at Heart in Hamburg, Germany. I love this event. Arne Kittler and Petra Wille do such an amazing job of curating a thoughtful lineup of speakers and they obsess over the attendee experience. If you are looking for a high-quality",
       "titleJa": "冒険への招待",
       "summaryJa": "ハンブルグで開催されたProduct at Heartイベントに参加した体験記。高品質のスピーカーラインアップと参加者体験に配慮した、思慮深いイベント運営についての考察です。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Build an AI code review bot in 30 minutes with Vercel Eve",
-      "url": "https://www.lennysnewsletter.com/p/build-an-ai-code-review-bot-in-30",
-      "publishedAt": "2026-08-05T12:04:01.000Z",
-      "excerpt": "Watch now | 🎙️ I used Vercel Eve agents and Codex to build Merge Mommy: a PR review bot that scores risk, auto-approves the easy ones, and pings me in Slack for the rest",
-      "titleJa": "Vercel Eveで30分でAIコードレビューボットを構築",
-      "summaryJa": "Vercel EveのエージェントとCodexを活用して、PR内容のリスクをスコアリングし、簡単なものは自動承認、その他はSlackで通知するコードレビューボット「Merge Mommy」を構築する方法を紹介しています。"
     },
     {
       "category": "QA",
