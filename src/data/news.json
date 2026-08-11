@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-11T00:51:04.618Z",
+  "updatedAt": "2026-08-11T06:44:37.519Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "RAID logs in project management: How to actually use one",
+      "url": "https://rebelsguidetopm.com/raid-in-project-management/",
+      "publishedAt": "2026-08-11T01:14:00.000Z",
+      "excerpt": "You've probably seen the definition: Risks, Assumptions, Issues and Dependencies. That's the easy bit. The useful question is what you actually do with a RAID log once your project is underway. You'll hear project managers talking about their RAID logs as part of how to manage a project, or updating the RAID, but what does it all mean? I've been working with RAID logs for over 20 years, so I have plenty of practical tips to share! My RAID log is THE most useful tool I use to keep my projects on track, and it will do the same for you. Get a RAID log template as part of a complete project workbo",
+      "titleJa": "プロジェクト管理のRAIDログ：実践的な活用方法",
+      "summaryJa": "リスク、仮定、課題、依存関係を管理するRAIDログの実装方法を解説します。20年以上の経験から、RAIDログをプロジェクト追跡の最も有効なツールとして活用するための実践的なコツとテンプレートを紹介しています。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -160,16 +170,6 @@
       "excerpt": "A Director of Sales hit me with “AI-DLC” last week like I should already know it. I nodded. Then I […]",
       "titleJa": "AI-DLC とは？ガバナンス重視のソフトウェア配信におけるAIデリバリーライフサイクル",
       "summaryJa": "AI-DLCはAIを活用したソフトウェア配信ライフサイクルのフレームワークです。従来のデリバリープロセスにAIを統合し、ガバナンスを確保しながら効率的なソフトウェア配信を実現するアプローチについて解説されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How To Build A Project Scorecard",
-      "url": "https://rebelsguidetopm.com/how-to-build-a-project-scorecard/",
-      "publishedAt": "2026-08-06T05:23:00.000Z",
-      "excerpt": "A balanced scorecard is a way to monitor progress against a set of key, agreed measures. Companies typically have goals to focus on each year, such as revenue growth or health and safety targets. It’s called a balanced scorecard because there are different measures on it and the company has to balance performance across the whole piece – it’s no good having amazing customer satisfaction scores if your staff costs are spiralling out of control, for example. This model is in use in many businesses and it’s really helpful to scale it down for projects too. It is a sensible and standard way of mon",
-      "titleJa": "プロジェクト成績表の構築方法",
-      "summaryJa": "バランススコアカードは、合意した主要指標に対する進捗を監視するための手法です。売上成長や安全衛生目標など、企業が年間で重視すべき目標に対し、複数の指標でバランスよくパフォーマンスを評価することが重要です。この手法はプロジェクトレベルにも応用でき、プロジェクトの進捗管理を体系的に行うための標準的で実用的なアプローチとされています。"
     },
     {
       "category": "PdM",
