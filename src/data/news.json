@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-08-12T12:40:51.908Z",
+  "updatedAt": "2026-08-12T18:45:00.405Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "See It! Days 20-24",
+      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-20-24.html",
+      "publishedAt": "2026-08-12T13:45:27.000Z",
+      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. As we reach the final few days of exercises we're into reflection and consolidation of ideas. Day 20 Task: (1) Look across the past 19 days and draw out concepts related to systems (2) Consider what else you'd like to add (3) Jot down some questions (4) What topic would you like to add, as the focus of another page on your System zine? Components: parts, relationships, boundaries, effects, feedback, change over time, inputs and outputs, fai",
+      "titleJa": "システム思考エクササイズDay 20-24：最終段階の振り返りと統合",
+      "summaryJa": "Ruth Malanのシステム思考エクササイズの最終段階。過去19日間を振り返り、システムに関連する概念を抽出し、追加したいトピックと質問を整理する。コンポーネント、関係性、境界、フィードバックなどの要素を統合する演習。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "See It! Days 17-19",
+      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-17-19.html",
+      "publishedAt": "2026-08-12T13:43:27.000Z",
+      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. Day 17 Task: (1) Considering the situation you’re exploring: identify systems and their interrelationships. How far out do we zoom? What heuristics do you use? (2) Pick a (socio)technical system to focus on. Write a brief description of its primary purpose. I found the questions in the exercise the most interesting part of it this time. How far out do we zoom? This is the perennial problem in my world; I am always trying to find ways to jud",
+      "titleJa": "システム思考エクササイズDay 17-19：システム相互関係の分析",
+      "summaryJa": "Ruth Malanのシステム思考エクササイズ中盤。対象システムの相互関係を特定し、ズームレベルを決定するヒューリスティックを考える。社会技術的システムの設計目的を記述する演習を通じて、スコープの決定方法を学ぶ。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "See It! Days 10-16",
+      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-10-16.html",
+      "publishedAt": "2026-08-12T13:41:30.000Z",
+      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. Day 10 Task: 1. Draw an organization that you have been part of at least 3 different ways (2) Jot down reflections (3) Go \"meta” and think about the views you drew. As the task suggests, it's well known that org charts are, at best, an approximation of the way that work gets done in an organisation. The kind of diagram to draw depends on the perspective you want to obtain. Many of my colleagues don't like Miro, but I love it because I can s",
+      "titleJa": "システム思考エクササイズDay 10-16：組織構造の多角的可視化",
+      "summaryJa": "Ruth Malanのシステム思考エクササイズにおいて、組織図を複数の視点から描く演習。実際の業務フローと公式な組織体制の乖離を理解し、異なる視点による図解の有効性を学ぶ。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "See It! Days 6-9",
+      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-6-9.html",
+      "publishedAt": "2026-08-12T13:37:39.000Z",
+      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. In this set of exercises, the idea of feedback is introduced. Feedback is at the heart of systems thinking because we humans seem to be primed to view the world as a simple linear cause-leads-to-effect machine in which only the causes and effects that matter are those that (a) we desire or (b) are glaringly obvious. Day 6 Task: Watch a video on causal loops and take sketchnotes. I know and like this kind of diagram (Be a Quality Detector) b",
+      "titleJa": "システム思考エクササイズDay 6-9：因果ループとフィードバック",
+      "summaryJa": "Ruth Malanのシステム思考エクササイズにおいて、因果ループとフィードバックの概念を学ぶ。人間は線形の因果関係を優先しがちだが、システム思考ではフィードバックループが重要であることを理解する演習。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "See It! Days 1-5",
+      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-1-5.html",
+      "publishedAt": "2026-08-12T13:33:57.000Z",
+      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. The initial exercises introduce some core concepts and a couple of approaches to modelling, and encourage us to think about our work and the system we're looking at. Day 1 Task: (1) Draw a Bubble Diagram of a bicycle (2) Sketch a bicycle from memory (3) Pick a key capability [and use] sketches and words to explore and convey how it works (4) Reflect on what you learned. I'm comfortable doing what I'd call \"factoring\" which tries to find dif",
+      "titleJa": "システム思考エクササイズDay 1-5：基礎概念と建模方法の学習",
+      "summaryJa": "Ruth Malanの2025年システム思考エクササイズの初期段階。バブルダイアグラムの作成やスケッチを通じて、システムのコア概念と建模手法を学び、仕事とシステムについての思考を深める。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "I Set Up Grok Bot as a QA Engineer and Pointed It at a Live App",
+      "url": "https://testguild.com/grok-bot-qa-engineer/",
+      "publishedAt": "2026-08-12T13:15:07.000Z",
+      "excerpt": "Short answer: Grok Bot found a real bug, and it stopped about two inches below the surface. I pointed a […]",
+      "titleJa": "QAエンジニアがGrok Botを導入して本番アプリをテストしてみた",
+      "summaryJa": "QAエンジニアがGrok Botというツールを実際の本番環境で試したレポート。実際のバグを検出する能力がある一方で、問題の根本原因の掘り下げには限界があることが示された。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -222,16 +282,6 @@
       "summaryJa": "『継続的なディスカバリーの習慣』の5周年を記念して、書籍を深掘りする読書ガイドを公開。重要な概念の解説と映像を通じて、プロダクト開発における隠れた仮定を見つけるための実践的なアプローチを学べます。"
     },
     {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "Test Data Three Ways",
-      "url": "https://qahiccupps.blogspot.com/2026/08/test-data-three-ways.html",
-      "publishedAt": "2026-08-02T20:38:14.000Z",
-      "excerpt": "You know when you suddenly realise you have an internal model of a chunk of the world that's been guiding your thinking and behaviour but you never realised? I love that. Of course I do! Duh. Data for specific logic. I use this in traditional regression tests that need a static expected result: unit tests, for instance. I see a lot of examples that have clearly grabbed runtime application data that's the right shape and bunged it into the test. This is convenient for the writer but can obscure the test intent and make later understanding and failure investigation more costly. As I usually want",
-      "titleJa": "テストデータの3つの活用方法",
-      "summaryJa": "テストデータの設計について、実運用データの流用ではなく目的に応じた適切なデータ選択の重要性を論じています。リグレッションテストやユニットテストで静的な期待値が必要な場合、テスト意図を明確にし後の保守性を高めるデータ戦略が必須である点を強調しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP108 Why Product Teams Slow Down as Companies Scale — And What to Do About It",
@@ -240,16 +290,6 @@
       "excerpt": "Summary",
       "titleJa": "企業成長に伴うプロダクトチームの停滞と対策",
       "summaryJa": "企業規模の拡大に伴い、プロダクトチームの開発速度が低下する理由と、その問題に対する具体的な対策について解説します。組織の成長段階での課題認識と改善方法を取り上げています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Test Automation Won’t Save Your QA Career, but These Skills Will with Keith Klain",
-      "url": "https://testguild.com/podcast/a598-keith/",
-      "publishedAt": "2026-07-28T19:32:00.000Z",
-      "excerpt": "About This Episode: Keith Klain has spent 25+ years leading enterprise quality programs in financial services and is one of […]",
-      "titleJa": "テスト自動化だけでは不十分、QAキャリアを守るために必要なスキルとは",
-      "summaryJa": "25年以上の金融サービス業界での品質プログラム経営経験を持つKeith Klainが、QAプロフェッショナルのキャリア発展に必要とされるスキルについて解説。テスト自動化技術だけでなく、それ以外の視点から求められる能力や経験について論じた内容。"
     },
     {
       "category": "QA",
@@ -280,16 +320,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts How do you build trustworthy AI diagnostic tools in one of medicine's most historically under-researched areas? In this episode of Just Now Possible, Teresa Torres talks with Tulsi Patel (Director of Product and Technology), Lorna Brightmore (Head of",
       "titleJa": "女性の健康向けAI構築：Hertilityがベイズ診断とスキャン自動化を統合",
       "summaryJa": "医療の過去の研究不足分野である女性の健康領域において、信頼できるAI診断ツールをいかに構築するかについて、プロダクトとテクノロジーのディレクターが、ベイズ診断とスキャン自動化の組み合わせを通じた実装戦略を解説するポッドキャスト回。AIの医療応用とプロダクト開発の課題が議論される。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "Better Isolate Than Never",
-      "url": "https://qahiccupps.blogspot.com/2026/07/better-isolate-than-never.html",
-      "publishedAt": "2026-07-22T16:38:41.000Z",
-      "excerpt": "How do you test a product with distributed logic and non-deterministic components? Well, it depends on the product and when the question is asked. This post is one answer, for now. A service I work on exposes an API for internal and external clients and calls multiple other services. It orchestrates a reasonably complex journey for a user, with their inputs and the responses of the services determining each step. Our customers can configure the service to provide a variant of the standard journey for their users. This gives them choices on the available steps, the order of the steps, and, impo",
-      "titleJa": "分散ロジック環境でのテスト戦略：隔離の重要性",
-      "summaryJa": "複数のサービスを連携させる分散ロジックと非決定論的なコンポーネントを持つシステムのテスト方法について、実際のAPI設計例を通じて解説します。カスタマイズ可能なワークフロー実装時のテスト上の課題と対策について検討します。"
     }
   ]
 }
