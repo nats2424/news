@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-12T07:05:15.964Z",
+  "updatedAt": "2026-08-12T12:40:51.908Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Innovation vs. Novelty: The Distinction Every Scrum Master Must Master",
+      "url": "https://www.scrum.org/resources/blog/innovation-vs-novelty-distinction-every-scrum-master-must-master",
+      "publishedAt": "2026-08-12T07:25:48.000Z",
+      "excerpt": "In 1947, as nations across the globe were redrawing their futures, a company called Convair unveiled something extraordinary: the Convair Model 118 — a flying car. Only two were ever built. Was it innovation? Not quite. It was a clever mashup, a car bolted to an aircraft, an ingenious combination, but not a transformation. At best, it was a novelty. Perhaps it was ahead of its time. Perhaps a world still recovering from war simply had no appetite for it. But the deeper reason it never took off — literally or figuratively — is this: it didn't meaningfully change how people traveled. It was new.",
+      "titleJa": "イノベーションと単なる新しさの違い——Scrum Masterが理解すべき本質",
+      "summaryJa": "1947年のConvair Model 118（空飛ぶ車）の事例を通じて、イノベーションとノベルティの本質的な違いを解説。新しいだけでは意味がなく、人々の行動や生活を根本的に変える真のイノベーションとの違いをScrumチーム運営の観点から考察する必要性を提示している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -140,16 +150,6 @@
       "excerpt": "When you see an impressive AI tool, you want to bring it to your team immediately. But it can bring risks. Don’t blame your organization if they don’t easily allow any AI tool to be used. Why? Image I regularly hear from my students in my AI classes that their organizations don’t easily allow them to use every type of AI tool, and they are highly restricted. They usually describe it as a negative point of their organization. But is it really negative? Isn’t there any advantage in it? In this blog post, I want to dissect this topic and give you a practical framework that you can use to evaluate",
       "titleJa": "Scrumチームのための AI ツール評価・承認フレームワーク",
       "summaryJa": "魅力的なAIツールをチームに導入したいという衝動は理解できますが、組織が慎重に制限を設ける理由があります。本記事は、AIツールの導入リスクを考慮した実践的な評価フレームワークを提供し、制限が実は組織にとって利点になり得ることを解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Cognitive Trap: Scrum Master as a Manager",
-      "url": "https://www.scrum.org/resources/blog/cognitive-trap-scrum-master-manager",
-      "publishedAt": "2026-08-10T04:00:00.000Z",
-      "excerpt": "Scrum Master as Manager Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Scrum Master as a Manager. A Scrum Master that is directing work instead of enabling the system reduces team ownership and weakens self-management. Simulated Assessment Question A Scrum Master assigns tasks during the sprint to improve flow. What is the best assessment ",
-      "titleJa": "認知バイアス:スクラムマスターの管理者化の罠",
-      "summaryJa": "Scrumの失敗の多くは、透明性・検査・適応よりも効率性・コントロール・快適性を優先する認知バイアスに起因します。スクラムマスターが作業指示を行い、チームの自己管理を弱めることは典型的な罠であり、チーム所有権の低下につながるため注意が必要です。"
     },
     {
       "category": "PdM",
