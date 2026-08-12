@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-11T18:44:21.038Z",
+  "updatedAt": "2026-08-12T00:57:52.801Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Testing AI: Engineering Confidence in Non-Deterministic Systems with Jason Arbon",
+      "url": "https://testguild.com/podcast/a600-jason/",
+      "publishedAt": "2026-08-11T21:48:09.000Z",
+      "excerpt": "About This Episode: In this episode 600 of the TestGuild Automation Podcast, Joe Colantonio talks with Jason Arbon, founder of […]",
+      "titleJa": "AI時代のテスト戦略：非決定論的システムの品質保証をJason Arbonと語る",
+      "summaryJa": "TestGuild Automation Podcastの第600回エピソードで、ホストのJoe ColontonioがJason Arbon創業者と対談。AI・機械学習を用いたシステムのテスト手法と、従来のテスト手法との違い、非決定論的な動作を持つシステムにおける品質保証の課題と解決策について議論しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -243,16 +253,6 @@
     },
     {
       "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Sauce Labs AURA, Playwright Tracing, Loop Engineering and More TGNS191",
-      "url": "https://testguild.com/podcast/n191-jul27/",
-      "publishedAt": "2026-07-27T21:43:05.000Z",
-      "excerpt": "About This Episode: Did you know that more than half of enterprises admit they ship code with known critical defects? […]",
-      "titleJa": "Sauce Labs AURA、Playwright Tracing、Loop Engineeringなど",
-      "summaryJa": "エンタープライズの半数以上が既知の重大欠陥を持つコードを出荷していることが実態として指摘されている。本エピソードではSauce Labs AURAやPlaywright Tracingなど、テスト自動化と品質保証の最新ツール・技術について取り上げている。"
-    },
-    {
-      "category": "QA",
       "sourceName": "Satisfice (James Bach)",
       "title": "Some Class Recordings Are Available",
       "url": "https://www.satisfice.com/blog/archives/488173",
@@ -290,16 +290,6 @@
       "excerpt": "How do you test a product with distributed logic and non-deterministic components? Well, it depends on the product and when the question is asked. This post is one answer, for now. A service I work on exposes an API for internal and external clients and calls multiple other services. It orchestrates a reasonably complex journey for a user, with their inputs and the responses of the services determining each step. Our customers can configure the service to provide a variant of the standard journey for their users. This gives them choices on the available steps, the order of the steps, and, impo",
       "titleJa": "分散ロジック環境でのテスト戦略：隔離の重要性",
       "summaryJa": "複数のサービスを連携させる分散ロジックと非決定論的なコンポーネントを持つシステムのテスト方法について、実際のAPI設計例を通じて解説します。カスタマイズ可能なワークフロー実装時のテスト上の課題と対策について検討します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Google Testing Blog",
-      "title": "Prefactoring: Clear the Way for Your New Feature",
-      "url": "http://testing.googleblog.com/2026/07/prefactoring-clear-way-for-your-new.html",
-      "publishedAt": "2026-07-21T18:52:05.988Z",
-      "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Rahul Singal “First make the change easy, then make the easy change.” - paraphrased from Kent Beck You're working on a new feature, but the existing code wasn't written with future changes in mind. Trying to force the feature in directly gets complicated fast. One chan",
-      "titleJa": "プリファクタリング：新機能開発への道を整える",
-      "summaryJa": "既存コードが将来の変更を考慮して設計されていない場合、新機能を直接実装しようとすると複雑になります。Kent Beckの「まず変更を簡単にし、次に簡単な変更を実施する」という原則に基づき、プリファクタリングによってコードベースを整備してから新機能を追加するアプローチを紹介しています。"
     }
   ]
 }
