@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-12T00:57:52.801Z",
+  "updatedAt": "2026-08-12T07:05:15.964Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Are Google Career Certificates Worth It?",
+      "url": "https://rebelsguidetopm.com/google-certificates-employability/",
+      "publishedAt": "2026-08-12T01:30:00.000Z",
+      "excerpt": "If you’re considering a Google Career Certificate to boost your resume, you’re probably wondering: Will it actually help me get a job? Google has built a strong reputation with its Coursera-hosted certificate programs across digital marketing, project management, data analytics, IT support, and UX design. But what do employers think? We spoke with legal experts, recruiters, and business owners who hire entry-level talent to get their unfiltered thoughts on whether Google certificates carry real weight in the hiring process. But before we get to their thoughts on employability post-training, le",
+      "titleJa": "Google認定資格は転職に有効か",
+      "summaryJa": "GoogleがCourseraで提供するデジタルマーケティング、プロジェクトマネジメント、データ分析、IT支援、UXデザインの認定資格について、採用担当者や企業経営者の実際の評価を調査した記事。Google認定資格が実務経験者の採用プロセスでどの程度の価値を持つのかを検証している。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -170,16 +180,6 @@
       "excerpt": "For many projects, basic scheduling techniques are fine. You can’t go too far wrong with a task list and start and finish dates. Throw in some start-to-finish dependencies, make a Gantt chart, and that’s a pretty good plan. But when projects become larger, involve multiple suppliers or have immovable deadlines, a simple Gantt chart isn't enough. Advanced scheduling techniques help you identify delivery risks earlier, manage limited resources more effectively and give stakeholders realistic completion dates. Below, I'll show you 5 advanced project scheduling techniques used on complex (and not-",
       "titleJa": "プロジェクトスケジュール5つの高度なテクニック",
       "summaryJa": "複数サプライヤーや動かせない期限を含む大規模プロジェクトでは、基本的なガントチャートだけでは不十分です。5つの高度なスケジューリング手法により、リスク特定の早期化、リソース最適化、ステークホルダーへの現実的な完了予測を実現します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Google Data Analytics Certificate: 10-week study plan",
-      "url": "https://rebelsguidetopm.com/google-data-analytics-time-commitment/",
-      "publishedAt": "2026-08-07T05:05:00.000Z",
-      "excerpt": "I put off taking the Google data analytics certificate because I thought it would take forever… in this article I’ll share what I learned so you can plan your time. So, how long does Google data analytics certificate take? First, we should acknowledge that the course is advertised as around 140+ hours for the mandatory modules, but my experience and other students’ experience show that completion time varies. How long it’s going to take you is determined by: Your previous data analytics experience (I had none) Your willingness to put the time in How comfortable you feel with the tools, and how",
-      "titleJa": "Googleデータアナリティクス認定資格:10週間の学習計画",
-      "summaryJa": "Googleのデータアナリティクス認定資格取得に要する実際の期間と学習計画を紹介します。公称140時間以上の必修モジュールが、実経験では個人差が大きく、事前経験やツール習熟度により大きく変動することを解説します。"
     },
     {
       "category": "QA",
