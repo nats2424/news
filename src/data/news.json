@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-13T12:41:52.191Z",
+  "updatedAt": "2026-08-13T18:45:02.595Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "[Episode 4] Questions Scrum Masters Must Ask Before Choosing Any AI Courses",
+      "url": "https://www.scrum.org/resources/blog/episode-4-questions-scrum-masters-must-ask-choosing-any-ai-courses",
+      "publishedAt": "2026-08-13T17:21:44.000Z",
+      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 4, we discussed and shared 9 questions that Scrum Masters must ask before choosing any AI training courses, as follows: 1- WHAT CRITERIA SHOULD I CONSIDER WHEN I WANT TO CHOOSE AN AI TRAINING SOLUTION? 2- WHAT LEARNING SOLUTIONS ARE AVAILABLE IN THE MARKET FOR ME THAT COVER THE ABOVE CRITERIA? 3- HOW SHOULD I EVALUATE THE CLASS TRAINER? 4- WHAT SYLLABUS SHOULD BE COVERED WITH THE COURSE? 5- IS THERE A GUARANTEE FOR ",
+      "titleJa": "AI研修選択前に確認すべき9つの質問：スクラムマスター向けガイド",
+      "summaryJa": "AI-native Scrum Teamのポッドキャストシリーズ第4話では、スクラムマスターがAI研修コースを選ぶ前に確認すべき9つの質問が紹介されています。研修ソリューション選定の基準、市場で利用可能な学習方法の検討、講師評価、カリキュラム内容など、AI変革ジャーニーで適切な研修を選ぶための実践的なチェックポイントがまとめられています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -10,6 +20,16 @@
       "excerpt": "In Kürze: Die Ergebnisse der Umfrage zum Übergang von Agile zum Product Operating Model Zwischen dem 2. und dem 10. August 2026 haben 48 Praktiker an meiner Umfrage zum Übergang von Agile zum Product Operating Model teilgenommen. Die Umfrage soll klären, was sich dadurch tatsächlich verändert. Lassen Sie mich die Antworten zusammenfassen: Die berichteten Transformationen verändern die Entscheidungsfindung weniger stark, als es das Framework von Cagan nahelegt. Wo die Befragten Verbesserungen berichten, zeigen sich diese in der Lieferung von Produktinkrementen und in der Zusammenarbeit, weniger",
       "titleJa": "Agileからプロダクト・オペレーティング・モデルへの移行調査結果",
       "summaryJa": "2026年8月に実施された48名の実践者を対象にした調査から、AgileからProduct Operating Modelへの移行がもたらす実際の変化を検証。意思決定プロセスへの影響は予想より限定的である一方、プロダクト・インクリメントの納品と組織間の協働において改善が報告されている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to earn power skills PDUs for PMI certificate renewals",
+      "url": "https://rebelsguidetopm.com/how-to-earn-leadership-pdus-for-pmp-renewal/",
+      "publishedAt": "2026-08-13T03:50:00.000Z",
+      "excerpt": "If you are like many Project Management Professional (PMP)® certification holders, you might be finding it hard to source enough quality learning materials for your Power Skills PDUs. Panic no more, I have all the details you need below. And if you hold one of the other (many) PMI certificates, you'll learn below about how many Power Skills PDUs you need to claim in a cycle and what activities count towards your PDU total in the Power Skills category. What are Power Skills PDUs? Power Skills is one side of the PMI Talent Triangle, along with Ways of Working and Business Acumen. Power Skills us",
+      "titleJa": "PMI認定資格更新に必要なPower Skills PDUの取得方法",
+      "summaryJa": "PMP®認定資格保持者がPower Skills PDUの更新要件を充たすための学習リソース探索ガイド。Power SkillsはPMIのタレントトライアングルの一要素で、認定更新サイクル内に必要とされるPDU数や、認められる学習活動についての詳細情報が提供されています。"
     },
     {
       "category": "QA",
@@ -202,16 +222,6 @@
       "summaryJa": "2026年8月に実施されたアジャイルからプロダクト・オペレーティング・モデルへの転換調査の結果分析。48の実践者が参加し、意思決定の改善より配信とコラボレーションの向上が報告される一方で、組織的側面での課題が明らかになった。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Let there be flow – Die Magie hinter Kanban und Flow",
-      "url": "https://www.scrum.org/resources/blog/let-there-be-flow-die-magie-hinter-kanban-und-flow",
-      "publishedAt": "2026-08-10T08:57:28.000Z",
-      "excerpt": "Kanban wurde bereits 1947 von Taiichi Ohno bei Toyota entwickelt und stammt somit ursprünglich aus der Fertigung. Die Anwendung von Kanban in der Softwareentwicklung ist eigentlich auch nicht mehr so neu. David J. Anderson beschäftigte sich schon 2005 mit der Anwendung von Kanban-Prinzipien in der Softwareentwicklung und veröffentlichte dann 2010 das Buch \"Kanban: Successful Evolutionary Change for Your Technology Business\", das als eines der zentralen Werke der modernen Kanban-Bewegung in der Softwareentwicklung gilt. Kanban wird jedoch häufig auf einige wenige Praktiken reduziert, ohne die z",
-      "titleJa": "フロー実現のためのKanban：その本質と活用法",
-      "summaryJa": "1947年にトヨタで開発されたKanbanの基本から、2005年のソフトウェア開発への応用、2010年の重要著作「Kanban: Successful Evolutionary Change for Your Technology Business」の出版を経て現在に至る進化を解説。Kanbanの本質的な考え方と実践的な活用法を深掘りする。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
@@ -230,16 +240,6 @@
       "excerpt": "Community Wisdom 196",
       "titleJa": "コミュニティの知見：本物らしいアウトリーチの工夫、デザインパートナー探し、差別化要因の定義など",
       "summaryJa": "Lennyのニュースレター「Community Wisdom 196」では、本物らしく見えるアウトリーチの作成方法、デザインパートナーの見つけ方、競争力の高い時代での製品差別化の定義、プロダクトビジョンの浸透方法など、プロダクトマネジメント実務に関わる複数の課題について、コミュニティの知見を集約した内容となっている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Level up your project schedules: 5 advanced techniques",
-      "url": "https://rebelsguidetopm.com/level-up-your-project-schedules-5-advanced-techniques/",
-      "publishedAt": "2026-08-08T04:59:00.000Z",
-      "excerpt": "For many projects, basic scheduling techniques are fine. You can’t go too far wrong with a task list and start and finish dates. Throw in some start-to-finish dependencies, make a Gantt chart, and that’s a pretty good plan. But when projects become larger, involve multiple suppliers or have immovable deadlines, a simple Gantt chart isn't enough. Advanced scheduling techniques help you identify delivery risks earlier, manage limited resources more effectively and give stakeholders realistic completion dates. Below, I'll show you 5 advanced project scheduling techniques used on complex (and not-",
-      "titleJa": "プロジェクトスケジュール5つの高度なテクニック",
-      "summaryJa": "複数サプライヤーや動かせない期限を含む大規模プロジェクトでは、基本的なガントチャートだけでは不十分です。5つの高度なスケジューリング手法により、リスク特定の早期化、リソース最適化、ステークホルダーへの現実的な完了予測を実現します。"
     },
     {
       "category": "QA",
@@ -300,26 +300,6 @@
       "excerpt": "For the foreseeable future, I will not be scheduling public classes on my own behalf. I am still available for private classes, and I will even do public classes as long as long I’m not the one organizing and marketing it. But if you REALLY want to take one of my classes, you could purchase […]",
       "titleJa": "一部のクラス録画が利用可能に",
       "summaryJa": "著者は当面の間、自主開催による公開クラスは予定していないが、プライベートクラスは引き続き提供しており、組織や営業を他者が担当すれば公開クラスの講師も可能。クラス受講を希望する場合は購入による選択肢があることが示唆されている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Silicon Valley Product Group",
-      "title": "The AI Productivity Paradox",
-      "url": "https://www.svpg.com/the-ai-productivity-paradox/",
-      "publishedAt": "2026-07-23T18:22:04.000Z",
-      "excerpt": "We’ve been writing a lot lately about product teams that are clearly leveraging AI to deliver faster, yet their outcomes are not improving. Today, this phenomenon, known as the “AI Productivity Paradox,” has been recognized by people from across the industry. From the latest McKinsey Quarterly: “The business world is grappling with an AI paradox:... The post The AI Productivity Paradox appeared first on Silicon Valley Product Group.",
-      "titleJa": "AIが生産性を向上させても成果が出ない矛盾",
-      "summaryJa": "プロダクトチームがAIを活用して開発速度は上げているにもかかわらず、ビジネス成果が改善していない現象「AI生産性のパラドックス」が業界全体で認識されるようになった。McKinsey Quarterlyでも取り上げられているこの問題について、その本質と対策を解説している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Building AI for Women's Health: How Hertility Combined Bayesian Diagnosis and Scan Automation",
-      "url": "https://www.producttalk.org/building-ai-for-womens-health-how-hertility-combined-bayesian-diagnosis-and-scan-automation/",
-      "publishedAt": "2026-07-23T13:00:17.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts How do you build trustworthy AI diagnostic tools in one of medicine's most historically under-researched areas? In this episode of Just Now Possible, Teresa Torres talks with Tulsi Patel (Director of Product and Technology), Lorna Brightmore (Head of",
-      "titleJa": "女性の健康向けAI構築：Hertilityがベイズ診断とスキャン自動化を統合",
-      "summaryJa": "医療の過去の研究不足分野である女性の健康領域において、信頼できるAI診断ツールをいかに構築するかについて、プロダクトとテクノロジーのディレクターが、ベイズ診断とスキャン自動化の組み合わせを通じた実装戦略を解説するポッドキャスト回。AIの医療応用とプロダクト開発の課題が議論される。"
     }
   ]
 }
