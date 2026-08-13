@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-13T00:59:03.485Z",
+  "updatedAt": "2026-08-13T07:09:23.748Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Die Ergebnisse der „Agile zum Product Operating Model“ Umfrage 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/die-ergebnisse-der-agile-zum-product-operating-model-umfrage",
+      "publishedAt": "2026-08-13T05:03:49.000Z",
+      "excerpt": "In Kürze: Die Ergebnisse der Umfrage zum Übergang von Agile zum Product Operating Model Zwischen dem 2. und dem 10. August 2026 haben 48 Praktiker an meiner Umfrage zum Übergang von Agile zum Product Operating Model teilgenommen. Die Umfrage soll klären, was sich dadurch tatsächlich verändert. Lassen Sie mich die Antworten zusammenfassen: Die berichteten Transformationen verändern die Entscheidungsfindung weniger stark, als es das Framework von Cagan nahelegt. Wo die Befragten Verbesserungen berichten, zeigen sich diese in der Lieferung von Produktinkrementen und in der Zusammenarbeit, weniger",
+      "titleJa": "Agileからプロダクト・オペレーティング・モデルへの移行調査結果",
+      "summaryJa": "2026年8月に実施された48名の実践者を対象にした調査から、AgileからProduct Operating Modelへの移行がもたらす実際の変化を検証。意思決定プロセスへの影響は予想より限定的である一方、プロダクト・インクリメントの納品と組織間の協働において改善が報告されている。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -200,16 +210,6 @@
       "excerpt": "Kanban wurde bereits 1947 von Taiichi Ohno bei Toyota entwickelt und stammt somit ursprünglich aus der Fertigung. Die Anwendung von Kanban in der Softwareentwicklung ist eigentlich auch nicht mehr so neu. David J. Anderson beschäftigte sich schon 2005 mit der Anwendung von Kanban-Prinzipien in der Softwareentwicklung und veröffentlichte dann 2010 das Buch \"Kanban: Successful Evolutionary Change for Your Technology Business\", das als eines der zentralen Werke der modernen Kanban-Bewegung in der Softwareentwicklung gilt. Kanban wird jedoch häufig auf einige wenige Praktiken reduziert, ohne die z",
       "titleJa": "フロー実現のためのKanban：その本質と活用法",
       "summaryJa": "1947年にトヨタで開発されたKanbanの基本から、2005年のソフトウェア開発への応用、2010年の重要著作「Kanban: Successful Evolutionary Change for Your Technology Business」の出版を経て現在に至る進化を解説。Kanbanの本質的な考え方と実践的な活用法を深掘りする。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Tools Evaluation & Approval Framework for Scrum Teams",
-      "url": "https://www.scrum.org/resources/blog/ai-tools-evaluation-approval-framework-scrum-teams",
-      "publishedAt": "2026-08-10T07:05:54.000Z",
-      "excerpt": "When you see an impressive AI tool, you want to bring it to your team immediately. But it can bring risks. Don’t blame your organization if they don’t easily allow any AI tool to be used. Why? Image I regularly hear from my students in my AI classes that their organizations don’t easily allow them to use every type of AI tool, and they are highly restricted. They usually describe it as a negative point of their organization. But is it really negative? Isn’t there any advantage in it? In this blog post, I want to dissect this topic and give you a practical framework that you can use to evaluate",
-      "titleJa": "Scrumチームのための AI ツール評価・承認フレームワーク",
-      "summaryJa": "魅力的なAIツールをチームに導入したいという衝動は理解できますが、組織が慎重に制限を設ける理由があります。本記事は、AIツールの導入リスクを考慮した実践的な評価フレームワークを提供し、制限が実は組織にとって利点になり得ることを解説しています。"
     },
     {
       "category": "PdM",
