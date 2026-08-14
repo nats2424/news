@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-13T18:45:02.595Z",
+  "updatedAt": "2026-08-14T00:58:34.947Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Customers don't buy your exhaustion",
+      "url": "https://www.scrum.org/resources/blog/customers-dont-buy-your-exhaustion",
+      "publishedAt": "2026-08-13T22:00:00.000Z",
+      "excerpt": "The team had earned its standing ovation, and it wanted one. Two months of late nights. A release pushed out over a weekend nobody got back. The kind of finish that gets a team a reputation for grit. In the review, they walked through all of it, the heroics and the saves, with the quiet pride of people who'd been through something together. Then a new stakeholder, who hadn't been in the trenches and so could still see clearly, asked the one question. \"So did it work? Are customers using it?\" The room went quiet, because the honest answer was no. Adoption was flat. The thing they'd half killed ",
+      "titleJa": "顧客は過労の努力を買わない",
+      "summaryJa": "チームが2ヶ月の残業を経て週末リリースを敢行し、ステークホルダーから賞賛を受けた。しかし新しい利害関係者の問いかけで、顧客採用率が全く伸びていないという現実が明らかになった。チームの献身的な努力が、実際のビジネス価値につながっていなかったのである。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -212,16 +222,6 @@
       "summaryJa": "一般的なユーザーがClaudeを活用して業務を自動化した事例を紹介。週20時間の事務作業を提案書作成、顧客管理、メール対応の自動化パイプラインに一本化し、サービス事業を効率化した実践例。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Survey Results: Agile to the Product Operating Model",
-      "url": "https://www.scrum.org/resources/blog/survey-results-agile-product-operating-model",
-      "publishedAt": "2026-08-10T09:07:32.000Z",
-      "excerpt": "TL; DR: The “Agile to the Product Operating Model” Survey Results Between August 2 and August 10, 2026, 48 practitioners participated in my Agile to Product Operating Model (POM) survey, which tries to shed light on what is actually changing. Let me summarize the answers for you: the reported transformations change decision-making less than the Cagan framework suggests. Where respondents report improvements, they appear in delivery and collaboration rather than in business results. Unfortunately, the human side of the transition is the least encouraging part of the answers. Take all the follow",
-      "titleJa": "調査結果：アジャイルからプロダクト・オペレーティング・モデルへの転換",
-      "summaryJa": "2026年8月に実施されたアジャイルからプロダクト・オペレーティング・モデルへの転換調査の結果分析。48の実践者が参加し、意思決定の改善より配信とコラボレーションの向上が報告される一方で、組織的側面での課題が明らかになった。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
@@ -290,16 +290,6 @@
       "excerpt": "Summary",
       "titleJa": "企業成長に伴うプロダクトチームの停滞と対策",
       "summaryJa": "企業規模の拡大に伴い、プロダクトチームの開発速度が低下する理由と、その問題に対する具体的な対策について解説します。組織の成長段階での課題認識と改善方法を取り上げています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Some Class Recordings Are Available",
-      "url": "https://www.satisfice.com/blog/archives/488173",
-      "publishedAt": "2026-07-24T12:34:19.000Z",
-      "excerpt": "For the foreseeable future, I will not be scheduling public classes on my own behalf. I am still available for private classes, and I will even do public classes as long as long I’m not the one organizing and marketing it. But if you REALLY want to take one of my classes, you could purchase […]",
-      "titleJa": "一部のクラス録画が利用可能に",
-      "summaryJa": "著者は当面の間、自主開催による公開クラスは予定していないが、プライベートクラスは引き続き提供しており、組織や営業を他者が担当すれば公開クラスの講師も可能。クラス受講を希望する場合は購入による選択肢があることが示唆されている。"
     }
   ]
 }
