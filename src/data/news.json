@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T07:05:38.445Z",
+  "updatedAt": "2026-08-14T12:38:05.122Z",
   "items": [
     {
       "category": "PjM",
@@ -30,6 +30,16 @@
       "excerpt": "In Kürze: Die Ergebnisse der Umfrage zum Übergang von Agile zum Product Operating Model Zwischen dem 2. und dem 10. August 2026 haben 48 Praktiker an meiner Umfrage zum Übergang von Agile zum Product Operating Model teilgenommen. Die Umfrage soll klären, was sich dadurch tatsächlich verändert. Lassen Sie mich die Antworten zusammenfassen: Die berichteten Transformationen verändern die Entscheidungsfindung weniger stark, als es das Framework von Cagan nahelegt. Wo die Befragten Verbesserungen berichten, zeigen sich diese in der Lieferung von Produktinkrementen und in der Zusammenarbeit, weniger",
       "titleJa": "Agileからプロダクト・オペレーティング・モデルへの移行調査結果",
       "summaryJa": "2026年8月に実施された48名の実践者を対象にした調査から、AgileからProduct Operating Modelへの移行がもたらす実際の変化を検証。意思決定プロセスへの影響は予想より限定的である一方、プロダクト・インクリメントの納品と組織間の協働において改善が報告されている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to earn power skills PDUs for PMI certificate renewals",
+      "url": "https://rebelsguidetopm.com/how-to-earn-leadership-pdus-for-pmp-renewal/",
+      "publishedAt": "2026-08-13T03:50:00.000Z",
+      "excerpt": "If you are like many Project Management Professional (PMP)® certification holders, you might be finding it hard to source enough quality learning materials for your Power Skills PDUs. Panic no more, I have all the details you need below. And if you hold one of the other (many) PMI certificates, you'll learn below about how many Power Skills PDUs you need to claim in a cycle and what activities count towards your PDU total in the Power Skills category. What are Power Skills PDUs? Power Skills is one side of the PMI Talent Triangle, along with Ways of Working and Business Acumen. Power Skills us",
+      "titleJa": "PMI認定資格の更新に向けたパワースキルPDUの取得方法",
+      "summaryJa": "PMP®保有者向けに、PMI Talent Triangleの一角を占めるPower Skillsカテゴリーの学習単位（PDU）取得方法を解説。他のPMI認定資格保有者が1サイクルで必要なPower Skills PDU数、対象となる学習活動について詳しく説明されています。"
     },
     {
       "category": "QA",
@@ -102,6 +112,16 @@
       "summaryJa": "1947年のConvair Model 118（空飛ぶ車）の事例を通じて、イノベーションとノベルティの本質的な違いを解説。新しいだけでは意味がなく、人々の行動や生活を根本的に変える真のイノベーションとの違いをScrumチーム運営の観点から考察する必要性を提示している。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Are Google Career Certificates Worth It?",
+      "url": "https://rebelsguidetopm.com/google-certificates-employability/",
+      "publishedAt": "2026-08-12T01:30:00.000Z",
+      "excerpt": "If you’re considering a Google Career Certificate to boost your resume, you’re probably wondering: Will it actually help me get a job? Google has built a strong reputation with its Coursera-hosted certificate programs across digital marketing, project management, data analytics, IT support, and UX design. But what do employers think? We spoke with legal experts, recruiters, and business owners who hire entry-level talent to get their unfiltered thoughts on whether Google certificates carry real weight in the hiring process. But before we get to their thoughts on employability post-training, le",
+      "titleJa": "Googleキャリアサーティフィケートは価値があるのか",
+      "summaryJa": "Courseraで提供されているGoogleのデジタルマーケティング、プロジェクトマネジメント、データ分析等の認定資格が、実際の採用選考で評価されるかを検証。法務専門家、採用担当者、採用経営者へのインタビューを通じ、認定資格の実務的価値について実態を報告しています。"
+    },
+    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Testing AI: Engineering Confidence in Non-Deterministic Systems with Jason Arbon",
@@ -132,6 +152,16 @@
       "summaryJa": "国際展開するプロダクトにおいて、異なる国の複数ユーザーに対応したチュートリアル動画の作成をAIを活用して実現する方法を紹介しています。英語理解の有無に関わらず、ユーザーが自国の言語でサービスを学べる環境を整備することで、ユーザー体験を向上させるアプローチについて解説しています。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "RAID logs in project management: How to actually use one",
+      "url": "https://rebelsguidetopm.com/raid-in-project-management/",
+      "publishedAt": "2026-08-11T01:14:00.000Z",
+      "excerpt": "You've probably seen the definition: Risks, Assumptions, Issues and Dependencies. That's the easy bit. The useful question is what you actually do with a RAID log once your project is underway. You'll hear project managers talking about their RAID logs as part of how to manage a project, or updating the RAID, but what does it all mean? I've been working with RAID logs for over 20 years, so I have plenty of practical tips to share! My RAID log is THE most useful tool I use to keep my projects on track, and it will do the same for you. Get a RAID log template as part of a complete project workbo",
+      "titleJa": "プロジェクト管理におけるRAIDログの実践的な使い方",
+      "summaryJa": "リスク（Risks）、前提条件（Assumptions）、課題（Issues）、依存関係（Dependencies）を記録するRAIDログの定義から実践的な運用方法までを解説。20年以上のプロジェクト管理経験に基づき、RAIDログをプロジェクト進行管理の最強ツールとして活用するための方法論を紹介しています。"
+    },
+    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Playwright MCP Cost, OWASP’s Warning, and the Question Nobody’s Asking TGNS192",
@@ -140,6 +170,16 @@
       "excerpt": "About This Episode: Is Microsoft is quietly steering you off Playwright MCP? OWASP tested 12 AI defenses but most of […]",
       "titleJa": "Playwright MCPのコスト、OWASPの警告、そして誰も問わない質問",
       "summaryJa": "MicrosoftがPlaywright MCPから利用者を遠ざけているのかを検証。OWASPが12のAI防御をテストした結果、ほとんどが期待に応えていないことが明らかになる。テスト業界の最新動向と未解決の課題について取り上げたエピソード。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to write a terms of reference with template & examples",
+      "url": "https://rebelsguidetopm.com/terms-of-reference-free-template/",
+      "publishedAt": "2026-08-10T16:08:06.000Z",
+      "excerpt": "Why use a Terms of Reference document? A Terms of Reference document is a really versatile document. I use it mainly for two things: First, putting down in writing what my Steering Group are actually supposed to do to set the 'ground rules' for that group and their meetings. This helps them keep a focus on the job at hand, not get too much into the detail and helps them and others take the project seriously. Second, to define what a particular workstream on a project is supposed to do. I find a ToR is helpful when there's a technical stream of work being led by someone, and then other strands ",
+      "titleJa": "トムス・オブ・レファレンス（TOR）文書の書き方とテンプレート",
+      "summaryJa": "プロジェクトの運営委員会や作業ストリームの役割・責務を明確化するTOR文書の作成方法をテンプレートと事例を交えて指南。TOR文書により、プロジェクト関係者の注力範囲を定義し、組織全体でプロジェクトの重要性を認識させることができます。"
     },
     {
       "category": "PdM",
@@ -160,6 +200,16 @@
       "excerpt": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "プロダクトマネージャーの役割を再定義する",
       "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to list project management skills on your resume",
+      "url": "https://rebelsguidetopm.com/project-management-skills-resume/",
+      "publishedAt": "2026-08-10T12:27:42.000Z",
+      "excerpt": "If you’re putting together an application for a job, you’ve probably found that there is a long list of project management skills to include in your resume (which over here in the UK we call a CV). How do you list the project management skills required without it turning into a giant list of buzzwords? The job market is tough, so you want your application to stand out, and for employers to see you have the skills required to do the job. Here's how to manage the skills section on your resume. How to include project management skills on your CV Let’s just go with the fact that CV and resume are ",
+      "titleJa": "職務経歴書にプロジェクト管理スキルを効果的に記載する方法",
+      "summaryJa": "採用応募時に職務経歴書に記載するプロジェクト管理スキルを、バズワード羅列に陥らず効果的に表現するテクニックを紹介。限られた紙面で採用担当者の目を引き、必要なスキルを正確に伝えるための実践的なアドバイスを提供しています。"
     },
     {
       "category": "PdM",
@@ -240,16 +290,6 @@
       "excerpt": "Summary",
       "titleJa": "企業成長に伴うプロダクトチームの停滞と対策",
       "summaryJa": "企業規模の拡大に伴い、プロダクトチームの開発速度が低下する理由と、その問題に対する具体的な対策について解説します。組織の成長段階での課題認識と改善方法を取り上げています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Some Class Recordings Are Available",
-      "url": "https://www.satisfice.com/blog/archives/488173",
-      "publishedAt": "2026-07-24T12:34:19.000Z",
-      "excerpt": "For the foreseeable future, I will not be scheduling public classes on my own behalf. I am still available for private classes, and I will even do public classes as long as long I’m not the one organizing and marketing it. But if you REALLY want to take one of my classes, you could purchase […]",
-      "titleJa": "クラスの録画が利用可能に",
-      "summaryJa": "講師は今後、自身で公開クラスのスケジュール管理・マーケティングは行わないが、プライベートクラスや他者の企画・運営による公開クラスへの参加は継続する。受講希望者は購入を通じてアクセス可能とのこと。"
     }
   ]
 }
