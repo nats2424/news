@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-16T00:35:49.702Z",
+  "updatedAt": "2026-08-16T06:20:21.586Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Juniors Are Still Here. The Reps Are Gone.",
+      "url": "https://www.scrum.org/resources/blog/your-juniors-are-still-here-reps-are-gone",
+      "publishedAt": "2026-08-16T06:00:00.000Z",
+      "excerpt": "Image A surgical resident scrubs in for a prostatectomy. Gowned, credentialed, in the room. The robotic console sits four feet away and the attending surgeon is already at it, running the procedure alone, because the machine allows it. The resident watches from a second console and touches nothing. Matt Beane documented this for two years across five sites, plus interviews at 13 top-tier teaching hospitals, in Administrative Science Quarterly, then in The Skill Code. His phrase for the trainee is exact: the resident \"became completely optional.\" The ones who still built skill did it by bending",
+      "titleJa": "後進育成の危機—新人が現場から消える現実",
+      "summaryJa": "ロボット手術の普及により、研修医が従来の実践的な学習機会を失う問題を指摘しています。指導医がロボット操作を独占することで、研修医は観察するだけになり、スキル習得の機会が喪失されています。教育機関全体で実務訓練の設計を根本的に見直す必要があります。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -150,16 +160,6 @@
       "excerpt": "Three founder archetypes—and how to turn your origin story into a communications strategy",
       "titleJa": "スタートアップへの関心を引き出す方法",
       "summaryJa": "創業者の3つのアーキタイプを活用し、オリジンストーリーを効果的なコミュニケーション戦略に変える方法を解説します。スタートアップが人々の興味を獲得するためのアプローチが紹介されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Create Multilingual User Tutorial Videos with AI",
-      "url": "https://www.scrum.org/resources/blog/how-create-multilingual-user-tutorial-videos-ai",
-      "publishedAt": "2026-08-11T07:05:58.000Z",
-      "excerpt": "Imagine you want to create a tutorial video for your users to learn how to use a specific feature of your product. Your users are from the UK, Germany, and Sweden. Let’s see how you can build a multilingual video for it with AI. Image You are a Product Owner of a product that is being used internationally. You have users from different countries in Europe (UK, Germany, Sweden, …). Although they understand English, they prefer to get the service in their own language (German, Swedish, …). To give a better experience to users, you decide to build user tutorial videos in their own languages. Trad",
-      "titleJa": "AIで多言語ユーザー向けチュートリアル動画を作成する方法",
-      "summaryJa": "国際展開するプロダクトにおいて、異なる国の複数ユーザーに対応したチュートリアル動画の作成をAIを活用して実現する方法を紹介しています。英語理解の有無に関わらず、ユーザーが自国の言語でサービスを学べる環境を整備することで、ユーザー体験を向上させるアプローチについて解説しています。"
     },
     {
       "category": "PjM",
