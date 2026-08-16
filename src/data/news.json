@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-16T12:15:28.965Z",
+  "updatedAt": "2026-08-16T18:12:23.229Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
+      "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
+      "publishedAt": "2026-08-16T12:31:42.000Z",
+      "excerpt": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
+      "titleJa": "OpenAI デザイン責任者が語る、デザイナーにとって最高の時代が今である理由",
+      "summaryJa": "OpenAIのプロダクトデザイン責任者が、なぜ今がデザイナーにとって歴史上最高の時代なのかを解説。人間がAIを上回る領域や、情報過多から脱する方法について語っている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -230,16 +240,6 @@
       "excerpt": "Listen now | 🎙️ Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email",
       "titleJa": "Claude Codeで実現する非技術者向けAI活用：音声機能と協働の実践",
       "summaryJa": "一般的なユーザーがClaudeを活用して業務を自動化した事例を紹介。週20時間の事務作業を提案書作成、顧客管理、メール対応の自動化パイプラインに一本化し、サービス事業を効率化した実践例。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "The playbook for building high talent density teams | Adam Ward, Head of Talent at Cursor",
-      "url": "https://www.lennysnewsletter.com/p/the-playbook-for-building-high-talent",
-      "publishedAt": "2026-08-09T12:31:29.000Z",
-      "excerpt": "Listen now | Cursor’s Adam Ward on “funnel of doom” hiring, treating every hire like an executive search, and why caring is the biggest unfair advantage in recruiting",
-      "titleJa": "高い人材密度チームを構築するプレイブック | Cursorタレント責任者アダム・ウォード",
-      "summaryJa": "Cursorのアダム・ウォードが、採用の「doom funnel」問題、すべての採用を経営幹部レベルの検索として扱うアプローチ、そしてリクルーティングにおいて人的配慮が最大の競争優位性となる理由について語っています。"
     },
     {
       "category": "QA",
