@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-17T12:19:21.356Z",
+  "updatedAt": "2026-08-17T18:20:33.965Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Folly of Tokenmaxxing Or Reinventing the Wheel",
+      "url": "https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel",
+      "publishedAt": "2026-08-17T15:53:41.000Z",
+      "excerpt": "TL; DR: Tokenmaxxing Or Reinventing the Wheel Your organization counts AI tokens, seats, and pilots, but can anyone name a single decision those numbers actually changed? Tokenmaxxing is only the symptom; five old Agile Laws explain the cause, and each one comes with a test you can run this week. There is no need to reinvent the wheel with AI transformations and learn the hard way what the veterans of other transformations already figured out. Image Thesis: Tokenmaxxing is the vanity metric of pushing low-value work through an AI tool solely to inflate usage metrics. Tokenmaxxing emerged in 20",
+      "titleJa": "AIプロジェクトにおけるトークンマックスの罠：データと成果のギャップ",
+      "summaryJa": "組織がAIトークン数やシート利用数を指標として追い求める「トークンマックス」の問題点を指摘し、実際のビジネス上の意思決定改善につながっていない現状を分析。Agileの原則に立ち戻り、AI変革で本来追うべきメトリクスと組織課題の解決方法を提示します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
+      "publishedAt": "2026-08-17T15:03:16.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "ソロファウンダーがCodexとChatGPTを活用してエンジニアなしでファッションブランドを立ち上げた事例",
+      "summaryJa": "Lenny's Podcast Networkの番組「How I AI」で、1人の起業家がAIツールを使いこなし、技術者を雇わずにファッションブランドを成功させたケーススタディを紹介。CodexやChatGPTといった生成AIをいかに実務に活かしたかについてポッドキャスト形式で解説しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -143,16 +163,6 @@
     },
     {
       "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Innovation vs. Novelty: The Distinction Every Scrum Master Must Master",
-      "url": "https://www.scrum.org/resources/blog/innovation-vs-novelty-distinction-every-scrum-master-must-master",
-      "publishedAt": "2026-08-12T07:25:48.000Z",
-      "excerpt": "In 1947, as nations across the globe were redrawing their futures, a company called Convair unveiled something extraordinary: the Convair Model 118 — a flying car. Only two were ever built. Was it innovation? Not quite. It was a clever mashup, a car bolted to an aircraft, an ingenious combination, but not a transformation. At best, it was a novelty. Perhaps it was ahead of its time. Perhaps a world still recovering from war simply had no appetite for it. But the deeper reason it never took off — literally or figuratively — is this: it didn't meaningfully change how people traveled. It was new.",
-      "titleJa": "イノベーションと単なる新しさの違い——Scrum Masterが理解すべき本質",
-      "summaryJa": "1947年のConvair Model 118（空飛ぶ車）の事例を通じて、イノベーションとノベルティの本質的な違いを解説。新しいだけでは意味がなく、人々の行動や生活を根本的に変える真のイノベーションとの違いをScrumチーム運営の観点から考察する必要性を提示している。"
-    },
-    {
-      "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "Are Google Career Certificates Worth It?",
       "url": "https://rebelsguidetopm.com/google-certificates-employability/",
@@ -210,16 +220,6 @@
       "excerpt": "Why use a Terms of Reference document? A Terms of Reference document is a really versatile document. I use it mainly for two things: First, putting down in writing what my Steering Group are actually supposed to do to set the 'ground rules' for that group and their meetings. This helps them keep a focus on the job at hand, not get too much into the detail and helps them and others take the project seriously. Second, to define what a particular workstream on a project is supposed to do. I find a ToR is helpful when there's a technical stream of work being led by someone, and then other strands ",
       "titleJa": "トムス・オブ・レファレンス（TOR）文書の書き方とテンプレート",
       "summaryJa": "プロジェクトの運営委員会や作業ストリームの役割・責務を明確化するTOR文書の作成方法をテンプレートと事例を交えて指南。TOR文書により、プロジェクト関係者の注力範囲を定義し、組織全体でプロジェクトの重要性を認識させることができます。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: Build an AI code review bot in 30 minutes + Claude Code for normal people",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-build-an-ai-code-review",
-      "publishedAt": "2026-08-10T15:01:49.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "AI時代の仕事術：30分でAIコードレビューボットを構築",
-      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズから、Claude Codeを活用してAIコードレビューボットを短時間で構築する方法について解説します。"
     },
     {
       "category": "PdM",
