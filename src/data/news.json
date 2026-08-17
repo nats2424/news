@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-17T06:30:39.727Z",
+  "updatedAt": "2026-08-17T12:19:21.356Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
+      "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
+      "publishedAt": "2026-08-17T12:04:02.000Z",
+      "excerpt": "Watch now | 🎙️From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder",
+      "titleJa": "AIを使ってエンジニアなしでファッションブランドを立ち上げた起業家",
+      "summaryJa": "ソロファウンダーのYana Wellinderが、CodexとChatGPTを活用して、手描きスケッチから3Dプリント製ガウンまでを実現し、エンジニアを雇わずにフルスタックなeコマース構築を可能にした事例を紹介。AIのコード生成機能とコンピュータビジョンの組み合わせにより、従来は製造不可能だったデザインが実現できるようになった。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -230,16 +240,6 @@
       "excerpt": "If you’re putting together an application for a job, you’ve probably found that there is a long list of project management skills to include in your resume (which over here in the UK we call a CV). How do you list the project management skills required without it turning into a giant list of buzzwords? The job market is tough, so you want your application to stand out, and for employers to see you have the skills required to do the job. Here's how to manage the skills section on your resume. How to include project management skills on your CV Let’s just go with the fact that CV and resume are ",
       "titleJa": "職務経歴書にプロジェクト管理スキルを効果的に記載する方法",
       "summaryJa": "採用応募時に職務経歴書に記載するプロジェクト管理スキルを、バズワード羅列に陥らず効果的に表現するテクニックを紹介。限られた紙面で採用担当者の目を引き、必要なスキルを正確に伝えるための実践的なアドバイスを提供しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Claude Code for normal people: skills, voice mode, and how to collaborate with AI",
-      "url": "https://www.lennysnewsletter.com/p/claude-code-for-normal-people-skills",
-      "publishedAt": "2026-08-10T12:01:44.000Z",
-      "excerpt": "Listen now | 🎙️ Grace Clarke rebuilt her service business in Claude, turning 20 hours of weekly admin into one automated pipeline for proposals, client tracking, and email",
-      "titleJa": "Claude Codeで実現する非技術者向けAI活用：音声機能と協働の実践",
-      "summaryJa": "一般的なユーザーがClaudeを活用して業務を自動化した事例を紹介。週20時間の事務作業を提案書作成、顧客管理、メール対応の自動化パイプラインに一本化し、サービス事業を効率化した実践例。"
     },
     {
       "category": "QA",
