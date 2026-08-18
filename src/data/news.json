@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-08-18T12:21:30.942Z",
+  "updatedAt": "2026-08-18T18:20:18.321Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Announcing Lenny’s Jobs: The best place in the world to find, vet, and land your dream job",
+      "url": "https://www.lennysnewsletter.com/p/announcing-lennys-jobs-the-best-place",
+      "publishedAt": "2026-08-18T15:40:06.000Z",
+      "excerpt": "Where product managers, engineers, designers, and growth/marketing professionals discover high-quality open roles at tech companies",
+      "titleJa": "Lenny's Jobs：プロダクトマネージャーの理想の職探しプラットフォーム",
+      "summaryJa": "プロダクトマネージャー、エンジニア、デザイナー、マーケティング専門家向けの求人プラットフォーム。テック企業の質の高い職を厳選して紹介し、キャリア形成をサポート。プロフェッショナルな職人材と雇用側をマッチングする専門サービス。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Why IoT Testing Proves Manual Testing Never Died with Oleksii Cherkashyn",
+      "url": "https://testguild.com/podcast/a601-oleksii/",
+      "publishedAt": "2026-08-18T15:32:42.000Z",
+      "excerpt": "About This Episode: Manual testing never died. IoT is the proof. In this episode, Joe Colantonio talks with Oleksii Cherkashyn, […]",
+      "titleJa": "IoT テストで証明される：マニュアルテストは決して終わらない",
+      "summaryJa": "IoT時代においてマニュアルテストの重要性は変わらないという議論。本エピソードではテスト専門家 Oleksii Cherkashyn 氏と、IoT環境でのテスト戦略とマニュアルテストの役割について対談。自動化だけでは対応できない領域の存在が改めて注目されている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Keep Scrum Events Short",
+      "url": "https://www.scrum.org/resources/blog/keep-scrum-events-short",
+      "publishedAt": "2026-08-18T13:00:00.000Z",
+      "excerpt": "Image The Scrum framework includes five events. Each is an opportunity to inspect and adapt: to learn, to change direction and to improve. They provide just enough - but not too much - structure to enable the Scrum team to collaborate effectively. But too much of a good thing can create a whole lot of waste: long, drawn out events are almost never a good idea. That's why each Scrum event has a maximum timebox. Those timeboxes are upper limits, not recommended durations! The goal is to make the events just long enough to achieve their purpose, and no longer. The Sprint The Sprint is timeboxed t",
+      "titleJa": "スクラムイベントを効率的に：タイムボックス活用のコツ",
+      "summaryJa": "Scrum フレームワークの5つのイベント各々にはタイムボックスが設定されており、それは上限値であり推奨時間ではない点を解説。チーム協働を効果的にするため、イベント目的の達成に必要な最小限の時間で実施することが重要。長時間化による無駄を避けることが成功の鍵。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -93,13 +123,13 @@
     },
     {
       "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Die Ergebnisse der „Agile zum Product Operating Model“ Umfrage 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/die-ergebnisse-der-agile-zum-product-operating-model-umfrage",
-      "publishedAt": "2026-08-13T05:03:49.000Z",
-      "excerpt": "In Kürze: Die Ergebnisse der Umfrage zum Übergang von Agile zum Product Operating Model Zwischen dem 2. und dem 10. August 2026 haben 48 Praktiker an meiner Umfrage zum Übergang von Agile zum Product Operating Model teilgenommen. Die Umfrage soll klären, was sich dadurch tatsächlich verändert. Lassen Sie mich die Antworten zusammenfassen: Die berichteten Transformationen verändern die Entscheidungsfindung weniger stark, als es das Framework von Cagan nahelegt. Wo die Befragten Verbesserungen berichten, zeigen sich diese in der Lieferung von Produktinkrementen und in der Zusammenarbeit, weniger",
-      "titleJa": "Agileからプロダクト・オペレーティング・モデルへの移行調査結果",
-      "summaryJa": "2026年8月に実施された48名の実践者を対象にした調査から、AgileからProduct Operating Modelへの移行がもたらす実際の変化を検証。意思決定プロセスへの影響は予想より限定的である一方、プロダクト・インクリメントの納品と組織間の協働において改善が報告されている。"
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to earn power skills PDUs for PMI certificate renewals",
+      "url": "https://rebelsguidetopm.com/how-to-earn-leadership-pdus-for-pmp-renewal/",
+      "publishedAt": "2026-08-13T03:50:00.000Z",
+      "excerpt": "If you are like many Project Management Professional (PMP)® certification holders, you might be finding it hard to source enough quality learning materials for your Power Skills PDUs. Panic no more, I have all the details you need below. And if you hold one of the other (many) PMI certificates, you'll learn below about how many Power Skills PDUs you need to claim in a cycle and what activities count towards your PDU total in the Power Skills category. What are Power Skills PDUs? Power Skills is one side of the PMI Talent Triangle, along with Ways of Working and Business Acumen. Power Skills us",
+      "titleJa": "PMI 認定資格の更新に必要な Power Skills PDU の取得方法",
+      "summaryJa": "PMP などの PMI 認定資格更新に求められる Power Skills PDU の取得方法を解説。PMI Talent Triangle の一要素である Power Skills について、学習教材の確保方法と認定される活動種別を紹介。資格維持に必要な単位獲得の実践的ガイド。"
     },
     {
       "category": "QA",
@@ -162,6 +192,16 @@
       "summaryJa": "QAエンジニアがGrok Botというツールを実際の本番環境で試したレポート。実際のバグを検出する能力がある一方で、問題の根本原因の掘り下げには限界があることが示された。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Are Google Career Certificates Worth It?",
+      "url": "https://rebelsguidetopm.com/google-certificates-employability/",
+      "publishedAt": "2026-08-12T01:30:00.000Z",
+      "excerpt": "If you’re considering a Google Career Certificate to boost your resume, you’re probably wondering: Will it actually help me get a job? Google has built a strong reputation with its Coursera-hosted certificate programs across digital marketing, project management, data analytics, IT support, and UX design. But what do employers think? We spoke with legal experts, recruiters, and business owners who hire entry-level talent to get their unfiltered thoughts on whether Google certificates carry real weight in the hiring process. But before we get to their thoughts on employability post-training, le",
+      "titleJa": "Google Career Certificate は転職に本当に役立つのか？",
+      "summaryJa": "Google Career Certificate の採用市場における実用価値を検証した記事。採用担当者や法律専門家へのインタビューを通じて、プロジェクトマネジメント等の認定資格が実務経歴としてどう評価されるかを調査。キャリア形成における客観的な判断基準を提供。"
+    },
+    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Testing AI: Engineering Confidence in Non-Deterministic Systems with Jason Arbon",
@@ -172,14 +212,14 @@
       "summaryJa": "TestGuild Automation Podcastの第600回エピソードで、ホストのJoe ColontonioがJason Arbon創業者と対談。AI・機械学習を用いたシステムのテスト手法と、従来のテスト手法との違い、非決定論的な動作を持つシステムにおける品質保証の課題と解決策について議論しています。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How to make people care about your startup",
-      "url": "https://www.lennysnewsletter.com/p/how-to-make-people-care-about-your",
-      "publishedAt": "2026-08-11T13:31:07.000Z",
-      "excerpt": "Three founder archetypes—and how to turn your origin story into a communications strategy",
-      "titleJa": "スタートアップへの関心を引き出す方法",
-      "summaryJa": "創業者の3つのアーキタイプを活用し、オリジンストーリーを効果的なコミュニケーション戦略に変える方法を解説します。スタートアップが人々の興味を獲得するためのアプローチが紹介されています。"
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "RAID logs in project management: How to actually use one",
+      "url": "https://rebelsguidetopm.com/raid-in-project-management/",
+      "publishedAt": "2026-08-11T01:14:00.000Z",
+      "excerpt": "You've probably seen the definition: Risks, Assumptions, Issues and Dependencies. That's the easy bit. The useful question is what you actually do with a RAID log once your project is underway. You'll hear project managers talking about their RAID logs as part of how to manage a project, or updating the RAID, but what does it all mean? I've been working with RAID logs for over 20 years, so I have plenty of practical tips to share! My RAID log is THE most useful tool I use to keep my projects on track, and it will do the same for you. Get a RAID log template as part of a complete project workbo",
+      "titleJa": "RAID ログを使いこなす：プロジェクト管理の実践ガイド",
+      "summaryJa": "RAID ログ（リスク・仮定・問題・依存関係）の定義から実務活用法までを解説。20年以上の実経験から得た具体的なテクニックを共有。プロジェクトを軌道に乗せるための最強ツールとしての活用方法を紹介。"
     },
     {
       "category": "QA",
@@ -192,6 +232,16 @@
       "summaryJa": "MicrosoftがPlaywright MCPから利用者を遠ざけているのかを検証。OWASPが12のAI防御をテストした結果、ほとんどが期待に応えていないことが明らかになる。テスト業界の最新動向と未解決の課題について取り上げたエピソード。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to write a terms of reference with template & examples",
+      "url": "https://rebelsguidetopm.com/terms-of-reference-free-template/",
+      "publishedAt": "2026-08-10T16:08:06.000Z",
+      "excerpt": "Why use a Terms of Reference document? A Terms of Reference document is a really versatile document. I use it mainly for two things: First, putting down in writing what my Steering Group are actually supposed to do to set the 'ground rules' for that group and their meetings. This helps them keep a focus on the job at hand, not get too much into the detail and helps them and others take the project seriously. Second, to define what a particular workstream on a project is supposed to do. I find a ToR is helpful when there's a technical stream of work being led by someone, and then other strands ",
+      "titleJa": "要件定義書の作成方法：テンプレート・事例付き",
+      "summaryJa": "Terms of Reference（ToR）ドキュメントの活用法を解説。ステアリンググループの役割定義やプロジェクト内の作業ストリーム管理に有効なツール。組織内で適切な焦点を保ち、プロジェクト推進をサポートするための実践的なアプローチを紹介。"
+    },
+    {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
       "title": "A Fresh Definition of The Product Role",
@@ -202,14 +252,14 @@
       "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
     },
     {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "What Is AI-DLC? The AI Delivery Lifecycle for Governed Software Delivery",
-      "url": "https://testguild.com/what-is-ai-dlc/",
-      "publishedAt": "2026-08-06T08:00:05.000Z",
-      "excerpt": "A Director of Sales hit me with “AI-DLC” last week like I should already know it. I nodded. Then I […]",
-      "titleJa": "AI-DLC とは？ガバナンス重視のソフトウェア配信におけるAIデリバリーライフサイクル",
-      "summaryJa": "AI-DLCはAIを活用したソフトウェア配信ライフサイクルのフレームワークです。従来のデリバリープロセスにAIを統合し、ガバナンスを確保しながら効率的なソフトウェア配信を実現するアプローチについて解説されています。"
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to list project management skills on your resume",
+      "url": "https://rebelsguidetopm.com/project-management-skills-resume/",
+      "publishedAt": "2026-08-10T12:27:42.000Z",
+      "excerpt": "If you’re putting together an application for a job, you’ve probably found that there is a long list of project management skills to include in your resume (which over here in the UK we call a CV). How do you list the project management skills required without it turning into a giant list of buzzwords? The job market is tough, so you want your application to stand out, and for employers to see you have the skills required to do the job. Here's how to manage the skills section on your resume. How to include project management skills on your CV Let’s just go with the fact that CV and resume are ",
+      "titleJa": "職務経歴書で効果的にプロジェクト管理スキルをアピール",
+      "summaryJa": "プロジェクト管理スキルを職務経歴書に記載する際の工夫と方法論。多数のスキル項目をバズワード的な羅列にしないため、採用側の目を引く書き方を解説。競争が激しい求人市場での差別化とスキルの効果的な表現方法を提案。"
     },
     {
       "category": "PdM",
