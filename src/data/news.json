@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-18T18:20:18.321Z",
+  "updatedAt": "2026-08-19T00:33:54.414Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
+      "url": "https://www.lennysnewsletter.com/p/i-tested-grok-bot-grok-46-and-cursor",
+      "publishedAt": "2026-08-18T21:30:31.000Z",
+      "excerpt": "Watch now | 🎙️ I tested Grok Bot, Cursor Origin, and Grok 4.6 head-to-head against my favorite models and ranked them on the Claire Index: here's what actually moved the needle",
+      "titleJa": "Grok Bot、Grok 4.6、Cursor Originを実際に試してみた結果",
+      "summaryJa": "複数のAIモデルを実際に比較検証し、独自の評価指標（Claire Index）を用いてランク付けした結果をレポート。各モデルの実用性と性能の違いについて、実際の使用体験に基づいた詳細な分析を提供している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -90,16 +100,6 @@
       "excerpt": "Image A surgical resident scrubs in for a prostatectomy. Gowned, credentialed, in the room. The robotic console sits four feet away and the attending surgeon is already at it, running the procedure alone, because the machine allows it. The resident watches from a second console and touches nothing. Matt Beane documented this for two years across five sites, plus interviews at 13 top-tier teaching hospitals, in Administrative Science Quarterly, then in The Skill Code. His phrase for the trainee is exact: the resident \"became completely optional.\" The ones who still built skill did it by bending",
       "titleJa": "後進育成の危機—新人が現場から消える現実",
       "summaryJa": "ロボット手術の普及により、研修医が従来の実践的な学習機会を失う問題を指摘しています。指導医がロボット操作を独占することで、研修医は観察するだけになり、スキル習得の機会が喪失されています。教育機関全体で実務訓練の設計を根本的に見直す必要があります。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Recovering from burnout, what Airtable’s sale says about the ceiling on a startup, keeping architecture docs up to date, running competitor analysis, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-recovering-from",
-      "publishedAt": "2026-08-15T17:01:13.000Z",
-      "excerpt": "Community Wisdom 197",
-      "titleJa": "コミュニティの知恵：バーンアウトからの回復、Airtableの売却が示唆するスタートアップの限界、アーキテクチャドキュメントの保守、競合分析の実施ほか",
-      "summaryJa": "Lennyのニュースレターから、PdM向けのコミュニティ投稿集。バーンアウト対策、スタートアップのスケーリング上限、技術ドキュメント管理、競合分析など、プロダクト開発に関わる実践的な知見や経験が共有されている。"
     },
     {
       "category": "PjM",
