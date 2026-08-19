@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-19T06:23:22.193Z",
+  "updatedAt": "2026-08-19T12:20:34.948Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Flow mit Hilfe von Metriken beherrschen",
+      "url": "https://www.scrum.org/resources/blog/flow-mit-hilfe-von-metriken-beherrschen",
+      "publishedAt": "2026-08-19T06:32:01.000Z",
+      "excerpt": "Metriken – Teufelszeug oder unverzichtbares Hilfsmittel? Bevor wir uns konkrete Flow-Metriken ansehen, lohnt sich zunächst ein allgemeiner Blick auf den Umgang mit Metriken. Denn viele Entwickler haben ein eher gespaltenes Verhältnis dazu. Ich selbst habe zahlreiche Situationen erlebt, in denen Metriken auf eine ungute Weise eingesetzt wurden. Grundsätzlich sind Metriken ein wertvolles Hilfsmittel. Sie helfen dabei: Veränderungen sichtbar zu machen, Zusammenhänge besser zu verstehen, Probleme früher zu erkennen, und Verbesserungen empirisch zu bewerten. Gleichzeitig beeinflusst jedoch jede Met",
+      "titleJa": "メトリクスを活用してフローをマスターする",
+      "summaryJa": "メトリクスは適切に活用すれば、変化を可視化し、問題を早期に検出し、改善を定量的に評価する価値あるツールです。一方で、開発者の間ではメトリクスの使用方法に対する懸念も多いため、フロー・メトリクスを導入する際には慎重な検討が必要になります。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Frequently Asked Questions (FAQ) About PSM-AI Essentials Course",
+      "url": "https://www.scrum.org/resources/blog/frequently-asked-questions-faq-about-psm-ai-essentials-course",
+      "publishedAt": "2026-08-19T06:22:49.000Z",
+      "excerpt": "In this blog post, I answer critical questions you have before choosing a Professional Scrum Master – AI Essentials class. Image 1- Why should I take the class when I can directly take the PSM-AI Essentials exam and get the certificate without attending the class? Yes, you can skip the class and just take the exam. But here is the uncomfortable truth: the certificate is not the asset. The capability and confidence of knowing how to leverage AI in the field is. When your people ask you how AI should reshape your team's Scrum way of working, nobody will ask to see your badge. They will watch how",
+      "titleJa": "PSM-AI Essentials コース よくある質問",
+      "summaryJa": "Professional Scrum Master – AI Essentials試験に合格するだけでなく、実務でAIを活用できる能力と自信が重要です。本コースでは、AIがスクラムの実践をいかに変革するかを理解し、チーム内でそれを指導できるスキルを習得できます。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -100,26 +120,6 @@
       "excerpt": "Image A surgical resident scrubs in for a prostatectomy. Gowned, credentialed, in the room. The robotic console sits four feet away and the attending surgeon is already at it, running the procedure alone, because the machine allows it. The resident watches from a second console and touches nothing. Matt Beane documented this for two years across five sites, plus interviews at 13 top-tier teaching hospitals, in Administrative Science Quarterly, then in The Skill Code. His phrase for the trainee is exact: the resident \"became completely optional.\" The ones who still built skill did it by bending",
       "titleJa": "後進育成の危機—新人が現場から消える現実",
       "summaryJa": "ロボット手術の普及により、研修医が従来の実践的な学習機会を失う問題を指摘しています。指導医がロボット操作を独占することで、研修医は観察するだけになり、スキル習得の機会が喪失されています。教育機関全体で実務訓練の設計を根本的に見直す必要があります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Customers don't buy your exhaustion",
-      "url": "https://www.scrum.org/resources/blog/customers-dont-buy-your-exhaustion",
-      "publishedAt": "2026-08-13T22:00:00.000Z",
-      "excerpt": "The team had earned its standing ovation, and it wanted one. Two months of late nights. A release pushed out over a weekend nobody got back. The kind of finish that gets a team a reputation for grit. In the review, they walked through all of it, the heroics and the saves, with the quiet pride of people who'd been through something together. Then a new stakeholder, who hadn't been in the trenches and so could still see clearly, asked the one question. \"So did it work? Are customers using it?\" The room went quiet, because the honest answer was no. Adoption was flat. The thing they'd half killed ",
-      "titleJa": "顧客は過労の努力を買わない",
-      "summaryJa": "チームが2ヶ月の残業を経て週末リリースを敢行し、ステークホルダーから賞賛を受けた。しかし新しい利害関係者の問いかけで、顧客採用率が全く伸びていないという現実が明らかになった。チームの献身的な努力が、実際のビジネス価値につながっていなかったのである。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "[Episode 4] Questions Scrum Masters Must Ask Before Choosing Any AI Courses",
-      "url": "https://www.scrum.org/resources/blog/episode-4-questions-scrum-masters-must-ask-choosing-any-ai-courses",
-      "publishedAt": "2026-08-13T17:21:44.000Z",
-      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 4, we discussed and shared 9 questions that Scrum Masters must ask before choosing any AI training courses, as follows: 1- WHAT CRITERIA SHOULD I CONSIDER WHEN I WANT TO CHOOSE AN AI TRAINING SOLUTION? 2- WHAT LEARNING SOLUTIONS ARE AVAILABLE IN THE MARKET FOR ME THAT COVER THE ABOVE CRITERIA? 3- HOW SHOULD I EVALUATE THE CLASS TRAINER? 4- WHAT SYLLABUS SHOULD BE COVERED WITH THE COURSE? 5- IS THERE A GUARANTEE FOR ",
-      "titleJa": "AI研修選択前に確認すべき9つの質問：スクラムマスター向けガイド",
-      "summaryJa": "AI-native Scrum Teamのポッドキャストシリーズ第4話では、スクラムマスターがAI研修コースを選ぶ前に確認すべき9つの質問が紹介されています。研修ソリューション選定の基準、市場で利用可能な学習方法の検討、講師評価、カリキュラム内容など、AI変革ジャーニーで適切な研修を選ぶための実践的なチェックポイントがまとめられています。"
     },
     {
       "category": "PjM",
