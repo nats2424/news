@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-20T00:34:22.829Z",
+  "updatedAt": "2026-08-20T06:24:17.239Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Was KI von Agile lernen kann oder der Unsinn von Tokenmaxxing 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/was-ki-von-agile-lernen-kann-oder-der-unsinn-von-tokenmaxxing",
+      "publishedAt": "2026-08-20T05:02:05.000Z",
+      "excerpt": "In Kürze: Tokenmaxxing oder die Neuerfindung des Rades Ihre Organisation zählt KI-Token, Lizenzen und KI-Pilotprojekte. Aber kann irgendjemand eine einzige Entscheidung benennen, die diese Zahlen tatsächlich verändert hat? Tokenmaxxing ist letztlich nur das Symptom und fünf alte Gesetze erklären die Ursache. Zu jedem gehört ein Test, den Sie noch in dieser Woche durchführen können. Es besteht kein Anlass, bei KI-Transformationen das Rad neu zu erfinden und auf die harte Tour zu lernen, was die Veteranen früherer Transformationen längst herausgefunden haben. Image These: Tokenmaxxing ist die Va",
+      "titleJa": "AIはアジャイルから何を学べるか、またはトークンマックスの無意味さについて",
+      "summaryJa": "組織がAIトークン数やパイロットプロジェクト数を数えることに注力するトークンマックスは、実際の意思決定に影響していない。本記事は、過去の変革における5つの普遍的な法則と検証方法を紹介し、AI変革においてアジャイルの知見を活かして学習コストを削減できることを主張しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -110,16 +120,6 @@
       "excerpt": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
       "titleJa": "OpenAI デザイン責任者が語る、デザイナーにとって最高の時代が今である理由",
       "summaryJa": "OpenAIのプロダクトデザイン責任者が、なぜ今がデザイナーにとって歴史上最高の時代なのかを解説。人間がAIを上回る領域や、情報過多から脱する方法について語っている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your Juniors Are Still Here. The Reps Are Gone.",
-      "url": "https://www.scrum.org/resources/blog/your-juniors-are-still-here-reps-are-gone",
-      "publishedAt": "2026-08-16T06:00:00.000Z",
-      "excerpt": "Image A surgical resident scrubs in for a prostatectomy. Gowned, credentialed, in the room. The robotic console sits four feet away and the attending surgeon is already at it, running the procedure alone, because the machine allows it. The resident watches from a second console and touches nothing. Matt Beane documented this for two years across five sites, plus interviews at 13 top-tier teaching hospitals, in Administrative Science Quarterly, then in The Skill Code. His phrase for the trainee is exact: the resident \"became completely optional.\" The ones who still built skill did it by bending",
-      "titleJa": "後進育成の危機—新人が現場から消える現実",
-      "summaryJa": "ロボット手術の普及により、研修医が従来の実践的な学習機会を失う問題を指摘しています。指導医がロボット操作を独占することで、研修医は観察するだけになり、スキル習得の機会が喪失されています。教育機関全体で実務訓練の設計を根本的に見直す必要があります。"
     },
     {
       "category": "PjM",
