@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T12:22:11.236Z",
+  "updatedAt": "2026-08-21T18:20:13.212Z",
   "items": [
     {
       "category": "PjM",
@@ -280,16 +280,6 @@
       "excerpt": "Continuous Discovery Habits turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "第9章：隠れた前提条件を識別する",
       "summaryJa": "『継続的なディスカバリーの習慣』の5周年を記念して、書籍を深掘りする読書ガイドを公開。重要な概念の解説と映像を通じて、プロダクト開発における隠れた仮定を見つけるための実践的なアプローチを学べます。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP108 Why Product Teams Slow Down as Companies Scale — And What to Do About It",
-      "url": "https://www.productcoalition.com/p/ep108-why-product-teams-slow-down",
-      "publishedAt": "2026-07-31T17:03:04.000Z",
-      "excerpt": "Summary",
-      "titleJa": "企業成長に伴うプロダクトチームの停滞と対策",
-      "summaryJa": "企業規模の拡大に伴い、プロダクトチームの開発速度が低下する理由と、その問題に対する具体的な対策について解説します。組織の成長段階での課題認識と改善方法を取り上げています。"
     }
   ]
 }
