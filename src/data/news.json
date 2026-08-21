@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-20T18:21:10.752Z",
+  "updatedAt": "2026-08-21T00:36:38.775Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "You can't empower teams and approve everything",
+      "url": "https://www.scrum.org/resources/blog/you-cant-empower-teams-and-approve-everything",
+      "publishedAt": "2026-08-20T22:00:00.000Z",
+      "excerpt": "Most agile transformations don't fail because people resist change. They fail because the organization asked for two things that can't both be true, wrote them on the same slide, and then acted surprised when it only got one. The slide says empowered teams. The workflow tool says any decision worth more than 500 euros needs three signatures. Five hundred euros. A team that needs three approvals to spend the price of a monitor isn't empowered; it's on an allowance. Both are real. Both are funded. Both are spoken about with complete sincerity. And only one of them is actually running the company",
+      "titleJa": "チーム権限と承認プロセスは両立しない",
+      "summaryJa": "多くのアジャイル変革は人の抵抗ではなく、矛盾した2つの要求（チーム権限とプロセス統制）を同時に求めることで失敗する。承認要件が厳しすぎれば、チームは実質的な自律性を持たず、単に予算配分を受けるだけになってしまう。組織は一貫した方針を選択する必要がある。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "About This Episode: Three days, 100 speakers, and zero dollars have you register for this agentic testing event yet? Reg […]",
       "titleJa": "Seleniumの最新動向、TestMu、コード検証に4,500万ドル投資など TGNS193",
       "summaryJa": "3日間で100人の講演者が参加するエージェント型テストイベントに関するエピソード。Seleniumの最新情報やTestMuといったテストツール、コード検証技術への大型投資など、QA業界の注目トピックをカバーしています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Folly of Tokenmaxxing Or Reinventing the Wheel",
-      "url": "https://www.scrum.org/resources/blog/folly-tokenmaxxing-or-reinventing-wheel",
-      "publishedAt": "2026-08-17T15:53:41.000Z",
-      "excerpt": "TL; DR: Tokenmaxxing Or Reinventing the Wheel Your organization counts AI tokens, seats, and pilots, but can anyone name a single decision those numbers actually changed? Tokenmaxxing is only the symptom; five old Agile Laws explain the cause, and each one comes with a test you can run this week. There is no need to reinvent the wheel with AI transformations and learn the hard way what the veterans of other transformations already figured out. Image Thesis: Tokenmaxxing is the vanity metric of pushing low-value work through an AI tool solely to inflate usage metrics. Tokenmaxxing emerged in 20",
-      "titleJa": "AIプロジェクトにおけるトークンマックスの罠：データと成果のギャップ",
-      "summaryJa": "組織がAIトークン数やシート利用数を指標として追い求める「トークンマックス」の問題点を指摘し、実際のビジネス上の意思決定改善につながっていない現状を分析。Agileの原則に立ち戻り、AI変革で本来追うべきメトリクスと組織課題の解決方法を提示します。"
     },
     {
       "category": "PdM",
