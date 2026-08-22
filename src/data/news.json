@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-22T12:15:47.477Z",
+  "updatedAt": "2026-08-22T18:13:02.744Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to calculate a ROM estimate and when to use it",
+      "url": "https://rebelsguidetopm.com/rom-estimate/",
+      "publishedAt": "2026-08-22T15:39:34.000Z",
+      "excerpt": "What is a ROM estimate? A rough order of magnitude estimate is used to give you a very high level view of potential project costs. Ideally, you’d be able to provide a definitive estimate, carefully created from loads of input from subject matter experts and plenty of research on past projects and their budgets. But in reality, we rarely have the time or luxury of being able to provide that level of estimate at the earliest stage of project. A ROM estimate is useful when you need to make a decision before you have enough information for a detailed estimate. It gives you an early indication of l",
+      "titleJa": "ラフ・オーダー・オブ・マグニチュード（ROM）見積もりの計算方法と使用場面",
+      "summaryJa": "ROM見積もりはプロジェクトの概算コストを初期段階で把握するための手法です。専門家の知見や過去プロジェクトのデータに基づいた詳細見積もりが理想ですが、実務では十分な情報がない段階での意思決定が必要な場合があります。ROM見積もりはそうした状況において、プロジェクトコストの早期指標を提供する有効なツールです。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -230,16 +240,6 @@
       "excerpt": "About This Episode: In this episode 600 of the TestGuild Automation Podcast, Joe Colantonio talks with Jason Arbon, founder of […]",
       "titleJa": "AI時代のテスト戦略：非決定論的システムの品質保証をJason Arbonと語る",
       "summaryJa": "TestGuild Automation Podcastの第600回エピソードで、ホストのJoe ColontonioがJason Arbon創業者と対談。AI・機械学習を用いたシステムのテスト手法と、従来のテスト手法との違い、非決定論的な動作を持つシステムにおける品質保証の課題と解決策について議論しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "RAID logs in project management: How to actually use one",
-      "url": "https://rebelsguidetopm.com/raid-in-project-management/",
-      "publishedAt": "2026-08-11T01:14:00.000Z",
-      "excerpt": "You've probably seen the definition: Risks, Assumptions, Issues and Dependencies. That's the easy bit. The useful question is what you actually do with a RAID log once your project is underway. You'll hear project managers talking about their RAID logs as part of how to manage a project, or updating the RAID, but what does it all mean? I've been working with RAID logs for over 20 years, so I have plenty of practical tips to share! My RAID log is THE most useful tool I use to keep my projects on track, and it will do the same for you. Get a RAID log template as part of a complete project workbo",
-      "titleJa": "RAID ログを使いこなす：プロジェクト管理の実践ガイド",
-      "summaryJa": "RAID ログ（リスク・仮定・問題・依存関係）の定義から実務活用法までを解説。20年以上の実経験から得た具体的なテクニックを共有。プロジェクトを軌道に乗せるための最強ツールとしての活用方法を紹介。"
     },
     {
       "category": "QA",
