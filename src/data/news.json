@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-22T06:19:32.167Z",
+  "updatedAt": "2026-08-22T12:15:47.477Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Handover checklist: Leave work without worrying + email templates",
+      "url": "https://rebelsguidetopm.com/10-simple-ways-to-prepare-a-holiday-handover-at-work-with-email-templates/",
+      "publishedAt": "2026-08-22T09:24:05.000Z",
+      "excerpt": "Once upon a time I used to try to plan my projects around dates when I knew I was going to be in the office. My colleagues joked that I planned the birth date of my first child around a major transformation project go live date (I didn’t). It turned out that we had to move that go live by three months, so I was on maternity leave with a new born when they eventually went live. As experienced project managers know, when things change on a project, all your carefully planned deadlines switch around too. In this article, we’ll look at how to plan and execute a handover to a colleague. Looking for",
+      "titleJa": "引き継ぎチェックリスト：安心して退職するためのメールテンプレート",
+      "summaryJa": "プロジェクトマネージャーが同僚への業務引き継ぎを計画・実行する際の考慮点を解説。プロジェクト期間中に予期しない変更が発生しても対応できるよう、効果的な引き継ぎの方法とテンプレートを提供している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to write a handover email to your manager",
+      "url": "https://rebelsguidetopm.com/how-to-write-a-handover-email-to-your-manager/",
+      "publishedAt": "2026-08-22T08:55:29.000Z",
+      "excerpt": "When I’m getting ready to leave a job, whether that’s for a holiday or for good, I’ll make sure to do a handover to my boss. That might be as simple as a quick email or a conversation in our last 1:1, but sometimes it’s important to do a bit more than that. I’ve never gone back to a past employer (yet, maybe I will one day), but as 40% of people would consider returning to an employer, it’s worth making sure your exit is smooth, professional, and on good terms. Because you never know. Best not to burn bridges. A work handover email to your manager is one of the steps to make the transition out",
+      "titleJa": "上司への引き継ぎメールの書き方",
+      "summaryJa": "退職や休暇前に上司へ業務を引き継ぐ際のメール作成方法を紹介。スムーズで専門的な退職を実現し、将来的な復職の可能性に備えるための効果的なコミュニケーション手法について説明している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -232,16 +252,6 @@
       "summaryJa": "MicrosoftがPlaywright MCPから利用者を遠ざけているのかを検証。OWASPが12のAI防御をテストした結果、ほとんどが期待に応えていないことが明らかになる。テスト業界の最新動向と未解決の課題について取り上げたエピソード。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to write a terms of reference with template & examples",
-      "url": "https://rebelsguidetopm.com/terms-of-reference-free-template/",
-      "publishedAt": "2026-08-10T16:08:06.000Z",
-      "excerpt": "Why use a Terms of Reference document? A Terms of Reference document is a really versatile document. I use it mainly for two things: First, putting down in writing what my Steering Group are actually supposed to do to set the 'ground rules' for that group and their meetings. This helps them keep a focus on the job at hand, not get too much into the detail and helps them and others take the project seriously. Second, to define what a particular workstream on a project is supposed to do. I find a ToR is helpful when there's a technical stream of work being led by someone, and then other strands ",
-      "titleJa": "要件定義書の作成方法：テンプレート・事例付き",
-      "summaryJa": "Terms of Reference（ToR）ドキュメントの活用法を解説。ステアリンググループの役割定義やプロジェクト内の作業ストリーム管理に有効なツール。組織内で適切な焦点を保ち、プロジェクト推進をサポートするための実践的なアプローチを紹介。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
       "title": "A Fresh Definition of The Product Role",
@@ -250,16 +260,6 @@
       "excerpt": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "プロダクトマネージャーの役割を再定義する",
       "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to list project management skills on your resume",
-      "url": "https://rebelsguidetopm.com/project-management-skills-resume/",
-      "publishedAt": "2026-08-10T12:27:42.000Z",
-      "excerpt": "If you’re putting together an application for a job, you’ve probably found that there is a long list of project management skills to include in your resume (which over here in the UK we call a CV). How do you list the project management skills required without it turning into a giant list of buzzwords? The job market is tough, so you want your application to stand out, and for employers to see you have the skills required to do the job. Here's how to manage the skills section on your resume. How to include project management skills on your CV Let’s just go with the fact that CV and resume are ",
-      "titleJa": "職務経歴書で効果的にプロジェクト管理スキルをアピール",
-      "summaryJa": "プロジェクト管理スキルを職務経歴書に記載する際の工夫と方法論。多数のスキル項目をバズワード的な羅列にしないため、採用側の目を引く書き方を解説。競争が激しい求人市場での差別化とスキルの効果的な表現方法を提案。"
     },
     {
       "category": "PdM",
