@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-23T12:16:05.650Z",
+  "updatedAt": "2026-08-23T18:12:44.204Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
+      "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
+      "publishedAt": "2026-08-23T12:31:43.000Z",
+      "excerpt": "Listen now | Jen Abel returns for a third time to walk us through every step of the enterprise sales cycle—from the first cold outreach to the final contract signature",
+      "titleJa": "100万ドル超エンタープライズ案件のクローズ方法",
+      "summaryJa": "エンタープライズセールスサイクル全体について、初期接触から契約署名までの各ステップを詳解。営業プロセスの実践的なアプローチを習得できます。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -140,16 +150,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "titleJa": "ソロファウンダーがCodexとChatGPTを活用してエンジニアなしでファッションブランドを立ち上げた事例",
       "summaryJa": "Lenny's Podcast Networkの番組「How I AI」で、1人の起業家がAIツールを使いこなし、技術者を雇わずにファッションブランドを成功させたケーススタディを紹介。CodexやChatGPTといった生成AIをいかに実務に活かしたかについてポッドキャスト形式で解説しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers | Yana Welinder",
-      "url": "https://www.lennysnewsletter.com/p/how-a-solo-founder-used-codex-and",
-      "publishedAt": "2026-08-17T12:04:02.000Z",
-      "excerpt": "Watch now | 🎙️From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder",
-      "titleJa": "AIを使ってエンジニアなしでファッションブランドを立ち上げた起業家",
-      "summaryJa": "ソロファウンダーのYana Wellinderが、CodexとChatGPTを活用して、手描きスケッチから3Dプリント製ガウンまでを実現し、エンジニアを雇わずにフルスタックなeコマース構築を可能にした事例を紹介。AIのコード生成機能とコンピュータビジョンの組み合わせにより、従来は製造不可能だったデザインが実現できるようになった。"
     },
     {
       "category": "PjM",
