@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-23T00:36:35.713Z",
+  "updatedAt": "2026-08-23T06:21:01.797Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "You Priced Being Late. Nobody Priced Being Early.",
+      "url": "https://www.scrum.org/resources/blog/you-priced-being-late-nobody-priced-being-early",
+      "publishedAt": "2026-08-23T06:00:00.000Z",
+      "excerpt": "Image A team finishes an app update on a Tuesday. Tested, signed off, ready. It goes into review and stays there. Six days. Nobody sits still for six days, so the team starts three more items and finishes two of them. When the update ships, there is a queue behind it. The year has the same shape. New apps in the App Store doubled in the first half of 2026, to about 560,000, on Sensor Tower estimates reported by the New York Times. Downloads over that half grew 2 percent. Supply of finished product doubled. Demand did not notice. AI is why the supply curve bent. The App Store is only the visibl",
+      "titleJa": "遅れのコストは計算しても、早さのメリットは評価されない",
+      "summaryJa": "アプリ更新がテスト完了後もレビューで6日間停滞し、その間チームは別の作業に着手する。供給過剰でデマンドが追いつかない市場環境では、納期の短縮と品質保証のバランスが開発効率に大きな影響を与える。プロジェクトマネジメントにおいて、早期完了のメリットを可視化することが重要となる。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -110,16 +120,6 @@
       "excerpt": "About This Episode: Manual testing never died. IoT is the proof. In this episode, Joe Colantonio talks with Oleksii Cherkashyn, […]",
       "titleJa": "IoT テストで証明される：マニュアルテストは決して終わらない",
       "summaryJa": "IoT時代においてマニュアルテストの重要性は変わらないという議論。本エピソードではテスト専門家 Oleksii Cherkashyn 氏と、IoT環境でのテスト戦略とマニュアルテストの役割について対談。自動化だけでは対応できない領域の存在が改めて注目されている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Keep Scrum Events Short",
-      "url": "https://www.scrum.org/resources/blog/keep-scrum-events-short",
-      "publishedAt": "2026-08-18T13:00:00.000Z",
-      "excerpt": "Image The Scrum framework includes five events. Each is an opportunity to inspect and adapt: to learn, to change direction and to improve. They provide just enough - but not too much - structure to enable the Scrum team to collaborate effectively. But too much of a good thing can create a whole lot of waste: long, drawn out events are almost never a good idea. That's why each Scrum event has a maximum timebox. Those timeboxes are upper limits, not recommended durations! The goal is to make the events just long enough to achieve their purpose, and no longer. The Sprint The Sprint is timeboxed t",
-      "titleJa": "スクラムイベントを効率的に：タイムボックス活用のコツ",
-      "summaryJa": "Scrum フレームワークの5つのイベント各々にはタイムボックスが設定されており、それは上限値であり推奨時間ではない点を解説。チーム協働を効果的にするため、イベント目的の達成に必要な最小限の時間で実施することが重要。長時間化による無駄を避けることが成功の鍵。"
     },
     {
       "category": "QA",
