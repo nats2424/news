@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-22T18:13:02.744Z",
+  "updatedAt": "2026-08-23T00:36:35.713Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
+      "publishedAt": "2026-08-22T19:23:07.000Z",
+      "excerpt": "Community Wisdom 198",
+      "titleJa": "コミュニティの知恵：Lennyのおすすめツール、AI採用への影響、新会社での優先順位など",
+      "summaryJa": "Lenny's Newsletterのコミュニティ投稿まとめ。プロダクトマネージャーの間で人気のツール、採用領域でのAI活用の最新動向、転職後の初期段階での優先事項など、実践的な知見を共有。プロダクト開発に携わる専門家たちの経験に基づいた有用な情報が集約されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -140,16 +150,6 @@
       "excerpt": "Watch now | 🎙️From hand-drawn sketch to 3D-printed gown, Yana Welinder shows how Codex plus computer use makes previously unmanufacturable garments and full e-commerce builds possible for a solo founder",
       "titleJa": "AIを使ってエンジニアなしでファッションブランドを立ち上げた起業家",
       "summaryJa": "ソロファウンダーのYana Wellinderが、CodexとChatGPTを活用して、手描きスケッチから3Dプリント製ガウンまでを実現し、エンジニアを雇わずにフルスタックなeコマース構築を可能にした事例を紹介。AIのコード生成機能とコンピュータビジョンの組み合わせにより、従来は製造不可能だったデザインが実現できるようになった。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "OpenAI’s Head of Design: This is the best time in history to be a designer | Ian Silber",
-      "url": "https://www.lennysnewsletter.com/p/openais-head-of-design-this-is-the",
-      "publishedAt": "2026-08-16T12:31:42.000Z",
-      "excerpt": "Listen now | OpenAI’s head of product design on why this is the best time in history to be a designer, where humans still beat AI, and how to escape the overwhelm",
-      "titleJa": "OpenAI デザイン責任者が語る、デザイナーにとって最高の時代が今である理由",
-      "summaryJa": "OpenAIのプロダクトデザイン責任者が、なぜ今がデザイナーにとって歴史上最高の時代なのかを解説。人間がAIを上回る領域や、情報過多から脱する方法について語っている。"
     },
     {
       "category": "PjM",
