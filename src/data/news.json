@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-08-24T06:33:59.039Z",
+  "updatedAt": "2026-08-24T12:23:02.170Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
+      "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
+      "publishedAt": "2026-08-24T12:04:02.000Z",
+      "excerpt": "Watch now | 🎙️ Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight",
+      "titleJa": "1ヶ月で$20,000をDevinに投じて学んだこと",
+      "summaryJa": "ソロファウンダーがAIエージェント「Devin」を15個同時運用し、エンジニアリングやカスタマーサクセス対応に活用した実例を紹介。手書きリストで管理しながら複数タスクを並行処理した経験を共有しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Product Owner Interview Questions for the Age of AI",
+      "url": "https://www.scrum.org/resources/blog/product-owner-interview-questions-age-ai",
+      "publishedAt": "2026-08-24T09:04:57.000Z",
+      "excerpt": "TL; DR: 10 New Product Owner Interview Questions on AI “How do you use AI in your work?” If that is still one of your Product Owner interview questions, you are screening for tooling fluency in a role that lives or dies on product judgment. Every candidate has an answer; LLMs make sure of that. None of those answers tell you whether the person can decide what is worth building when building is no longer the hard part. These ten new Product Owner interview questions are designed to expose the gap. Each one has a seductive wrong answer that sounds smart enough to pass a surface-level interview. ",
+      "titleJa": "AI時代のプロダクトオーナーの採用面接質問",
+      "summaryJa": "AI普及で差別化が難しくなる採用選考向けに、プロダクトオーナーの本質的な判断力を評価する10の新しい面接質問を提案。ツール活用能力ではなく、何を作るべきかの意思決定スキルを見極めることの重要性を強調しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "4 Communication Models Every Project Manager Should Know",
+      "url": "https://rebelsguidetopm.com/communication-models/",
+      "publishedAt": "2026-08-24T07:49:33.000Z",
+      "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
+      "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
+      "summaryJa": "メール送信や説明、会議後も解釈にズレが生じるコミュニケーション課題に対し、複数のコミュニケーションモデルを用いた診断方法を解説。プロジェクト成功に不可欠なコミュニケーション改善のフレームワークを紹介しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -10,6 +40,16 @@
       "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 5, we discussed what effects we will see in our processes when we use AI to build the product. (for example, how DoD should be upgraded, how developers' roles change from writing code to supervising the code, what AI tools can be used in building the product, ...) ------------------------------------------------------------------------------ 🟢🟢🟢🟢🟢 What Is The Next Step For Scrum Masters? As AI is reshaping the ",
       "titleJa": "AI活用でプロダクト開発がどう変わるか【エピソード5】",
       "summaryJa": "AI活用時のスクラムチームのプロセス変化について解説するポッドキャストシリーズの第5回。DoD（完了の定義）の進化、開発者の役割変化（コード作成から監視へ）、プロダクト開発で使用できるAIツールなど、AI導入による具体的な影響を取り上げています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "This Fact About KPIs May Surprise You",
+      "url": "https://www.satisfice.com/blog/archives/488189",
+      "publishedAt": "2026-08-24T02:34:04.000Z",
+      "excerpt": "Nobody who creates actual products or does actual useful work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face do anything that matters. If you measured eyerolls per mention of KPIs, it would be equal to about half of the number of ears that heard that mention. Do you […]",
+      "titleJa": "KPI についての意外な真実",
+      "summaryJa": "実際に製品を作ったり実務に携わる人間はKPIを重視していないという指摘。現場の実務者にとってKPIは無意味であり、むしろ軽視されているという現状を皮肉を交えて論じています。"
     },
     {
       "category": "PdM",
@@ -92,16 +132,6 @@
       "summaryJa": "組織がAIトークン数やパイロットプロジェクト数を数えることに注力するトークンマックスは、実際の意思決定に影響していない。本記事は、過去の変革における5つの普遍的な法則と検証方法を紹介し、AI変革においてアジャイルの知見を活かして学習コストを削減できることを主張しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Flow mit Hilfe von Metriken beherrschen",
-      "url": "https://www.scrum.org/resources/blog/flow-mit-hilfe-von-metriken-beherrschen",
-      "publishedAt": "2026-08-19T06:32:01.000Z",
-      "excerpt": "Metriken – Teufelszeug oder unverzichtbares Hilfsmittel? Bevor wir uns konkrete Flow-Metriken ansehen, lohnt sich zunächst ein allgemeiner Blick auf den Umgang mit Metriken. Denn viele Entwickler haben ein eher gespaltenes Verhältnis dazu. Ich selbst habe zahlreiche Situationen erlebt, in denen Metriken auf eine ungute Weise eingesetzt wurden. Grundsätzlich sind Metriken ein wertvolles Hilfsmittel. Sie helfen dabei: Veränderungen sichtbar zu machen, Zusammenhänge besser zu verstehen, Probleme früher zu erkennen, und Verbesserungen empirisch zu bewerten. Gleichzeitig beeinflusst jedoch jede Met",
-      "titleJa": "メトリクスを活用してフローをマスターする",
-      "summaryJa": "メトリクスは適切に活用すれば、変化を可視化し、問題を早期に検出し、改善を定量的に評価する価値あるツールです。一方で、開発者の間ではメトリクスの使用方法に対する懸念も多いため、フロー・メトリクスを導入する際には慎重な検討が必要になります。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "I tested Grok Bot, Grok 4.6, and Cursor Origin - here’s my honest take",
@@ -140,16 +170,6 @@
       "excerpt": "About This Episode: Three days, 100 speakers, and zero dollars have you register for this agentic testing event yet? Reg […]",
       "titleJa": "Seleniumの最新動向、TestMu、コード検証に4,500万ドル投資など TGNS193",
       "summaryJa": "3日間で100人の講演者が参加するエージェント型テストイベントに関するエピソード。Seleniumの最新情報やTestMuといったテストツール、コード検証技術への大型投資など、QA業界の注目トピックをカバーしています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: How a solo founder used Codex and ChatGPT to launch a fashion brand without engineers",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-a-solo-founder-used",
-      "publishedAt": "2026-08-17T15:03:16.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "ソロファウンダーがCodexとChatGPTを活用してエンジニアなしでファッションブランドを立ち上げた事例",
-      "summaryJa": "Lenny's Podcast Networkの番組「How I AI」で、1人の起業家がAIツールを使いこなし、技術者を雇わずにファッションブランドを成功させたケーススタディを紹介。CodexやChatGPTといった生成AIをいかに実務に活かしたかについてポッドキャスト形式で解説しています。"
     },
     {
       "category": "PjM",
@@ -220,16 +240,6 @@
       "excerpt": "Short answer: Grok Bot found a real bug, and it stopped about two inches below the surface. I pointed a […]",
       "titleJa": "QAエンジニアがGrok Botを導入して本番アプリをテストしてみた",
       "summaryJa": "QAエンジニアがGrok Botというツールを実際の本番環境で試したレポート。実際のバグを検出する能力がある一方で、問題の根本原因の掘り下げには限界があることが示された。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Are Google Career Certificates Worth It?",
-      "url": "https://rebelsguidetopm.com/google-certificates-employability/",
-      "publishedAt": "2026-08-12T01:30:00.000Z",
-      "excerpt": "If you’re considering a Google Career Certificate to boost your resume, you’re probably wondering: Will it actually help me get a job? Google has built a strong reputation with its Coursera-hosted certificate programs across digital marketing, project management, data analytics, IT support, and UX design. But what do employers think? We spoke with legal experts, recruiters, and business owners who hire entry-level talent to get their unfiltered thoughts on whether Google certificates carry real weight in the hiring process. But before we get to their thoughts on employability post-training, le",
-      "titleJa": "Google Career Certificate は転職に本当に役立つのか？",
-      "summaryJa": "Google Career Certificate の採用市場における実用価値を検証した記事。採用担当者や法律専門家へのインタビューを通じて、プロジェクトマネジメント等の認定資格が実務経歴としてどう評価されるかを調査。キャリア形成における客観的な判断基準を提供。"
     },
     {
       "category": "QA",
