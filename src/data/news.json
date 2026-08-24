@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-24T00:35:18.348Z",
+  "updatedAt": "2026-08-24T06:33:59.039Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "[Episode 5] AI Effects When You Use It In Building Your Product",
+      "url": "https://www.scrum.org/resources/blog/episode-5-ai-effects-when-you-use-it-building-your-product",
+      "publishedAt": "2026-08-24T05:56:18.000Z",
+      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 5, we discussed what effects we will see in our processes when we use AI to build the product. (for example, how DoD should be upgraded, how developers' roles change from writing code to supervising the code, what AI tools can be used in building the product, ...) ------------------------------------------------------------------------------ 🟢🟢🟢🟢🟢 What Is The Next Step For Scrum Masters? As AI is reshaping the ",
+      "titleJa": "AI活用でプロダクト開発がどう変わるか【エピソード5】",
+      "summaryJa": "AI活用時のスクラムチームのプロセス変化について解説するポッドキャストシリーズの第5回。DoD（完了の定義）の進化、開発者の役割変化（コード作成から監視へ）、プロダクト開発で使用できるAIツールなど、AI導入による具体的な影響を取り上げています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -90,16 +100,6 @@
       "excerpt": "Metriken – Teufelszeug oder unverzichtbares Hilfsmittel? Bevor wir uns konkrete Flow-Metriken ansehen, lohnt sich zunächst ein allgemeiner Blick auf den Umgang mit Metriken. Denn viele Entwickler haben ein eher gespaltenes Verhältnis dazu. Ich selbst habe zahlreiche Situationen erlebt, in denen Metriken auf eine ungute Weise eingesetzt wurden. Grundsätzlich sind Metriken ein wertvolles Hilfsmittel. Sie helfen dabei: Veränderungen sichtbar zu machen, Zusammenhänge besser zu verstehen, Probleme früher zu erkennen, und Verbesserungen empirisch zu bewerten. Gleichzeitig beeinflusst jedoch jede Met",
       "titleJa": "メトリクスを活用してフローをマスターする",
       "summaryJa": "メトリクスは適切に活用すれば、変化を可視化し、問題を早期に検出し、改善を定量的に評価する価値あるツールです。一方で、開発者の間ではメトリクスの使用方法に対する懸念も多いため、フロー・メトリクスを導入する際には慎重な検討が必要になります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Critical Asked Questions (CAQ) About PSM-AI Essentials Course",
-      "url": "https://www.scrum.org/resources/blog/critical-asked-questions-caq-about-psm-ai-essentials-course",
-      "publishedAt": "2026-08-19T06:22:49.000Z",
-      "excerpt": "In this blog post, I answer critical questions you have before choosing a Professional Scrum Master – AI Essentials class. Image 1- Why should I take the class when I can directly take the PSM-AI Essentials exam and get the certificate without attending the class? Yes, you can skip the class and just take the exam. But here is the uncomfortable truth: the certificate is not the asset. The capability and confidence of knowing how to leverage AI in the field is. When your people ask you how AI should reshape your team's Scrum way of working, nobody will ask to see your badge. They will watch how",
-      "titleJa": "PSM-AI エッセンシャルズコースについてよくある重要な質問",
-      "summaryJa": "本記事では、Professional Scrum Master – AI Essentialsコースの受講を検討する際によく寄せられる質問に答えています。コースを受講せずに試験に直接合格することは可能ですが、重要なのはAIをスクラムの現場で活用する実践的な能力と自信であり、単なる認定資格ではないという点が強調されています。"
     },
     {
       "category": "PdM",
