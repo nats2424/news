@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T06:24:58.689Z",
+  "updatedAt": "2026-08-25T12:24:01.741Z",
   "items": [
     {
       "category": "QA",
@@ -40,16 +40,6 @@
       "excerpt": "TL; DR: 10 New Product Owner Interview Questions on AI “How do you use AI in your work?” If that is still one of your Product Owner interview questions, you are screening for tooling fluency in a role that lives or dies on product judgment. Every candidate has an answer; LLMs make sure of that. None of those answers tell you whether the person can decide what is worth building when building is no longer the hard part. These ten new Product Owner interview questions are designed to expose the gap. Each one has a seductive wrong answer that sounds smart enough to pass a surface-level interview. ",
       "titleJa": "AI時代のプロダクトオーナーの採用面接質問",
       "summaryJa": "AI普及で差別化が難しくなる採用選考向けに、プロダクトオーナーの本質的な判断力を評価する10の新しい面接質問を提案。ツール活用能力ではなく、何を作るべきかの意思決定スキルを見極めることの重要性を強調しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "4 Communication Models Every Project Manager Should Know",
-      "url": "https://rebelsguidetopm.com/communication-models/",
-      "publishedAt": "2026-08-24T07:49:33.000Z",
-      "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
-      "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
-      "summaryJa": "メール送信や説明、会議後も解釈にズレが生じるコミュニケーション課題に対し、複数のコミュニケーションモデルを用いた診断方法を解説。プロジェクト成功に不可欠なコミュニケーション改善のフレームワークを紹介しています。"
     },
     {
       "category": "PjM",
@@ -113,36 +103,6 @@
     },
     {
       "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to calculate a ROM estimate and when to use it",
-      "url": "https://rebelsguidetopm.com/rom-estimate/",
-      "publishedAt": "2026-08-22T15:39:34.000Z",
-      "excerpt": "What is a ROM estimate? A rough order of magnitude estimate is used to give you a very high level view of potential project costs. Ideally, you’d be able to provide a definitive estimate, carefully created from loads of input from subject matter experts and plenty of research on past projects and their budgets. But in reality, we rarely have the time or luxury of being able to provide that level of estimate at the earliest stage of project. A ROM estimate is useful when you need to make a decision before you have enough information for a detailed estimate. It gives you an early indication of l",
-      "titleJa": "ラフ・オーダー・オブ・マグニチュード（ROM）見積もりの計算方法と使用場面",
-      "summaryJa": "ROM見積もりはプロジェクトの概算コストを初期段階で把握するための手法です。専門家の知見や過去プロジェクトのデータに基づいた詳細見積もりが理想ですが、実務では十分な情報がない段階での意思決定が必要な場合があります。ROM見積もりはそうした状況において、プロジェクトコストの早期指標を提供する有効なツールです。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Handover checklist: Leave work without worrying + email templates",
-      "url": "https://rebelsguidetopm.com/10-simple-ways-to-prepare-a-holiday-handover-at-work-with-email-templates/",
-      "publishedAt": "2026-08-22T09:24:05.000Z",
-      "excerpt": "Once upon a time I used to try to plan my projects around dates when I knew I was going to be in the office. My colleagues joked that I planned the birth date of my first child around a major transformation project go live date (I didn’t). It turned out that we had to move that go live by three months, so I was on maternity leave with a new born when they eventually went live. As experienced project managers know, when things change on a project, all your carefully planned deadlines switch around too. In this article, we’ll look at how to plan and execute a handover to a colleague. Looking for",
-      "titleJa": "引き継ぎチェックリスト：安心して退職するためのメールテンプレート",
-      "summaryJa": "プロジェクトマネージャーが同僚への業務引き継ぎを計画・実行する際の考慮点を解説。プロジェクト期間中に予期しない変更が発生しても対応できるよう、効果的な引き継ぎの方法とテンプレートを提供している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to write a handover email to your manager",
-      "url": "https://rebelsguidetopm.com/how-to-write-a-handover-email-to-your-manager/",
-      "publishedAt": "2026-08-22T08:55:29.000Z",
-      "excerpt": "When I’m getting ready to leave a job, whether that’s for a holiday or for good, I’ll make sure to do a handover to my boss. That might be as simple as a quick email or a conversation in our last 1:1, but sometimes it’s important to do a bit more than that. I’ve never gone back to a past employer (yet, maybe I will one day), but as 40% of people would consider returning to an employer, it’s worth making sure your exit is smooth, professional, and on good terms. Because you never know. Best not to burn bridges. A work handover email to your manager is one of the steps to make the transition out",
-      "titleJa": "上司への引き継ぎメールの書き方",
-      "summaryJa": "退職や休暇前に上司へ業務を引き継ぐ際のメール作成方法を紹介。スムーズで専門的な退職を実現し、将来的な復職の可能性に備えるための効果的なコミュニケーション手法について説明している。"
-    },
-    {
-      "category": "PjM",
       "sourceName": "Scrum.org Blog",
       "title": "You can't empower teams and approve everything",
       "url": "https://www.scrum.org/resources/blog/you-cant-empower-teams-and-approve-everything",
@@ -180,16 +140,6 @@
       "excerpt": "About This Episode: Three days, 100 speakers, and zero dollars have you register for this agentic testing event yet? Reg […]",
       "titleJa": "Seleniumの最新動向、TestMu、コード検証に4,500万ドル投資など TGNS193",
       "summaryJa": "3日間で100人の講演者が参加するエージェント型テストイベントに関するエピソード。Seleniumの最新情報やTestMuといったテストツール、コード検証技術への大型投資など、QA業界の注目トピックをカバーしています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to earn power skills PDUs for PMI certificate renewals",
-      "url": "https://rebelsguidetopm.com/how-to-earn-leadership-pdus-for-pmp-renewal/",
-      "publishedAt": "2026-08-13T03:50:00.000Z",
-      "excerpt": "If you are like many Project Management Professional (PMP)® certification holders, you might be finding it hard to source enough quality learning materials for your Power Skills PDUs. Panic no more, I have all the details you need below. And if you hold one of the other (many) PMI certificates, you'll learn below about how many Power Skills PDUs you need to claim in a cycle and what activities count towards your PDU total in the Power Skills category. What are Power Skills PDUs? Power Skills is one side of the PMI Talent Triangle, along with Ways of Working and Business Acumen. Power Skills us",
-      "titleJa": "PMI 認定資格の更新に必要な Power Skills PDU の取得方法",
-      "summaryJa": "PMP などの PMI 認定資格更新に求められる Power Skills PDU の取得方法を解説。PMI Talent Triangle の一要素である Power Skills について、学習教材の確保方法と認定される活動種別を紹介。資格維持に必要な単位獲得の実践的ガイド。"
     },
     {
       "category": "QA",
