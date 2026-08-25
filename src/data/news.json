@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-25T00:34:56.673Z",
+  "updatedAt": "2026-08-25T06:24:58.689Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Shiplight, New Vibium Release,Pydantic AI and Playwright and More TGNS194",
+      "url": "https://testguild.com/podcast/n194-aug21/",
+      "publishedAt": "2026-08-25T01:45:26.000Z",
+      "excerpt": "About This Episode: Is 60% of your week going to Playwright maintenance? An AI wrote you hundreds of tests but […]",
+      "titleJa": "Shiplight、Vibium新版、Pydantic AI、Playwrightほか TGNS194",
+      "summaryJa": "本エピソードでは、Playwrightのメンテナンスに多くの時間を費やしている課題や、AIが生成した大量のテストの管理方法などについて取り上げています。Shiplight、Vibiumの新版リリース、Pydantic AIなど、QAエンジニアにとって注目すべき最新ツール・トレンドが紹介されています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -250,16 +260,6 @@
       "excerpt": "About This Episode: In this episode 600 of the TestGuild Automation Podcast, Joe Colantonio talks with Jason Arbon, founder of […]",
       "titleJa": "AI時代のテスト戦略：非決定論的システムの品質保証をJason Arbonと語る",
       "summaryJa": "TestGuild Automation Podcastの第600回エピソードで、ホストのJoe ColontonioがJason Arbon創業者と対談。AI・機械学習を用いたシステムのテスト手法と、従来のテスト手法との違い、非決定論的な動作を持つシステムにおける品質保証の課題と解決策について議論しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Playwright MCP Cost, OWASP’s Warning, and the Question Nobody’s Asking TGNS192",
-      "url": "https://testguild.com/podcast/n192-aug10/",
-      "publishedAt": "2026-08-10T17:21:38.000Z",
-      "excerpt": "About This Episode: Is Microsoft is quietly steering you off Playwright MCP? OWASP tested 12 AI defenses but most of […]",
-      "titleJa": "Playwright MCPのコスト、OWASPの警告、そして誰も問わない質問",
-      "summaryJa": "MicrosoftがPlaywright MCPから利用者を遠ざけているのかを検証。OWASPが12のAI防御をテストした結果、ほとんどが期待に応えていないことが明らかになる。テスト業界の最新動向と未解決の課題について取り上げたエピソード。"
     },
     {
       "category": "PdM",
