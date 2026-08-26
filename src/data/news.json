@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-26T12:26:09.687Z",
+  "updatedAt": "2026-08-26T19:29:52.834Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Product-Owner-Interviewfragen im Zeitalter der KI 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/product-owner-interviewfragen-im-zeitalter-der-ki",
+      "publishedAt": "2026-08-26T12:32:47.000Z",
+      "excerpt": "In Kürze: 10 neue Product-Owner-Interviewfragen zum Thema KI „Wie nutzen Sie KI in Ihrer Arbeit?“ Wenn das immer noch eine Ihrer Product-Owner-Interviewfragen ist, dann prüfen Sie die Werkzeugkompetenz in einer Rolle, die mit der Urteilsfähigkeit des Kandidaten steht und fällt. Jeder Kandidat hat eine Antwort auf die Frage zur KI-Nutzung; LLMs sorgen dafür. Keine dieser Antworten verrät Ihnen jedoch, ob die Person entscheiden kann, was es wert ist, gebaut zu werden, wenn das Bauen nicht mehr der schwierigste Teil ist. Diese zehn neuen Product-Owner-Interviewfragen sollen diese Lücke offenlegen",
+      "titleJa": "AI時代のプロダクトオーナー面接質問10選",
+      "summaryJa": "AI時代においてプロダクトオーナー候補者の真の適性を評価するための新しい面接質問を提案します。従来の「AI活用方法」といった質問では、候補者の判断力や優先順位付け能力を測ることができません。本記事では、開発の難易度が低下する中で、何を構築すべきかを判断できるかどうかを見極める10の質問を紹介しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -152,16 +162,6 @@
       "summaryJa": "転職や休職前の上司への引き継ぎメールは、スムーズで専門的な関係継続に不可欠です。将来の復職や人脈維持の観点からも、適切な引き継ぎコミュニケーションの重要性と具体的な方法を紹介しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You can't empower teams and approve everything",
-      "url": "https://www.scrum.org/resources/blog/you-cant-empower-teams-and-approve-everything",
-      "publishedAt": "2026-08-20T22:00:00.000Z",
-      "excerpt": "Most agile transformations don't fail because people resist change. They fail because the organization asked for two things that can't both be true, wrote them on the same slide, and then acted surprised when it only got one. The slide says empowered teams. The workflow tool says any decision worth more than 500 euros needs three signatures. Five hundred euros. A team that needs three approvals to spend the price of a monitor isn't empowered; it's on an allowance. Both are real. Both are funded. Both are spoken about with complete sincerity. And only one of them is actually running the company",
-      "titleJa": "チーム権限と承認プロセスは両立しない",
-      "summaryJa": "多くのアジャイル変革は人の抵抗ではなく、矛盾した2つの要求（チーム権限とプロセス統制）を同時に求めることで失敗する。承認要件が厳しすぎれば、チームは実質的な自律性を持たず、単に予算配分を受けるだけになってしまう。組織は一貫した方針を選択する必要がある。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Why IoT Testing Proves Manual Testing Never Died with Oleksii Cherkashyn",
@@ -270,16 +270,6 @@
       "excerpt": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "プロダクトマネージャーの役割を再定義する",
       "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "The Call to Adventure",
-      "url": "https://www.producttalk.org/the-call-to-adventure/",
-      "publishedAt": "2026-08-05T13:00:55.000Z",
-      "excerpt": "Share this article In June, I returned to Product at Heart in Hamburg, Germany. I love this event. Arne Kittler and Petra Wille do such an amazing job of curating a thoughtful lineup of speakers and they obsess over the attendee experience. If you are looking for a high-quality",
-      "titleJa": "冒険への招待",
-      "summaryJa": "ハンブルグで開催されたProduct at Heartイベントに参加した体験記。高品質のスピーカーラインアップと参加者体験に配慮した、思慮深いイベント運営についての考察です。"
     }
   ]
 }
