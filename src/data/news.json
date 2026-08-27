@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-08-27T05:31:32.162Z",
+  "updatedAt": "2026-08-27T17:00:30.894Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Agility Might Have Been Waiting for AI",
+      "url": "https://www.scrum.org/resources/blog/agility-might-have-been-waiting-ai",
+      "publishedAt": "2026-08-27T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. AI is forcing everybody to be very agile about who they are, what they do, what impact can they make, and how they're perceived, including myself. I've pivoted from Scaling with Agility to Scaling AI from Activity to Impact. This article explores what that means. Am I just jumping on the AI bandwagon? I've worked on AI-adjacent scaling and agility challenges quite a bit over the last couple of years and that's shifting into AI adoption in product/engineering organizations and the wider business more recently. I've noticed that there's a lot in common. Ma",
+      "titleJa": "AIはアジャイル組織への転換を加速する",
+      "summaryJa": "AIの急速な普及により、組織は自らの役割と影響力を継続的に見直す必要に迫られています。著者はスケーリング・アジリティの重点を「活動から成果へ」シフトさせ、プロダクト・エンジニアリング組織全体でのAI採用課題に取り組んでいます。従来のアジャイル原則とAI導入の課題に共通する要素が多いことを指摘しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Critical Asked Questions (CAQ) About PSPO-AI Essentials Course",
+      "url": "https://www.scrum.org/resources/blog/critical-asked-questions-caq-about-pspo-ai-essentials-course",
+      "publishedAt": "2026-08-27T08:34:16.000Z",
+      "excerpt": "In this blog post, I answer critical questions you have before choosing a Professional Scrum Product Owner – AI Essentials class. Image 1- Why should I take the class when I can directly take the PSPO-AI Essentials exam and get the certificate without attending the class? Yes, you can skip the class and just take the exam. But here is the uncomfortable truth: the certificate is not the asset. The capability and confidence of knowing how to leverage AI in the field is. When your people ask you how AI should be used in product management, nobody will ask to see your badge. They will watch how yo",
+      "titleJa": "PSPO-AI Essentials認定資格について知っておくべきこと",
+      "summaryJa": "PSPO-AI Essentials コースは、認定試験の合格証取得が目的ではなく、プロダクト管理でAIを活用する実践的能力と自信を身につけることが本質だと強調しています。組織内で実際にAI活用について問われた時、バッジよりも実践的知見が問われることを指摘しています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "From Past Me to Future Us",
+      "url": "https://qahiccupps.blogspot.com/2026/08/from-past-me-to-future-us.html",
+      "publishedAt": "2026-08-27T08:19:45.000Z",
+      "excerpt": "I deliberately make tiny investments in learning opportunities for me and my colleagues. Yesterday I was reviewing a PR which had a large number of edits to data using a few patterns applied in many places. Unfortunately, the edits were embedded in non-trivial contexts which made the diffs less easy to eyeball than I might have hoped. Here's an invented example that gives a flavour of the problem. The first line is an original, the second an edit: - (ab)38458345023421-5-7345234D + (ab)038458345023421-5-7345234 $ git diff | grep \"^- \" | sed 's/(ab)3/(ab)03/' | sed 's/D$//' | sed 's/-/+/' > mych",
+      "titleJa": "コードレビューを効率化する—パターンマッチングの活用法",
+      "summaryJa": "PRレビュー時に複数箇所で同じパターンの編集が行われている場合、diffの可視性が低下する問題を扱っています。著者は複数の sed コマンドを組み合わせることで、パターンマッチングを効率化し、レビュー精度を向上させる手法を提案しています。チーム全体の学習機会への小さな投資がQAの質向上につながる事例です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -92,16 +122,6 @@
       "summaryJa": "実際に製品を作ったり実務に携わる人間はKPIを重視していないという指摘。現場の実務者にとってKPIは無意味であり、むしろ軽視されているという現状を皮肉を交えて論じています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "O Que É Para Fazer?",
-      "url": "https://www.scrum.org/resources/blog/o-que-e-para-fazer",
-      "publishedAt": "2026-08-23T23:00:00.000Z",
-      "excerpt": "Image Se os teus Developers ainda perguntam apenas “O que é para fazer?”, tens um problema Há bem pouco tempo ouvi mais um Developer a iniciar uma conversa com o Product Owner: “O que é para fazer?” Parece uma pergunta perfeitamente razoável. Até prestável. Mas, numa Scrum Team, pode revelar um problema mais profundo. O Developer está a pedir trabalho para executar, em vez de procurar compreender o problema a resolver. E o Product Owner corre o risco de se transformar num distribuidor de tarefas em vez de exercer verdadeiramente a accountability de Product Owner. De executar tarefas a criar va",
-      "titleJa": "「何をやるのか」だけを聞くDeveloperには問題がある",
-      "summaryJa": "Scrum Teamにおいて、DeveloperがProduct Ownerに「何をするのか」とだけ聞く習慣は、問題解決志向の欠如を示している。Developerはタスク実行者ではなく問題解決者であるべきで、Product Ownerは単なるタスク配分者ではなく真のアカウンタビリティを果たすべきである。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
@@ -110,16 +130,6 @@
       "excerpt": "Listen now | Jen Abel returns for a third time to walk us through every step of the enterprise sales cycle—from the first cold outreach to the final contract signature",
       "titleJa": "100万ドル超エンタープライズ案件のクローズ方法",
       "summaryJa": "エンタープライズセールスサイクル全体について、初期接触から契約署名までの各ステップを詳解。営業プロセスの実践的なアプローチを習得できます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You Priced Being Late. Nobody Priced Being Early.",
-      "url": "https://www.scrum.org/resources/blog/you-priced-being-late-nobody-priced-being-early",
-      "publishedAt": "2026-08-23T06:00:00.000Z",
-      "excerpt": "Image A team finishes an app update on a Tuesday. Tested, signed off, ready. It goes into review and stays there. Six days. Nobody sits still for six days, so the team starts three more items and finishes two of them. When the update ships, there is a queue behind it. The year has the same shape. New apps in the App Store doubled in the first half of 2026, to about 560,000, on Sensor Tower estimates reported by the New York Times. Downloads over that half grew 2 percent. Supply of finished product doubled. Demand did not notice. AI is why the supply curve bent. The App Store is only the visibl",
-      "titleJa": "遅れのコストは計算しても、早さのメリットは評価されない",
-      "summaryJa": "アプリ更新がテスト完了後もレビューで6日間停滞し、その間チームは別の作業に着手する。供給過剰でデマンドが追いつかない市場環境では、納期の短縮と品質保証のバランスが開発効率に大きな影響を与える。プロジェクトマネジメントにおいて、早期完了のメリットを可視化することが重要となる。"
     },
     {
       "category": "PdM",
@@ -230,16 +240,6 @@
       "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. In this set of exercises, the idea of feedback is introduced. Feedback is at the heart of systems thinking because we humans seem to be primed to view the world as a simple linear cause-leads-to-effect machine in which only the causes and effects that matter are those that (a) we desire or (b) are glaringly obvious. Day 6 Task: Watch a video on causal loops and take sketchnotes. I know and like this kind of diagram (Be a Quality Detector) b",
       "titleJa": "システム思考エクササイズDay 6-9：因果ループとフィードバック",
       "summaryJa": "Ruth Malanのシステム思考エクササイズにおいて、因果ループとフィードバックの概念を学ぶ。人間は線形の因果関係を優先しがちだが、システム思考ではフィードバックループが重要であることを理解する演習。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "See It! Days 1-5",
-      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-1-5.html",
-      "publishedAt": "2026-08-12T13:33:57.000Z",
-      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. The initial exercises introduce some core concepts and a couple of approaches to modelling, and encourage us to think about our work and the system we're looking at. Day 1 Task: (1) Draw a Bubble Diagram of a bicycle (2) Sketch a bicycle from memory (3) Pick a key capability [and use] sketches and words to explore and convey how it works (4) Reflect on what you learned. I'm comfortable doing what I'd call \"factoring\" which tries to find dif",
-      "titleJa": "システム思考エクササイズDay 1-5：基礎概念と建模方法の学習",
-      "summaryJa": "Ruth Malanの2025年システム思考エクササイズの初期段階。バブルダイアグラムの作成やスケッチを通じて、システムのコア概念と建模手法を学び、仕事とシステムについての思考を深める。"
     },
     {
       "category": "QA",
