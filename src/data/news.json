@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-27T17:00:30.894Z",
+  "updatedAt": "2026-08-28T01:51:35.961Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "At some point, not knowing becomes a choice",
+      "url": "https://www.scrum.org/resources/blog/some-point-not-knowing-becomes-choice",
+      "publishedAt": "2026-08-27T22:00:00.000Z",
+      "excerpt": "Open the retro notes from a year ago. Then open last quarter's. The same problem is in both, in almost the same words. The dependency that strangles every release. The hand-off that loses a week. The \"we should really talk about the roadmap\" that never becomes a conversation. It's been named, written down, and nodded at, four times now, by the same people, who will name it again next quarter and nod again. That's the moment this rule is about. Not the problem. The nodding. Because at some point, a problem that keeps getting raised and never gets fixed stops being a problem the organization has",
+      "titleJa": "問題を知りながら目を背けることは選択",
+      "summaryJa": "繰り返し指摘されながら解決されない問題は、もはや組織の抱える問題ではなく、その問題を放置し続けることを受け入れた組織の意思を示している。リリースを阻害する依存関係や引き継ぎの遅延など、四半期ごとに同じ言葉で名前が上がり、頷かれるだけで改善されない状況は、問題解決への真摯な取り組みの欠如を表していると指摘している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -100,16 +110,6 @@
       "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
       "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
       "summaryJa": "メールや会議で説明したはずなのに、チーム間で解釈がズレることは多くあります。記事ではコミュニケーションモデルを活用し、メッセージが正しく伝わらない原因を診断する方法を解説。プロジェクトコミュニケーションの効果を高めるための異なるレンズを提供します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "[Episode 5] AI Effects When You Use It In Building Your Product",
-      "url": "https://www.scrum.org/resources/blog/episode-5-ai-effects-when-you-use-it-building-your-product",
-      "publishedAt": "2026-08-24T05:56:18.000Z",
-      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 5, we discussed what effects we will see in our processes when we use AI to build the product. (for example, how DoD should be upgraded, how developers' roles change from writing code to supervising the code, what AI tools can be used in building the product, ...) ------------------------------------------------------------------------------ 🟢🟢🟢🟢🟢 What Is The Next Step For Scrum Masters? As AI is reshaping the ",
-      "titleJa": "AI活用でプロダクト開発がどう変わるか【エピソード5】",
-      "summaryJa": "AI活用時のスクラムチームのプロセス変化について解説するポッドキャストシリーズの第5回。DoD（完了の定義）の進化、開発者の役割変化（コード作成から監視へ）、プロダクト開発で使用できるAIツールなど、AI導入による具体的な影響を取り上げています。"
     },
     {
       "category": "QA",
