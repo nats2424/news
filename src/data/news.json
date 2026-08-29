@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-29T15:53:00.181Z",
+  "updatedAt": "2026-08-29T20:06:36.924Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
+      "publishedAt": "2026-08-29T18:59:48.000Z",
+      "excerpt": "Community Wisdom 199",
+      "titleJa": "コミュニティの知恵：不明確な要件での開発、先行販売、高速成長B2B SaaSの価格設定など",
+      "summaryJa": "Lennyのニュースレター第199号。明確なPM要件がない状況での開発方法、製品リリース前の販売戦略、急速に成長するB2B SaaSプロダクトの価格設定、採用活動など、プロダクトマネジメント領域における実践的な課題について、コミュニティからの知見や事例を集約した内容。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -130,16 +140,6 @@
       "excerpt": "Listen now | Jen Abel returns for a third time to walk us through every step of the enterprise sales cycle—from the first cold outreach to the final contract signature",
       "titleJa": "100万ドル超エンタープライズ案件のクローズ方法",
       "summaryJa": "エンタープライズセールスサイクル全体について、初期接触から契約署名までの各ステップを詳解。営業プロセスの実践的なアプローチを習得できます。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Favorite Lenny’s Product Pass tools, how AI is reshaping hiring, what to prioritize when you join a new company, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-favorite-lennys",
-      "publishedAt": "2026-08-22T19:23:07.000Z",
-      "excerpt": "Community Wisdom 198",
-      "titleJa": "コミュニティの知恵：Lennyのおすすめツール、AI採用への影響、新会社での優先順位など",
-      "summaryJa": "Lenny's Newsletterのコミュニティ投稿まとめ。プロダクトマネージャーの間で人気のツール、採用領域でのAI活用の最新動向、転職後の初期段階での優先事項など、実践的な知見を共有。プロダクト開発に携わる専門家たちの経験に基づいた有用な情報が集約されている。"
     },
     {
       "category": "PjM",
