@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-30T15:39:09.595Z",
+  "updatedAt": "2026-08-30T20:12:40.757Z",
   "items": [
     {
       "category": "PdM",
@@ -130,6 +130,16 @@
       "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
       "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
       "summaryJa": "メールや会議で説明したはずなのに、チーム間で解釈がズレることは多くあります。記事ではコミュニケーションモデルを活用し、メッセージが正しく伝わらない原因を診断する方法を解説。プロジェクトコミュニケーションの効果を高めるための異なるレンズを提供します。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "This Fact About KPIs May Surprise You",
+      "url": "https://www.satisfice.com/blog/archives/488189",
+      "publishedAt": "2026-08-24T02:34:04.000Z",
+      "excerpt": "Nobody who creates actual products or does actual useful work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face do anything that matters. If you measured eyerolls per mention of KPIs, it would be equal to about half of the number of ears that heard that mention. Do you […]",
+      "titleJa": "KPIについて知っておくべき意外な事実",
+      "summaryJa": "実際に製品開発に携わる人間やテスト現場の実務者はKPIを重視しない。KPI測定が現場の実際の仕事に役立つことはほぼない。Satisficaの創設者James Bachが、現場の声を代表して、KPIの限界と実務的な有効性の乖離について指摘している。"
     },
     {
       "category": "PjM",
