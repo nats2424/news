@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-30T02:09:33.639Z",
+  "updatedAt": "2026-08-30T10:51:33.391Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Ask Them to Define the Product Role. The Answer Describes Their Last Employer.",
+      "url": "https://www.scrum.org/resources/blog/ask-them-define-product-role-answer-describes-their-last-employer",
+      "publishedAt": "2026-08-30T06:00:00.000Z",
+      "excerpt": "Image Two candidates, same question, same afternoon. What is the job of a product person? The first says it is owning the backlog and keeping the team supplied with clear, ready work. The second says it is working out which problem is worth solving, then finding a solution customers will choose and the company can support. Both answers were honest, and each described a job that person had held. Marty Cagan starts from the same observation in a piece on 10 August. Over the years he has seen \"at least one hundred different definitions of the product role.\" His framing: \"Asking a product person h",
+      "titleJa": "プロダクトマネージャーの役割定義から見える、前職での経験",
+      "summaryJa": "プロダクトマネージャーの職務定義は企業や文化によって大きく異なり、回答内容からその人の前職での経験が反映されることを示唆している記事。バックログ管理から顧客課題の解決まで、複数の解釈が存在するプロダクト職の実態と、その多様性についてMarty Caganの見解を交えて解説しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -100,16 +110,6 @@
       "excerpt": "Watch now | 🎙️ Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight",
       "titleJa": "1ヶ月で$20,000をDevinに投じて学んだこと",
       "summaryJa": "ソロファウンダーがAIエージェント「Devin」を15個同時運用し、エンジニアリングやカスタマーサクセス対応に活用した実例を紹介。手書きリストで管理しながら複数タスクを並行処理した経験を共有しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Product Owner Interview Questions for the Age of AI",
-      "url": "https://www.scrum.org/resources/blog/product-owner-interview-questions-age-ai",
-      "publishedAt": "2026-08-24T09:04:57.000Z",
-      "excerpt": "TL; DR: 10 New Product Owner Interview Questions on AI “How do you use AI in your work?” If that is still one of your Product Owner interview questions, you are screening for tooling fluency in a role that lives or dies on product judgment. Every candidate has an answer; LLMs make sure of that. None of those answers tell you whether the person can decide what is worth building when building is no longer the hard part. These ten new Product Owner interview questions are designed to expose the gap. Each one has a seductive wrong answer that sounds smart enough to pass a surface-level interview. ",
-      "titleJa": "AI時代のプロダクトオーナーの採用面接質問",
-      "summaryJa": "AI普及で差別化が難しくなる採用選考向けに、プロダクトオーナーの本質的な判断力を評価する10の新しい面接質問を提案。ツール活用能力ではなく、何を作るべきかの意思決定スキルを見極めることの重要性を強調しています。"
     },
     {
       "category": "PjM",
