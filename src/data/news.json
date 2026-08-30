@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-08-30T10:51:33.391Z",
+  "updatedAt": "2026-08-30T15:39:09.595Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
+      "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
+      "publishedAt": "2026-08-30T12:31:30.000Z",
+      "excerpt": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to three months",
+      "titleJa": "AI第3の時代：常に共働するAIコワーカーの台頭",
+      "summaryJa": "OpenAIのプロダクトリーダーTara Seshanが、AIモデルの進化に伴う製品開発の考え方について語る。2〜3ヶ月先のモデル性能を見据えた開発戦略、野心的なビジョンの重要性、そして効果的なAI統合について解説。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -120,26 +130,6 @@
       "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
       "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
       "summaryJa": "メールや会議で説明したはずなのに、チーム間で解釈がズレることは多くあります。記事ではコミュニケーションモデルを活用し、メッセージが正しく伝わらない原因を診断する方法を解説。プロジェクトコミュニケーションの効果を高めるための異なるレンズを提供します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "This Fact About KPIs May Surprise You",
-      "url": "https://www.satisfice.com/blog/archives/488189",
-      "publishedAt": "2026-08-24T02:34:04.000Z",
-      "excerpt": "Nobody who creates actual products or does actual useful work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face do anything that matters. If you measured eyerolls per mention of KPIs, it would be equal to about half of the number of ears that heard that mention. Do you […]",
-      "titleJa": "KPIについて知られていない実態",
-      "summaryJa": "実際の製品開発や実務に携わる人々はKPIを重視していない。KPIが現場の実作業に実質的な効果をもたらした例はほぼ皆無であり、むしろKPIの言及に対する懐疑的な反応が大多数を占めているという現実が指摘されている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How to close $100K+ enterprise deals, step by step | Jen Abel",
-      "url": "https://www.lennysnewsletter.com/p/how-to-close-100k-1m-deals-step-by",
-      "publishedAt": "2026-08-23T12:31:43.000Z",
-      "excerpt": "Listen now | Jen Abel returns for a third time to walk us through every step of the enterprise sales cycle—from the first cold outreach to the final contract signature",
-      "titleJa": "100万ドル超エンタープライズ案件のクローズ方法",
-      "summaryJa": "エンタープライズセールスサイクル全体について、初期接触から契約署名までの各ステップを詳解。営業プロセスの実践的なアプローチを習得できます。"
     },
     {
       "category": "PjM",
