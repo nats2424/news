@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-08-31T02:04:52.596Z",
+  "updatedAt": "2026-08-31T12:02:26.331Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Tool Introduction – Gamma",
+      "url": "https://www.scrum.org/resources/blog/ai-tool-introduction-gamma",
+      "publishedAt": "2026-08-31T07:30:47.000Z",
+      "excerpt": "Image Imagine you are a Scrum Master or Product Owner. When you want to deliver your work to your audience, you need a tool to present your work. In the past, we used to use PowerPoint presentations. But how can AI elevate it? Gamma is the AI-based solution for the new generation of presentations. It gives you outputs with a professional look and feel that you haven’t seen before. Building outstanding presentations was the feature that grabbed my attention immediately. But you can use Gamma to build websites, social media posts, documents, graphics, and even APIs to automate creation and integ",
+      "titleJa": "AI ツール紹介 – Gamma：プレゼンテーション作成を次のレベルへ",
+      "summaryJa": "Scrum MasterやProduct Ownerが成果物をステークホルダーに伝える際、AI駆動のプレゼンテーションツール「Gamma」が革新的なソリューションとなります。PowerPointに代わる次世代ツールとして、プロフェッショナルな外観のスライド、ウェブサイト、ソーシャルメディア投稿、ドキュメント、グラフィックスなど多様なコンテンツ作成が可能です。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Cognitive Trap: Increment Misinterpretation",
+      "url": "https://www.scrum.org/resources/blog/cognitive-trap-increment-misinterpretation",
+      "publishedAt": "2026-08-31T04:00:00.000Z",
+      "excerpt": "Increment Misconception Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Increment Misconception: assuming completed parts equal a usable whole ignores the need for integration and meaningful inspection. Simulated Assessment Question Within the Sprint, work is completed but not integrated until the end. What is true? There are just multiple ",
+      "titleJa": "認知的罠：インクリメント解釈の誤り",
+      "summaryJa": "Scrum導入時によくある誤りの多くは、フレームワーク理解の不足よりも、不適切な文脈での妥当な思考判断から生じます。「インクリメント誤解の罠」は、完成した部分が全体として使用可能な製品に等しいと仮定し、統合と有意義な検査の必要性を見落とす認知的罠の一つです。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -52,16 +72,6 @@
       "summaryJa": "AIの急速な普及により、組織は自らの役割と影響力を継続的に見直す必要に迫られています。著者はスケーリング・アジリティの重点を「活動から成果へ」シフトさせ、プロダクト・エンジニアリング組織全体でのAI採用課題に取り組んでいます。従来のアジャイル原則とAI導入の課題に共通する要素が多いことを指摘しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Critical Asked Questions (CAQ) About PSPO-AI Essentials Course",
-      "url": "https://www.scrum.org/resources/blog/critical-asked-questions-caq-about-pspo-ai-essentials-course",
-      "publishedAt": "2026-08-27T08:34:16.000Z",
-      "excerpt": "In this blog post, I answer critical questions you have before choosing a Professional Scrum Product Owner – AI Essentials class. Image 1- Why should I take the class when I can directly take the PSPO-AI Essentials exam and get the certificate without attending the class? Yes, you can skip the class and just take the exam. But here is the uncomfortable truth: the certificate is not the asset. The capability and confidence of knowing how to leverage AI in the field is. When your people ask you how AI should be used in product management, nobody will ask to see your badge. They will watch how yo",
-      "titleJa": "PSPO-AI Essentials認定資格について知っておくべきこと",
-      "summaryJa": "PSPO-AI Essentials コースは、認定試験の合格証取得が目的ではなく、プロダクト管理でAIを活用する実践的能力と自信を身につけることが本質だと強調しています。組織内で実際にAI活用について問われた時、バッジよりも実践的知見が問われることを指摘しています。"
-    },
-    {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
       "title": "From Past Me to Future Us",
@@ -70,16 +80,6 @@
       "excerpt": "I deliberately make tiny investments in learning opportunities for me and my colleagues. Yesterday I was reviewing a PR which had a large number of edits to data using a few patterns applied in many places. Unfortunately, the edits were embedded in non-trivial contexts which made the diffs less easy to eyeball than I might have hoped. Here's an invented example that gives a flavour of the problem. The first line is an original, the second an edit: - (ab)38458345023421-5-7345234D + (ab)038458345023421-5-7345234 $ git diff | grep \"^- \" | sed 's/(ab)3/(ab)03/' | sed 's/D$//' | sed 's/-/+/' > mych",
       "titleJa": "コードレビューを効率化する—パターンマッチングの活用法",
       "summaryJa": "PRレビュー時に複数箇所で同じパターンの編集が行われている場合、diffの可視性が低下する問題を扱っています。著者は複数の sed コマンドを組み合わせることで、パターンマッチングを効率化し、レビュー精度を向上させる手法を提案しています。チーム全体の学習機会への小さな投資がQAの質向上につながる事例です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Product-Owner-Interviewfragen im Zeitalter der KI 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/product-owner-interviewfragen-im-zeitalter-der-ki",
-      "publishedAt": "2026-08-26T12:32:47.000Z",
-      "excerpt": "In Kürze: 10 neue Product-Owner-Interviewfragen zum Thema KI „Wie nutzen Sie KI in Ihrer Arbeit?“ Wenn das immer noch eine Ihrer Product-Owner-Interviewfragen ist, dann prüfen Sie die Werkzeugkompetenz in einer Rolle, die mit der Urteilsfähigkeit des Kandidaten steht und fällt. Jeder Kandidat hat eine Antwort auf die Frage zur KI-Nutzung; LLMs sorgen dafür. Keine dieser Antworten verrät Ihnen jedoch, ob die Person entscheiden kann, was es wert ist, gebaut zu werden, wenn das Bauen nicht mehr der schwierigste Teil ist. Diese zehn neuen Product-Owner-Interviewfragen sollen diese Lücke offenlegen",
-      "titleJa": "AI時代のプロダクトオーナー面接質問10選",
-      "summaryJa": "AI時代においてプロダクトオーナー候補者の真の適性を評価するための新しい面接質問を提案します。従来の「AI活用方法」といった質問では、候補者の判断力や優先順位付け能力を測ることができません。本記事では、開発の難易度が低下する中で、何を構築すべきかを判断できるかどうかを見極める10の質問を紹介しています。"
     },
     {
       "category": "PdM",
