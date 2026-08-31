@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-08-31T12:02:26.331Z",
+  "updatedAt": "2026-08-31T22:08:20.837Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum Masters — the world needs you now as much as ever",
+      "url": "https://www.scrum.org/resources/blog/scrum-masters-world-needs-you-now-much-ever",
+      "publishedAt": "2026-08-31T18:19:09.000Z",
+      "excerpt": "Image We all know too little planning is ineffective — and I think most of us know too much planning is wasteful in conditions of uncertainty, volatility, and disruptive competition. Bigger, longer, more predictive planning — thus more assumptive, guessworking, and speculative — is ineffective in such conditions, but still the first choice of many organisations. Unfortunately, polishing such big plans and refining them again and again doesn’t make them more resilient to the unknown and the unknowable. Our confidence in them is misplaced. Sadly, what often results is trying to stick to a plan w",
+      "titleJa": "スクラムマスターの役割が今こそ必要とされている理由",
+      "summaryJa": "過度な計画立案は不確実性と変動性の高い環境では逆効果という現状を指摘。スクラムマスターのような適応的なアプローチの重要性を強調し、予測型計画の限界と回復力のあるチーム運営の必要性を論じている。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
+      "publishedAt": "2026-08-31T15:01:58.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "🎙️ How I AI: PMが仕事の70~80%をClaudeで自動化",
+      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズ。プロダクトマネージャーがAIアシスタントのClaudeを活用して、日常業務の大部分を効率化している事例を紹介するポッドキャスト。実践的なワークフロー活用法が学べる。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Join the AI Delegation Audit Webinar, October 6, by Scrum.org",
+      "url": "https://www.scrum.org/resources/blog/join-ai-delegation-audit-webinar-october-6-scrumorg",
+      "publishedAt": "2026-08-31T14:29:17.000Z",
+      "excerpt": "TL;DR: The AI Delegation Audit Webinar, October 6 Join me on October 6 for the AI Delegation Audit webinar. You will learn how to run a 45-to-60-minute recurring check that reveals whether delegated AI work still meets its required quality standard, still uses the right model, at the right cost, can still be stopped, and hasn’t quietly become more autonomous than intended. (Rogue AI is no longer science fiction, isn’t it?) 👉 RSVP now: The AI Delegation Audit – A Recurring Check for Work You’ve Handed to AI. Image AI Delegation Is Not Static, “Quality” Is Fluent, and Your Name Is Attached to I",
+      "titleJa": "AI委譲監査ウェビナー開催 | 10月6日 Scrum.org",
+      "summaryJa": "10月6日開催のウェビナーでは、AIに委譲した業務が品質基準を満たしているか、適切なコスト効率か、制御可能かを確認する45~60分間の定期チェック方法を紹介。AIの自律性が意図を超えないための監視フレームワークを解説。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Leverage Flow Metrics To Accelerate Your Agentic Development Lifecycle",
+      "url": "https://www.scrum.org/resources/blog/how-leverage-flow-metrics-accelerate-your-agentic-development-lifecycle",
+      "publishedAt": "2026-08-31T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Isn't it surprising that 10x coding doesn't move the needle that much? Fully agentic software factories are of course all the rage these days. But more and more leaders I talk to acknowledge that while creating a fully agentic software development lifecycle - is feasible, they haven't yet nailed the approach that makes it trustable. AI is making some steps in the workflow such as specifying and coding and testing much faster and cheaper. But humans are still very much involved in the lifecycle. And the overall throughput isn't dramatically different and ",
+      "titleJa": "フロー指標を活用してエージェント開発サイクルを加速する方法",
+      "summaryJa": "AIがコーディングやテストなどを高速化する一方で、人間がライフサイクル全体に関わるハイブリッド開発モデルの現状を分析。単なる速度向上ではなく、信頼性と全体スループットの向上に焦点を当てた指標活用法を提示。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
+      "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
+      "publishedAt": "2026-08-31T12:04:18.000Z",
+      "excerpt": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
+      "titleJa": "ClaudeをPMアシスタントに進化させる方法 | Daniel Blum",
+      "summaryJa": "Melio社のPM Daniel BlumがClaudeとCoworkを組み合わせ、Notionの管理、SlackやメールでのタスクトラッキングをAIで自動化。毎週自己改善されるアシスタントの構築方法と実装例を詳しく解説している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -32,16 +82,6 @@
       "summaryJa": "OpenAIのプロダクトリーダーTara Seshanが、AIモデルの進化に伴う製品開発の考え方について語る。2〜3ヶ月先のモデル性能を見据えた開発戦略、野心的なビジョンの重要性、そして効果的なAI統合について解説。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Ask Them to Define the Product Role. The Answer Describes Their Last Employer.",
-      "url": "https://www.scrum.org/resources/blog/ask-them-define-product-role-answer-describes-their-last-employer",
-      "publishedAt": "2026-08-30T06:00:00.000Z",
-      "excerpt": "Image Two candidates, same question, same afternoon. What is the job of a product person? The first says it is owning the backlog and keeping the team supplied with clear, ready work. The second says it is working out which problem is worth solving, then finding a solution customers will choose and the company can support. Both answers were honest, and each described a job that person had held. Marty Cagan starts from the same observation in a piece on 10 August. Over the years he has seen \"at least one hundred different definitions of the product role.\" His framing: \"Asking a product person h",
-      "titleJa": "プロダクトマネージャーの役割定義から見える、前職での経験",
-      "summaryJa": "プロダクトマネージャーの職務定義は企業や文化によって大きく異なり、回答内容からその人の前職での経験が反映されることを示唆している記事。バックログ管理から顧客課題の解決まで、複数の解釈が存在するプロダクト職の実態と、その多様性についてMarty Caganの見解を交えて解説しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
@@ -50,26 +90,6 @@
       "excerpt": "Community Wisdom 199",
       "titleJa": "コミュニティの知恵：不明確な要件での開発、先行販売、高速成長B2B SaaSの価格設定など",
       "summaryJa": "Lennyのニュースレター第199号。明確なPM要件がない状況での開発方法、製品リリース前の販売戦略、急速に成長するB2B SaaSプロダクトの価格設定、採用活動など、プロダクトマネジメント領域における実践的な課題について、コミュニティからの知見や事例を集約した内容。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "At some point, not knowing becomes a choice",
-      "url": "https://www.scrum.org/resources/blog/some-point-not-knowing-becomes-choice",
-      "publishedAt": "2026-08-27T22:00:00.000Z",
-      "excerpt": "Open the retro notes from a year ago. Then open last quarter's. The same problem is in both, in almost the same words. The dependency that strangles every release. The hand-off that loses a week. The \"we should really talk about the roadmap\" that never becomes a conversation. It's been named, written down, and nodded at, four times now, by the same people, who will name it again next quarter and nod again. That's the moment this rule is about. Not the problem. The nodding. Because at some point, a problem that keeps getting raised and never gets fixed stops being a problem the organization has",
-      "titleJa": "問題を知りながら目を背けることは選択",
-      "summaryJa": "繰り返し指摘されながら解決されない問題は、もはや組織の抱える問題ではなく、その問題を放置し続けることを受け入れた組織の意思を示している。リリースを阻害する依存関係や引き継ぎの遅延など、四半期ごとに同じ言葉で名前が上がり、頷かれるだけで改善されない状況は、問題解決への真摯な取り組みの欠如を表していると指摘している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Agility Might Have Been Waiting for AI",
-      "url": "https://www.scrum.org/resources/blog/agility-might-have-been-waiting-ai",
-      "publishedAt": "2026-08-27T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. AI is forcing everybody to be very agile about who they are, what they do, what impact can they make, and how they're perceived, including myself. I've pivoted from Scaling with Agility to Scaling AI from Activity to Impact. This article explores what that means. Am I just jumping on the AI bandwagon? I've worked on AI-adjacent scaling and agility challenges quite a bit over the last couple of years and that's shifting into AI adoption in product/engineering organizations and the wider business more recently. I've noticed that there's a lot in common. Ma",
-      "titleJa": "AIはアジャイル組織への転換を加速する",
-      "summaryJa": "AIの急速な普及により、組織は自らの役割と影響力を継続的に見直す必要に迫られています。著者はスケーリング・アジリティの重点を「活動から成果へ」シフトさせ、プロダクト・エンジニアリング組織全体でのAI採用課題に取り組んでいます。従来のアジャイル原則とAI導入の課題に共通する要素が多いことを指摘しています。"
     },
     {
       "category": "QA",
@@ -100,26 +120,6 @@
       "excerpt": "About This Episode: Is 60% of your week going to Playwright maintenance? An AI wrote you hundreds of tests but […]",
       "titleJa": "Shiplight、Vibium新版、Pydantic AI、Playwrightほか TGNS194",
       "summaryJa": "本エピソードでは、Playwrightのメンテナンスに多くの時間を費やしている課題や、AIが生成した大量のテストの管理方法などについて取り上げています。Shiplight、Vibiumの新版リリース、Pydantic AIなど、QAエンジニアにとって注目すべき最新ツール・トレンドが紹介されています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: Grok Bot + Grok 4.6—what’s great (and what’s still hype) & Lessons from spending $20,000 on Devin in one month",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-bot-grok-46whats-great",
-      "publishedAt": "2026-08-24T15:02:23.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "Grok BotとGrok 4.6の実力検証—過剰な期待と実際＆Devinに月2万ドル投じた教訓",
-      "summaryJa": "AIポッドキャスト「How I AI」の週間配信から、Grok関連ツールの評価と実際の使用経験、高額AI開発ツール導入の実績ベースの考察を紹介。プロダクトマネジメントの視点からAI活用の現実を解説する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "I spent $20,000 on Devin in a month. Here’s what I learned | Ryan Carson (solo founder)",
-      "url": "https://www.lennysnewsletter.com/p/i-spent-20000-on-devin-in-a-month",
-      "publishedAt": "2026-08-24T12:04:02.000Z",
-      "excerpt": "Watch now | 🎙️ Solo founder Ryan Carson runs 15 concurrent Devin agents to handle engineering, customer success, and investor updates, and he uses a handwritten list to keep it all straight",
-      "titleJa": "1ヶ月で$20,000をDevinに投じて学んだこと",
-      "summaryJa": "ソロファウンダーがAIエージェント「Devin」を15個同時運用し、エンジニアリングやカスタマーサクセス対応に活用した実例を紹介。手書きリストで管理しながら複数タスクを並行処理した経験を共有しています。"
     },
     {
       "category": "PjM",
@@ -260,16 +260,6 @@
       "excerpt": "About This Episode: In this episode 600 of the TestGuild Automation Podcast, Joe Colantonio talks with Jason Arbon, founder of […]",
       "titleJa": "AI時代のテスト戦略：非決定論的システムの品質保証をJason Arbonと語る",
       "summaryJa": "TestGuild Automation Podcastの第600回エピソードで、ホストのJoe ColontonioがJason Arbon創業者と対談。AI・機械学習を用いたシステムのテスト手法と、従来のテスト手法との違い、非決定論的な動作を持つシステムにおける品質保証の課題と解決策について議論しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Silicon Valley Product Group",
-      "title": "A Fresh Definition of The Product Role",
-      "url": "https://www.svpg.com/a-fresh-definition-of-the-product-role/",
-      "publishedAt": "2026-08-10T12:49:18.000Z",
-      "excerpt": "I’m just guessing here, but I’d say over the years I’ve seen at least one hundred different definitions of the product role (i.e. product manager/product owner). I’m pretty sure that anyone reading this would have seen at least several. Part of the problem is that there are different operating models that require different responsibilities and... The post A Fresh Definition of The Product Role appeared first on Silicon Valley Product Group.",
-      "titleJa": "プロダクトマネージャーの役割を再定義する",
-      "summaryJa": "プロダクトマネージャー/プロダクトオーナーの定義は組織によって大きく異なります。著者は数多くの異なる定義を目にしてきており、異なる運営モデルが異なる責任を必要とすることが問題の一部であると述べています。"
     }
   ]
 }
