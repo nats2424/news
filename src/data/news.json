@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-01T10:41:05.544Z",
+  "updatedAt": "2026-09-01T15:41:42.655Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "AI Testing Is Bigger Than You Think, 5 Areas Testers Must Own with Swati Seela",
+      "url": "https://testguild.com/podcast/a602-swati/",
+      "publishedAt": "2026-09-01T13:24:28.000Z",
+      "excerpt": "About This Episode: Most testers are stuck arguing about whether AI is coming for their jobs. Swati Seela thinks that’s […]",
+      "titleJa": "AIテストは想像以上に重要、テスターが押さえるべき5つの領域",
+      "summaryJa": "テスターの多くはAIが雇用を脅かすかどうかで議論しているが、専門家のSwati Seelaはそれ以上に重要な視点を提示しています。本エピソードでは、AIテストの実践的な領域と、テスターが主導権を持つべき5つの重要な分野について深掘りされています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How to turn your AI into a world-class designer",
+      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
+      "publishedAt": "2026-09-01T12:45:59.000Z",
+      "excerpt": "An end-to-end process for tapping into AI’s hidden creativity",
+      "titleJa": "AIを世界レベルのデザイナーに進化させる方法",
+      "summaryJa": "AIが持つ隠れた創造性を引き出すための包括的なプロセスを紹介しています。AIをデザイン領域で最大限に活用するための実践的なアプローチについて、エンドツーエンドのワークフローを解説しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "[Episode 6] How to Build and Set up AI Agents for Scrum Teams",
+      "url": "https://www.scrum.org/resources/blog/episode-6-how-build-and-set-ai-agents-scrum-teams",
+      "publishedAt": "2026-09-01T12:09:26.000Z",
+      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 6, Mehdi and Gizem discussed how to build and set up AI Agents for Scrum Teams. They shared some services that you can use to build AI Agents. Which tasks should be delegated to AI Agents and, finally, dissected the process of building an AI Agent that can monitor incoming support tickets to discover any customer feature requests hidden inside tickets. Then add them as user stories to the Product Backlog. Don't miss",
+      "titleJa": "スクラムチーム向けのAIエージェント構築と導入方法",
+      "summaryJa": "AI変革の過程でスクラムチームがAIネイティブチームへ移行する方法を扱うポッドキャストシリーズです。第6エピソードではAIエージェントの構築方法、委譲すべきタスク、サポートチケットから顧客要望を発見してプロダクトバックログに追加するAIエージェントの実装プロセスについて議論されています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -62,16 +92,6 @@
       "summaryJa": "Scrum MasterやProduct Ownerが成果物をステークホルダーに伝える際、AI駆動のプレゼンテーションツール「Gamma」が革新的なソリューションとなります。PowerPointに代わる次世代ツールとして、プロフェッショナルな外観のスライド、ウェブサイト、ソーシャルメディア投稿、ドキュメント、グラフィックスなど多様なコンテンツ作成が可能です。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Cognitive Trap: Increment Misinterpretation",
-      "url": "https://www.scrum.org/resources/blog/cognitive-trap-increment-misinterpretation",
-      "publishedAt": "2026-08-31T04:00:00.000Z",
-      "excerpt": "Increment Misconception Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Increment Misconception: assuming completed parts equal a usable whole ignores the need for integration and meaningful inspection. Simulated Assessment Question Within the Sprint, work is completed but not integrated until the end. What is true? There are just multiple ",
-      "titleJa": "認知的罠：インクリメント解釈の誤り",
-      "summaryJa": "Scrum導入時によくある誤りの多くは、フレームワーク理解の不足よりも、不適切な文脈での妥当な思考判断から生じます。「インクリメント誤解の罠」は、完成した部分が全体として使用可能な製品に等しいと仮定し、統合と有意義な検査の必要性を見落とす認知的罠の一つです。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
@@ -100,16 +120,6 @@
       "excerpt": "I deliberately make tiny investments in learning opportunities for me and my colleagues. Yesterday I was reviewing a PR which had a large number of edits to data using a few patterns applied in many places. Unfortunately, the edits were embedded in non-trivial contexts which made the diffs less easy to eyeball than I might have hoped. Here's an invented example that gives a flavour of the problem. The first line is an original, the second an edit: - (ab)38458345023421-5-7345234D + (ab)038458345023421-5-7345234 $ git diff | grep \"^- \" | sed 's/(ab)3/(ab)03/' | sed 's/D$//' | sed 's/-/+/' > mych",
       "titleJa": "コードレビューを効率化する—パターンマッチングの活用法",
       "summaryJa": "PRレビュー時に複数箇所で同じパターンの編集が行われている場合、diffの可視性が低下する問題を扱っています。著者は複数の sed コマンドを組み合わせることで、パターンマッチングを効率化し、レビュー精度を向上させる手法を提案しています。チーム全体の学習機会への小さな投資がQAの質向上につながる事例です。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How to figure out your next career move",
-      "url": "https://www.lennysnewsletter.com/p/how-to-figure-out-your-next-career",
-      "publishedAt": "2026-08-25T13:04:15.000Z",
-      "excerpt": "Six essential questions to help you navigate change",
-      "titleJa": "キャリアの次のステップを見つけるための6つの重要な質問",
-      "summaryJa": "キャリアチェンジの判断に役立つ6つの本質的な質問を紹介。プロダクトマネージャーがキャリアの転機を迎える際に、自分の進むべき方向を明確にするための問いかけフレームワークを提供しています。"
     },
     {
       "category": "QA",
@@ -250,16 +260,6 @@
       "excerpt": "Short answer: Grok Bot found a real bug, and it stopped about two inches below the surface. I pointed a […]",
       "titleJa": "QAエンジニアがGrok Botを導入して本番アプリをテストしてみた",
       "summaryJa": "QAエンジニアがGrok Botというツールを実際の本番環境で試したレポート。実際のバグを検出する能力がある一方で、問題の根本原因の掘り下げには限界があることが示された。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Testing AI: Engineering Confidence in Non-Deterministic Systems with Jason Arbon",
-      "url": "https://testguild.com/podcast/a600-jason/",
-      "publishedAt": "2026-08-11T21:48:09.000Z",
-      "excerpt": "About This Episode: In this episode 600 of the TestGuild Automation Podcast, Joe Colantonio talks with Jason Arbon, founder of […]",
-      "titleJa": "AI時代のテスト戦略：非決定論的システムの品質保証をJason Arbonと語る",
-      "summaryJa": "TestGuild Automation Podcastの第600回エピソードで、ホストのJoe ColontonioがJason Arbon創業者と対談。AI・機械学習を用いたシステムのテスト手法と、従来のテスト手法との違い、非決定論的な動作を持つシステムにおける品質保証の課題と解決策について議論しています。"
     }
   ]
 }
