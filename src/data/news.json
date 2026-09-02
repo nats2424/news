@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-02T01:47:06.552Z",
+  "updatedAt": "2026-09-02T10:06:30.023Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Der häufigste Fehler bei Produkt-Zielen Wie du mit KI bessere Produkt-Ziele formulierst, die nicht nur Features beschreiben, sondern die Unternehmensstrategie umsetzen",
+      "url": "https://www.scrum.org/resources/blog/der-haufigste-fehler-bei-produkt-zielen-wie-du-mit-ki-bessere-produkt-ziele-formulierst-die-nicht-nur-features-beschreiben-sondern-die-unternehmensstrategie-umsetzen-0",
+      "publishedAt": "2026-09-02T06:00:00.000Z",
+      "excerpt": "Betrachte diese Produktziele. Was fällt dir auf? „Wir bauen ein KI-gestütztes Help-Center.“ „Wir integrieren eine Chatbot-Funktion.“ „Wir erstellen ein neues Onboarding.“ Sie klingen konkret. Sie beschreiben Fortschritt. Sie klingen nach Erfolg. Allerdings verbergen sie ein Problem: Erinnere dich an Microsoft Office 97. Im Jahr 1997 erschien der Office-Assistent „Karl Klammer“. Wenn du dein Dokument mit „Sehr geehrte Damen und Herren“ begonnen hast, tauchte am unteren Bildschirmrand eine animierte Sprechblase auf. Sie hatte die Form einer Büroklammer mit Augen und bot dir ihre Hilfe an: „Ansch",
+      "titleJa": "プロダクト目標の落とし穴：AIを活用した戦略的目標設定",
+      "summaryJa": "機能説明に終わるプロダクト目標の危険性を指摘。進捗のように見えても、実は企業戦略と紐付かない目標設定の問題を、「Clippy」の事例を交えて解説。AIを活用して機能ではなく成果を中心とした真の目標設定を提案する記事。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -70,16 +80,6 @@
       "excerpt": "TL;DR: The AI Delegation Audit Webinar, October 6 Join me on October 6 for the AI Delegation Audit webinar. You will learn how to run a 45-to-60-minute recurring check that reveals whether delegated AI work still meets its required quality standard, still uses the right model, at the right cost, can still be stopped, and hasn’t quietly become more autonomous than intended. (Rogue AI is no longer science fiction, isn’t it?) 👉 RSVP now: The AI Delegation Audit – A Recurring Check for Work You’ve Handed to AI. Image AI Delegation Is Not Static, “Quality” Is Fluent, and Your Name Is Attached to I",
       "titleJa": "AI委譲監査ウェビナー開催 | 10月6日 Scrum.org",
       "summaryJa": "10月6日開催のウェビナーでは、AIに委譲した業務が品質基準を満たしているか、適切なコスト効率か、制御可能かを確認する45~60分間の定期チェック方法を紹介。AIの自律性が意図を超えないための監視フレームワークを解説。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Leverage Flow Metrics To Accelerate Your Agentic Development Lifecycle",
-      "url": "https://www.scrum.org/resources/blog/how-leverage-flow-metrics-accelerate-your-agentic-development-lifecycle",
-      "publishedAt": "2026-08-31T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Isn't it surprising that 10x coding doesn't move the needle that much? Fully agentic software factories are of course all the rage these days. But more and more leaders I talk to acknowledge that while creating a fully agentic software development lifecycle - is feasible, they haven't yet nailed the approach that makes it trustable. AI is making some steps in the workflow such as specifying and coding and testing much faster and cheaper. But humans are still very much involved in the lifecycle. And the overall throughput isn't dramatically different and ",
-      "titleJa": "フロー指標を活用してエージェント開発サイクルを加速する方法",
-      "summaryJa": "AIがコーディングやテストなどを高速化する一方で、人間がライフサイクル全体に関わるハイブリッド開発モデルの現状を分析。単なる速度向上ではなく、信頼性と全体スループットの向上に焦点を当てた指標活用法を提示。"
     },
     {
       "category": "PdM",
