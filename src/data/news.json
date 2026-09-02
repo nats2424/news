@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-01T20:15:22.015Z",
+  "updatedAt": "2026-09-02T01:47:06.552Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Everything was green. Then it wasn't.",
+      "url": "https://www.scrum.org/resources/blog/everything-was-green-then-it-wasnt",
+      "publishedAt": "2026-09-01T22:00:00.000Z",
+      "excerpt": "Image The status was green all quarter. Green in the weekly report, green in the steering deck, green in the note to the sponsor. Then, close to the deadline, it went red. Not drifted. Snapped. And in the post-mortem, the part that stings: one after another, people say they already knew. \"I had a bad feeling about that integration.\" \"The estimates never felt real.\" \"I figured someone else would raise it.\" The information was in the building the whole time. It just never made it into a decision while there was still time to act on it. If you've lived that, you've met one of the most common fric",
+      "titleJa": "ステータスが緑だったのに、突然赤くなった",
+      "summaryJa": "プロジェクトの進捗がステータスレポートで「緑」を保ち続けていたが、締切直前に急に「赤」に転換した事例。事後分析では、実は多くの関係者が既に問題を認識していたにもかかわらず、その情報が意思決定のタイミングに達しなかったことが判明。プロジェクト内の情報流通の課題と、発言しづらい組織文化の問題が浮き彫りになった。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -80,16 +90,6 @@
       "excerpt": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
       "titleJa": "ClaudeをPMアシスタントに進化させる方法 | Daniel Blum",
       "summaryJa": "Melio社のPM Daniel BlumがClaudeとCoworkを組み合わせ、Notionの管理、SlackやメールでのタスクトラッキングをAIで自動化。毎週自己改善されるアシスタントの構築方法と実装例を詳しく解説している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Tool Introduction – Gamma",
-      "url": "https://www.scrum.org/resources/blog/ai-tool-introduction-gamma",
-      "publishedAt": "2026-08-31T07:30:47.000Z",
-      "excerpt": "Image Imagine you are a Scrum Master or Product Owner. When you want to deliver your work to your audience, you need a tool to present your work. In the past, we used to use PowerPoint presentations. But how can AI elevate it? Gamma is the AI-based solution for the new generation of presentations. It gives you outputs with a professional look and feel that you haven’t seen before. Building outstanding presentations was the feature that grabbed my attention immediately. But you can use Gamma to build websites, social media posts, documents, graphics, and even APIs to automate creation and integ",
-      "titleJa": "AI ツール紹介 – Gamma：プレゼンテーション作成を次のレベルへ",
-      "summaryJa": "Scrum MasterやProduct Ownerが成果物をステークホルダーに伝える際、AI駆動のプレゼンテーションツール「Gamma」が革新的なソリューションとなります。PowerPointに代わる次世代ツールとして、プロフェッショナルな外観のスライド、ウェブサイト、ソーシャルメディア投稿、ドキュメント、グラフィックスなど多様なコンテンツ作成が可能です。"
     },
     {
       "category": "PdM",
