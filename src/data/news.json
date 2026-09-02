@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-02T10:06:30.023Z",
+  "updatedAt": "2026-09-02T15:30:35.424Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Get My Eval Test Harness and Run Your First Experiment",
+      "url": "https://www.producttalk.org/ai-evals-test-harness/",
+      "publishedAt": "2026-09-02T13:05:45.000Z",
+      "excerpt": "My in-depth AI evals guide explains what evals are and how to build them. This post gives you the tool I use to run them. Here's the practical problem. To get a baseline, you have to run every input through your prompt, save each output, run every",
+      "titleJa": "AI評価テストハーネスツール：初回実験の実行ガイド",
+      "summaryJa": "AI評価（evals）の実装方法を解説した詳細ガイド。著者が実際に使用するテストハーネスツールを提供し、プロンプトの全入力に対する出力を取得してベースラインを確立する実践的なワークフローを説明する。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "AI Evals: A Hands-On Guide for Product Teams",
+      "url": "https://www.producttalk.org/ai-evals/",
+      "publishedAt": "2026-09-02T13:00:59.000Z",
+      "excerpt": "AI evals tell you whether your AI product or workflow is any good. A hands-on guide to error analysis, the four types of evals, and your first experiment.",
+      "titleJa": "プロダクトチーム向けAI評価ハンズオンガイド",
+      "summaryJa": "AIプロダクトやワークフローの品質判定に用いるevals手法の実践的解説。エラー分析、4つのevals種別、および初回実験の実施方法を、ハンズオン形式で紹介する。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
+      "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
+      "publishedAt": "2026-09-02T12:03:39.000Z",
+      "excerpt": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my wardrobe",
+      "titleJa": "Grok BotでOpenClawを完全置き換え：AIエージェントスタック刷新記",
+      "summaryJa": "著者がGrok Botを数週間運用し、全てのOpenClawを置き換えた実体験をレポート。メール管理、子どもの学校送迎、PRキュー管理、ワードローブ管理など、実際の業務を担う9つのボットの構成と成果を紹介する。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -102,16 +132,6 @@
       "summaryJa": "OpenAIのプロダクトリーダーTara Seshanが、AIモデルの進化に伴う製品開発の考え方について語る。2〜3ヶ月先のモデル性能を見据えた開発戦略、野心的なビジョンの重要性、そして効果的なAI統合について解説。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Building without clear PM requirements, selling a product before building it, pricing fast-moving B2B SaaS, a year of job hunting, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-building-without",
-      "publishedAt": "2026-08-29T18:59:48.000Z",
-      "excerpt": "Community Wisdom 199",
-      "titleJa": "コミュニティの知恵：不明確な要件での開発、先行販売、高速成長B2B SaaSの価格設定など",
-      "summaryJa": "Lennyのニュースレター第199号。明確なPM要件がない状況での開発方法、製品リリース前の販売戦略、急速に成長するB2B SaaSプロダクトの価格設定、採用活動など、プロダクトマネジメント領域における実践的な課題について、コミュニティからの知見や事例を集約した内容。"
-    },
-    {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
       "title": "From Past Me to Future Us",
@@ -210,56 +230,6 @@
       "excerpt": "If you are like many Project Management Professional (PMP)® certification holders, you might be finding it hard to source enough quality learning materials for your Power Skills PDUs. Panic no more, I have all the details you need below. And if you hold one of the other (many) PMI certificates, you'll learn below about how many Power Skills PDUs you need to claim in a cycle and what activities count towards your PDU total in the Power Skills category. What are Power Skills PDUs? Power Skills is one side of the PMI Talent Triangle, along with Ways of Working and Business Acumen. Power Skills us",
       "titleJa": "PMI認定資格更新に向けたPower Skills PDUの取得方法",
       "summaryJa": "PMP®などのPMI認定資格保有者向けに、Power Skills PDU取得の具体的な方法を紹介。PMIタレントトライアングルのうち、Power Skillsカテゴリーで必要なPDU数と対象活動について詳しく解説しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "See It! Days 20-24",
-      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-20-24.html",
-      "publishedAt": "2026-08-12T13:45:27.000Z",
-      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. As we reach the final few days of exercises we're into reflection and consolidation of ideas. Day 20 Task: (1) Look across the past 19 days and draw out concepts related to systems (2) Consider what else you'd like to add (3) Jot down some questions (4) What topic would you like to add, as the focus of another page on your System zine? Components: parts, relationships, boundaries, effects, feedback, change over time, inputs and outputs, fai",
-      "titleJa": "システム思考エクササイズDay 20-24：最終段階の振り返りと統合",
-      "summaryJa": "Ruth Malanのシステム思考エクササイズの最終段階。過去19日間を振り返り、システムに関連する概念を抽出し、追加したいトピックと質問を整理する。コンポーネント、関係性、境界、フィードバックなどの要素を統合する演習。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "See It! Days 17-19",
-      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-17-19.html",
-      "publishedAt": "2026-08-12T13:43:27.000Z",
-      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. Day 17 Task: (1) Considering the situation you’re exploring: identify systems and their interrelationships. How far out do we zoom? What heuristics do you use? (2) Pick a (socio)technical system to focus on. Write a brief description of its primary purpose. I found the questions in the exercise the most interesting part of it this time. How far out do we zoom? This is the perennial problem in my world; I am always trying to find ways to jud",
-      "titleJa": "システム思考エクササイズDay 17-19：システム相互関係の分析",
-      "summaryJa": "Ruth Malanのシステム思考エクササイズ中盤。対象システムの相互関係を特定し、ズームレベルを決定するヒューリスティックを考える。社会技術的システムの設計目的を記述する演習を通じて、スコープの決定方法を学ぶ。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "See It! Days 10-16",
-      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-10-16.html",
-      "publishedAt": "2026-08-12T13:41:30.000Z",
-      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. Day 10 Task: 1. Draw an organization that you have been part of at least 3 different ways (2) Jot down reflections (3) Go \"meta” and think about the views you drew. As the task suggests, it's well known that org charts are, at best, an approximation of the way that work gets done in an organisation. The kind of diagram to draw depends on the perspective you want to obtain. Many of my colleagues don't like Miro, but I love it because I can s",
-      "titleJa": "システム思考エクササイズDay 10-16：組織構造の多角的可視化",
-      "summaryJa": "Ruth Malanのシステム思考エクササイズにおいて、組織図を複数の視点から描く演習。実際の業務フローと公式な組織体制の乖離を理解し、異なる視点による図解の有効性を学ぶ。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "See It! Days 6-9",
-      "url": "https://qahiccupps.blogspot.com/2026/08/see-it-days-6-9.html",
-      "publishedAt": "2026-08-12T13:37:39.000Z",
-      "excerpt": "This post is part of a series showing my working through the 2025 Advent of System Seeing exercises set by Ruth Malan. For background see the introduction. In this set of exercises, the idea of feedback is introduced. Feedback is at the heart of systems thinking because we humans seem to be primed to view the world as a simple linear cause-leads-to-effect machine in which only the causes and effects that matter are those that (a) we desire or (b) are glaringly obvious. Day 6 Task: Watch a video on causal loops and take sketchnotes. I know and like this kind of diagram (Be a Quality Detector) b",
-      "titleJa": "システム思考エクササイズDay 6-9：因果ループとフィードバック",
-      "summaryJa": "Ruth Malanのシステム思考エクササイズにおいて、因果ループとフィードバックの概念を学ぶ。人間は線形の因果関係を優先しがちだが、システム思考ではフィードバックループが重要であることを理解する演習。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "I Set Up Grok Bot as a QA Engineer and Pointed It at a Live App",
-      "url": "https://testguild.com/grok-bot-qa-engineer/",
-      "publishedAt": "2026-08-12T13:15:07.000Z",
-      "excerpt": "Short answer: Grok Bot found a real bug, and it stopped about two inches below the surface. I pointed a […]",
-      "titleJa": "QAエンジニアがGrok Botを導入して本番アプリをテストしてみた",
-      "summaryJa": "QAエンジニアがGrok Botというツールを実際の本番環境で試したレポート。実際のバグを検出する能力がある一方で、問題の根本原因の掘り下げには限界があることが示された。"
     }
   ]
 }
