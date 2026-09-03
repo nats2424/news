@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-03T01:53:07.096Z",
+  "updatedAt": "2026-09-03T10:17:21.487Z",
   "items": [
     {
       "category": "PdM",
@@ -220,16 +220,6 @@
       "excerpt": "About This Episode: Three days, 100 speakers, and zero dollars have you register for this agentic testing event yet? Reg […]",
       "titleJa": "Seleniumの最新動向、TestMu、コード検証に4,500万ドル投資など TGNS193",
       "summaryJa": "3日間で100人の講演者が参加するエージェント型テストイベントに関するエピソード。Seleniumの最新情報やTestMuといったテストツール、コード検証技術への大型投資など、QA業界の注目トピックをカバーしています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to earn power skills PDUs for PMI certificate renewals",
-      "url": "https://rebelsguidetopm.com/how-to-earn-leadership-pdus-for-pmp-renewal/",
-      "publishedAt": "2026-08-13T03:50:00.000Z",
-      "excerpt": "If you are like many Project Management Professional (PMP)® certification holders, you might be finding it hard to source enough quality learning materials for your Power Skills PDUs. Panic no more, I have all the details you need below. And if you hold one of the other (many) PMI certificates, you'll learn below about how many Power Skills PDUs you need to claim in a cycle and what activities count towards your PDU total in the Power Skills category. What are Power Skills PDUs? Power Skills is one side of the PMI Talent Triangle, along with Ways of Working and Business Acumen. Power Skills us",
-      "titleJa": "PMI認定資格更新に向けたPower Skills PDUの取得方法",
-      "summaryJa": "PMP®などのPMI認定資格保有者向けに、Power Skills PDU取得の具体的な方法を紹介。PMIタレントトライアングルのうち、Power Skillsカテゴリーで必要なPDU数と対象活動について詳しく解説しています。"
     }
   ]
 }
