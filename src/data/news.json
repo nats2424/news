@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-03T15:24:01.578Z",
+  "updatedAt": "2026-09-03T20:14:31.182Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
+      "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
+      "publishedAt": "2026-09-03T19:34:20.000Z",
+      "excerpt": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months",
+      "titleJa": "GPT-6 Astraは革命的だ――実装事例を全公開",
+      "summaryJa": "GPT-6 Astraの実践的なレビューでは、Figma、Flora、Adioなど実際のプロダクション環境での動作検証、従来のバージョン5.6では実現できなかったワンショットコーディング、そして数ヶ月間追求していたハードウェアハックの実装結果を紹介する。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -120,16 +130,6 @@
       "excerpt": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
       "titleJa": "ClaudeをPMアシスタントに進化させる方法 | Daniel Blum",
       "summaryJa": "Melio社のPM Daniel BlumがClaudeとCoworkを組み合わせ、Notionの管理、SlackやメールでのタスクトラッキングをAIで自動化。毎週自己改善されるアシスタントの構築方法と実装例を詳しく解説している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "AI’s third era: the rise of persistent AI coworkers | Tara Seshan (OpenAI’s product lead)",
-      "url": "https://www.lennysnewsletter.com/p/ais-third-era-the-rise-of-persistent",
-      "publishedAt": "2026-08-30T12:31:30.000Z",
-      "excerpt": "Listen now | Tara Seshan, head of Codex and ChatGPT Work at OpenAI, on why ambition is now the differentiator, steering vs. rowing, and why you need to build for where the models will be in two to three months",
-      "titleJa": "AI第3の時代：常に共働するAIコワーカーの台頭",
-      "summaryJa": "OpenAIのプロダクトリーダーTara Seshanが、AIモデルの進化に伴う製品開発の考え方について語る。2〜3ヶ月先のモデル性能を見据えた開発戦略、野心的なビジョンの重要性、そして効果的なAI統合について解説。"
     },
     {
       "category": "QA",
