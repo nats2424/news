@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-03T10:17:21.487Z",
+  "updatedAt": "2026-09-03T15:24:01.578Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Don't Redesign Your Process Yet. Change Who Writes the Artifacts.",
+      "url": "https://www.scrum.org/resources/blog/dont-redesign-your-process-yet-change-who-writes-artifacts",
+      "publishedAt": "2026-09-03T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. The first thing to change is who writes the artifacts, not how you work \"We didn't change the process. We still have a quarterly planning and we have sprint planning and we have roadmaps and a list of features that we want to deliver in a quarter.\" That is Shay Mandel, describing an organization of about two hundred people that has spent three or four months putting an agentic development lifecycle into production. On purpose, they didn't say let's jump to the end and let's change everything, all the processes and everything. What they changed instead is",
+      "titleJa": "プロセス改革より先に、成果物の作成者を変えよう",
+      "summaryJa": "約200人の組織がエージェント開発ライフサイクルを導入した事例から、プロセス自体の変更ではなく、誰が成果物(ロードマップ、機能リストなど)を作成するかという役割分担を変えることが重要であることを示唆。クォーターリープランニングやスプリント計画といった既存の枠組みは維持しながら、実行方法を改善することの効果について論じている。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -100,16 +110,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "🎙️ How I AI: PMが仕事の70~80%をClaudeで自動化",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズ。プロダクトマネージャーがAIアシスタントのClaudeを活用して、日常業務の大部分を効率化している事例を紹介するポッドキャスト。実践的なワークフロー活用法が学べる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Join the AI Delegation Audit Webinar, October 6, by Scrum.org",
-      "url": "https://www.scrum.org/resources/blog/join-ai-delegation-audit-webinar-october-6-scrumorg",
-      "publishedAt": "2026-08-31T14:29:17.000Z",
-      "excerpt": "TL;DR: The AI Delegation Audit Webinar, October 6 Join me on October 6 for the AI Delegation Audit webinar. You will learn how to run a 45-to-60-minute recurring check that reveals whether delegated AI work still meets its required quality standard, still uses the right model, at the right cost, can still be stopped, and hasn’t quietly become more autonomous than intended. (Rogue AI is no longer science fiction, isn’t it?) 👉 RSVP now: The AI Delegation Audit – A Recurring Check for Work You’ve Handed to AI. Image AI Delegation Is Not Static, “Quality” Is Fluent, and Your Name Is Attached to I",
-      "titleJa": "AI委譲監査ウェビナー開催 | 10月6日 Scrum.org",
-      "summaryJa": "10月6日開催のウェビナーでは、AIに委譲した業務が品質基準を満たしているか、適切なコスト効率か、制御可能かを確認する45~60分間の定期チェック方法を紹介。AIの自律性が意図を超えないための監視フレームワークを解説。"
     },
     {
       "category": "PdM",
