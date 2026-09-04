@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-04T15:20:18.738Z",
+  "updatedAt": "2026-09-04T19:59:19.026Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What Happens to Your Scaled Agile Ways of Working When You Adopt an Agentic SDLC?",
+      "url": "https://www.scrum.org/resources/blog/what-happens-your-scaled-agile-ways-working-when-you-adopt-agentic-sdlc",
+      "publishedAt": "2026-09-04T17:52:25.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. It's time to rethink your ways of working, not get rid of them Every week, I have several conversations with leaders whose teams are implementing an AI harness, adopting spec-driven development, and starting conversations about throwing agile ways of working out the door and getting rid of Jira. Because an agentic software development lifecycle supposedly flattens the work. Individuals do the work of teams. Teams can do the work of entire organizations. So it's very tempting to get rid of all these \"heavy\" large-scale agile processes. In this article I e",
+      "titleJa": "エージェントベースSDLCを採用するときにスケールアジャイルのプロセスはどう変わるか",
+      "summaryJa": "AI導入やスペック駆動開発が広がる中で、企業はアジャイルやJiraなどのプロセスを廃止しようとする傾向があります。しかしエージェントベースのSDLCが個人や小規模チームの効率を上げるとしても、スケーラビリティを確保するためには既存のアジャイルプロセスを完全に廃止するのではなく、再構築することが重要だと主張されています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my wardrobe",
       "titleJa": "Grok BotでOpenClawを完全置き換え：AIエージェントスタック刷新記",
       "summaryJa": "著者がGrok Botを数週間運用し、全てのOpenClawを置き換えた実体験をレポート。メール管理、子どもの学校送迎、PRキュー管理、ワードローブ管理など、実際の業務を担う9つのボットの構成と成果を紹介する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Der häufigste Fehler bei Produkt-Zielen Wie du mit KI bessere Produkt-Ziele formulierst, die nicht nur Features beschreiben, sondern die Unternehmensstrategie umsetzen",
-      "url": "https://www.scrum.org/resources/blog/der-haufigste-fehler-bei-produkt-zielen-wie-du-mit-ki-bessere-produkt-ziele-formulierst-die-nicht-nur-features-beschreiben-sondern-die-unternehmensstrategie-umsetzen-0",
-      "publishedAt": "2026-09-02T06:00:00.000Z",
-      "excerpt": "Betrachte diese Produktziele. Was fällt dir auf? „Wir bauen ein KI-gestütztes Help-Center.“ „Wir integrieren eine Chatbot-Funktion.“ „Wir erstellen ein neues Onboarding.“ Sie klingen konkret. Sie beschreiben Fortschritt. Sie klingen nach Erfolg. Allerdings verbergen sie ein Problem: Erinnere dich an Microsoft Office 97. Im Jahr 1997 erschien der Office-Assistent „Karl Klammer“. Wenn du dein Dokument mit „Sehr geehrte Damen und Herren“ begonnen hast, tauchte am unteren Bildschirmrand eine animierte Sprechblase auf. Sie hatte die Form einer Büroklammer mit Augen und bot dir ihre Hilfe an: „Ansch",
-      "titleJa": "プロダクト目標の落とし穴：AIを活用した戦略的目標設定",
-      "summaryJa": "機能説明に終わるプロダクト目標の危険性を指摘。進捗のように見えても、実は企業戦略と紐付かない目標設定の問題を、「Clippy」の事例を交えて解説。AIを活用して機能ではなく成果を中心とした真の目標設定を提案する記事。"
     },
     {
       "category": "QA",
