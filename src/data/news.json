@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-03T20:14:31.182Z",
+  "updatedAt": "2026-09-04T01:54:08.336Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "If You Hate the Organization, You Can't Help it Change",
+      "url": "https://www.scrum.org/resources/blog/if-you-hate-organization-you-cant-help-it-change",
+      "publishedAt": "2026-09-03T22:00:00.000Z",
+      "excerpt": "He was right about everything, and it was helping nothing. Watch the agile coach who has the organization completely figured out. He can name every dysfunction in the building, accurately, usually before lunch. The fake empowerment. The theater dressed up as progress. He isn't wrong about any of it. And he delivers all of it with a particular edge, a faint contempt everyone in the room can feel, the unmistakable tone of someone who has concluded that the people he's there to help are mostly fools. So they stop listening. Not because he's wrong. Because being told the truth by someone who clear",
+      "titleJa": "組織を嫌っていては変化を起こせない",
+      "summaryJa": "アジャイルコーチが組織の問題点を正確に指摘できても、それが変化をもたらさないことがあります。本記事は、真実を伝えながらも軽蔑的な態度を示すコーチでは、チームメンバーの耳に届かないことを指摘。組織変革には専門知識だけでなく、対象者への共感と信頼が不可欠であることを論じています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -100,16 +110,6 @@
       "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 6, Mehdi and Gizem discussed how to build and set up AI Agents for Scrum Teams. They shared some services that you can use to build AI Agents. Which tasks should be delegated to AI Agents and, finally, dissected the process of building an AI Agent that can monitor incoming support tickets to discover any customer feature requests hidden inside tickets. Then add them as user stories to the Product Backlog. Don't miss",
       "titleJa": "スクラムチーム向けのAIエージェント構築と導入方法",
       "summaryJa": "AI変革の過程でスクラムチームがAIネイティブチームへ移行する方法を扱うポッドキャストシリーズです。第6エピソードではAIエージェントの構築方法、委譲すべきタスク、サポートチケットから顧客要望を発見してプロダクトバックログに追加するAIエージェントの実装プロセスについて議論されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum Masters — the world needs you now as much as ever",
-      "url": "https://www.scrum.org/resources/blog/scrum-masters-world-needs-you-now-much-ever",
-      "publishedAt": "2026-08-31T18:19:09.000Z",
-      "excerpt": "Image We all know too little planning is ineffective — and I think most of us know too much planning is wasteful in conditions of uncertainty, volatility, and disruptive competition. Bigger, longer, more predictive planning — thus more assumptive, guessworking, and speculative — is ineffective in such conditions, but still the first choice of many organisations. Unfortunately, polishing such big plans and refining them again and again doesn’t make them more resilient to the unknown and the unknowable. Our confidence in them is misplaced. Sadly, what often results is trying to stick to a plan w",
-      "titleJa": "スクラムマスターの役割が今こそ必要とされている理由",
-      "summaryJa": "過度な計画立案は不確実性と変動性の高い環境では逆効果という現状を指摘。スクラムマスターのような適応的なアプローチの重要性を強調し、予測型計画の限界と回復力のあるチーム運営の必要性を論じている。"
     },
     {
       "category": "PdM",
