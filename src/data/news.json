@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-04T10:10:24.152Z",
+  "updatedAt": "2026-09-04T15:20:18.738Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Níveis de Maturidade do Product Owner: Por Que Ninguém Começa Faixa Preta",
+      "url": "https://www.scrum.org/resources/blog/niveis-de-maturidade-do-product-owner-por-que-ninguem-comeca-faixa-preta",
+      "publishedAt": "2026-09-04T14:53:38.000Z",
+      "excerpt": "No mercado corporativo, venderam uma ideia perigosa: a de que todo Product Owner já senta na cadeira como o “mini-CEO” da empresa, com autonomia total para ditar estratégias e gerir orçamentos milionários desde o primeiro dia. A realidade, porém, é bem diferente. Assim como nas artes marciais, ninguém entra na primeira aula de Karatê amarrando a faixa preta na cintura. Existe um caminho de treino, repetição e desenvolvimento de musculatura técnica antes de alcançar a maestria. Na jornada de um Product Owner, a lógica é exatamente a mesma. O papel evolui ao longo de cinco faixas de maturidade: ",
+      "titleJa": "プロダクトオーナーの成熟度レベル：なぜ誰もが黒帯からスタートするわけではないのか",
+      "summaryJa": "プロダクトオーナー(PO)は入職初日から完全な自律性を持つ「ミニCEO」として機能するという誤解が広がっています。実際には、武道の修行と同じく、POにも5段階の成熟度レベルを通じた発展段階が存在し、技術的な筋力と経験を積み重ねることで段階的にスキルが向上していきます。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "O que sabemos agora que não sabíamos no início da Sprint?",
+      "url": "https://www.scrum.org/resources/blog/o-que-sabemos-agora-que-nao-sabiamos-no-inicio-da-sprint",
+      "publishedAt": "2026-09-04T13:24:46.000Z",
+      "excerpt": "Image Scrum é um framework de aprendizagem Quando pensamos em Scrum, é fácil pensar em Sprints, Product Backlogs, Daily Scrums, Sprint Reviews ou Sprint Retrospectives. Mas estes são mecanismos. A questão mais interessante é: para que existem? Uma forma útil de compreender Scrum é vê-lo como um framework de aprendizagem. Scrum ajuda-nos continuamente a responder a duas perguntas fundamentais: Estamos a fazer a coisa certa? e Estamos a fazer a coisa da forma certa? São perguntas diferentes. E precisamos das duas. 1. Estamos a fazer a coisa certa? Podemos ter uma excelente equipa, tecnologia de ",
+      "titleJa": "スプリント開始時と終了時で何が変わったのか：Scrumの学習フレームワーク",
+      "summaryJa": "Scrumはスプリントや日次スクラムなどのメカニズムではなく、本質的には組織的学習のためのフレームワークです。「正しいことをしているか」「正しいやり方でしているか」という2つの根本的な問いに継続的に答えることで、チームは効果的な意思決定と改善を実現できます。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -72,16 +92,6 @@
       "summaryJa": "機能説明に終わるプロダクト目標の危険性を指摘。進捗のように見えても、実は企業戦略と紐付かない目標設定の問題を、「Clippy」の事例を交えて解説。AIを活用して機能ではなく成果を中心とした真の目標設定を提案する記事。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Everything was green. Then it wasn't.",
-      "url": "https://www.scrum.org/resources/blog/everything-was-green-then-it-wasnt",
-      "publishedAt": "2026-09-01T22:00:00.000Z",
-      "excerpt": "Image The status was green all quarter. Green in the weekly report, green in the steering deck, green in the note to the sponsor. Then, close to the deadline, it went red. Not drifted. Snapped. And in the post-mortem, the part that stings: one after another, people say they already knew. \"I had a bad feeling about that integration.\" \"The estimates never felt real.\" \"I figured someone else would raise it.\" The information was in the building the whole time. It just never made it into a decision while there was still time to act on it. If you've lived that, you've met one of the most common fric",
-      "titleJa": "ステータスが緑だったのに、突然赤くなった",
-      "summaryJa": "プロジェクトの進捗がステータスレポートで「緑」を保ち続けていたが、締切直前に急に「赤」に転換した事例。事後分析では、実は多くの関係者が既に問題を認識していたにもかかわらず、その情報が意思決定のタイミングに達しなかったことが判明。プロジェクト内の情報流通の課題と、発言しづらい組織文化の問題が浮き彫りになった。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "AI Testing Is Bigger Than You Think, 5 Areas Testers Must Own with Swati Seela",
@@ -100,16 +110,6 @@
       "excerpt": "An end-to-end process for tapping into AI’s hidden creativity",
       "titleJa": "AIを世界レベルのデザイナーに進化させる方法",
       "summaryJa": "AIが持つ隠れた創造性を引き出すための包括的なプロセスを紹介しています。AIをデザイン領域で最大限に活用するための実践的なアプローチについて、エンドツーエンドのワークフローを解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "[Episode 6] How to Build and Set up AI Agents for Scrum Teams",
-      "url": "https://www.scrum.org/resources/blog/episode-6-how-build-and-set-ai-agents-scrum-teams",
-      "publishedAt": "2026-09-01T12:09:26.000Z",
-      "excerpt": "\"AI-native Scrum Team\" is a podcast series that shares how Scrum Teams can effectively take the steps of their AI Transformation journey to become AI-native Scrum Teams. In episode 6, Mehdi and Gizem discussed how to build and set up AI Agents for Scrum Teams. They shared some services that you can use to build AI Agents. Which tasks should be delegated to AI Agents and, finally, dissected the process of building an AI Agent that can monitor incoming support tickets to discover any customer feature requests hidden inside tickets. Then add them as user stories to the Product Backlog. Don't miss",
-      "titleJa": "スクラムチーム向けのAIエージェント構築と導入方法",
-      "summaryJa": "AI変革の過程でスクラムチームがAIネイティブチームへ移行する方法を扱うポッドキャストシリーズです。第6エピソードではAIエージェントの構築方法、委譲すべきタスク、サポートチケットから顧客要望を発見してプロダクトバックログに追加するAIエージェントの実装プロセスについて議論されています。"
     },
     {
       "category": "PdM",
