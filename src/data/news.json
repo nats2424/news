@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-05T09:35:34.397Z",
+  "updatedAt": "2026-09-05T14:08:01.986Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Project Communications: Take the Survey",
+      "url": "https://rebelsguidetopm.com/project-comms-take-the-survey/",
+      "publishedAt": "2026-09-05T13:38:54.000Z",
+      "excerpt": "Project communications are hard. There are multiple stakeholders, different views on how things should be done, different channels to use, and no one has the time to do anything any longer. I believe that project managers have had to move into the space that used to be filled by internal communications or change managers. Those... This article first appeared on Rebel's Guide to Project Management and can be read here: Project Communications: Take the Survey",
+      "titleJa": "プロジェクト・コミュニケーション：調査に参加してください",
+      "summaryJa": "プロジェクト・コミュニケーションは複数のステークホルダー、異なる実施方法、多様なチャネルなど、多くの課題を抱えている。プロジェクトマネージャーは従来は内部コミュニケーションや変更管理部門が担当していた領域へと活動範囲を広げる必要があると考えられている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
