@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-05T14:08:01.986Z",
+  "updatedAt": "2026-09-05T19:39:49.766Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
+      "publishedAt": "2026-09-05T17:00:46.000Z",
+      "excerpt": "Community Wisdom 200",
+      "titleJa": "コミュニティの知恵：AI導入の障害となる習慣、APMからミッドレベルPMへのキャリアアップ、新規ユーザーのサブスク転換など",
+      "summaryJa": "Lennyのニュースレター「Community Wisdom 200」では、AI導入時に既存の習慣がいかに障害となるか、APM職からミッドレベルのプロダクトマネージャー職へのキャリアステップ、新規ユーザーをサブスクリプション顧客へ転換する施策など、プロダクト開発にまつわる複数のテーマについてコミュニティの実践的な知見が共有されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -130,16 +140,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "🎙️ How I AI: PMが仕事の70~80%をClaudeで自動化",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズ。プロダクトマネージャーがAIアシスタントのClaudeを活用して、日常業務の大部分を効率化している事例を紹介するポッドキャスト。実践的なワークフロー活用法が学べる。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How I turned Claude into a self-improving PM assistant | Daniel Blum (PM, Melio)",
-      "url": "https://www.lennysnewsletter.com/p/how-i-turned-claude-into-a-self-improving",
-      "publishedAt": "2026-08-31T12:04:18.000Z",
-      "excerpt": "Listen now | 🎙️ PM Daniel Blum walks through the exact Cowork and Claude setup that manages his Notion, tracks his tasks across Slack and email, and self-improves every week without him lifting a finger",
-      "titleJa": "ClaudeをPMアシスタントに進化させる方法 | Daniel Blum",
-      "summaryJa": "Melio社のPM Daniel BlumがClaudeとCoworkを組み合わせ、Notionの管理、SlackやメールでのタスクトラッキングをAIで自動化。毎週自己改善されるアシスタントの構築方法と実装例を詳しく解説している。"
     },
     {
       "category": "QA",
