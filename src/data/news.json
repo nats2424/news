@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-06T01:42:18.416Z",
+  "updatedAt": "2026-09-06T09:50:26.440Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Roadmap Ranks Everything. It Rejects Nothing.",
+      "url": "https://www.scrum.org/resources/blog/your-roadmap-ranks-everything-it-rejects-nothing",
+      "publishedAt": "2026-09-06T06:00:00.000Z",
+      "excerpt": "Image Take the product strategy slide from your last quarterly review and write the opposite of every line underneath it. \"Deepen engagement in our core segment\" becomes \"shed engagement in our core segment.\" \"Improve time to value for new customers\" becomes \"slow new customers down.\" If every opposite reads as obviously idiotic, nobody in that room made a choice. They wrote a plan and put a strategy label on it. Roger Martin published that test in October 2020, in the first month of a weekly run he closed on 16 February 2026 after 260 essays and roughly 470,000 words. One sentence from the be",
+      "titleJa": "ロードマップはすべてをランク付けし、何も拒否しない",
+      "summaryJa": "戦略と思い込んでいる計画が実際には戦略になっていないことを見分ける方法として、Roger Martinが提唱したテストが紹介されている。プロダクト戦略の各項目の逆を書いてみて、それが「明らかに愚か」に見えなければ、実は選択肢のない計画にすぎないということ。真の戦略には何を優先するか、何を排除するかの取捨選択が不可欠である。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -70,16 +80,6 @@
       "excerpt": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months",
       "titleJa": "GPT-6 Astraは革命的だ――実装事例を全公開",
       "summaryJa": "GPT-6 Astraの実践的なレビューでは、Figma、Flora、Adioなど実際のプロダクション環境での動作検証、従来のバージョン5.6では実現できなかったワンショットコーディング、そして数ヶ月間追求していたハードウェアハックの実装結果を紹介する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Don't Redesign Your Process Yet. Change Who Writes the Artifacts.",
-      "url": "https://www.scrum.org/resources/blog/dont-redesign-your-process-yet-change-who-writes-artifacts",
-      "publishedAt": "2026-09-03T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. The first thing to change is who writes the artifacts, not how you work \"We didn't change the process. We still have a quarterly planning and we have sprint planning and we have roadmaps and a list of features that we want to deliver in a quarter.\" That is Shay Mandel, describing an organization of about two hundred people that has spent three or four months putting an agentic development lifecycle into production. On purpose, they didn't say let's jump to the end and let's change everything, all the processes and everything. What they changed instead is",
-      "titleJa": "プロセス改革より先に、成果物の作成者を変えよう",
-      "summaryJa": "約200人の組織がエージェント開発ライフサイクルを導入した事例から、プロセス自体の変更ではなく、誰が成果物(ロードマップ、機能リストなど)を作成するかという役割分担を変えることが重要であることを示唆。クォーターリープランニングやスプリント計画といった既存の枠組みは維持しながら、実行方法を改善することの効果について論じている。"
     },
     {
       "category": "PdM",
