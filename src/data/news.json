@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-06T09:50:26.440Z",
+  "updatedAt": "2026-09-06T14:32:27.542Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
+      "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
+      "publishedAt": "2026-09-06T12:32:00.000Z",
+      "excerpt": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
+      "titleJa": "企業が一連のループ構造へ進化する理由",
+      "summaryJa": "a16zのアニシュ・アチャリヤが、テクノロジー導入による雇用への懸念が根拠薄弱である理由、すべての職能がループ化するメカニズム、そしてコンシューマーAIの今後の進展について解説。組織構造とジョブ設計の変革について洞察を提供する。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Transformations And Agile Transformations Rhyme",
+      "url": "https://www.scrum.org/resources/blog/ai-transformations-and-agile-transformations-rhyme",
+      "publishedAt": "2026-09-06T11:15:42.000Z",
+      "excerpt": "TL;DR: AI Transformations and Agile Transformations Rhyme AI adoption seems to be scaling: 37% of respondents in McKinsey’s 2026 survey report an EBIT effect from AI, and Gartner finds that 22% of organizations have scaled it across business units. Now, Agile practitioners have seen this combination before, as AI transformations and Agile transformations rhyme. There are five classic failure patterns from the Agile transformation adventures that are back under new names: from mandates from above to licenses mistaken for training to greenfield showcases to parachuted consultants to promised pay",
+      "titleJa": "AI変革とアジャイル変革の類似パターン",
+      "summaryJa": "AI導入が組織全体で急速に広がる中、アジャイル変革の経験がAI変革に応用できることを指摘。過去のアジャイル導入で見られた5つの典型的な失敗パターン（強制的なマンデート、不十分なトレーニング、限定的なPoCなど）がAI導入でも繰り返される傾向を警告している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -62,16 +82,6 @@
       "summaryJa": "Scrumはスプリントや日次スクラムなどのメカニズムではなく、本質的には組織的学習のためのフレームワークです。「正しいことをしているか」「正しいやり方でしているか」という2つの根本的な問いに継続的に答えることで、チームは効果的な意思決定と改善を実現できます。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "If You Hate the Organization, You Can't Help it Change",
-      "url": "https://www.scrum.org/resources/blog/if-you-hate-organization-you-cant-help-it-change",
-      "publishedAt": "2026-09-03T22:00:00.000Z",
-      "excerpt": "He was right about everything, and it was helping nothing. Watch the agile coach who has the organization completely figured out. He can name every dysfunction in the building, accurately, usually before lunch. The fake empowerment. The theater dressed up as progress. He isn't wrong about any of it. And he delivers all of it with a particular edge, a faint contempt everyone in the room can feel, the unmistakable tone of someone who has concluded that the people he's there to help are mostly fools. So they stop listening. Not because he's wrong. Because being told the truth by someone who clear",
-      "titleJa": "組織を嫌っていては変化を起こせない",
-      "summaryJa": "アジャイルコーチが組織の問題点を正確に指摘できても、それが変化をもたらさないことがあります。本記事は、真実を伝えながらも軽蔑的な態度を示すコーチでは、チームメンバーの耳に届かないことを指摘。組織変革には専門知識だけでなく、対象者への共感と信頼が不可欠であることを論じています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
@@ -130,16 +140,6 @@
       "excerpt": "An end-to-end process for tapping into AI’s hidden creativity",
       "titleJa": "AIを世界レベルのデザイナーに進化させる方法",
       "summaryJa": "AIが持つ隠れた創造性を引き出すための包括的なプロセスを紹介しています。AIをデザイン領域で最大限に活用するための実践的なアプローチについて、エンドツーエンドのワークフローを解説しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: How this PM uses Claude to handle 70% to 80% of his workday",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-pm-uses-claude",
-      "publishedAt": "2026-08-31T15:01:58.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "🎙️ How I AI: PMが仕事の70~80%をClaudeで自動化",
-      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズ。プロダクトマネージャーがAIアシスタントのClaudeを活用して、日常業務の大部分を効率化している事例を紹介するポッドキャスト。実践的なワークフロー活用法が学べる。"
     },
     {
       "category": "QA",
