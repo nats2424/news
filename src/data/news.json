@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-07T01:39:45.329Z",
+  "updatedAt": "2026-09-07T10:56:18.707Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Which Class Should You Arrange Next?",
+      "url": "https://www.scrum.org/resources/blog/which-class-should-you-arrange-next",
+      "publishedAt": "2026-09-07T02:08:49.000Z",
+      "excerpt": "Image This is written for managers and executives who hold a training budget and are considering Scrum or other Agile training for their employees. Technology leaders hire me to improve the way they manage software product operations. I have been practicing and teaching agile methods for twenty+ years. I frequently receive inquiries from executives and managers about my training courses and coaching services. I know the difficulty they face when choosing how best to invest their limited professional development budget. Every opportunity to engage a trainer/coach is a valuable investment and po",
+      "titleJa": "次に受講すべき研修は何か？",
+      "summaryJa": "限られた研修予算を持つマネージャーや経営幹部向けの記事。Scrum等のアジャイル研修投資の選択に関する課題を扱い、20年以上の実践経験を持つトレーナーが、職員のスキル向上に向けた最適な研修投資の方法について述べている。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -70,16 +80,6 @@
       "excerpt": "No mercado corporativo, venderam uma ideia perigosa: a de que todo Product Owner já senta na cadeira como o “mini-CEO” da empresa, com autonomia total para ditar estratégias e gerir orçamentos milionários desde o primeiro dia. A realidade, porém, é bem diferente. Assim como nas artes marciais, ninguém entra na primeira aula de Karatê amarrando a faixa preta na cintura. Existe um caminho de treino, repetição e desenvolvimento de musculatura técnica antes de alcançar a maestria. Na jornada de um Product Owner, a lógica é exatamente a mesma. O papel evolui ao longo de cinco faixas de maturidade: ",
       "titleJa": "プロダクトオーナーの成熟度レベル：なぜ誰もが黒帯からスタートするわけではないのか",
       "summaryJa": "プロダクトオーナー(PO)は入職初日から完全な自律性を持つ「ミニCEO」として機能するという誤解が広がっています。実際には、武道の修行と同じく、POにも5段階の成熟度レベルを通じた発展段階が存在し、技術的な筋力と経験を積み重ねることで段階的にスキルが向上していきます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "O que sabemos agora que não sabíamos no início da Sprint?",
-      "url": "https://www.scrum.org/resources/blog/o-que-sabemos-agora-que-nao-sabiamos-no-inicio-da-sprint",
-      "publishedAt": "2026-09-04T13:24:46.000Z",
-      "excerpt": "Image Scrum é um framework de aprendizagem Quando pensamos em Scrum, é fácil pensar em Sprints, Product Backlogs, Daily Scrums, Sprint Reviews ou Sprint Retrospectives. Mas estes são mecanismos. A questão mais interessante é: para que existem? Uma forma útil de compreender Scrum é vê-lo como um framework de aprendizagem. Scrum ajuda-nos continuamente a responder a duas perguntas fundamentais: Estamos a fazer a coisa certa? e Estamos a fazer a coisa da forma certa? São perguntas diferentes. E precisamos das duas. 1. Estamos a fazer a coisa certa? Podemos ter uma excelente equipa, tecnologia de ",
-      "titleJa": "スプリント開始時と終了時で何が変わったのか：Scrumの学習フレームワーク",
-      "summaryJa": "Scrumはスプリントや日次スクラムなどのメカニズムではなく、本質的には組織的学習のためのフレームワークです。「正しいことをしているか」「正しいやり方でしているか」という2つの根本的な問いに継続的に答えることで、チームは効果的な意思決定と改善を実現できます。"
     },
     {
       "category": "PdM",
