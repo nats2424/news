@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-07T10:56:18.707Z",
+  "updatedAt": "2026-09-07T16:47:10.337Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
+      "publishedAt": "2026-09-07T15:02:41.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "GPT-6 Astraの実力検証とStripeのAI戦略、エージェントスタック刷新の理由",
+      "summaryJa": "最新のAIモデルやStripeのAI活用事例、複数のエージェント技術の比較検討など、AIツール導入の実践的な知見をまとめたポッドキャスト。企業でのAI活用戦略を検討する際の参考となる情報が提供されている。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
+      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
+      "publishedAt": "2026-09-07T12:04:19.000Z",
+      "excerpt": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
+      "titleJa": "Stripeのエンジニアリングチームに学ぶ企業AI導入の実践ガイド",
+      "summaryJa": "グローバル企業におけるAI導入を成功させるため、Stripeがコンテキスト管理、ガバナンス、スキル共有プラットフォームを統合したインターナルエージェント構築の事例を紹介。複雑な組織環境でのAI展開戦略を学べる内容。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -112,16 +132,6 @@
       "summaryJa": "AIプロダクトやワークフローの品質判定に用いるevals手法の実践的解説。エラー分析、4つのevals種別、および初回実験の実施方法を、ハンズオン形式で紹介する。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Grok Bot vs. OpenClaw: How I replaced my entire agent stack",
-      "url": "https://www.lennysnewsletter.com/p/grok-bot-vs-openclaw-how-i-replaced",
-      "publishedAt": "2026-09-02T12:03:39.000Z",
-      "excerpt": "Watch now | 🎙️ I’ve been running Grok Bot for several weeks, and I’ve killed every OpenClaw I had. Here are the nine bots doing real work across my inbox, my kids’ school pickups, my PR queue, and my wardrobe",
-      "titleJa": "Grok BotでOpenClawを完全置き換え：AIエージェントスタック刷新記",
-      "summaryJa": "著者がGrok Botを数週間運用し、全てのOpenClawを置き換えた実体験をレポート。メール管理、子どもの学校送迎、PRキュー管理、ワードローブ管理など、実際の業務を担う9つのボットの構成と成果を紹介する。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "AI Testing Is Bigger Than You Think, 5 Areas Testers Must Own with Swati Seela",
@@ -130,16 +140,6 @@
       "excerpt": "About This Episode: Most testers are stuck arguing about whether AI is coming for their jobs. Swati Seela thinks that’s […]",
       "titleJa": "AIテストは想像以上に重要、テスターが押さえるべき5つの領域",
       "summaryJa": "テスターの多くはAIが雇用を脅かすかどうかで議論しているが、専門家のSwati Seelaはそれ以上に重要な視点を提示しています。本エピソードでは、AIテストの実践的な領域と、テスターが主導権を持つべき5つの重要な分野について深掘りされています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How to turn your AI into a world-class designer",
-      "url": "https://www.lennysnewsletter.com/p/how-to-turn-your-ai-into-a-world",
-      "publishedAt": "2026-09-01T12:45:59.000Z",
-      "excerpt": "An end-to-end process for tapping into AI’s hidden creativity",
-      "titleJa": "AIを世界レベルのデザイナーに進化させる方法",
-      "summaryJa": "AIが持つ隠れた創造性を引き出すための包括的なプロセスを紹介しています。AIをデザイン領域で最大限に活用するための実践的なアプローチについて、エンドツーエンドのワークフローを解説しています。"
     },
     {
       "category": "QA",
