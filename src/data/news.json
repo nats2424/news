@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T20:53:04.065Z",
+  "updatedAt": "2026-09-08T01:50:59.520Z",
   "items": [
     {
       "category": "PdM",
@@ -220,16 +220,6 @@
       "excerpt": "About This Episode: Manual testing never died. IoT is the proof. In this episode, Joe Colantonio talks with Oleksii Cherkashyn, […]",
       "titleJa": "IoT テストで証明される：マニュアルテストは決して終わらない",
       "summaryJa": "IoT時代においてマニュアルテストの重要性は変わらないという議論。本エピソードではテスト専門家 Oleksii Cherkashyn 氏と、IoT環境でのテスト戦略とマニュアルテストの役割について対談。自動化だけでは対応できない領域の存在が改めて注目されている。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Latest Selenium, TestMu, 45 Million for Code Validation and more TGNS193",
-      "url": "https://testguild.com/podcast/n193-aug17/",
-      "publishedAt": "2026-08-17T20:54:55.000Z",
-      "excerpt": "About This Episode: Three days, 100 speakers, and zero dollars have you register for this agentic testing event yet? Reg […]",
-      "titleJa": "Seleniumの最新動向、TestMu、コード検証に4,500万ドル投資など TGNS193",
-      "summaryJa": "3日間で100人の講演者が参加するエージェント型テストイベントに関するエピソード。Seleniumの最新情報やTestMuといったテストツール、コード検証技術への大型投資など、QA業界の注目トピックをカバーしています。"
     }
   ]
 }
