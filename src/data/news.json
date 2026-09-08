@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-08T01:50:59.520Z",
+  "updatedAt": "2026-09-08T10:13:30.647Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "Your Growth Chart Is Lying to You",
+      "url": "https://www.productcoalition.com/p/the-only-number-your-product-cannot",
+      "publishedAt": "2026-09-08T07:56:13.000Z",
+      "excerpt": "Acquisition metrics flatter you. CLTV tells you whether you built a business.",
+      "titleJa": "獲得数指標では本当の成長は見えない",
+      "summaryJa": "アクイジション指標は表面的な成功を示すだけだが、顧客生涯価値（CLTV）こそが真の事業価値を測定する指標である。持続可能なビジネス構築の重要性について論じている。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
