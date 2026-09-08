@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-08T10:13:30.647Z",
+  "updatedAt": "2026-09-08T15:33:48.845Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Facilitation Skills - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/facilitation-skills-all-things-product-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-09-08T13:00:35.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Conflict on a product team isn't a warning sign — the absence of it usually is. In this episode of All Things Product, Petra Wille and Teresa Torres tackle a question Teresa hears constantly: what should a product trio do",
+      "titleJa": "ファシリテーション・スキル - All Things Productポッドキャスト",
+      "summaryJa": "プロダクトチームにおける対立は警告信号ではなく、むしろ対立がないことが危険信号であることを解説。Teresa TorresとPetra Willeがプロダクト・トリオが取るべき行動について議論する。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
+      "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
+      "publishedAt": "2026-09-08T12:31:49.000Z",
+      "excerpt": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
+      "titleJa": "Grok Botを1ヶ月で構築した方法 | Roman Ugarte（SpaceXAI）",
+      "summaryJa": "SpaceXAIのRoman Ugarteが、最初のコード行から世界で最も注目されるAI製品までを7週間で実現したプロセスを紹介。競争激化するAI市場で勝つために必要な要素と戦略について解説する。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -113,16 +133,6 @@
     },
     {
       "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "GPT-6 Astra is a banger - here’s everything I’ve built",
-      "url": "https://www.lennysnewsletter.com/p/gpt-6-astra-is-a-banger-heres-everything",
-      "publishedAt": "2026-09-03T19:34:20.000Z",
-      "excerpt": "Watch now | 🎙️ My hands-on GPT-6 Astra review covers real production work in Figma, Flora, and Adio, one-shot coding wins 5.6 and Fable couldn’t match, and a hardware hack I’ve chased for months",
-      "titleJa": "GPT-6 Astraは革命的だ――実装事例を全公開",
-      "summaryJa": "GPT-6 Astraの実践的なレビューでは、Figma、Flora、Adioなど実際のプロダクション環境での動作検証、従来のバージョン5.6では実現できなかったワンショットコーディング、そして数ヶ月間追求していたハードウェアハックの実装結果を紹介する。"
-    },
-    {
-      "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "Get My Eval Test Harness and Run Your First Experiment",
       "url": "https://www.producttalk.org/ai-evals-test-harness/",
@@ -220,16 +230,6 @@
       "excerpt": "When I’m getting ready to leave a job, whether that’s for a holiday or for good, I’ll make sure to do a handover to my boss. That might be as simple as a quick email or a conversation in our last 1:1, but sometimes it’s important to do a bit more than that. I’ve never gone back to a past employer (yet, maybe I will one day), but as 40% of people would consider returning to an employer, it’s worth making sure your exit is smooth, professional, and on good terms. Because you never know. Best not to burn bridges. A work handover email to your manager is one of the steps to make the transition out",
       "titleJa": "上司への引き継ぎメールの書き方",
       "summaryJa": "転職や休職前の上司への引き継ぎメールは、スムーズで専門的な関係継続に不可欠です。将来の復職や人脈維持の観点からも、適切な引き継ぎコミュニケーションの重要性と具体的な方法を紹介しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Why IoT Testing Proves Manual Testing Never Died with Oleksii Cherkashyn",
-      "url": "https://testguild.com/podcast/a601-oleksii/",
-      "publishedAt": "2026-08-18T15:32:42.000Z",
-      "excerpt": "About This Episode: Manual testing never died. IoT is the proof. In this episode, Joe Colantonio talks with Oleksii Cherkashyn, […]",
-      "titleJa": "IoT テストで証明される：マニュアルテストは決して終わらない",
-      "summaryJa": "IoT時代においてマニュアルテストの重要性は変わらないという議論。本エピソードではテスト専門家 Oleksii Cherkashyn 氏と、IoT環境でのテスト戦略とマニュアルテストの役割について対談。自動化だけでは対応できない領域の存在が改めて注目されている。"
     }
   ]
 }
