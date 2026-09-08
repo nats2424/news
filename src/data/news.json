@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-08T15:33:48.845Z",
+  "updatedAt": "2026-09-08T20:25:34.997Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "AI Performance Testing: How to Scale Agentic AI with Kandasamy Selvaraj",
+      "url": "https://testguild.com/podcast/a603-kandasamy/",
+      "publishedAt": "2026-09-08T17:48:54.000Z",
+      "excerpt": "About This Episode: Everything you knew about performance testing changes when the system you’re testing is non deterministic. In this […]",
+      "titleJa": "AI性能テスト：エージェントAIのスケーリング方法",
+      "summaryJa": "非決定論的なシステムのテストでは、従来のパフォーマンステスト手法が通用しません。本エピソードではKandasamy Selvarajとともに、AIを活用したテスト戦略と、変動するシステム挙動への対応方法について解説します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Changed the Bottleneck. Your WIP Limits Should Change With It.",
+      "url": "https://www.scrum.org/resources/blog/ai-changed-bottleneck-your-wip-limits-should-change-it",
+      "publishedAt": "2026-09-08T15:55:47.000Z",
+      "excerpt": "Image AI can generate code faster than your team can review it. Especially with the latest iteration of Claude, the code comes packed with lengthy comments, voluminous release notes, and logic in a bunch of different places, all of which needs to be reviewed before it goes to production. The human in the loop remains essential for quality. But with so much work coming at us, we can quickly become a bottleneck, too. The counterintuitive answer is to limit work in progress and focus on fewer things to get more done. It starts with seeing where the work is piling up. Visualize the work You can't ",
+      "titleJa": "AI時代のボトルネック解消：WIP制限の見直しが必須",
+      "summaryJa": "AIが従来より高速にコード生成できるようになった今、レビュープロセスが新たなボトルネックになっています。人間による品質確保は依然重要ですが、WIP(進行中の仕事)制限を活用して作業を可視化し、少ない数の案件に集中することで、むしろ生産性を向上させることができます。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -120,16 +140,6 @@
       "excerpt": "Originally published on yuvalyeret.com. It's time to rethink your ways of working, not get rid of them Every week, I have several conversations with leaders whose teams are implementing an AI harness, adopting spec-driven development, and starting conversations about throwing agile ways of working out the door and getting rid of Jira. Because an agentic software development lifecycle supposedly flattens the work. Individuals do the work of teams. Teams can do the work of entire organizations. So it's very tempting to get rid of all these \"heavy\" large-scale agile processes. In this article I e",
       "titleJa": "エージェントベースSDLCを採用するときにスケールアジャイルのプロセスはどう変わるか",
       "summaryJa": "AI導入やスペック駆動開発が広がる中で、企業はアジャイルやJiraなどのプロセスを廃止しようとする傾向があります。しかしエージェントベースのSDLCが個人や小規模チームの効率を上げるとしても、スケーラビリティを確保するためには既存のアジャイルプロセスを完全に廃止するのではなく、再構築することが重要だと主張されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Níveis de Maturidade do Product Owner: Por Que Ninguém Começa Faixa Preta",
-      "url": "https://www.scrum.org/resources/blog/niveis-de-maturidade-do-product-owner-por-que-ninguem-comeca-faixa-preta",
-      "publishedAt": "2026-09-04T14:53:38.000Z",
-      "excerpt": "No mercado corporativo, venderam uma ideia perigosa: a de que todo Product Owner já senta na cadeira como o “mini-CEO” da empresa, com autonomia total para ditar estratégias e gerir orçamentos milionários desde o primeiro dia. A realidade, porém, é bem diferente. Assim como nas artes marciais, ninguém entra na primeira aula de Karatê amarrando a faixa preta na cintura. Existe um caminho de treino, repetição e desenvolvimento de musculatura técnica antes de alcançar a maestria. Na jornada de um Product Owner, a lógica é exatamente a mesma. O papel evolui ao longo de cinco faixas de maturidade: ",
-      "titleJa": "プロダクトオーナーの成熟度レベル：なぜ誰もが黒帯からスタートするわけではないのか",
-      "summaryJa": "プロダクトオーナー(PO)は入職初日から完全な自律性を持つ「ミニCEO」として機能するという誤解が広がっています。実際には、武道の修行と同じく、POにも5段階の成熟度レベルを通じた発展段階が存在し、技術的な筋力と経験を積み重ねることで段階的にスキルが向上していきます。"
     },
     {
       "category": "PdM",
