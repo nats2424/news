@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-09T01:56:58.802Z",
+  "updatedAt": "2026-09-09T10:17:38.568Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "8 Ways for project managers to support better exec decisions",
+      "url": "https://rebelsguidetopm.com/better-exec-decisions/",
+      "publishedAt": "2026-09-09T07:51:42.000Z",
+      "excerpt": "Project managers make decisions all day. We decide how to structure the work, who needs to be in a meeting, what needs escalating and whether a risk response is worth the effort. But the bigger the decision, the less likely it is to be ours to make. At some point, the choice belongs to the sponsor, project board or another senior leader. That’s where a different project management skill becomes important: helping the person with the authority make a good decision, at the right time, with enough information to understand the consequences. That is not the same as learning another decision-making",
+      "titleJa": "プロジェクトマネージャーが経営判断を支援する8つの方法",
+      "summaryJa": "プロジェクトマネージャーは日々意思決定を行いますが、重要度が高い決定はスポンサーや上級リーダーが行います。本記事は、権限を持つ者が適切なタイミングで十分な情報を基に良好な決定を下すことを支援する、プロジェクトマネジメントの重要なスキルについて解説しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Launched: Scrum Team Magazine",
+      "url": "https://www.scrum.org/resources/blog/launched-scrum-team-magazine",
+      "publishedAt": "2026-09-09T05:48:03.000Z",
+      "excerpt": "Image WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who demand excellence and quality. A publication that the Scrum community can take genuine pride in owning and showcasing. CONTENTS In this issue, you will ",
+      "titleJa": "Scrum Team Magazineが創刊",
+      "summaryJa": "Scrumコミュニティ向けの高品質な専門誌「Scrum Team Magazine」が創刊されました。ジュエリーやファッション業界など他分野では質の高い出版物が存在する一方、Scrum専門家向けの同等の媒体がなかったため、卓越性と品質を備えた出版物として企画されたものです。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -112,16 +132,6 @@
       "summaryJa": "AI導入が組織全体で急速に広がる中、アジャイル変革の経験がAI変革に応用できることを指摘。過去のアジャイル導入で見られた5つの典型的な失敗パターン（強制的なマンデート、不十分なトレーニング、限定的なPoCなど）がAI導入でも繰り返される傾向を警告している。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your Roadmap Ranks Everything. It Rejects Nothing.",
-      "url": "https://www.scrum.org/resources/blog/your-roadmap-ranks-everything-it-rejects-nothing",
-      "publishedAt": "2026-09-06T06:00:00.000Z",
-      "excerpt": "Image Take the product strategy slide from your last quarterly review and write the opposite of every line underneath it. \"Deepen engagement in our core segment\" becomes \"shed engagement in our core segment.\" \"Improve time to value for new customers\" becomes \"slow new customers down.\" If every opposite reads as obviously idiotic, nobody in that room made a choice. They wrote a plan and put a strategy label on it. Roger Martin published that test in October 2020, in the first month of a weekly run he closed on 16 February 2026 after 260 essays and roughly 470,000 words. One sentence from the be",
-      "titleJa": "ロードマップはすべてをランク付けし、何も拒否しない",
-      "summaryJa": "戦略と思い込んでいる計画が実際には戦略になっていないことを見分ける方法として、Roger Martinが提唱したテストが紹介されている。プロダクト戦略の各項目の逆を書いてみて、それが「明らかに愚か」に見えなければ、実は選択肢のない計画にすぎないということ。真の戦略には何を優先するか、何を排除するかの取捨選択が不可欠である。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
@@ -230,16 +240,6 @@
       "excerpt": "Once upon a time I used to try to plan my projects around dates when I knew I was going to be in the office. My colleagues joked that I planned the birth date of my first child around a major transformation project go live date (I didn’t). It turned out that we had to move that go live by three months, so I was on maternity leave with a new born when they eventually went live. As experienced project managers know, when things change on a project, all your carefully planned deadlines switch around too. In this article, we’ll look at how to plan and execute a handover to a colleague. Looking for",
       "titleJa": "引き継ぎチェックリスト：心配なく業務を引き継ぐためのテンプレート付き",
       "summaryJa": "プロジェクト途中の予期しない変更により、計画的な引き継ぎが難しくなることがあります。この記事では、同僚への業務引き継ぎを計画・実行する方法について、チェックリストやテンプレートを交えて解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to write a handover email to your manager",
-      "url": "https://rebelsguidetopm.com/how-to-write-a-handover-email-to-your-manager/",
-      "publishedAt": "2026-08-22T08:55:29.000Z",
-      "excerpt": "When I’m getting ready to leave a job, whether that’s for a holiday or for good, I’ll make sure to do a handover to my boss. That might be as simple as a quick email or a conversation in our last 1:1, but sometimes it’s important to do a bit more than that. I’ve never gone back to a past employer (yet, maybe I will one day), but as 40% of people would consider returning to an employer, it’s worth making sure your exit is smooth, professional, and on good terms. Because you never know. Best not to burn bridges. A work handover email to your manager is one of the steps to make the transition out",
-      "titleJa": "上司への引き継ぎメールの書き方",
-      "summaryJa": "転職や休職前の上司への引き継ぎメールは、スムーズで専門的な関係継続に不可欠です。将来の復職や人脈維持の観点からも、適切な引き継ぎコミュニケーションの重要性と具体的な方法を紹介しています。"
     }
   ]
 }
