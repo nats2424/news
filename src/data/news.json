@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-08T20:25:34.997Z",
+  "updatedAt": "2026-09-09T01:56:58.802Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your retro is a support group, not an engine.",
+      "url": "https://www.scrum.org/resources/blog/your-retro-support-group-not-engine",
+      "publishedAt": "2026-09-08T22:00:00.000Z",
+      "excerpt": "Image Every couple of weeks, the team stops to reflect. People show up. They talk about what went well and what didn't. Someone captures it on sticky notes or a board. Everyone nods. The hour ends on time. And the next two weeks look exactly like the last two. If that's your retro, you're not alone, and your team isn't broken. You've got a meeting that produces conversation and calls it improvement. The talking is real. The change never arrives. Here's the tell. Go back to your last three retros and find one thing that actually changed because of them. Not \"we discussed it.\" Changed. A decisio",
+      "titleJa": "レトロスペクティブは支援の場、改善エンジンではない",
+      "summaryJa": "多くのチームのレトロスペクティブは、議論は活発だが実際の改善につながっていない。付箋や議事録に記録されても、その後の行動変化がない場合、それは単なる会議に過ぎない。実質的な改善をもたらすには、議論の先の実行と具体的な決定が必要である。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -130,16 +140,6 @@
       "excerpt": "Project communications are hard. There are multiple stakeholders, different views on how things should be done, different channels to use, and no one has the time to do anything any longer. I believe that project managers have had to move into the space that used to be filled by internal communications or change managers. Those... This article first appeared on Rebel's Guide to Project Management and can be read here: Project Communications: Take the Survey",
       "titleJa": "プロジェクト・コミュニケーション：調査に参加してください",
       "summaryJa": "プロジェクト・コミュニケーションは複数のステークホルダー、異なる実施方法、多様なチャネルなど、多くの課題を抱えている。プロジェクトマネージャーは従来は内部コミュニケーションや変更管理部門が担当していた領域へと活動範囲を広げる必要があると考えられている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "What Happens to Your Scaled Agile Ways of Working When You Adopt an Agentic SDLC?",
-      "url": "https://www.scrum.org/resources/blog/what-happens-your-scaled-agile-ways-working-when-you-adopt-agentic-sdlc",
-      "publishedAt": "2026-09-04T17:52:25.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. It's time to rethink your ways of working, not get rid of them Every week, I have several conversations with leaders whose teams are implementing an AI harness, adopting spec-driven development, and starting conversations about throwing agile ways of working out the door and getting rid of Jira. Because an agentic software development lifecycle supposedly flattens the work. Individuals do the work of teams. Teams can do the work of entire organizations. So it's very tempting to get rid of all these \"heavy\" large-scale agile processes. In this article I e",
-      "titleJa": "エージェントベースSDLCを採用するときにスケールアジャイルのプロセスはどう変わるか",
-      "summaryJa": "AI導入やスペック駆動開発が広がる中で、企業はアジャイルやJiraなどのプロセスを廃止しようとする傾向があります。しかしエージェントベースのSDLCが個人や小規模チームの効率を上げるとしても、スケーラビリティを確保するためには既存のアジャイルプロセスを完全に廃止するのではなく、再構築することが重要だと主張されています。"
     },
     {
       "category": "PdM",
