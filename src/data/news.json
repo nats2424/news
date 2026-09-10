@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-10T10:11:12.105Z",
+  "updatedAt": "2026-09-10T15:24:03.668Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The AI Fluency Gap. Why Most Product Teams Are Stuck",
+      "url": "https://www.scrum.org/resources/blog/ai-fluency-gap-why-most-product-teams-are-stuck",
+      "publishedAt": "2026-09-10T16:38:59.000Z",
+      "excerpt": "Image Learning foreign languages was never my skill. I still think back to high school, when my French teacher looked at me disparagingly during our oral exam. It came as no surprise that I failed, not because my vocab was not great, but because I was not able to really communicate with Madam McGregor. And from my observations when visiting product teams, we have a similar problem with AI adoption. Great vocab, but poor fluency. I chose the word fluency on purpose. AI Fluency works the same way it does with a language: you can know enough to order a beer and still be nowhere close to fluent. T",
+      "titleJa": "AI導入における流暢性のギャップ",
+      "summaryJa": "プロダクトチームのAI導入において、用語知識はあるものの実際の活用能力が不足している問題を指摘。言語習得と同じく、AIについても「流暢性」が重要であり、断片的な知識では実用的なコミュニケーションや意思決定ができないことを強調しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Is Your Agent Harness Still Learning? Check Its Last Updated Time.",
+      "url": "https://www.scrum.org/resources/blog/your-agent-harness-still-learning-check-its-last-updated-time",
+      "publishedAt": "2026-09-10T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. The oldest continuous-improvement metric works on your agent config There is a story about a Lean sensei who walked onto a factory floor, stopped at one workstation, looked at the standard work document posted above it, and told the manager he was cheating the company. He had not watched anyone work. He had not looked at throughput. He had noticed that the paper had yellowed. Standard work describes how the job is currently done best, so if the document has not changed, nobody has found a better way, or somebody has, and it never made it back into how th",
+      "titleJa": "エージェント設定の継続改善を最後の更新日時で確認する",
+      "summaryJa": "標準作業ドキュメントの更新状況を改善指標として活用する重要性を説く。Lean哲学に基づき、ドキュメントが更新されない状態は誰も改善策を発見していないか、または改善が現場に反映されていない可能性を示唆しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "KI-Transformationen und agile Transformationen gleichen sich 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/ki-transformationen-und-agile-transformationen-gleichen-sich",
+      "publishedAt": "2026-09-10T11:32:33.000Z",
+      "excerpt": "In Kürze: KI-Transformationen und agile Transformationen gleichen sich Die Einführung von KI scheint zu skalieren: Gut ein Drittel der Befragten in McKinseys Umfrage von 2026 berichtet von einem EBIT-Effekt durch KI, und laut Gartner hat gut ein Fünftel der Organisationen KI über Geschäftsbereiche hinweg skaliert. Nun haben agile Praktiker diese Kombination schon einmal erlebt, denn KI-Transformationen und agile Transformationen gleichen sich. Fünf klassische Muster des Scheiterns aus den Abenteuern der agilen Transformationen sind unter neuen Namen zurückgekehrt: von der Anordnung von oben üb",
+      "titleJa": "AI変革とアジャイル変革の共通パターン",
+      "summaryJa": "AI導入の拡大に伴い、AI変革とアジャイル変革が類似したパターンに直面していることを指摘。アジャイル変革で経験した典型的な失敗パターン5つが、新しい名前で再び現れていることを警告しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -40,16 +70,6 @@
       "excerpt": "About This Episode: Everything you knew about performance testing changes when the system you’re testing is non deterministic. In this […]",
       "titleJa": "AI性能テスト：エージェントAIのスケーリング方法",
       "summaryJa": "非決定論的なシステムのテストでは、従来のパフォーマンステスト手法が通用しません。本エピソードではKandasamy Selvarajとともに、AIを活用したテスト戦略と、変動するシステム挙動への対応方法について解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Changed the Bottleneck. Your WIP Limits Should Change With It.",
-      "url": "https://www.scrum.org/resources/blog/ai-changed-bottleneck-your-wip-limits-should-change-it",
-      "publishedAt": "2026-09-08T15:55:47.000Z",
-      "excerpt": "Image AI can generate code faster than your team can review it. Especially with the latest iteration of Claude, the code comes packed with lengthy comments, voluminous release notes, and logic in a bunch of different places, all of which needs to be reviewed before it goes to production. The human in the loop remains essential for quality. But with so much work coming at us, we can quickly become a bottleneck, too. The counterintuitive answer is to limit work in progress and focus on fewer things to get more done. It starts with seeing where the work is piling up. Visualize the work You can't ",
-      "titleJa": "AI時代のボトルネック解消：WIP制限の見直しが必須",
-      "summaryJa": "AIが従来より高速にコード生成できるようになった今、レビュープロセスが新たなボトルネックになっています。人間による品質確保は依然重要ですが、WIP(進行中の仕事)制限を活用して作業を可視化し、少ない数の案件に集中することで、むしろ生産性を向上させることができます。"
     },
     {
       "category": "PdM",
@@ -102,16 +122,6 @@
       "summaryJa": "グローバル企業におけるAI導入を成功させるため、Stripeがコンテキスト管理、ガバナンス、スキル共有プラットフォームを統合したインターナルエージェント構築の事例を紹介。複雑な組織環境でのAI展開戦略を学べる内容。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Which Class Should You Arrange Next?",
-      "url": "https://www.scrum.org/resources/blog/which-class-should-you-arrange-next",
-      "publishedAt": "2026-09-07T02:08:49.000Z",
-      "excerpt": "Image This is written for managers and executives who hold a training budget and are considering Scrum or other Agile training for their employees. Technology leaders hire me to improve the way they manage software product operations. I have been practicing and teaching agile methods for twenty+ years. I frequently receive inquiries from executives and managers about my training courses and coaching services. I know the difficulty they face when choosing how best to invest their limited professional development budget. Every opportunity to engage a trainer/coach is a valuable investment and po",
-      "titleJa": "次に受講すべき研修は何か？",
-      "summaryJa": "限られた研修予算を持つマネージャーや経営幹部向けの記事。Scrum等のアジャイル研修投資の選択に関する課題を扱い、20年以上の実践経験を持つトレーナーが、職員のスキル向上に向けた最適な研修投資の方法について述べている。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
@@ -120,16 +130,6 @@
       "excerpt": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
       "titleJa": "企業が一連のループ構造へ進化する理由",
       "summaryJa": "a16zのアニシュ・アチャリヤが、テクノロジー導入による雇用への懸念が根拠薄弱である理由、すべての職能がループ化するメカニズム、そしてコンシューマーAIの今後の進展について解説。組織構造とジョブ設計の変革について洞察を提供する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Transformations And Agile Transformations Rhyme",
-      "url": "https://www.scrum.org/resources/blog/ai-transformations-and-agile-transformations-rhyme",
-      "publishedAt": "2026-09-06T11:15:42.000Z",
-      "excerpt": "TL;DR: AI Transformations and Agile Transformations Rhyme AI adoption seems to be scaling: 37% of respondents in McKinsey’s 2026 survey report an EBIT effect from AI, and Gartner finds that 22% of organizations have scaled it across business units. Now, Agile practitioners have seen this combination before, as AI transformations and Agile transformations rhyme. There are five classic failure patterns from the Agile transformation adventures that are back under new names: from mandates from above to licenses mistaken for training to greenfield showcases to parachuted consultants to promised pay",
-      "titleJa": "AI変革とアジャイル変革の類似パターン",
-      "summaryJa": "AI導入が組織全体で急速に広がる中、アジャイル変革の経験がAI変革に応用できることを指摘。過去のアジャイル導入で見られた5つの典型的な失敗パターン（強制的なマンデート、不十分なトレーニング、限定的なPoCなど）がAI導入でも繰り返される傾向を警告している。"
     },
     {
       "category": "PdM",
