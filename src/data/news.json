@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-11T01:52:04.408Z",
+  "updatedAt": "2026-09-11T10:08:29.917Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Do We Need A New Scrum Guide?!",
+      "url": "https://www.scrum.org/resources/blog/do-we-need-new-scrum-guide",
+      "publishedAt": "2026-09-11T10:00:57.000Z",
+      "excerpt": "My current car is a Peugeot 508, over ten years old, yet still a great car that I genuinely love. But recently, one of my friends bought a brand-new car and invited me inside to check out the interior and features. My reaction? Wow. A large, high-quality screen with big, responsive buttons to manage everything with a smooth touch; an elegant dashboard with almost no physical knobs (not even a gear stick); dynamic lighting, to name a few. It was a whole new experience I hadn’t expected. That moment got me thinking: maybe it’s time to change my car. Why? Because so much has evolved. If carmakers",
+      "titleJa": "Scrumガイドの刷新は本当に必要か",
+      "summaryJa": "古い車と最新の車の機能差を例に、Scrumガイドの進化の必要性について論じた記事。技術や環境が急速に変化する中、Scrumガイドも時代に合わせてアップデートすべきかどうかを検討。プロジェクトマネジメント手法の継続的改善の重要性を提起しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,16 +60,6 @@
       "excerpt": "Project managers make decisions all day. We decide how to structure the work, who needs to be in a meeting, what needs escalating and whether a risk response is worth the effort. But the bigger the decision, the less likely it is to be ours to make. At some point, the choice belongs to the sponsor, project board or another senior leader. That’s where a different project management skill becomes important: helping the person with the authority make a good decision, at the right time, with enough information to understand the consequences. That is not the same as learning another decision-making",
       "titleJa": "プロジェクトマネージャーが経営判断を支援する8つの方法",
       "summaryJa": "プロジェクトマネージャーは日々意思決定を行いますが、重要度が高い決定はスポンサーや上級リーダーが行います。本記事は、権限を持つ者が適切なタイミングで十分な情報を基に良好な決定を下すことを支援する、プロジェクトマネジメントの重要なスキルについて解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Launched: Scrum Team Magazine",
-      "url": "https://www.scrum.org/resources/blog/launched-scrum-team-magazine",
-      "publishedAt": "2026-09-09T05:48:03.000Z",
-      "excerpt": "Image WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who demand excellence and quality. A publication that the Scrum community can take genuine pride in owning and showcasing. CONTENTS In this issue, you will ",
-      "titleJa": "Scrum Team Magazineが創刊",
-      "summaryJa": "Scrumコミュニティ向けの高品質な専門誌「Scrum Team Magazine」が創刊されました。ジュエリーやファッション業界など他分野では質の高い出版物が存在する一方、Scrum専門家向けの同等の媒体がなかったため、卓越性と品質を備えた出版物として企画されたものです。"
     },
     {
       "category": "QA",
