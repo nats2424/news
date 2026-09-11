@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-11T10:08:29.917Z",
+  "updatedAt": "2026-09-11T15:25:57.787Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Silicon Valley Product Group",
+      "title": "Strong Opinions, Loosely Held",
+      "url": "https://www.svpg.com/strong-opinions-loosely-held/",
+      "publishedAt": "2026-09-11T14:56:15.000Z",
+      "excerpt": "Note: This is the narrative version of a keynote talk for the Lenny & Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group.",
+      "titleJa": "強い意見を柔軟に保つ",
+      "summaryJa": "シリコンバレー・プロダクト・グループのキーノート講演を基にした記事。プロダクトマネジャーが過去に正しいと主張していた事柄の中で、現在は見方が変わったものについて考察。変化する環境下での意思決定哲学と信念の再検討について論じています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
