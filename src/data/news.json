@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-10T20:10:54.207Z",
+  "updatedAt": "2026-09-11T01:52:04.408Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Reality Doesn't Need Your Permission to Escalate",
+      "url": "https://www.scrum.org/resources/blog/reality-doesnt-need-your-permission-escalate",
+      "publishedAt": "2026-09-10T22:00:00.000Z",
+      "excerpt": "\"Let's get this to green by Friday.\" Not the work. The status. The work was exactly where it had been on Monday, which is to say not ready, and everyone in the room knew it. But the report was due, red items invited questions, and questions invited attention nobody wanted. So a yellow became a green, a risk got \"closed,\" and the one engineer who kept insisting the release wasn't ready was thanked for his diligence and quietly dropped from the next invite. The dashboard turned green. The release stayed exactly as unready as it had always been. Reality, it turns out, does not attend the status m",
+      "titleJa": "現実は許可を求めない：エスカレーション問題",
+      "summaryJa": "プロジェクトマネジメントにおいて、実際の作業状況を隠蔽し、ステータスレポートだけを見かけ上「緑」にする行為の危険性を指摘。リスク隠蔽による虚偽報告は真の問題解決を妨げ、リリースの不備が潜在したまま進行することになる。現実の課題は報告書では変わらず、チーム内の懸念を無視することの弊害を警告している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,16 +60,6 @@
       "excerpt": "Image WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who demand excellence and quality. A publication that the Scrum community can take genuine pride in owning and showcasing. CONTENTS In this issue, you will ",
       "titleJa": "Scrum Team Magazineが創刊",
       "summaryJa": "Scrumコミュニティ向けの高品質な専門誌「Scrum Team Magazine」が創刊されました。ジュエリーやファッション業界など他分野では質の高い出版物が存在する一方、Scrum専門家向けの同等の媒体がなかったため、卓越性と品質を備えた出版物として企画されたものです。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your retro is a support group, not an engine.",
-      "url": "https://www.scrum.org/resources/blog/your-retro-support-group-not-engine",
-      "publishedAt": "2026-09-08T22:00:00.000Z",
-      "excerpt": "Image Every couple of weeks, the team stops to reflect. People show up. They talk about what went well and what didn't. Someone captures it on sticky notes or a board. Everyone nods. The hour ends on time. And the next two weeks look exactly like the last two. If that's your retro, you're not alone, and your team isn't broken. You've got a meeting that produces conversation and calls it improvement. The talking is real. The change never arrives. Here's the tell. Go back to your last three retros and find one thing that actually changed because of them. Not \"we discussed it.\" Changed. A decisio",
-      "titleJa": "レトロスペクティブは支援の場、改善エンジンではない",
-      "summaryJa": "多くのチームのレトロスペクティブは、議論は活発だが実際の改善につながっていない。付箋や議事録に記録されても、その後の行動変化がない場合、それは単なる会議に過ぎない。実質的な改善をもたらすには、議論の先の実行と具体的な決定が必要である。"
     },
     {
       "category": "QA",
