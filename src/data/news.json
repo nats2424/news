@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-12T14:33:19.948Z",
+  "updatedAt": "2026-09-12T19:48:35.183Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
+      "publishedAt": "2026-09-12T17:45:34.000Z",
+      "excerpt": "Community Wisdom 298",
+      "titleJa": "🧠 コミュニティの知恵：AI バスケットボールコーチング、Jira vs. Linear、プラットフォームチームのビジネスケース構築など",
+      "summaryJa": "Lennyのニュースレターからのコミュニティ投稿。AI バスケットボールコーチング、プロジェクト管理ツール（Jira と Linear）の比較、プラットフォームチームへの投資を正当化するビジネスケース構築方法、および推奨される AI の活用事例など、プロダクトマネジメント領域の実践的なトピックを複数取り上げています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
@@ -142,16 +152,6 @@
       "summaryJa": "a16zのアニシュ・アチャリヤが、テクノロジー導入による雇用への懸念が根拠薄弱である理由、すべての職能がループ化するメカニズム、そしてコンシューマーAIの今後の進展について解説。組織構造とジョブ設計の変革について洞察を提供する。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Driving AI adoption when habits are the bottleneck, leveling up from APM to a mid-level PM role, converting a wave of new users to subscription, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-driving-ai-adoption",
-      "publishedAt": "2026-09-05T17:00:46.000Z",
-      "excerpt": "Community Wisdom 200",
-      "titleJa": "コミュニティの知恵：AI導入の障害となる習慣、APMからミッドレベルPMへのキャリアアップ、新規ユーザーのサブスク転換など",
-      "summaryJa": "Lennyのニュースレター「Community Wisdom 200」では、AI導入時に既存の習慣がいかに障害となるか、APM職からミッドレベルのプロダクトマネージャー職へのキャリアステップ、新規ユーザーをサブスクリプション顧客へ転換する施策など、プロダクト開発にまつわる複数のテーマについてコミュニティの実践的な知見が共有されている。"
-    },
-    {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "Project Communications: Take the Survey",
@@ -230,16 +230,6 @@
       "excerpt": "Nobody who creates actual products or does actual useful work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face do anything that matters. If you measured eyerolls per mention of KPIs, it would be equal to about half of the number of ears that heard that mention. Do you […]",
       "titleJa": "KPIについて知っておくべき意外な事実",
       "summaryJa": "実際に製品開発に携わる人間やテスト現場の実務者はKPIを重視しない。KPI測定が現場の実際の仕事に役立つことはほぼない。Satisficaの創設者James Bachが、現場の声を代表して、KPIの限界と実務的な有効性の乖離について指摘している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to calculate a ROM estimate and when to use it",
-      "url": "https://rebelsguidetopm.com/rom-estimate/",
-      "publishedAt": "2026-08-22T15:39:34.000Z",
-      "excerpt": "What is a ROM estimate? A rough order of magnitude estimate is used to give you a very high level view of potential project costs. Ideally, you’d be able to provide a definitive estimate, carefully created from loads of input from subject matter experts and plenty of research on past projects and their budgets. But in reality, we rarely have the time or luxury of being able to provide that level of estimate at the earliest stage of project. A ROM estimate is useful when you need to make a decision before you have enough information for a detailed estimate. It gives you an early indication of l",
-      "titleJa": "ROM推定値の計算方法と使用場面",
-      "summaryJa": "ROM(Rough Order of Magnitude)推定は、プロジェクト初期段階で詳細情報がない時に、概算コストを把握するために使用します。詳細な見積もりができない段階で意思決定が必要な場合、迅速な判断材料を提供する重要な手法です。"
     }
   ]
 }
