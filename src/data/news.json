@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T10:45:05.100Z",
+  "updatedAt": "2026-09-13T15:13:22.341Z",
   "items": [
     {
       "category": "PjM",
@@ -220,6 +220,16 @@
       "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
       "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
       "summaryJa": "メールや会議で説明したはずなのに、チーム間で解釈がズレることは多くあります。記事ではコミュニケーションモデルを活用し、メッセージが正しく伝わらない原因を診断する方法を解説。プロジェクトコミュニケーションの効果を高めるための異なるレンズを提供します。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "This Fact About KPIs May Surprise You",
+      "url": "https://www.satisfice.com/blog/archives/488189",
+      "publishedAt": "2026-08-24T02:34:04.000Z",
+      "excerpt": "Nobody who creates actual products or does actual useful work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face do anything that matters. If you measured eyerolls per mention of KPIs, it would be equal to about half of the number of ears that heard that mention. Do you […]",
+      "titleJa": "KPIについての意外な事実",
+      "summaryJa": "実際にプロダクト開発や実務に携わる人々は、KPIをほぼ重視していないという指摘。KPIが現場のメンバーに実質的な価値をもたらした例はほぼなく、むしろ言及されるたびに懐疑的な反応を招くことが多いと述べられている。"
     }
   ]
 }
