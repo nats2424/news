@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-13T01:50:30.420Z",
+  "updatedAt": "2026-09-13T10:45:05.100Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Reordering Your Backlog Is Zero Sum. Deleting From It Is Not.",
+      "url": "https://www.scrum.org/resources/blog/reordering-your-backlog-zero-sum-deleting-it-not",
+      "publishedAt": "2026-09-13T06:00:00.000Z",
+      "excerpt": "Image Open the Scrum Guide and look for a word that takes something out. Refinement is \"the act of breaking down and further defining Product Backlog items into smaller more precise items.\" The Product Owner is accountable for \"Ordering Product Backlog items.\" Work that misses the Definition of Done \"returns to the Product Backlog for future consideration.\" I have taught that document for twenty years and I have never found the sentence that lets an item leave. Every operation the framework names either adds items, splits one into several, or sequences what is already there. On its own that is",
+      "titleJa": "バックログの並べ替えはゼロサムゲーム。削除は違う。",
+      "summaryJa": "スクラムフレームワークではバックログアイテムの追加、分割、順序付けは明記されているが、アイテムを削除する操作は定義されていない。アイテムの削除とバックログの順序変更は異なる性質を持つという重要な区別について、Scrum Guideの記述を基に解説している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -60,16 +70,6 @@
       "excerpt": "Originally published on yuvalyeret.com. The oldest continuous-improvement metric works on your agent config There is a story about a Lean sensei who walked onto a factory floor, stopped at one workstation, looked at the standard work document posted above it, and told the manager he was cheating the company. He had not watched anyone work. He had not looked at throughput. He had noticed that the paper had yellowed. Standard work describes how the job is currently done best, so if the document has not changed, nobody has found a better way, or somebody has, and it never made it back into how th",
       "titleJa": "エージェント設定の継続改善を最後の更新日時で確認する",
       "summaryJa": "標準作業ドキュメントの更新状況を改善指標として活用する重要性を説く。Lean哲学に基づき、ドキュメントが更新されない状態は誰も改善策を発見していないか、または改善が現場に反映されていない可能性を示唆しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "KI-Transformationen und agile Transformationen gleichen sich 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/ki-transformationen-und-agile-transformationen-gleichen-sich",
-      "publishedAt": "2026-09-10T11:32:33.000Z",
-      "excerpt": "In Kürze: KI-Transformationen und agile Transformationen gleichen sich Die Einführung von KI scheint zu skalieren: Gut ein Drittel der Befragten in McKinseys Umfrage von 2026 berichtet von einem EBIT-Effekt durch KI, und laut Gartner hat gut ein Fünftel der Organisationen KI über Geschäftsbereiche hinweg skaliert. Nun haben agile Praktiker diese Kombination schon einmal erlebt, denn KI-Transformationen und agile Transformationen gleichen sich. Fünf klassische Muster des Scheiterns aus den Abenteuern der agilen Transformationen sind unter neuen Namen zurückgekehrt: von der Anordnung von oben üb",
-      "titleJa": "AI変革とアジャイル変革の共通パターン",
-      "summaryJa": "AI導入の拡大に伴い、AI変革とアジャイル変革が類似したパターンに直面していることを指摘。アジャイル変革で経験した典型的な失敗パターン5つが、新しい名前で再び現れていることを警告しています。"
     },
     {
       "category": "PjM",
@@ -220,16 +220,6 @@
       "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
       "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
       "summaryJa": "メールや会議で説明したはずなのに、チーム間で解釈がズレることは多くあります。記事ではコミュニケーションモデルを活用し、メッセージが正しく伝わらない原因を診断する方法を解説。プロジェクトコミュニケーションの効果を高めるための異なるレンズを提供します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "This Fact About KPIs May Surprise You",
-      "url": "https://www.satisfice.com/blog/archives/488189",
-      "publishedAt": "2026-08-24T02:34:04.000Z",
-      "excerpt": "Nobody who creates actual products or does actual useful work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face do anything that matters. If you measured eyerolls per mention of KPIs, it would be equal to about half of the number of ears that heard that mention. Do you […]",
-      "titleJa": "KPIについて知っておくべき意外な事実",
-      "summaryJa": "実際に製品開発に携わる人間やテスト現場の実務者はKPIを重視しない。KPI測定が現場の実際の仕事に役立つことはほぼない。Satisficaの創設者James Bachが、現場の声を代表して、KPIの限界と実務的な有効性の乖離について指摘している。"
     }
   ]
 }
