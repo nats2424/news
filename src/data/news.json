@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-14T02:07:43.227Z",
+  "updatedAt": "2026-09-14T11:08:48.256Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Can Your Team Name the Work It Already Runs With AI?",
+      "url": "https://www.scrum.org/resources/blog/can-your-team-name-work-it-already-runs-ai",
+      "publishedAt": "2026-09-14T09:44:54.000Z",
+      "excerpt": "TL;DR: The AI Workflow Inventory Finalizes the A3 Delegation System You probably know your own AI shortcuts: the colleague who drafts the stakeholder update, the nightly job somebody set up before they left, the interview notes that go through a model on demand. However, I want to challenge you: that perceived knowledge can create false confidence, because it feels like knowing the team’s way of working with AI, when it is still only a diffuse understanding of the practice. Ask the team to combine those individual accounts into one list, and you may discover how little of the whole anyone can ",
+      "titleJa": "AIで実行しているワークフローをチームが認識できていますか",
+      "summaryJa": "個々のAI活用方法への認識では、チーム全体の実践を十分に理解したことにはなりません。チームメンバーの個別事例を統一的なリストにまとめることで、AI活用の実態を可視化し、より正確な認識を得ることができます。これは組織のAI導入における重要なステップです。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Deep Market Research with AI for Product Owners",
+      "url": "https://www.scrum.org/resources/blog/deep-market-research-ai-product-owners",
+      "publishedAt": "2026-09-14T08:51:25.000Z",
+      "excerpt": "Doing market research generally demands a lot of time, effort, and budget. But with the advent of AI, you can leverage it as a highly productive assistant to do deep market research. Let’s see how. Image I want to show you the process with an example. Imagine I want to start a business in the education sector. The idea is this. For buying goods, we have a well-known platform, Amazon, that you can instantly open, search for your goods, compare them with similar goods, and finally purchase them. Amazon is usually top of mind for millions of people worldwide. Training Platform Initiative Now, let",
+      "titleJa": "プロダクトオーナー向けAIを活用した深掘り市場調査",
+      "summaryJa": "従来、市場調査には多くの時間とコストがかかりますが、AIを活用することで効率的に実施できます。本記事では、教育事業開始を例として、AIがどのように市場調査プロセスを支援し、迅速かつ詳細な情報収集を可能にするかを紹介しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "TEAMWORK: From the Individual Lens to the Collective Lens",
+      "url": "https://www.scrum.org/resources/blog/teamwork-individual-lens-collective-lens",
+      "publishedAt": "2026-09-14T02:44:28.000Z",
+      "excerpt": "How do we help people truly connect and work well together? The question has never been easy. We have invented countless ways to strengthen teamwork, yet few of them work, and those that do rarely last. Between 2012 and 2015, Google looked for what makes a team succeed through its well-known Project Aristotle. It began by assuming the answer lay in bringing exceptional individuals together. It found that success depends not on who is on the team, but on how the team works together. The research pointed to five factors: Psychological Safety Dependability Structure & Clarity Meaning Impact Image",
+      "titleJa": "チームワーク：個人視点から集団視点への転換",
+      "summaryJa": "GoogleのProject Aristotleの研究により、チームの成功は優秀な個人を集めることではなく、チーム内の相互作用に依存することが判明しました。心理的安全性、説明責任、目的の明確さなど5つの要因が、実質的なチームワークを実現するための鍵であることが示されています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -40,36 +70,6 @@
       "excerpt": "My current car is a Peugeot 508, over ten years old, yet still a great car that I genuinely love. But recently, one of my friends bought a brand-new car and invited me inside to check out the interior and features. My reaction? Wow. A large, high-quality screen with big, responsive buttons to manage everything with a smooth touch; an elegant dashboard with almost no physical knobs (not even a gear stick); dynamic lighting, to name a few. It was a whole new experience I hadn’t expected. That moment got me thinking: maybe it’s time to change my car. Why? Because so much has evolved. If carmakers",
       "titleJa": "Scrumガイドの刷新は本当に必要か",
       "summaryJa": "古い車と最新の車の機能差を例に、Scrumガイドの進化の必要性について論じた記事。技術や環境が急速に変化する中、Scrumガイドも時代に合わせてアップデートすべきかどうかを検討。プロジェクトマネジメント手法の継続的改善の重要性を提起しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Reality Doesn't Need Your Permission to Escalate",
-      "url": "https://www.scrum.org/resources/blog/reality-doesnt-need-your-permission-escalate",
-      "publishedAt": "2026-09-10T22:00:00.000Z",
-      "excerpt": "\"Let's get this to green by Friday.\" Not the work. The status. The work was exactly where it had been on Monday, which is to say not ready, and everyone in the room knew it. But the report was due, red items invited questions, and questions invited attention nobody wanted. So a yellow became a green, a risk got \"closed,\" and the one engineer who kept insisting the release wasn't ready was thanked for his diligence and quietly dropped from the next invite. The dashboard turned green. The release stayed exactly as unready as it had always been. Reality, it turns out, does not attend the status m",
-      "titleJa": "現実は許可を求めない：エスカレーション問題",
-      "summaryJa": "プロジェクトマネジメントにおいて、実際の作業状況を隠蔽し、ステータスレポートだけを見かけ上「緑」にする行為の危険性を指摘。リスク隠蔽による虚偽報告は真の問題解決を妨げ、リリースの不備が潜在したまま進行することになる。現実の課題は報告書では変わらず、チーム内の懸念を無視することの弊害を警告している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The AI Fluency Gap. Why Most Product Teams Are Stuck",
-      "url": "https://www.scrum.org/resources/blog/ai-fluency-gap-why-most-product-teams-are-stuck",
-      "publishedAt": "2026-09-10T16:38:59.000Z",
-      "excerpt": "Image Learning foreign languages was never my skill. I still think back to high school, when my French teacher looked at me disparagingly during our oral exam. It came as no surprise that I failed, not because my vocab was not great, but because I was not able to really communicate with Madam McGregor. And from my observations when visiting product teams, we have a similar problem with AI adoption. Great vocab, but poor fluency. I chose the word fluency on purpose. AI Fluency works the same way it does with a language: you can know enough to order a beer and still be nowhere close to fluent. T",
-      "titleJa": "AI導入における流暢性のギャップ",
-      "summaryJa": "プロダクトチームのAI導入において、用語知識はあるものの実際の活用能力が不足している問題を指摘。言語習得と同じく、AIについても「流暢性」が重要であり、断片的な知識では実用的なコミュニケーションや意思決定ができないことを強調しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Is Your Agent Harness Still Learning? Check Its Last Updated Time.",
-      "url": "https://www.scrum.org/resources/blog/your-agent-harness-still-learning-check-its-last-updated-time",
-      "publishedAt": "2026-09-10T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. The oldest continuous-improvement metric works on your agent config There is a story about a Lean sensei who walked onto a factory floor, stopped at one workstation, looked at the standard work document posted above it, and told the manager he was cheating the company. He had not watched anyone work. He had not looked at throughput. He had noticed that the paper had yellowed. Standard work describes how the job is currently done best, so if the document has not changed, nobody has found a better way, or somebody has, and it never made it back into how th",
-      "titleJa": "エージェント設定の継続改善を最後の更新日時で確認する",
-      "summaryJa": "標準作業ドキュメントの更新状況を改善指標として活用する重要性を説く。Lean哲学に基づき、ドキュメントが更新されない状態は誰も改善策を発見していないか、または改善が現場に反映されていない可能性を示唆しています。"
     },
     {
       "category": "PjM",
@@ -210,26 +210,6 @@
       "excerpt": "About This Episode: Is 60% of your week going to Playwright maintenance? An AI wrote you hundreds of tests but […]",
       "titleJa": "Shiplight、Vibium新版、Pydantic AI、Playwrightほか TGNS194",
       "summaryJa": "本エピソードでは、Playwrightのメンテナンスに多くの時間を費やしている課題や、AIが生成した大量のテストの管理方法などについて取り上げています。Shiplight、Vibiumの新版リリース、Pydantic AIなど、QAエンジニアにとって注目すべき最新ツール・トレンドが紹介されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "4 Communication Models Every Project Manager Should Know",
-      "url": "https://rebelsguidetopm.com/communication-models/",
-      "publishedAt": "2026-08-24T07:49:33.000Z",
-      "excerpt": "You sent the email. You explained the requirement. Everyone nodded in the meeting. And yet, two weeks later, people have interpreted the message differently. Communication models aren't just academic diagrams: they give project managers different lenses for diagnosing why communication isn't landing. And given that project communication is a huge part of most people's jobs, it's worth understanding a bit about it. What are communication models? Models of communication are ways of understanding how communication flows between individuals and groups. There are lots of ways to improve project com",
-      "titleJa": "プロジェクトマネージャーが知るべき4つのコミュニケーションモデル",
-      "summaryJa": "メールや会議で説明したはずなのに、チーム間で解釈がズレることは多くあります。記事ではコミュニケーションモデルを活用し、メッセージが正しく伝わらない原因を診断する方法を解説。プロジェクトコミュニケーションの効果を高めるための異なるレンズを提供します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "This Fact About KPIs May Surprise You",
-      "url": "https://www.satisfice.com/blog/archives/488189",
-      "publishedAt": "2026-08-24T02:34:04.000Z",
-      "excerpt": "Nobody who creates actual products or does actual useful work cares about KPIs. I’ve never heard of a KPI helping someone at the coal face do anything that matters. If you measured eyerolls per mention of KPIs, it would be equal to about half of the number of ears that heard that mention. Do you […]",
-      "titleJa": "KPIについての意外な事実",
-      "summaryJa": "実際にプロダクト開発や実務に携わる人々は、KPIをほぼ重視していないという指摘。KPIが現場のメンバーに実質的な価値をもたらした例はほぼなく、むしろ言及されるたびに懐疑的な反応を招くことが多いと述べられている。"
     }
   ]
 }
