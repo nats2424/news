@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-14T17:10:28.742Z",
+  "updatedAt": "2026-09-14T21:08:27.471Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Software review: DHTMLX Gantt",
+      "url": "https://rebelsguidetopm.com/software-review-dhtmlx-gantt/",
+      "publishedAt": "2026-09-14T18:47:53.000Z",
+      "excerpt": "General information Name: DHTMLX Gantt Vendor: DHTMLX Hosting options: Needs to be self-hosted; designed to be embedded in an existing application Cost and plans: Free 30 day trial so you can test it in your app. Perpetual licences start at $799 (individual, limited use licence) and scale up, and there are cost-efficient bundles that loop... This article first appeared on Rebel's Guide to Project Management and can be read here: Software review: DHTMLX Gantt",
+      "titleJa": "ソフトウェアレビュー：DHTMLX Gantt",
+      "summaryJa": "プロジェクト管理ツールのDHMLTX Ganttについてのレビュー記事。自社サーバー上に組み込むタイプで、30日間の無料トライアルが利用でき、個別ライセンスは799ドルから、スケーラブルな価格設定と複数のバンドルオプションが提供されています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Gallery Walk to IT Roadmap",
+      "url": "https://www.scrum.org/resources/blog/gallery-walk-it-roadmap",
+      "publishedAt": "2026-09-14T18:04:04.000Z",
+      "excerpt": "How do you get meaningful input from an entire IT department without getting everyone in the same meeting or hearing only a few of the loudest voices? A few years ago, I faced that problem with a well-known consumer products company. The leadership team was creating a five-year IT roadmap and wanted input from developers, architects, business analysts, project managers and others across the whole department. A survey would have been easier. But would people participate? And even if they did, would a survey spark creative thinking or surface the best ideas? Doubtful. Instead, we ran a departmen",
+      "titleJa": "ギャラリーウォークでIT戦略図を作成する",
+      "summaryJa": "IT部門全体から実質的な意見を集める際の課題に対して、全員を一つの会議に集めたり、声の大きい少数だけの意見を聞くのではなく、ギャラリーウォーク手法を活用した解決策を紹介。5年間のIT戦略図策定において、開発者、アーキテクト、ビジネスアナリスト、プロジェクトマネージャーなど部門全体から創造的なアイデアを効果的に引き出す方法を解説しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -60,16 +80,6 @@
       "excerpt": "TL;DR: The AI Workflow Inventory Finalizes the A3 Delegation System You probably know your own AI shortcuts: the colleague who drafts the stakeholder update, the nightly job somebody set up before they left, the interview notes that go through a model on demand. However, I want to challenge you: that perceived knowledge can create false confidence, because it feels like knowing the team’s way of working with AI, when it is still only a diffuse understanding of the practice. Ask the team to combine those individual accounts into one list, and you may discover how little of the whole anyone can ",
       "titleJa": "AIで実行しているワークフローをチームが認識できていますか",
       "summaryJa": "個々のAI活用方法への認識では、チーム全体の実践を十分に理解したことにはなりません。チームメンバーの個別事例を統一的なリストにまとめることで、AI活用の実態を可視化し、より正確な認識を得ることができます。これは組織のAI導入における重要なステップです。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Deep Market Research with AI for Product Owners",
-      "url": "https://www.scrum.org/resources/blog/deep-market-research-ai-product-owners",
-      "publishedAt": "2026-09-14T08:51:25.000Z",
-      "excerpt": "Doing market research generally demands a lot of time, effort, and budget. But with the advent of AI, you can leverage it as a highly productive assistant to do deep market research. Let’s see how. Image I want to show you the process with an example. Imagine I want to start a business in the education sector. The idea is this. For buying goods, we have a well-known platform, Amazon, that you can instantly open, search for your goods, compare them with similar goods, and finally purchase them. Amazon is usually top of mind for millions of people worldwide. Training Platform Initiative Now, let",
-      "titleJa": "プロダクトオーナー向けAIを活用した深掘り市場調査",
-      "summaryJa": "従来、市場調査には多くの時間とコストがかかりますが、AIを活用することで効率的に実施できます。本記事では、教育事業開始を例として、AIがどのように市場調査プロセスを支援し、迅速かつ詳細な情報収集を可能にするかを紹介しています。"
     },
     {
       "category": "PdM",
