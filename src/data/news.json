@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-14T11:08:48.256Z",
+  "updatedAt": "2026-09-14T17:10:28.742Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
+      "publishedAt": "2026-09-14T15:03:48.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "SpaceX AIのデザイナーがGrok Botを活用する方法",
+      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、SpaceX AIのデザイナー2名がGrok Botというツールを業務でどのように活用しているかについて紹介するポッドキャストエピソード。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Measure AI Impact Beyond Token Caps",
+      "url": "https://www.scrum.org/resources/blog/how-measure-ai-impact-beyond-token-caps",
+      "publishedAt": "2026-09-14T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. The token cap is the least interesting number in your AI budget Somewhere in your company right now, someone is trying to decide whether an employee should get $100, $300, or $1,000 a month of AI spend. It is a real question with a real invoice behind it, and it is also the wrong place to start, because there is no cap number that is defensible on its own. Set it low and you throttle the experiments that would have told you something. Set it high and you have no way to distinguish a team burning tokens on work that shipped from a team burning tokens on s",
+      "titleJa": "AI予算の真の効果測定法：トークンキャップを超えて",
+      "summaryJa": "従業員のAI支出予算を設定する際、固定的なトークンキャップでは不十分であることを指摘。実際の投資対効果を測定するための評価指標や考え方を提案し、単なるコスト管理ではなく実験と学習を最適化する予算配分の重要性を論じている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Hey Scrum Masters, If Your Goal Is to Make Yourself Obsolete, You've Already Stopped Growing",
+      "url": "https://www.scrum.org/resources/blog/hey-scrum-masters-if-your-goal-make-yourself-obsolete-youve-already-stopped-growing",
+      "publishedAt": "2026-09-14T12:21:00.000Z",
+      "excerpt": "Image I keep hearing it at meetups, in interviews, on LinkedIn. A Scrum Master says, with a straight face and a bit of pride: \"my job is to make myself obsolete.\" And every time I hear it, I think: so you've decided when you're done growing? The three levels of serving The Scrum Guide says the Scrum Master serves the Scrum Team, the Product Owner, and the organisation. Three levels, all pointing outward. Coach the team toward self management. Help the PO with the Product Goal, Backlog. Lead the organisation in its adoption. Fine. But in my opinion there odd to be a fourth level, and it is actu",
+      "titleJa": "スクラムマスターの成長は「自動化」で終わらない",
+      "summaryJa": "スクラムマスターが「自分の役割を不要にすることが目標」という発言をよく耳にするが、これは成長の終わりを意味する。スクラムガイドで示される3つのサービスレベル（チーム・PO・組織）を超えた、より深い貢献を目指すべきと主張している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
+      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
+      "publishedAt": "2026-09-14T12:04:39.000Z",
+      "excerpt": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
+      "titleJa": "AIエージェントで実現するデザインワークフロー革新",
+      "summaryJa": "SpaceX AIのデザイナーJohn BaiとPeng Zhengが、Grok Botを使ってFigmaをジムから操作したり、ポートフォリオを自動更新したり、アイデアから動作するプロトタイプまで迅速に実現する方法を紹介。42分のインタビュー形式で実践例を交えて解説している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Coffee and Scrum - is there a connection?",
+      "url": "https://www.scrum.org/resources/blog/coffee-and-scrum-there-connection",
+      "publishedAt": "2026-09-14T12:02:49.000Z",
+      "excerpt": "Years ago when I was a Scrum Master for a great team we had a ritual. Right before the Daily Scrum, we would walk to our tea/coffee station and fill up our cups with our choice of drink and then walk back to our Jira board to inspect our progress. And I assume, a lot of other teams also do the same. Grabbing their favorite drink, right before starting their day. At that time, coffee was just a drink, coming out of the machine and I never cared much about the science and recipes behind a great cup. A week ago, I completed my “barista” training and I was blown away by the amount of work that goe",
+      "titleJa": "スクラムとコーヒー文化の意外な関係性",
+      "summaryJa": "デイリースクラムの前にコーヒーを淹れるチームの日常から出発し、バリスタ訓練を通じて発見した良いコーヒーの製造プロセスが、スクラムのプロセス改善哲学と共通するテーマについて考察する記事。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -22,26 +72,6 @@
       "summaryJa": "従来、市場調査には多くの時間とコストがかかりますが、AIを活用することで効率的に実施できます。本記事では、教育事業開始を例として、AIがどのように市場調査プロセスを支援し、迅速かつ詳細な情報収集を可能にするかを紹介しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "TEAMWORK: From the Individual Lens to the Collective Lens",
-      "url": "https://www.scrum.org/resources/blog/teamwork-individual-lens-collective-lens",
-      "publishedAt": "2026-09-14T02:44:28.000Z",
-      "excerpt": "How do we help people truly connect and work well together? The question has never been easy. We have invented countless ways to strengthen teamwork, yet few of them work, and those that do rarely last. Between 2012 and 2015, Google looked for what makes a team succeed through its well-known Project Aristotle. It began by assuming the answer lay in bringing exceptional individuals together. It found that success depends not on who is on the team, but on how the team works together. The research pointed to five factors: Psychological Safety Dependability Structure & Clarity Meaning Impact Image",
-      "titleJa": "チームワーク：個人視点から集団視点への転換",
-      "summaryJa": "GoogleのProject Aristotleの研究により、チームの成功は優秀な個人を集めることではなく、チーム内の相互作用に依存することが判明しました。心理的安全性、説明責任、目的の明確さなど5つの要因が、実質的なチームワークを実現するための鍵であることが示されています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Reordering Your Backlog Is Zero Sum. Deleting From It Is Not.",
-      "url": "https://www.scrum.org/resources/blog/reordering-your-backlog-zero-sum-deleting-it-not",
-      "publishedAt": "2026-09-13T06:00:00.000Z",
-      "excerpt": "Image Open the Scrum Guide and look for a word that takes something out. Refinement is \"the act of breaking down and further defining Product Backlog items into smaller more precise items.\" The Product Owner is accountable for \"Ordering Product Backlog items.\" Work that misses the Definition of Done \"returns to the Product Backlog for future consideration.\" I have taught that document for twenty years and I have never found the sentence that lets an item leave. Every operation the framework names either adds items, splits one into several, or sequences what is already there. On its own that is",
-      "titleJa": "バックログの並べ替えはゼロサムゲーム。削除は違う。",
-      "summaryJa": "スクラムフレームワークではバックログアイテムの追加、分割、順序付けは明記されているが、アイテムを削除する操作は定義されていない。アイテムの削除とバックログの順序変更は異なる性質を持つという重要な区別について、Scrum Guideの記述を基に解説している。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
@@ -60,16 +90,6 @@
       "excerpt": "Note: This is the narrative version of a keynote talk for the Lenny & Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group.",
       "titleJa": "強い意見を柔軟に保つ",
       "summaryJa": "シリコンバレー・プロダクト・グループのキーノート講演を基にした記事。プロダクトマネジャーが過去に正しいと主張していた事柄の中で、現在は見方が変わったものについて考察。変化する環境下での意思決定哲学と信念の再検討について論じています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Do We Need A New Scrum Guide?!",
-      "url": "https://www.scrum.org/resources/blog/do-we-need-new-scrum-guide",
-      "publishedAt": "2026-09-11T10:00:57.000Z",
-      "excerpt": "My current car is a Peugeot 508, over ten years old, yet still a great car that I genuinely love. But recently, one of my friends bought a brand-new car and invited me inside to check out the interior and features. My reaction? Wow. A large, high-quality screen with big, responsive buttons to manage everything with a smooth touch; an elegant dashboard with almost no physical knobs (not even a gear stick); dynamic lighting, to name a few. It was a whole new experience I hadn’t expected. That moment got me thinking: maybe it’s time to change my car. Why? Because so much has evolved. If carmakers",
-      "titleJa": "Scrumガイドの刷新は本当に必要か",
-      "summaryJa": "古い車と最新の車の機能差を例に、Scrumガイドの進化の必要性について論じた記事。技術や環境が急速に変化する中、Scrumガイドも時代に合わせてアップデートすべきかどうかを検討。プロジェクトマネジメント手法の継続的改善の重要性を提起しています。"
     },
     {
       "category": "PjM",
@@ -130,26 +150,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "GPT-6 Astraの実力検証とStripeのAI戦略、エージェントスタック刷新の理由",
       "summaryJa": "最新のAIモデルやStripeのAI活用事例、複数のエージェント技術の比較検討など、AIツール導入の実践的な知見をまとめたポッドキャスト。企業でのAI活用戦略を検討する際の参考となる情報が提供されている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Build your own company brain: the enterprise AI playbook from Stripe’s engineering team | Sharadh Krishnamurthy",
-      "url": "https://www.lennysnewsletter.com/p/build-your-own-company-brain-the",
-      "publishedAt": "2026-09-07T12:04:19.000Z",
-      "excerpt": "Watch now | 🎙️ Learn how Stripe scaled AI to everyone at a complex global company by building context, governance, and a shared skills platform directly into their internal agent",
-      "titleJa": "Stripeのエンジニアリングチームに学ぶ企業AI導入の実践ガイド",
-      "summaryJa": "グローバル企業におけるAI導入を成功させるため、Stripeがコンテキスト管理、ガバナンス、スキル共有プラットフォームを統合したインターナルエージェント構築の事例を紹介。複雑な組織環境でのAI展開戦略を学べる内容。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Why companies are becoming a series of loops | Anish Acharya (a16z)",
-      "url": "https://www.lennysnewsletter.com/p/why-companies-are-becoming-a-series",
-      "publishedAt": "2026-09-06T12:32:00.000Z",
-      "excerpt": "Anish Acharya on why the permanent-underclass fear is wrong, how every job function becomes a loop, and where consumer AI is headed",
-      "titleJa": "企業が一連のループ構造へ進化する理由",
-      "summaryJa": "a16zのアニシュ・アチャリヤが、テクノロジー導入による雇用への懸念が根拠薄弱である理由、すべての職能がループ化するメカニズム、そしてコンシューマーAIの今後の進展について解説。組織構造とジョブ設計の変革について洞察を提供する。"
     },
     {
       "category": "PjM",
