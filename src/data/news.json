@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-15T02:14:40.097Z",
+  "updatedAt": "2026-09-15T10:37:10.435Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Na era da IA, ainda está a medir trabalho e esforço?   ou finalmente a medir valor?",
+      "url": "https://www.scrum.org/resources/blog/na-era-da-ia-ainda-esta-medir-trabalho-e-esforco-ou-finalmente-medir-valor",
+      "publishedAt": "2026-09-15T10:06:32.000Z",
+      "excerpt": "Image Durante décadas habituámo-nos a medir trabalho através daquilo que conseguimos ver: Horas trabalhadas Número de tarefas concluídas Tickets fechados Linhas de código Story Points entregues Número de funcionalidades lançadas Projetos terminados dentro do prazo São números confortáveis porque são fáceis de contar. Mas existe um problema: atividade não é valor. E num mundo de trabalho de conhecimento, acelerado pela Inteligência Artificial, esta distinção torna-se ainda mais importante. A IA está a tornar as métricas de atividade ainda menos relevantes Analisamos duas equipas: A primeira ent",
+      "titleJa": "AI時代に必要な指標転換：活動量から価値へ",
+      "summaryJa": "従来、プロジェクト管理では労働時間やタスク完了数などの目に見える活動量を指標としてきました。しかし、知識労働の時代、特にAIの急速な進展に伴い、活動量は価値を示す指標として関連性を失いつつあります。本記事では、実際のチーム事例を通じて、活動ベースの測定から価値ベースの測定への転換の重要性を述べています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Leaders Warn: With The Current Pace Of AI Development, AI Could Kill Us All Soon",
+      "url": "https://www.scrum.org/resources/blog/ai-leaders-warn-current-pace-ai-development-ai-could-kill-us-all-soon",
+      "publishedAt": "2026-09-15T06:25:12.000Z",
+      "excerpt": "CNN ran an Interview with Anthropic’s CEO, Dario Amodei, in which he acknowledged one of his former employee's claim that, at the current pace of AI development, AI could kill us all soon. It shocked me, and I think it is that important that all Agile Professionals should be aware of it. So, I decided to share it through a blog post. Here are the main topics of their conversation: Urgent Extinction Warnings: AI researchers warn that rapid industry progress creates severe risks of cyberattacks and bioterrorism, with experts estimating a greater than 10% chance of human extinction within the dec",
+      "titleJa": "AI指導者らが警告：現在のペースではAIが人類を脅かす可能性",
+      "summaryJa": "Anthropic CEOを含むAI研究者らが、現在のAI開発ペースでは サイバー攻撃やバイオテロリズムのリスクが深刻化し、今後10年以内に人類の絶滅の可能性が10%以上あると警告しています。アジャイルプロフェッショナルにとっても、このAIセキュリティリスクについての認識が重要だと指摘されています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -60,26 +80,6 @@
       "excerpt": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
       "titleJa": "AIエージェントで実現するデザインワークフロー革新",
       "summaryJa": "SpaceX AIのデザイナーJohn BaiとPeng Zhengが、Grok Botを使ってFigmaをジムから操作したり、ポートフォリオを自動更新したり、アイデアから動作するプロトタイプまで迅速に実現する方法を紹介。42分のインタビュー形式で実践例を交えて解説している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Coffee and Scrum - is there a connection?",
-      "url": "https://www.scrum.org/resources/blog/coffee-and-scrum-there-connection",
-      "publishedAt": "2026-09-14T12:02:49.000Z",
-      "excerpt": "Years ago when I was a Scrum Master for a great team we had a ritual. Right before the Daily Scrum, we would walk to our tea/coffee station and fill up our cups with our choice of drink and then walk back to our Jira board to inspect our progress. And I assume, a lot of other teams also do the same. Grabbing their favorite drink, right before starting their day. At that time, coffee was just a drink, coming out of the machine and I never cared much about the science and recipes behind a great cup. A week ago, I completed my “barista” training and I was blown away by the amount of work that goe",
-      "titleJa": "スクラムとコーヒー文化の意外な関係性",
-      "summaryJa": "デイリースクラムの前にコーヒーを淹れるチームの日常から出発し、バリスタ訓練を通じて発見した良いコーヒーの製造プロセスが、スクラムのプロセス改善哲学と共通するテーマについて考察する記事。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Can Your Team Name the Work It Already Runs With AI?",
-      "url": "https://www.scrum.org/resources/blog/can-your-team-name-work-it-already-runs-ai",
-      "publishedAt": "2026-09-14T09:44:54.000Z",
-      "excerpt": "TL;DR: The AI Workflow Inventory Finalizes the A3 Delegation System You probably know your own AI shortcuts: the colleague who drafts the stakeholder update, the nightly job somebody set up before they left, the interview notes that go through a model on demand. However, I want to challenge you: that perceived knowledge can create false confidence, because it feels like knowing the team’s way of working with AI, when it is still only a diffuse understanding of the practice. Ask the team to combine those individual accounts into one list, and you may discover how little of the whole anyone can ",
-      "titleJa": "AIで実行しているワークフローをチームが認識できていますか",
-      "summaryJa": "個々のAI活用方法への認識では、チーム全体の実践を十分に理解したことにはなりません。チームメンバーの個別事例を統一的なリストにまとめることで、AI活用の実態を可視化し、より正確な認識を得ることができます。これは組織のAI導入における重要なステップです。"
     },
     {
       "category": "PdM",
