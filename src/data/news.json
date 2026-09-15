@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-15T10:37:10.435Z",
+  "updatedAt": "2026-09-15T15:50:35.900Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Delivery Isn’t Free - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/delivery-isnt-free-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-09-15T13:00:58.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Everyone's saying it: \"Now that AI makes delivery free…\" But is it? In this episode of All Things Product, Petra Wille and Teresa Torres pull apart one of the most repeated claims in product right now. They",
+      "titleJa": "配信コストはゼロではない—All Things Productポッドキャスト",
+      "summaryJa": "Teresa TorresとPetra Willeが、「AI時代には配信コストが無料」という業界で繰り返される主張を検証。プロダクト開発における実際のコスト構造と隠れたトレードオフを解き明かす。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "60+ new creative growth ideas",
+      "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
+      "publishedAt": "2026-09-15T12:45:28.000Z",
+      "excerpt": "How to stand out when everyone is running the same playbook",
+      "titleJa": "60以上の創造的グロースアイデア集",
+      "summaryJa": "同じプレイブックを実行する競合と差別化するための方法論を提示。プロダクト成長戦略における創意工夫と独自性の重要性に焦点を当てた実践的なアイデア集。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The North Star Metric Was Never the Business",
+      "url": "https://www.productcoalition.com/p/the-north-star-metric-was-never-the",
+      "publishedAt": "2026-09-15T11:28:34.000Z",
+      "excerpt": "From 2015 to today, the archive shows one number moving from KPI to rule to warning",
+      "titleJa": "北極星メトリクスはビジネスではなかった",
+      "summaryJa": "2015年から現在まで、ある数値がKPIから経営ルール、そして警告信号へと変化してきた過程を追跡。プロダクト戦略における単一指標への依存が抱える問題と、その認識の変遷を論じている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -150,16 +180,6 @@
       "excerpt": "Acquisition metrics flatter you. CLTV tells you whether you built a business.",
       "titleJa": "獲得数指標では本当の成長は見えない",
       "summaryJa": "アクイジション指標は表面的な成功を示すだけだが、顧客生涯価値（CLTV）こそが真の事業価値を測定する指標である。持続可能なビジネス構築の重要性について論じている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: GPT-6 Astra is a banger + Stripe’s AI playbook + Grok Bot vs. OpenClaw: why I replaced my entire agent stack",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-gpt-6-astra-is-a-banger",
-      "publishedAt": "2026-09-07T15:02:41.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "GPT-6 Astraの実力検証とStripeのAI戦略、エージェントスタック刷新の理由",
-      "summaryJa": "最新のAIモデルやStripeのAI活用事例、複数のエージェント技術の比較検討など、AIツール導入の実践的な知見をまとめたポッドキャスト。企業でのAI活用戦略を検討する際の参考となる情報が提供されている。"
     },
     {
       "category": "PjM",
