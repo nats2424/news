@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-15T15:50:35.900Z",
+  "updatedAt": "2026-09-15T20:35:25.236Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "How to Stay Irreplaceable When Agents Write Your Tests with Jonathon Wright",
+      "url": "https://testguild.com/podcast/a604-jonathon/",
+      "publishedAt": "2026-09-15T15:02:43.000Z",
+      "excerpt": "About This Episode: Is AI going to replace software testers, or make them more valuable than they have ever been? Jonathon […]",
+      "titleJa": "AIの時代、ソフトウェアテスターが不可欠な存在であり続けるには",
+      "summaryJa": "AIエージェントがテスト自動化を担当する時代において、ソフトウェアテスターが市場価値を高め、代替不可能な人材になるための方法や戦略について、Jonathon Wrightが考察する。テスターの役割の変化と進化する価値提供について探討するエピソード。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
