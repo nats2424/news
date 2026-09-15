@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T21:08:27.471Z",
+  "updatedAt": "2026-09-15T02:14:40.097Z",
   "items": [
     {
       "category": "PjM",
@@ -210,16 +210,6 @@
       "excerpt": "I deliberately make tiny investments in learning opportunities for me and my colleagues. Yesterday I was reviewing a PR which had a large number of edits to data using a few patterns applied in many places. Unfortunately, the edits were embedded in non-trivial contexts which made the diffs less easy to eyeball than I might have hoped. Here's an invented example that gives a flavour of the problem. The first line is an original, the second an edit: - (ab)38458345023421-5-7345234D + (ab)038458345023421-5-7345234 $ git diff | grep \"^- \" | sed 's/(ab)3/(ab)03/' | sed 's/D$//' | sed 's/-/+/' > mych",
       "titleJa": "コードレビューを効率化する—パターンマッチングの活用法",
       "summaryJa": "PRレビュー時に複数箇所で同じパターンの編集が行われている場合、diffの可視性が低下する問題を扱っています。著者は複数の sed コマンドを組み合わせることで、パターンマッチングを効率化し、レビュー精度を向上させる手法を提案しています。チーム全体の学習機会への小さな投資がQAの質向上につながる事例です。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Shiplight, New Vibium Release,Pydantic AI and Playwright and More TGNS194",
-      "url": "https://testguild.com/podcast/n194-aug21/",
-      "publishedAt": "2026-08-25T01:45:26.000Z",
-      "excerpt": "About This Episode: Is 60% of your week going to Playwright maintenance? An AI wrote you hundreds of tests but […]",
-      "titleJa": "Shiplight、Vibium新版、Pydantic AI、Playwrightほか TGNS194",
-      "summaryJa": "本エピソードでは、Playwrightのメンテナンスに多くの時間を費やしている課題や、AIが生成した大量のテストの管理方法などについて取り上げています。Shiplight、Vibiumの新版リリース、Pydantic AIなど、QAエンジニアにとって注目すべき最新ツール・トレンドが紹介されています。"
     }
   ]
 }
