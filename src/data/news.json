@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-15T20:35:25.236Z",
+  "updatedAt": "2026-09-16T02:07:41.143Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The real meeting happens in the hallway.",
+      "url": "https://www.scrum.org/resources/blog/real-meeting-happens-hallway",
+      "publishedAt": "2026-09-15T22:00:00.000Z",
+      "excerpt": "Image The real meeting happens in the hallway. The meeting ends. Everyone agreed, or at least nobody disagreed. Then, two minutes later, the real conversation starts. In the corridor. In a side chat. In the small group that lingers after the call drops. \"I didn't want to derail it.\" \"I had concerns, but it wasn't the moment.\" \"Yeah, none of us actually bought that.\" The decision got made in a room that had all the information except the part that mattered. If that happens on your team, it isn't a sign people don't care. It's a sign they've done the math. Saying the hard thing in the room, to t",
+      "titleJa": "本当の議論は会議室の外で起こる",
+      "summaryJa": "公式な会議では全員が同意したように見えても、実際の本音の議論は会議後の廊下やサイドチャットで起こることがある。チームメンバーが重要な懸念を公開の場で言わないのは無関心ではなく、発言することのリスクを冷静に判断した結果である。このような状況が生じるのは、心理的安全性やコミュニケーション文化に改善の余地があることを示している。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -50,16 +60,6 @@
       "excerpt": "Image Durante décadas habituámo-nos a medir trabalho através daquilo que conseguimos ver: Horas trabalhadas Número de tarefas concluídas Tickets fechados Linhas de código Story Points entregues Número de funcionalidades lançadas Projetos terminados dentro do prazo São números confortáveis porque são fáceis de contar. Mas existe um problema: atividade não é valor. E num mundo de trabalho de conhecimento, acelerado pela Inteligência Artificial, esta distinção torna-se ainda mais importante. A IA está a tornar as métricas de atividade ainda menos relevantes Analisamos duas equipas: A primeira ent",
       "titleJa": "AI時代に必要な指標転換：活動量から価値へ",
       "summaryJa": "従来、プロジェクト管理では労働時間やタスク完了数などの目に見える活動量を指標としてきました。しかし、知識労働の時代、特にAIの急速な進展に伴い、活動量は価値を示す指標として関連性を失いつつあります。本記事では、実際のチーム事例を通じて、活動ベースの測定から価値ベースの測定への転換の重要性を述べています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Leaders Warn: With The Current Pace Of AI Development, AI Could Kill Us All Soon",
-      "url": "https://www.scrum.org/resources/blog/ai-leaders-warn-current-pace-ai-development-ai-could-kill-us-all-soon",
-      "publishedAt": "2026-09-15T06:25:12.000Z",
-      "excerpt": "CNN ran an Interview with Anthropic’s CEO, Dario Amodei, in which he acknowledged one of his former employee's claim that, at the current pace of AI development, AI could kill us all soon. It shocked me, and I think it is that important that all Agile Professionals should be aware of it. So, I decided to share it through a blog post. Here are the main topics of their conversation: Urgent Extinction Warnings: AI researchers warn that rapid industry progress creates severe risks of cyberattacks and bioterrorism, with experts estimating a greater than 10% chance of human extinction within the dec",
-      "titleJa": "AI指導者らが警告：現在のペースではAIが人類を脅かす可能性",
-      "summaryJa": "Anthropic CEOを含むAI研究者らが、現在のAI開発ペースでは サイバー攻撃やバイオテロリズムのリスクが深刻化し、今後10年以内に人類の絶滅の可能性が10%以上あると警告しています。アジャイルプロフェッショナルにとっても、このAIセキュリティリスクについての認識が重要だと指摘されています。"
     },
     {
       "category": "PjM",
