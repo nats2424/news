@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-16T02:07:41.143Z",
+  "updatedAt": "2026-09-16T10:25:26.897Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Tool Introduction: Promptly AI",
+      "url": "https://www.scrum.org/resources/blog/ai-tool-introduction-promptly-ai",
+      "publishedAt": "2026-09-16T09:14:12.000Z",
+      "excerpt": "Image Imagine you are using ChatGPT and writing a prompt. But you are not sure if it is a good prompt or not. Here, Promptly AI comes to life to help you enhance your prompt with just one click. Click here to open its website. Image How to add Promptly AI to your AI chatbots? Promptly AI is a Chrome browser extension. So, you can easily add it to your browser, and after that, it is available in all AI chatbots like ChatGPT, Claude, Gemini, Perplexity, and more. Here is a screenshot of my ChatGPT. You can see that Promptly AI has added three icons in the prompt box. Image How Promptly AI Enhanc",
+      "titleJa": "AI活用ツール紹介：Promptly AI",
+      "summaryJa": "ChatGPTなどのAIチャットボットでプロンプトの品質に不安がある場合、Promptly AIはワンクリックでプロンプトを改善するChrome拡張機能です。ChatGPT、Claude、Gemini、Perplexityなど複数のAIチャットボットに対応し、プロンプトボックスに機能を追加して利用できます。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -100,16 +110,6 @@
       "excerpt": "Originally published on yuvalyeret.com. The token cap is the least interesting number in your AI budget Somewhere in your company right now, someone is trying to decide whether an employee should get $100, $300, or $1,000 a month of AI spend. It is a real question with a real invoice behind it, and it is also the wrong place to start, because there is no cap number that is defensible on its own. Set it low and you throttle the experiments that would have told you something. Set it high and you have no way to distinguish a team burning tokens on work that shipped from a team burning tokens on s",
       "titleJa": "AI予算の真の効果測定法：トークンキャップを超えて",
       "summaryJa": "従業員のAI支出予算を設定する際、固定的なトークンキャップでは不十分であることを指摘。実際の投資対効果を測定するための評価指標や考え方を提案し、単なるコスト管理ではなく実験と学習を最適化する予算配分の重要性を論じている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Hey Scrum Masters, If Your Goal Is to Make Yourself Obsolete, You've Already Stopped Growing",
-      "url": "https://www.scrum.org/resources/blog/hey-scrum-masters-if-your-goal-make-yourself-obsolete-youve-already-stopped-growing",
-      "publishedAt": "2026-09-14T12:21:00.000Z",
-      "excerpt": "Image I keep hearing it at meetups, in interviews, on LinkedIn. A Scrum Master says, with a straight face and a bit of pride: \"my job is to make myself obsolete.\" And every time I hear it, I think: so you've decided when you're done growing? The three levels of serving The Scrum Guide says the Scrum Master serves the Scrum Team, the Product Owner, and the organisation. Three levels, all pointing outward. Coach the team toward self management. Help the PO with the Product Goal, Backlog. Lead the organisation in its adoption. Fine. But in my opinion there odd to be a fourth level, and it is actu",
-      "titleJa": "スクラムマスターの成長は「自動化」で終わらない",
-      "summaryJa": "スクラムマスターが「自分の役割を不要にすることが目標」という発言をよく耳にするが、これは成長の終わりを意味する。スクラムガイドで示される3つのサービスレベル（チーム・PO・組織）を超えた、より深い貢献を目指すべきと主張している。"
     },
     {
       "category": "PdM",
