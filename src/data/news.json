@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-16T10:25:26.897Z",
+  "updatedAt": "2026-09-16T15:42:09.512Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "4 New Evals and 16 Experiment Variants to Fix 1 Customer Complaint",
+      "url": "https://www.producttalk.org/4-new-evals-and-16-experiment-variants/",
+      "publishedAt": "2026-09-16T13:00:36.000Z",
+      "excerpt": "\"That is a lot of first layer opportunities there. I wish I could click on this card and be like, 'Clean this up.'\" This was a Vistaly customer reviewing her first AI-generated opportunity solution tree. Up until this point, the feedback was extremely positive. But",
+      "titleJa": "1件のカスタマーフィードバックから派生する4つの新規評価と16のテスト試行",
+      "summaryJa": "Vistaly顧客が初めてのAI生成ソリューションツリーをレビューした際、UIの改善要望が浮き上がった。このシンプルなフィードバックから、複数の評価手法と実験パターンが必要になった事例紹介。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Muse review: The personal AI agent that gets consumer UX right",
+      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
+      "publishedAt": "2026-09-16T12:02:14.000Z",
+      "excerpt": "Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Codex",
+      "titleJa": "Muse レビュー：ユーザー体験を極めたAIエージェント",
+      "summaryJa": "MetaのMuseはカレンダー、メール、家族のスケジュール情報を活用し、ワンショットで美しいファミリーPDFを生成。Claude やCodexよりも優れたUIUXを実現するパーソナルAIエージェントとして評価されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -170,16 +190,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Conflict on a product team isn't a warning sign — the absence of it usually is. In this episode of All Things Product, Petra Wille and Teresa Torres tackle a question Teresa hears constantly: what should a product trio do",
       "titleJa": "ファシリテーション・スキル - All Things Productポッドキャスト",
       "summaryJa": "プロダクトチームにおける対立は警告信号ではなく、むしろ対立がないことが危険信号であることを解説。Teresa TorresとPetra Willeがプロダクト・トリオが取るべき行動について議論する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How we built Grok Bot in a month | Roman Ugarte (SpaceXAI)",
-      "url": "https://www.lennysnewsletter.com/p/how-we-built-grok-bot-in-a-month",
-      "publishedAt": "2026-09-08T12:31:49.000Z",
-      "excerpt": "Listen now | Roman Ugarte of SpaceXAI on going from first line of code to the world’s hottest AI product in seven weeks, and what it really takes to win in the most competitive market ever",
-      "titleJa": "Grok Botを1ヶ月で構築した方法 | Roman Ugarte（SpaceXAI）",
-      "summaryJa": "SpaceXAIのRoman Ugarteが、最初のコード行から世界で最も注目されるAI製品までを7週間で実現したプロセスを紹介。競争激化するAI市場で勝つために必要な要素と戦略について解説する。"
     },
     {
       "category": "PdM",
