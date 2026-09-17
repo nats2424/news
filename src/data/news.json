@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-17T10:35:23.740Z",
+  "updatedAt": "2026-09-17T15:48:32.013Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Creating Aha! Builder: Concept to Code, No Engineers Required",
+      "url": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
+      "publishedAt": "2026-09-17T13:00:52.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to build an AI app builder specifically for product managers—not engineers—inside an already crowded market? In this episode of Just Now Possible, Teresa Torres talks with Brian De Haaff (CEO and Co-Founder), Chris",
+      "titleJa": "Aha! Builder開発：コンセプトからコード化まで、エンジニア不要",
+      "summaryJa": "プロダクトマネージャー向けのAIアプリビルダー「Aha! Builder」の開発プロセスを紹介するポッドキャストエピソード。競争の激しい市場でエンジニアを必要としないツールをどのように構想から実装まで実現させたかについて、Teresa TomasとBrian De Haaffが対談します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scaling Product Orgs with Portfolio Agility",
+      "url": "https://www.scrum.org/resources/blog/scaling-product-orgs-portfolio-agility",
+      "publishedAt": "2026-09-17T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Your portfolio process isn’t slowing you down by accident You built empowered product teams. You wrote down a product operating model. And somehow decisions still stall, competitors still pivot faster than you do, and every initiative that actually matters turns into a program with a coordination tax attached. The cross-product process you added to bring order and reduce risk doesn’t stop the wrong things from getting built; it just makes building anything slower. That gap between the operating model on paper and the one people work in every day is the p",
+      "titleJa": "ポートフォリオアジリティでプロダクト組織をスケール化する",
+      "summaryJa": "プロダクト組織が成長する際に、クロスファンクショナルなプロセスが意思決定を遅延させる問題を分析。ペーパーの運用モデルと実際の組織運営のギャップを埋め、競争力を維持するためのポートフォリオ管理の改善方法を解説します。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Browser-Based Load Testing vs. JMeter: When Real Browsers Are Worth the Cost",
+      "url": "https://testguild.com/browser-based-load-testing-vs-jmeter/",
+      "publishedAt": "2026-09-17T12:39:28.000Z",
+      "excerpt": "Quick Answer Browser-based load testing (also called real-browser load testing) drives real browser sessions through your critical user journeys under […]",
+      "titleJa": "ブラウザベースのロードテスト vs. JMeter：実ブラウザの価値はコストに見合うか",
+      "summaryJa": "実ブラウザセッションを使用したロードテストと、JMeterなどのツールベースのアプローチを比較する記事。ユーザージャーニーの負荷テストにおいて、実ブラウザテストが導入する追加コストが実際にメリットをもたらすケースを検討します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -122,16 +152,6 @@
       "summaryJa": "プロジェクト管理ツールのDHMLTX Ganttについてのレビュー記事。自社サーバー上に組み込むタイプで、30日間の無料トライアルが利用でき、個別ライセンスは799ドルから、スケーラブルな価格設定と複数のバンドルオプションが提供されています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Gallery Walk to IT Roadmap",
-      "url": "https://www.scrum.org/resources/blog/gallery-walk-it-roadmap",
-      "publishedAt": "2026-09-14T18:04:04.000Z",
-      "excerpt": "How do you get meaningful input from an entire IT department without getting everyone in the same meeting or hearing only a few of the loudest voices? A few years ago, I faced that problem with a well-known consumer products company. The leadership team was creating a five-year IT roadmap and wanted input from developers, architects, business analysts, project managers and others across the whole department. A survey would have been easier. But would people participate? And even if they did, would a survey spark creative thinking or surface the best ideas? Doubtful. Instead, we ran a departmen",
-      "titleJa": "ギャラリーウォークでIT戦略図を作成する",
-      "summaryJa": "IT部門全体から実質的な意見を集める際の課題に対して、全員を一つの会議に集めたり、声の大きい少数だけの意見を聞くのではなく、ギャラリーウォーク手法を活用した解決策を紹介。5年間のIT戦略図策定において、開発者、アーキテクト、ビジネスアナリスト、プロジェクトマネージャーなど部門全体から創造的なアイデアを効果的に引き出す方法を解説しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
@@ -230,16 +250,6 @@
       "excerpt": "My in-depth AI evals guide explains what evals are and how to build them. This post gives you the tool I use to run them. Here's the practical problem. To get a baseline, you have to run every input through your prompt, save each output, run every",
       "titleJa": "AI評価テストハーネスツール：初回実験の実行ガイド",
       "summaryJa": "AI評価（evals）の実装方法を解説した詳細ガイド。著者が実際に使用するテストハーネスツールを提供し、プロンプトの全入力に対する出力を取得してベースラインを確立する実践的なワークフローを説明する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "AI Evals: A Hands-On Guide for Product Teams",
-      "url": "https://www.producttalk.org/ai-evals/",
-      "publishedAt": "2026-09-02T13:00:59.000Z",
-      "excerpt": "AI evals tell you whether your AI product or workflow is any good. A hands-on guide to error analysis, the four types of evals, and your first experiment.",
-      "titleJa": "プロダクトチーム向けAI評価ハンズオンガイド",
-      "summaryJa": "AIプロダクトやワークフローの品質判定に用いるevals手法の実践的解説。エラー分析、4つのevals種別、および初回実験の実施方法を、ハンズオン形式で紹介する。"
     },
     {
       "category": "QA",
