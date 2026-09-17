@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-17T02:11:21.260Z",
+  "updatedAt": "2026-09-17T10:35:23.740Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Das KI-Workflow-Verzeichnis: Weiß Ihr Team, wo es bereits KI einsetzt?",
+      "url": "https://www.scrum.org/resources/blog/das-ki-workflow-verzeichnis-weiss-ihr-team-wo-es-bereits-ki-einsetzt",
+      "publishedAt": "2026-09-17T07:48:58.000Z",
+      "excerpt": "In Kürze: Das KI-Workflow-Verzeichnis vervollständigt das A3-Delegationssystem Sie kennen vermutlich Ihre eigenen KI-Abkürzungen: den Kollegen, der das Stakeholder-Update entwirft, den nächtlichen Job, den jemand vor seinem Ausscheiden eingerichtet hat, die Interviewnotizen, die bei Bedarf durch ein KI-Modell laufen. Ich möchte Sie jedoch herausfordern: Dieses vermeintliche Wissen kann falsche Sicherheit erzeugen, weil es sich anfühlt, als würden Sie die Arbeitsweise Ihres Teams mit KI kennen, während es in Wirklichkeit nur ein diffuses Verständnis der Praxis ist. Bitten Sie das Team, diese in",
+      "titleJa": "AIワークフロー台帳：チームのAI導入状況を把握していますか？",
+      "summaryJa": "AIワークフロー台帳はA3デリゲーションシステムを補完するツールです。チームのAI使用状況について断片的な理解しかないケースが多いため、実際のAI活用実態を正確に把握することの重要性を指摘しており、チームに対してこれを可視化するよう提案しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "Gate reviews: What to do and why you need them",
+      "url": "https://rebelsguidetopm.com/gate-reviews-need-to-know/",
+      "publishedAt": "2026-09-17T07:47:11.000Z",
+      "excerpt": "Project governance is an important part of project management processes – even if it’s not the most exciting part of getting work done. As a project manager, part of your role is shepherding the work through the project lifecycle. That means moving it on from idea to done and keeping it all on track as you go. Governance is a key part of that, and gate reviews are part of navigating through the project. Gate reviews, or stage reviews are part of the PRINCE2® process, and also part of the UK Government's National Infrastructure and Service Transformation Authority (NISTA) Project assurance revi",
+      "titleJa": "ゲートレビュー：実施方法と必要性",
+      "summaryJa": "プロジェクトガバナンスはプロジェクトマネジメントにおいて重要な要素であり、ゲートレビュー（ステージレビュー）はPRINCE2プロセスの一部として機能します。プロジェクトマネージャーはゲートレビューを通じてプロジェクトを適切に進行管理し、リスク認識と品質維持を実現する必要があります。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -122,16 +142,6 @@
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、SpaceX AIのデザイナー2名がGrok Botというツールを業務でどのように活用しているかについて紹介するポッドキャストエピソード。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Measure AI Impact Beyond Token Caps",
-      "url": "https://www.scrum.org/resources/blog/how-measure-ai-impact-beyond-token-caps",
-      "publishedAt": "2026-09-14T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. The token cap is the least interesting number in your AI budget Somewhere in your company right now, someone is trying to decide whether an employee should get $100, $300, or $1,000 a month of AI spend. It is a real question with a real invoice behind it, and it is also the wrong place to start, because there is no cap number that is defensible on its own. Set it low and you throttle the experiments that would have told you something. Set it high and you have no way to distinguish a team burning tokens on work that shipped from a team burning tokens on s",
-      "titleJa": "AI予算の真の効果測定法：トークンキャップを超えて",
-      "summaryJa": "従業員のAI支出予算を設定する際、固定的なトークンキャップでは不十分であることを指摘。実際の投資対効果を測定するための評価指標や考え方を提案し、単なるコスト管理ではなく実験と学習を最適化する予算配分の重要性を論じている。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
@@ -240,16 +250,6 @@
       "excerpt": "About This Episode: Most testers are stuck arguing about whether AI is coming for their jobs. Swati Seela thinks that’s […]",
       "titleJa": "AIテストは想像以上に重要、テスターが押さえるべき5つの領域",
       "summaryJa": "テスターの多くはAIが雇用を脅かすかどうかで議論しているが、専門家のSwati Seelaはそれ以上に重要な視点を提示しています。本エピソードでは、AIテストの実践的な領域と、テスターが主導権を持つべき5つの重要な分野について深掘りされています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "From Past Me to Future Us",
-      "url": "https://qahiccupps.blogspot.com/2026/08/from-past-me-to-future-us.html",
-      "publishedAt": "2026-08-27T08:19:45.000Z",
-      "excerpt": "I deliberately make tiny investments in learning opportunities for me and my colleagues. Yesterday I was reviewing a PR which had a large number of edits to data using a few patterns applied in many places. Unfortunately, the edits were embedded in non-trivial contexts which made the diffs less easy to eyeball than I might have hoped. Here's an invented example that gives a flavour of the problem. The first line is an original, the second an edit: - (ab)38458345023421-5-7345234D + (ab)038458345023421-5-7345234 $ git diff | grep \"^- \" | sed 's/(ab)3/(ab)03/' | sed 's/D$//' | sed 's/-/+/' > mych",
-      "titleJa": "コードレビューを効率化する—パターンマッチングの活用法",
-      "summaryJa": "PRレビュー時に複数箇所で同じパターンの編集が行われている場合、diffの可視性が低下する問題を扱っています。著者は複数の sed コマンドを組み合わせることで、パターンマッチングを効率化し、レビュー精度を向上させる手法を提案しています。チーム全体の学習機会への小さな投資がQAの質向上につながる事例です。"
     }
   ]
 }
