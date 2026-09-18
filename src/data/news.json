@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-17T20:41:26.719Z",
+  "updatedAt": "2026-09-18T01:58:03.427Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Psychological safety is not impunity",
+      "url": "https://www.scrum.org/resources/blog/psychological-safety-not-impunity",
+      "publishedAt": "2026-09-17T22:00:00.000Z",
+      "excerpt": "You can find him in the retro, though he rarely says much. He doesn't need to. The team has learned to write around him. Watch what happens to a good idea in this room. Someone proposes a real improvement, and before it's even finished, you can see a couple of people glance, just slightly, toward the corner where he sits. The idea gets softened. Then shelved \"for now,\" because everyone already knows he'll sink it, loudly and personally and for the rest of the afternoon, and nobody has the energy for that today. He has never been given a scrap of authority. He runs the team completely. Every ag",
+      "titleJa": "心理的安全性は免責特権ではない",
+      "summaryJa": "レトロスペクティブで声を上げないメンバーでも、チーム全体に大きな影響を与えることがあります。本記事は、心理的安全性と個人の権力がチーム内でいかに機能するかを考察し、真の安全な環境構築の重要性を示しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The Price of a Slow Yes",
+      "url": "https://www.productcoalition.com/p/the-price-of-a-slow-yes",
+      "publishedAt": "2026-09-17T21:20:36.000Z",
+      "excerpt": "Every approval chain has a weekly rate, and I have rarely seen a team work out theirs",
+      "titleJa": "遅い承認の代償",
+      "summaryJa": "すべての承認フローには週単位のレートが存在しますが、実際にこれを把握しているチームはほとんど見当たりません。記事では、承認プロセスの遅延がもたらす影響と、その改善方法について論じています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -133,16 +153,6 @@
     },
     {
       "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Na era da IA, ainda está a medir trabalho e esforço?   ou finalmente a medir valor?",
-      "url": "https://www.scrum.org/resources/blog/na-era-da-ia-ainda-esta-medir-trabalho-e-esforco-ou-finalmente-medir-valor",
-      "publishedAt": "2026-09-15T10:06:32.000Z",
-      "excerpt": "Image Durante décadas habituámo-nos a medir trabalho através daquilo que conseguimos ver: Horas trabalhadas Número de tarefas concluídas Tickets fechados Linhas de código Story Points entregues Número de funcionalidades lançadas Projetos terminados dentro do prazo São números confortáveis porque são fáceis de contar. Mas existe um problema: atividade não é valor. E num mundo de trabalho de conhecimento, acelerado pela Inteligência Artificial, esta distinção torna-se ainda mais importante. A IA está a tornar as métricas de atividade ainda menos relevantes Analisamos duas equipas: A primeira ent",
-      "titleJa": "AI時代に必要な指標転換：活動量から価値へ",
-      "summaryJa": "従来、プロジェクト管理では労働時間やタスク完了数などの目に見える活動量を指標としてきました。しかし、知識労働の時代、特にAIの急速な進展に伴い、活動量は価値を示す指標として関連性を失いつつあります。本記事では、実際のチーム事例を通じて、活動ベースの測定から価値ベースの測定への転換の重要性を述べています。"
-    },
-    {
-      "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "Software review: DHTMLX Gantt",
       "url": "https://rebelsguidetopm.com/software-review-dhtmlx-gantt/",
@@ -190,6 +200,16 @@
       "excerpt": "Note: This is the narrative version of a keynote talk for the Lenny & Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group.",
       "titleJa": "強い意見を柔軟に保つ",
       "summaryJa": "シリコンバレー・プロダクト・グループのキーノート講演を基にした記事。プロダクトマネジャーが過去に正しいと主張していた事柄の中で、現在は見方が変わったものについて考察。変化する環境下での意思決定哲学と信念の再検討について論じています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "What Is HTTP in Performance Testing?",
+      "url": "https://testguild.com/performance-testing-http/",
+      "publishedAt": "2026-09-09T21:56:43.000Z",
+      "excerpt": "HTTP is the protocol web browsers, mobile apps, and test tools use to request information from a server and receive […]",
+      "titleJa": "パフォーマンステストにおけるHTTPとは",
+      "summaryJa": "HTTPはWebブラウザ、モバイルアプリ、テストツールがサーバーから情報をリクエストして受信するために使用するプロトコルです。パフォーマンステストにおけるHTTPの役割と仕組みについて解説しています。"
     },
     {
       "category": "PjM",
