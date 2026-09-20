@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-19T19:43:16.974Z",
+  "updatedAt": "2026-09-20T02:07:26.510Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
+      "publishedAt": "2026-09-19T19:42:24.000Z",
+      "excerpt": "Community Wisdom 299",
+      "titleJa": "コミュニティの知恵：プロダクト完成前のアーリーユーザー探しと初期キャリアの最適化",
+      "summaryJa": "Lennyのニュースレターのコミュニティ・ウィズダム第299号。プロダクト存在前のアーリーユーザーの見つけ方、インタビューの振り返り方、キャリア初期段階での最適化など、プロダクトマネジャーの実践的な知見をまとめた記事。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -180,16 +190,6 @@
       "excerpt": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
       "titleJa": "AIエージェントで実現するデザインワークフロー革新",
       "summaryJa": "SpaceX AIのデザイナーJohn BaiとPeng Zhengが、Grok Botを使ってFigmaをジムから操作したり、ポートフォリオを自動更新したり、アイデアから動作するプロトタイプまで迅速に実現する方法を紹介。42分のインタビュー形式で実践例を交えて解説している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: AI basketball coaching, Jira vs. Linear, building a business case for platform teams, favorite AI use cases, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-basketball-coaching",
-      "publishedAt": "2026-09-12T17:45:34.000Z",
-      "excerpt": "Community Wisdom 298",
-      "titleJa": "🧠 コミュニティの知恵：AI バスケットボールコーチング、Jira vs. Linear、プラットフォームチームのビジネスケース構築など",
-      "summaryJa": "Lennyのニュースレターからのコミュニティ投稿。AI バスケットボールコーチング、プロジェクト管理ツール（Jira と Linear）の比較、プラットフォームチームへの投資を正当化するビジネスケース構築方法、および推奨される AI の活用事例など、プロダクトマネジメント領域の実践的なトピックを複数取り上げています。"
     },
     {
       "category": "PdM",
