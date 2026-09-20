@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-20T10:13:49.127Z",
+  "updatedAt": "2026-09-20T15:01:41.122Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI on Top of a Dysfunctional System (1): The Product Backlog",
+      "url": "https://www.scrum.org/resources/blog/ai-top-dysfunctional-system-1-product-backlog",
+      "publishedAt": "2026-09-20T14:53:52.000Z",
+      "excerpt": "TL;DR: Polished Artifacts, Unchanged Decisions, Or Ten Backlog Anti-Patterns AI Makes Worse Add AI to a Product Backlog process that already struggles, and everything seems to improve within an afternoon. The problem is that polishing artifacts with AI doesn’t fix the root cause: the basis for the team’s decisions doesn’t change; AI only removes the visible discomfort that used to signal something was broken, along with some of the pressure to fix it. AI applied to a dysfunctional system – here, the Product Backlog process – makes the dysfunction look like progress. This is the first article o",
+      "titleJa": "機能しないシステムの上に乗せたAI：プロダクトバックログの問題",
+      "summaryJa": "プロダクトバックログプロセスにAIを適用しても、根本的な問題は解決されない。AIは見た目の改善や成果物の磨き上げによって、本来あるべき修正の必要性をマスクしてしまう。機能不全のシステムをAIで飾ると、進歩しているように見えるだけという警告。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
+      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
+      "publishedAt": "2026-09-20T12:32:17.000Z",
+      "excerpt": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
+      "titleJa": "優れたPMに必要な3つのジレンマ──SnapとDiscordのプロダクトチーフが語る",
+      "summaryJa": "SnapとDiscordのプロダクトチーフ、ピーター・セリスが、チームの設計から人材の活用、優秀なPMに必要な矛盾した資質まで、プロダクト管理の現場知を90分にわたって語る。PMの実践的なアドバイスを直言で紹介。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -112,16 +132,6 @@
       "summaryJa": "MetaのMuseはカレンダー、メール、家族のスケジュール情報を活用し、ワンショットで美しいファミリーPDFを生成。Claude やCodexよりも優れたUIUXを実現するパーソナルAIエージェントとして評価されている。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Tool Introduction: Promptly AI",
-      "url": "https://www.scrum.org/resources/blog/ai-tool-introduction-promptly-ai",
-      "publishedAt": "2026-09-16T09:14:12.000Z",
-      "excerpt": "Image Imagine you are using ChatGPT and writing a prompt. But you are not sure if it is a good prompt or not. Here, Promptly AI comes to life to help you enhance your prompt with just one click. Click here to open its website. Image How to add Promptly AI to your AI chatbots? Promptly AI is a Chrome browser extension. So, you can easily add it to your browser, and after that, it is available in all AI chatbots like ChatGPT, Claude, Gemini, Perplexity, and more. Here is a screenshot of my ChatGPT. You can see that Promptly AI has added three icons in the prompt box. Image How Promptly AI Enhanc",
-      "titleJa": "AI活用ツール紹介：Promptly AI",
-      "summaryJa": "ChatGPTなどのAIチャットボットでプロンプトの品質に不安がある場合、Promptly AIはワンクリックでプロンプトを改善するChrome拡張機能です。ChatGPT、Claude、Gemini、Perplexityなど複数のAIチャットボットに対応し、プロンプトボックスに機能を追加して利用できます。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "How to Stay Irreplaceable When Agents Write Your Tests with Jonathon Wright",
@@ -180,16 +190,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "SpaceX AIのデザイナーがGrok Botを活用する方法",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、SpaceX AIのデザイナー2名がGrok Botというツールを業務でどのように活用しているかについて紹介するポッドキャストエピソード。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How Grok Bot designers use AI agents to build personal sites and product prototypes | John Bai & Peng Zheng",
-      "url": "https://www.lennysnewsletter.com/p/how-grok-bot-designers-use-ai-agents",
-      "publishedAt": "2026-09-14T12:04:39.000Z",
-      "excerpt": "Watch now (42 mins) | 🎙️ Two designers at SpaceXAI show me how they use Grok Bot to run Figma from the gym, update a portfolio with one photo, and turn shower thoughts into working prototypes",
-      "titleJa": "AIエージェントで実現するデザインワークフロー革新",
-      "summaryJa": "SpaceX AIのデザイナーJohn BaiとPeng Zhengが、Grok Botを使ってFigmaをジムから操作したり、ポートフォリオを自動更新したり、アイデアから動作するプロトタイプまで迅速に実現する方法を紹介。42分のインタビュー形式で実践例を交えて解説している。"
     },
     {
       "category": "PdM",
