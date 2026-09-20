@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-20T02:07:26.510Z",
+  "updatedAt": "2026-09-20T10:13:49.127Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum's Meetings Are Capped at Five Hours a Week. Something Else Filled Your Calendar.",
+      "url": "https://www.scrum.org/resources/blog/scrums-meetings-are-capped-five-hours-week-something-else-filled-your-calendar",
+      "publishedAt": "2026-09-20T06:00:00.000Z",
+      "excerpt": "Image Scrum has too many meetings. I have heard that sentence in training rooms since 2010 and for years I argued with it. Now I do the arithmetic on the whiteboard instead, because the Scrum Guide caps its own events and the cap is far below what anyone in the room guesses. Add up the limits as written. Sprint Planning is \"timeboxed to a maximum of eight hours for a one-month Sprint,\" with four hours for the Sprint Review and three for the Retrospective. A Daily Scrum is \"a 15-minute event,\" and it needs no slot of its own on the day Sprint Planning already has the team in a room. Nineteen of",
+      "titleJa": "スクラムの公式ミーティングは週5時間まで—それ以上の会議は別の原因",
+      "summaryJa": "スクラムガイドで定められたイベントの時間上限を合計すると、1ヶ月スプリント想定時で週5時間程度に留まる。スプリント計画は8時間、スプリントレビューは4時間、スプリント振り返りは3時間、デイリースクラムは15分と規定されており、組織内に蔓延する過剰な会議はスクラム公式イベント以外が占めていることを指摘する記事。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -110,16 +120,6 @@
       "excerpt": "Image Imagine you are using ChatGPT and writing a prompt. But you are not sure if it is a good prompt or not. Here, Promptly AI comes to life to help you enhance your prompt with just one click. Click here to open its website. Image How to add Promptly AI to your AI chatbots? Promptly AI is a Chrome browser extension. So, you can easily add it to your browser, and after that, it is available in all AI chatbots like ChatGPT, Claude, Gemini, Perplexity, and more. Here is a screenshot of my ChatGPT. You can see that Promptly AI has added three icons in the prompt box. Image How Promptly AI Enhanc",
       "titleJa": "AI活用ツール紹介：Promptly AI",
       "summaryJa": "ChatGPTなどのAIチャットボットでプロンプトの品質に不安がある場合、Promptly AIはワンクリックでプロンプトを改善するChrome拡張機能です。ChatGPT、Claude、Gemini、Perplexityなど複数のAIチャットボットに対応し、プロンプトボックスに機能を追加して利用できます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The real meeting happens in the hallway.",
-      "url": "https://www.scrum.org/resources/blog/real-meeting-happens-hallway",
-      "publishedAt": "2026-09-15T22:00:00.000Z",
-      "excerpt": "Image The real meeting happens in the hallway. The meeting ends. Everyone agreed, or at least nobody disagreed. Then, two minutes later, the real conversation starts. In the corridor. In a side chat. In the small group that lingers after the call drops. \"I didn't want to derail it.\" \"I had concerns, but it wasn't the moment.\" \"Yeah, none of us actually bought that.\" The decision got made in a room that had all the information except the part that mattered. If that happens on your team, it isn't a sign people don't care. It's a sign they've done the math. Saying the hard thing in the room, to t",
-      "titleJa": "本当の議論は会議室の外で起こる",
-      "summaryJa": "公式な会議では全員が同意したように見えても、実際の本音の議論は会議後の廊下やサイドチャットで起こることがある。チームメンバーが重要な懸念を公開の場で言わないのは無関心ではなく、発言することのリスクを冷静に判断した結果である。このような状況が生じるのは、心理的安全性やコミュニケーション文化に改善の余地があることを示している。"
     },
     {
       "category": "QA",
