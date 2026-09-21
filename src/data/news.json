@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-09-21T11:19:15.178Z",
+  "updatedAt": "2026-09-21T17:19:57.439Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
+      "publishedAt": "2026-09-21T15:03:51.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "🎙️ 「How I AI」: MetaのMuseレビュー＋Warpが月2,000のPRをAIファクトリーで実現",
+      "summaryJa": "Lenny's Podcast Networkの週刊番組「How I AI」。MetaのMuseレビューとWarpのCEO Zach Lloydが語るAIファクトリーの実例を紹介。Slackやgithubからの依頼を自動でテスト済みのPRに変換し、月2,000件のリリースを実現するプロセスについて。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Ch. 10: Testing Assumptions",
+      "url": "https://www.producttalk.org/ch-10-testing-assumptions/",
+      "publishedAt": "2026-09-21T13:00:42.000Z",
+      "excerpt": "Continuous Discovery Habits* turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
+      "titleJa": "第10章: 仮説の検証",
+      "summaryJa": "「Continuous Discovery Habits」5周年を記念した共同読書会。毎月、該当章の詳細ガイドと重要コンセプト、動画コンテンツを提供。本章では仮説検証の手法を学ぶ。プロダクトディスカバリーの実践的スキル習得に最適な資料。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Finding AI Gold With Lean Startup Techniques",
+      "url": "https://www.scrum.org/resources/blog/finding-ai-gold-lean-startup-techniques",
+      "publishedAt": "2026-09-21T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. How do we deliver valuable real-world AI impact through solutions that solve problems, using some of what we've learned by building products over the last couple of decades? We're not seeing the value yet Unless you've been in a cave, you're aware that there's a gold rush happening out there. Certain companies are definitely making money building AI hardware and solutions, and a lot of people are heading out to mine for AI gold. A lot of the conversations inside organizations feel like they're more about the technology and the solutions than about what w",
+      "titleJa": "リーン・スタートアップ手法でAIビジネスの機会を見つける",
+      "summaryJa": "AIソリューション開発において、テクノロジーありきではなく、顧客課題解決に焦点を当てた価値提供のあり方を論じる。過去数十年のプロダクト開発経験から得た知見とリーン・スタートアップの原則を応用し、真の価値をもたらすAI実装の考え方を解説。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
+      "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
+      "publishedAt": "2026-09-21T12:04:11.000Z",
+      "excerpt": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
+      "titleJa": "Warpが月2,000PRを実現するAIファクトリーの仕組み | Zach Lloyd(CEO)",
+      "summaryJa": "Warp CEOのZach Lloydが、Slack・Linear・GitHub からの依頼を自動追跡・テストされたPRに変換し、クラウドベースのAIソフトウェアファクトリーとして継続改善するシステムを解説。47分の動画で具体的な実装プロセスが学べる。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +100,6 @@
       "excerpt": "Community Wisdom 299",
       "titleJa": "コミュニティの知恵：プロダクト完成前のアーリーユーザー探しと初期キャリアの最適化",
       "summaryJa": "Lennyのニュースレターのコミュニティ・ウィズダム第299号。プロダクト存在前のアーリーユーザーの見つけ方、インタビューの振り返り方、キャリア初期段階での最適化など、プロダクトマネジャーの実践的な知見をまとめた記事。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Psychological safety is not impunity",
-      "url": "https://www.scrum.org/resources/blog/psychological-safety-not-impunity",
-      "publishedAt": "2026-09-17T22:00:00.000Z",
-      "excerpt": "You can find him in the retro, though he rarely says much. He doesn't need to. The team has learned to write around him. Watch what happens to a good idea in this room. Someone proposes a real improvement, and before it's even finished, you can see a couple of people glance, just slightly, toward the corner where he sits. The idea gets softened. Then shelved \"for now,\" because everyone already knows he'll sink it, loudly and personally and for the rest of the afternoon, and nobody has the energy for that today. He has never been given a scrap of authority. He runs the team completely. Every ag",
-      "titleJa": "心理的安全性は免責特権ではない",
-      "summaryJa": "レトロスペクティブで声を上げないメンバーでも、チーム全体に大きな影響を与えることがあります。本記事は、心理的安全性と個人の権力がチーム内でいかに機能するかを考察し、真の安全な環境構築の重要性を示しています。"
     },
     {
       "category": "PdM",
@@ -153,16 +183,6 @@
     },
     {
       "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "60+ new creative growth ideas",
-      "url": "https://www.lennysnewsletter.com/p/60-creative-growth-ideas",
-      "publishedAt": "2026-09-15T12:45:28.000Z",
-      "excerpt": "How to stand out when everyone is running the same playbook",
-      "titleJa": "60以上の創造的グロースアイデア集",
-      "summaryJa": "同じプレイブックを実行する競合と差別化するための方法論を提示。プロダクト成長戦略における創意工夫と独自性の重要性に焦点を当てた実践的なアイデア集。"
-    },
-    {
-      "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "The North Star Metric Was Never the Business",
       "url": "https://www.productcoalition.com/p/the-north-star-metric-was-never-the",
@@ -180,16 +200,6 @@
       "excerpt": "General information Name: DHTMLX Gantt Vendor: DHTMLX Hosting options: Needs to be self-hosted; designed to be embedded in an existing application Cost and plans: Free 30 day trial so you can test it in your app. Perpetual licences start at $799 (individual, limited use licence) and scale up, and there are cost-efficient bundles that loop... This article first appeared on Rebel's Guide to Project Management and can be read here: Software review: DHTMLX Gantt",
       "titleJa": "ソフトウェアレビュー：DHTMLX Gantt",
       "summaryJa": "プロジェクト管理ツールのDHMLTX Ganttについてのレビュー記事。自社サーバー上に組み込むタイプで、30日間の無料トライアルが利用でき、個別ライセンスは799ドルから、スケーラブルな価格設定と複数のバンドルオプションが提供されています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: How two SpaceXAI designers use Grok Bot to do their jobs",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-two-spacexai-designers",
-      "publishedAt": "2026-09-14T15:03:48.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "SpaceX AIのデザイナーがGrok Botを活用する方法",
-      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、SpaceX AIのデザイナー2名がGrok Botというツールを業務でどのように活用しているかについて紹介するポッドキャストエピソード。"
     },
     {
       "category": "PdM",
@@ -260,16 +270,6 @@
       "excerpt": "Project communications are hard. There are multiple stakeholders, different views on how things should be done, different channels to use, and no one has the time to do anything any longer. I believe that project managers have had to move into the space that used to be filled by internal communications or change managers. Those... This article first appeared on Rebel's Guide to Project Management and can be read here: Project Communications: Take the Survey",
       "titleJa": "プロジェクト・コミュニケーション：調査に参加してください",
       "summaryJa": "プロジェクト・コミュニケーションは複数のステークホルダー、異なる実施方法、多様なチャネルなど、多くの課題を抱えている。プロジェクトマネージャーは従来は内部コミュニケーションや変更管理部門が担当していた領域へと活動範囲を広げる必要があると考えられている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Get My Eval Test Harness and Run Your First Experiment",
-      "url": "https://www.producttalk.org/ai-evals-test-harness/",
-      "publishedAt": "2026-09-02T13:05:45.000Z",
-      "excerpt": "My in-depth AI evals guide explains what evals are and how to build them. This post gives you the tool I use to run them. Here's the practical problem. To get a baseline, you have to run every input through your prompt, save each output, run every",
-      "titleJa": "AI評価テストハーネスツール：初回実験の実行ガイド",
-      "summaryJa": "AI評価（evals）の実装方法を解説した詳細ガイド。著者が実際に使用するテストハーネスツールを提供し、プロンプトの全入力に対する出力を取得してベースラインを確立する実践的なワークフローを説明する。"
     },
     {
       "category": "QA",
