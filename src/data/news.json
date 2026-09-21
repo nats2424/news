@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-21T02:07:56.638Z",
+  "updatedAt": "2026-09-21T11:19:15.178Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Cognitive Trap: Planning Certainty",
+      "url": "https://www.scrum.org/resources/blog/cognitive-trap-planning-certainty",
+      "publishedAt": "2026-09-21T04:00:00.000Z",
+      "excerpt": "Planning Certainty Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Planning Certainty. Over-investing in upfront certainty delays learning and reduces the ability to respond to change. Simulated Assessment Question A Scrum Team spends significant time refining Product Backlog Items to ensure they are fully understood before starting work. A",
+      "titleJa": "認知バイアス：計画の確実性への過度な依存",
+      "summaryJa": "Scrumにおける多くの失敗は、効率性や管理、快適さを優先する認知バイアスに起因します。事前の完全な理解を求めすぎることは学習を遅延させ、変化への対応能力を低下させます。本記事では、計画の確実性というバイアスについて、その問題と改善方法を解説します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Does Your AI Know the Scrum Guide? Twelve Questions to Find Out",
+      "url": "https://www.scrum.org/resources/blog/does-your-ai-know-scrum-guide-twelve-questions-find-out",
+      "publishedAt": "2026-09-21T02:57:20.000Z",
+      "excerpt": "Image More and more participants in my Professional Scrum Master classes arrive with Scrum \"rules\" they picked up from an AI chatbot. Some of those rules are accurate. Some stopped being true in November 2020. And a few were never part of Scrum at all. The trouble is that from the outside, the correct answers and the incorrect ones look the same. They are equally fluent, equally confident and equally well formatted. An AI that knows Scrum is useful. An AI that only sounds as if it knows Scrum is risky, especially when a Scrum Master repeats its answer to a Scrum Team or a stakeholder. This art",
+      "titleJa": "AIは本当にScrum Guideを理解しているか：12の確認質問",
+      "summaryJa": "AI チャットボットから得られるScrum情報には、正確なものと過時のもの、不正確なものが混在しています。見た目は同じように流暢で自信に満ちていますが、その信頼性に大きな差があります。Scrum Masterが誤った情報を伝播させないよう、AIの回答を検証する必要があります。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -72,16 +92,6 @@
       "summaryJa": "プロダクトマネージャー向けのAIアプリビルダー「Aha! Builder」の開発プロセスを紹介するポッドキャストエピソード。競争の激しい市場でエンジニアを必要としないツールをどのように構想から実装まで実現させたかについて、Teresa TomasとBrian De Haaffが対談します。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scaling Product Orgs with Portfolio Agility",
-      "url": "https://www.scrum.org/resources/blog/scaling-product-orgs-portfolio-agility",
-      "publishedAt": "2026-09-17T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Your portfolio process isn’t slowing you down by accident You built empowered product teams. You wrote down a product operating model. And somehow decisions still stall, competitors still pivot faster than you do, and every initiative that actually matters turns into a program with a coordination tax attached. The cross-product process you added to bring order and reduce risk doesn’t stop the wrong things from getting built; it just makes building anything slower. That gap between the operating model on paper and the one people work in every day is the p",
-      "titleJa": "ポートフォリオアジリティでプロダクト組織をスケール化する",
-      "summaryJa": "プロダクト組織が成長する際に、クロスファンクショナルなプロセスが意思決定を遅延させる問題を分析。ペーパーの運用モデルと実際の組織運営のギャップを埋め、競争力を維持するためのポートフォリオ管理の改善方法を解説します。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Browser-Based Load Testing vs. JMeter: When Real Browsers Are Worth the Cost",
@@ -90,16 +100,6 @@
       "excerpt": "Quick Answer Browser-based load testing (also called real-browser load testing) drives real browser sessions through your critical user journeys under […]",
       "titleJa": "ブラウザベースのロードテスト vs. JMeter：実ブラウザの価値はコストに見合うか",
       "summaryJa": "実ブラウザセッションを使用したロードテストと、JMeterなどのツールベースのアプローチを比較する記事。ユーザージャーニーの負荷テストにおいて、実ブラウザテストが導入する追加コストが実際にメリットをもたらすケースを検討します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Das KI-Workflow-Verzeichnis: Weiß Ihr Team, wo es bereits KI einsetzt?",
-      "url": "https://www.scrum.org/resources/blog/das-ki-workflow-verzeichnis-weiss-ihr-team-wo-es-bereits-ki-einsetzt",
-      "publishedAt": "2026-09-17T07:48:58.000Z",
-      "excerpt": "In Kürze: Das KI-Workflow-Verzeichnis vervollständigt das A3-Delegationssystem Sie kennen vermutlich Ihre eigenen KI-Abkürzungen: den Kollegen, der das Stakeholder-Update entwirft, den nächtlichen Job, den jemand vor seinem Ausscheiden eingerichtet hat, die Interviewnotizen, die bei Bedarf durch ein KI-Modell laufen. Ich möchte Sie jedoch herausfordern: Dieses vermeintliche Wissen kann falsche Sicherheit erzeugen, weil es sich anfühlt, als würden Sie die Arbeitsweise Ihres Teams mit KI kennen, während es in Wirklichkeit nur ein diffuses Verständnis der Praxis ist. Bitten Sie das Team, diese in",
-      "titleJa": "AIワークフロー台帳：チームのAI導入状況を把握していますか？",
-      "summaryJa": "AIワークフロー台帳はA3デリゲーションシステムを補完するツールです。チームのAI使用状況について断片的な理解しかないケースが多いため、実際のAI活用実態を正確に把握することの重要性を指摘しており、チームに対してこれを可視化するよう提案しています。"
     },
     {
       "category": "PjM",
