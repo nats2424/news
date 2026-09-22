@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-22T02:13:32.125Z",
+  "updatedAt": "2026-09-22T10:29:20.962Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "Nobody Killed the Roadmap",
+      "url": "https://www.productcoalition.com/p/nobody-killed-the-roadmap",
+      "publishedAt": "2026-09-22T08:02:02.000Z",
+      "excerpt": "Twelve years of product writing buried a document its own authors had already stopped defending",
+      "titleJa": "ロードマップは殺されなかった",
+      "summaryJa": "12年間のプロダクト執筆の歴史の中で、作成者たち自身が既に防衛を放棄していたドキュメントが埋もれていた。プロダクト戦略の透明性と実現性のギャップについて、実例を交えて検討する記事。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
