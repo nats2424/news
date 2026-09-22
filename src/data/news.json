@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-22T10:29:20.962Z",
+  "updatedAt": "2026-09-22T15:52:50.309Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Trash Can Tracking - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/trash-can-tracking-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-09-22T13:00:04.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What if the ideas you throw away tell you more about the health of your product process than the ones you ship? In this episode of All Things Product, Petra Wille introduces trash can tracking — a deceptively simple technique for making",
+      "titleJa": "ゴミ箱追跡法：製品開発プロセスの健全性を測る",
+      "summaryJa": "All Things Productポッドキャストで、Petra Willeが「ゴミ箱追跡」というシンプルながら強力なテクニックを紹介。リリースされなかったアイデアこそが製品プロセスの健全性をより正確に反映することを示唆しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
+      "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
+      "publishedAt": "2026-09-22T12:45:14.000Z",
+      "excerpt": "Why you should never skip error discovery",
+      "titleJa": "高度な評価手法：AI製品の隠れた失敗を発見・修正する",
+      "summaryJa": "AI製品開発において、エラー検出をスキップしてはいけない理由について解説。高度な評価手法を用いることで、本番環境で顕在化する前に隠れた失敗を発見し、修正することの重要性を強調しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -172,16 +192,6 @@
       "summaryJa": "Vistaly顧客が初めてのAI生成ソリューションツリーをレビューした際、UIの改善要望が浮き上がった。このシンプルなフィードバックから、複数の評価手法と実験パターンが必要になった事例紹介。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Muse review: The personal AI agent that gets consumer UX right",
-      "url": "https://www.lennysnewsletter.com/p/muse-review-the-personal-ai-agent",
-      "publishedAt": "2026-09-16T12:02:14.000Z",
-      "excerpt": "Watch now (38 mins) | 🎙️ I gave Meta’s Muse my calendar, my email, and my kids’ chaotic schedule, and it produced a one-shot family PDF more beautiful than anything I’ve ever made with Claude or Codex",
-      "titleJa": "Muse レビュー：ユーザー体験を極めたAIエージェント",
-      "summaryJa": "MetaのMuseはカレンダー、メール、家族のスケジュール情報を活用し、ワンショットで美しいファミリーPDFを生成。Claude やCodexよりも優れたUIUXを実現するパーソナルAIエージェントとして評価されている。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "How to Stay Irreplaceable When Agents Write Your Tests with Jonathon Wright",
@@ -260,16 +270,6 @@
       "excerpt": "About This Episode: Everything you knew about performance testing changes when the system you’re testing is non deterministic. In this […]",
       "titleJa": "AI性能テスト：エージェントAIのスケーリング方法",
       "summaryJa": "非決定論的なシステムのテストでは、従来のパフォーマンステスト手法が通用しません。本エピソードではKandasamy Selvarajとともに、AIを活用したテスト戦略と、変動するシステム挙動への対応方法について解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Facilitation Skills - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/facilitation-skills-all-things-product-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-09-08T13:00:35.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Conflict on a product team isn't a warning sign — the absence of it usually is. In this episode of All Things Product, Petra Wille and Teresa Torres tackle a question Teresa hears constantly: what should a product trio do",
-      "titleJa": "ファシリテーション・スキル - All Things Productポッドキャスト",
-      "summaryJa": "プロダクトチームにおける対立は警告信号ではなく、むしろ対立がないことが危険信号であることを解説。Teresa TorresとPetra Willeがプロダクト・トリオが取るべき行動について議論する。"
     },
     {
       "category": "PdM",
