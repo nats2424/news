@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-22T15:52:50.309Z",
+  "updatedAt": "2026-09-22T20:36:39.919Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "I left Claude for months. Opus 5.5 is why I'm back",
+      "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
+      "publishedAt": "2026-09-22T19:06:40.000Z",
+      "excerpt": "Watch now (25 mins) | 🎙️ I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and agentic tasks",
+      "titleJa": "数ヶ月間Claudeを離れていた理由と、Opus 5.5で戻ってきた訳",
+      "summaryJa": "Claudeを数ヶ月間使用していなかった理由と、最新版Opus 5.5の改善点を紹介する動画解説。フロントエンド開発、SVG処理、agentic tasksの領域でClaudeが再び活躍する場面を具体的に説明しており、開発スタックへの復帰を検討する価値を提示している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -130,16 +140,6 @@
       "excerpt": "Image Scrum has too many meetings. I have heard that sentence in training rooms since 2010 and for years I argued with it. Now I do the arithmetic on the whiteboard instead, because the Scrum Guide caps its own events and the cap is far below what anyone in the room guesses. Add up the limits as written. Sprint Planning is \"timeboxed to a maximum of eight hours for a one-month Sprint,\" with four hours for the Sprint Review and three for the Retrospective. A Daily Scrum is \"a 15-minute event,\" and it needs no slot of its own on the day Sprint Planning already has the team in a room. Nineteen of",
       "titleJa": "スクラムの公式ミーティングは週5時間まで—それ以上の会議は別の原因",
       "summaryJa": "スクラムガイドで定められたイベントの時間上限を合計すると、1ヶ月スプリント想定時で週5時間程度に留まる。スプリント計画は8時間、スプリントレビューは4時間、スプリント振り返りは3時間、デイリースクラムは15分と規定されており、組織内に蔓延する過剰な会議はスクラム公式イベント以外が占めていることを指摘する記事。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Finding your first users before the product exists, debriefing your own interviews, what to optimize for in the early years of your career, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-finding-your-first",
-      "publishedAt": "2026-09-19T19:42:24.000Z",
-      "excerpt": "Community Wisdom 299",
-      "titleJa": "コミュニティの知恵：プロダクト完成前のアーリーユーザー探しと初期キャリアの最適化",
-      "summaryJa": "Lennyのニュースレターのコミュニティ・ウィズダム第299号。プロダクト存在前のアーリーユーザーの見つけ方、インタビューの振り返り方、キャリア初期段階での最適化など、プロダクトマネジャーの実践的な知見をまとめた記事。"
     },
     {
       "category": "PdM",
