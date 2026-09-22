@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-21T21:19:40.801Z",
+  "updatedAt": "2026-09-22T02:13:32.125Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "5 AI Projects Every SDET Should Be Building, Jev , AI Agent Hacks and more TGNS195",
+      "url": "https://testguild.com/podcast/n195-sep21/",
+      "publishedAt": "2026-09-21T20:29:42.000Z",
+      "excerpt": "About This Episode: What are 5 projects every SDET should build right now? Have you seen Google just confirmed its […]",
+      "titleJa": "すべてのSDETが今構築すべき5つのAIプロジェクト",
+      "summaryJa": "SDETが優先的に取り組むべき5つのAIプロジェクトについて解説。Googleも確認した最新のAI技術動向を含め、自動化テストエンジニアがAIを活用した実践的なプロジェクトの構築方法を紹介しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -270,16 +280,6 @@
       "excerpt": "Project communications are hard. There are multiple stakeholders, different views on how things should be done, different channels to use, and no one has the time to do anything any longer. I believe that project managers have had to move into the space that used to be filled by internal communications or change managers. Those... This article first appeared on Rebel's Guide to Project Management and can be read here: Project Communications: Take the Survey",
       "titleJa": "プロジェクト・コミュニケーション：調査に参加してください",
       "summaryJa": "プロジェクト・コミュニケーションは複数のステークホルダー、異なる実施方法、多様なチャネルなど、多くの課題を抱えている。プロジェクトマネージャーは従来は内部コミュニケーションや変更管理部門が担当していた領域へと活動範囲を広げる必要があると考えられている。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "AI Testing Is Bigger Than You Think, 5 Areas Testers Must Own with Swati Seela",
-      "url": "https://testguild.com/podcast/a602-swati/",
-      "publishedAt": "2026-09-01T13:24:28.000Z",
-      "excerpt": "About This Episode: Most testers are stuck arguing about whether AI is coming for their jobs. Swati Seela thinks that’s […]",
-      "titleJa": "AIテストは想像以上に重要、テスターが押さえるべき5つの領域",
-      "summaryJa": "テスターの多くはAIが雇用を脅かすかどうかで議論しているが、専門家のSwati Seelaはそれ以上に重要な視点を提示しています。本エピソードでは、AIテストの実践的な領域と、テスターが主導権を持つべき5つの重要な分野について深掘りされています。"
     }
   ]
 }
