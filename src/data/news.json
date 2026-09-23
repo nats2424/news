@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-22T20:36:39.919Z",
+  "updatedAt": "2026-09-23T02:13:46.686Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
+      "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
+      "publishedAt": "2026-09-22T23:12:49.000Z",
+      "excerpt": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
+      "titleJa": "Opus 5.5 vs. GPT-6 Sol：盲検テストの勝者は？",
+      "summaryJa": "ライティング、フロントエンドプロトタイプ、長時間実行のエージェンティックタスク、SVG、コーディング、動画編集など複数のカテゴリでAIモデルの盲検評価を実施。Opus 5.5とGPT-6 Solのパフォーマンスを比較検証した結果をレポート。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Team Isn't Slow. Your Handoffs Are.",
+      "url": "https://www.scrum.org/resources/blog/your-team-isnt-slow-your-handoffs-are",
+      "publishedAt": "2026-09-22T22:00:00.000Z",
+      "excerpt": "Image Watch where the work actually spends its time. Not the hours someone is heads-down building. The days it sits, waiting. Waiting for the one person who knows that system. Waiting for the other team to finish their sprint. Waiting for a review, a sign-off, an environment, an answer from someone who's out until Thursday. Add up the building time and it's small. Add up the waiting and it's most of the calendar. That's the thing about a slow team. Usually it isn't slow. The people are working hard and well. The work is just passing hand to hand, stalling a little in every gap between one spec",
+      "titleJa": "チームが遅いのではなく、ハンドオフが問題",
+      "summaryJa": "開発チームのボトルネックは個々の作業速度ではなく、スプリント間や部門間のハンドオフプロセスにあることを指摘。実際の建築時間は少なく、承認待ちやレビュー待ちなどの待機時間が大半を占める現状と、その解決策を提案。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "AI Testing Reality Check: What 13 Founders Refuse to Automate with Joe Colantonio",
+      "url": "https://testguild.com/podcast/a605-joe/",
+      "publishedAt": "2026-09-22T21:00:32.000Z",
+      "excerpt": "About This Episode: I asked thirteen people inside AI testing one question: can AI test your software for you? Founders, […]",
+      "titleJa": "AI テスティングの現実：13人の創業者が自動化を拒むもの",
+      "summaryJa": "QA/テスティング分野のAI活用について、13人の起業家に「AIは本当にソフトウェアテストを自動化できるのか」という質問を投げかけた調査。AIテスティングツールの実際の限界と、人間にしかできないテスト領域を浮き彫りにする内容。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -123,26 +153,6 @@
     },
     {
       "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "90 minutes of unfiltered product advice from Snap and Discord’s product chief | Peter Sellis",
-      "url": "https://www.lennysnewsletter.com/p/90-minutes-of-unfiltered-product",
-      "publishedAt": "2026-09-20T12:32:17.000Z",
-      "excerpt": "Peter Sellis on designing teams like terrorist organizations, riding your best people hard, and the three oxymorons of a truly great PM",
-      "titleJa": "優れたPMに必要な3つのジレンマ──SnapとDiscordのプロダクトチーフが語る",
-      "summaryJa": "SnapとDiscordのプロダクトチーフ、ピーター・セリスが、チームの設計から人材の活用、優秀なPMに必要な矛盾した資質まで、プロダクト管理の現場知を90分にわたって語る。PMの実践的なアドバイスを直言で紹介。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum's Meetings Are Capped at Five Hours a Week. Something Else Filled Your Calendar.",
-      "url": "https://www.scrum.org/resources/blog/scrums-meetings-are-capped-five-hours-week-something-else-filled-your-calendar",
-      "publishedAt": "2026-09-20T06:00:00.000Z",
-      "excerpt": "Image Scrum has too many meetings. I have heard that sentence in training rooms since 2010 and for years I argued with it. Now I do the arithmetic on the whiteboard instead, because the Scrum Guide caps its own events and the cap is far below what anyone in the room guesses. Add up the limits as written. Sprint Planning is \"timeboxed to a maximum of eight hours for a one-month Sprint,\" with four hours for the Sprint Review and three for the Retrospective. A Daily Scrum is \"a 15-minute event,\" and it needs no slot of its own on the day Sprint Planning already has the team in a room. Nineteen of",
-      "titleJa": "スクラムの公式ミーティングは週5時間まで—それ以上の会議は別の原因",
-      "summaryJa": "スクラムガイドで定められたイベントの時間上限を合計すると、1ヶ月スプリント想定時で週5時間程度に留まる。スプリント計画は8時間、スプリントレビューは4時間、スプリント振り返りは3時間、デイリースクラムは15分と規定されており、組織内に蔓延する過剰な会議はスクラム公式イベント以外が占めていることを指摘する記事。"
-    },
-    {
-      "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "The Price of a Slow Yes",
       "url": "https://www.productcoalition.com/p/the-price-of-a-slow-yes",
@@ -260,16 +270,6 @@
       "excerpt": "Project managers make decisions all day. We decide how to structure the work, who needs to be in a meeting, what needs escalating and whether a risk response is worth the effort. But the bigger the decision, the less likely it is to be ours to make. At some point, the choice belongs to the sponsor, project board or another senior leader. That’s where a different project management skill becomes important: helping the person with the authority make a good decision, at the right time, with enough information to understand the consequences. That is not the same as learning another decision-making",
       "titleJa": "プロジェクトマネージャーが経営判断を支援する8つの方法",
       "summaryJa": "プロジェクトマネージャーは日々意思決定を行いますが、重要度が高い決定はスポンサーや上級リーダーが行います。本記事は、権限を持つ者が適切なタイミングで十分な情報を基に良好な決定を下すことを支援する、プロジェクトマネジメントの重要なスキルについて解説しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "AI Performance Testing: How to Scale Agentic AI with Kandasamy Selvaraj",
-      "url": "https://testguild.com/podcast/a603-kandasamy/",
-      "publishedAt": "2026-09-08T17:48:54.000Z",
-      "excerpt": "About This Episode: Everything you knew about performance testing changes when the system you’re testing is non deterministic. In this […]",
-      "titleJa": "AI性能テスト：エージェントAIのスケーリング方法",
-      "summaryJa": "非決定論的なシステムのテストでは、従来のパフォーマンステスト手法が通用しません。本エピソードではKandasamy Selvarajとともに、AIを活用したテスト戦略と、変動するシステム挙動への対応方法について解説します。"
     },
     {
       "category": "PdM",
