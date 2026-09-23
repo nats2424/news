@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-23T02:13:46.686Z",
+  "updatedAt": "2026-09-23T10:24:32.486Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Responsible Quality Engineering",
+      "url": "https://www.satisfice.com/blog/archives/488069",
+      "publishedAt": "2026-09-23T05:39:31.000Z",
+      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
+      "titleJa": "責任あるクオリティエンジニアリング",
+      "summaryJa": "クオリティエンジニアリング(QE)はテストではなく、開発者が主体的に品質を追求するプロセスです。テスターはそれをサポートするため、製品の品質を分析し、開発者にフィードバックを提供することが本来の役割です。品質工学的アプローチの意義について解説しています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "The Perfect Job For Me",
+      "url": "https://www.satisfice.com/blog/archives/488204",
+      "publishedAt": "2026-09-23T03:36:07.000Z",
+      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
+      "titleJa": "私にとって理想的な職務とは",
+      "summaryJa": "大企業がAIを効果的に活用しながら制御し、収益性を保ちつつ法的・技術的リスクを回避するには、AIの今後の進化がどうなろうとも、その企業には専門的なサポートが必要です。AI時代の組織における重要な職務についての考察を提示しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
