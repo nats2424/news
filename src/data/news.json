@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-24T01:59:49.233Z",
+  "updatedAt": "2026-09-24T10:41:08.664Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "Build or Buy Is Not a Technical Decision",
+      "url": "https://www.productcoalition.com/p/build-or-buy-is-not-a-technical-decision",
+      "publishedAt": "2026-09-24T08:01:42.000Z",
+      "excerpt": "The build case is argued in sprints, and the bill turns up later as headcount",
+      "titleJa": "ビルド vs バイは技術的判断ではない",
+      "summaryJa": "ビルド(内製)の判断はスプリント単位で議論されるが、実際のコストは後から人員配置として計上される。技術的側面だけでなく、経営・プロジェクト管理的な観点が重要であることを指摘している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "KI auf einem dysfunktionalen System (1): Das Produkt-Backlog 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/ki-auf-einem-dysfunktionalen-system-1-das-produkt-backlog",
+      "publishedAt": "2026-09-24T03:52:30.000Z",
+      "excerpt": "In Kürze: Aufwendig produzierte Artefakte, unveränderte Entscheidungen oder zehn Produkt-Backlog-Antimuster, die KI verschlimmert Stülpen Sie KI über einen problematischen Produkt-Backlog-Prozess, und binnen eines Nachmittags scheint sich alles zu verbessern. Das Problem ist, dass das „Polieren“ von Artefakten mit KI die eigentliche Ursache nicht behebt: Die Entscheidungsgrundlage des Teams ändert sich nicht; die KI beseitigt lediglich das sichtbare Unbehagen, das früher signalisierte, dass mit dem Prozess etwas nicht stimmt. Damit vermindert sich auch ein Teil des Drucks, das Prozessproblem z",
+      "titleJa": "AIを機能不全なシステムに適用する(1):プロダクトバックログの問題",
+      "summaryJa": "AIでプロダクトバックログのアーティファクトを磨いても、根本的なプロセス問題は解決されない。10個のアンチパターンの存在により、AIはシステムの表面的な問題を隠すだけで、実際の意思決定基盤や組織的課題は改善されないという課題を論じている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -160,16 +180,6 @@
       "excerpt": "Planning Certainty Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Planning Certainty. Over-investing in upfront certainty delays learning and reduces the ability to respond to change. Simulated Assessment Question A Scrum Team spends significant time refining Product Backlog Items to ensure they are fully understood before starting work. A",
       "titleJa": "認知バイアス：計画の確実性への過度な依存",
       "summaryJa": "Scrumにおける多くの失敗は、効率性や管理、快適さを優先する認知バイアスに起因します。事前の完全な理解を求めすぎることは学習を遅延させ、変化への対応能力を低下させます。本記事では、計画の確実性というバイアスについて、その問題と改善方法を解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Does Your AI Know the Scrum Guide? Twelve Questions to Find Out",
-      "url": "https://www.scrum.org/resources/blog/does-your-ai-know-scrum-guide-twelve-questions-find-out",
-      "publishedAt": "2026-09-21T02:57:20.000Z",
-      "excerpt": "Image More and more participants in my Professional Scrum Master classes arrive with Scrum \"rules\" they picked up from an AI chatbot. Some of those rules are accurate. Some stopped being true in November 2020. And a few were never part of Scrum at all. The trouble is that from the outside, the correct answers and the incorrect ones look the same. They are equally fluent, equally confident and equally well formatted. An AI that knows Scrum is useful. An AI that only sounds as if it knows Scrum is risky, especially when a Scrum Master repeats its answer to a Scrum Team or a stakeholder. This art",
-      "titleJa": "AIは本当にScrum Guideを理解しているか：12の確認質問",
-      "summaryJa": "AI チャットボットから得られるScrum情報には、正確なものと過時のもの、不正確なものが混在しています。見た目は同じように流暢で自信に満ちていますが、その信頼性に大きな差があります。Scrum Masterが誤った情報を伝播させないよう、AIの回答を検証する必要があります。"
     },
     {
       "category": "PdM",
