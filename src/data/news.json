@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-24T10:41:08.664Z",
+  "updatedAt": "2026-09-24T16:03:41.058Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From Deployed to Actually Used: The Lane Most Boards Are Missing",
+      "url": "https://www.scrum.org/resources/blog/deployed-actually-used-lane-most-boards-are-missing",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Why is nobody using the AI agents you shipped? People are deploying a feature and calling it a day, essentially. The problem is that while the feature might be working, it might not be useful. Or even if it's useful, it might not be used. One specific scenario I'm seeing when working with AI enablement leaders is that they're working on AI use cases: they are deploying agents, deploying Gems, and nobody's using them. It's not really useful that way. What follows from treating deployment as done is that nobody pays attention to whether people are really u",
+      "titleJa": "デプロイから実際の利用まで：見落とされているAIエージェント活用の道",
+      "summaryJa": "AIエージェントをデプロイしても実際に利用されないという課題が存在します。機能が動作していてもユーザーに使用されなければ意味がなく、デプロイを完了と見なすだけでは、実際の利用状況への注意が払われないままになる傾向があります。AI導入リーダーは、ツールの有用性と実際の採用のギャップに対処する必要があります。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How Next Insurance Broke Its Whole Lifecycle Into Agent Skills",
+      "url": "https://www.scrum.org/resources/blog/how-next-insurance-broke-its-whole-lifecycle-agent-skills",
+      "publishedAt": "2026-09-24T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. What an agentic development lifecycle looks like when it is actually running Shay Mandel has spent his career on the boundary between engineering and product. A developer at heart, as he puts it, who also likes to see big systems: how we impact customers, how we improve processes. He joined Next Insurance more than seven years ago, when it was quite a small company that then grew almost a hundred percent every year in revenue until it was acquired. They do small business insurance: think about a technician who comes to your house and needs general liabil",
+      "titleJa": "Next Insuranceが実現したエージェント開発ライフサイクルの全体像",
+      "summaryJa": "Next Insuranceは、エンジニアリングとプロダクトの境界領域で、実践的なエージェント駆動型開発ライフサイクルを構築しました。エンジニアリング主導でありながら、ビッグシステムの視点を持つShay Mandelのアプローチにより、企業のプロセス改善と顧客インパクトを最大化する具体的な事例が紹介されています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to communicate the value of your PMO",
+      "url": "https://rebelsguidetopm.com/communicate-the-value-of-pmo/",
+      "publishedAt": "2026-09-24T11:14:17.000Z",
+      "excerpt": "When I started out in project management I remember clearly being told that the lifecycle of a PMO was 7 years. It’s often seen as overhead, and certainly I’ve known organizations where the PMO team was caught in reshuffles and redundancies in a way that other teams were not. At least, getting people to believe that the Project Management Office adds value is tricky until something goes wrong, and by then it's too late to build credibility and magic up a PMO when the company has underinvested in it from the start. And if your PMO is only reporting management activity (like number of reports pr",
+      "titleJa": "PMOの価値をステークホルダーに伝える方法",
+      "summaryJa": "PMO（プロジェクトマネジメントオフィス）は往々にして組織内でオーバーヘッドと見なされ、危機が発生してからでは信頼を構築できません。PMOの価値を理解してもらうには、単なる管理活動の報告ではなく、組織への貢献を明確に可視化・伝達することが重要です。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -152,16 +182,6 @@
       "summaryJa": "「Continuous Discovery Habits」5周年を記念した共同読書会。毎月、該当章の詳細ガイドと重要コンセプト、動画コンテンツを提供。本章では仮説検証の手法を学ぶ。プロダクトディスカバリーの実践的スキル習得に最適な資料。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Finding AI Gold With Lean Startup Techniques",
-      "url": "https://www.scrum.org/resources/blog/finding-ai-gold-lean-startup-techniques",
-      "publishedAt": "2026-09-21T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. How do we deliver valuable real-world AI impact through solutions that solve problems, using some of what we've learned by building products over the last couple of decades? We're not seeing the value yet Unless you've been in a cave, you're aware that there's a gold rush happening out there. Certain companies are definitely making money building AI hardware and solutions, and a lot of people are heading out to mine for AI gold. A lot of the conversations inside organizations feel like they're more about the technology and the solutions than about what w",
-      "titleJa": "リーン・スタートアップ手法でAIビジネスの機会を見つける",
-      "summaryJa": "AIソリューション開発において、テクノロジーありきではなく、顧客課題解決に焦点を当てた価値提供のあり方を論じる。過去数十年のプロダクト開発経験から得た知見とリーン・スタートアップの原則を応用し、真の価値をもたらすAI実装の考え方を解説。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
@@ -170,16 +190,6 @@
       "excerpt": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
       "titleJa": "Warpが月2,000PRを実現するAIファクトリーの仕組み | Zach Lloyd(CEO)",
       "summaryJa": "Warp CEOのZach Lloydが、Slack・Linear・GitHub からの依頼を自動追跡・テストされたPRに変換し、クラウドベースのAIソフトウェアファクトリーとして継続改善するシステムを解説。47分の動画で具体的な実装プロセスが学べる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Cognitive Trap: Planning Certainty",
-      "url": "https://www.scrum.org/resources/blog/cognitive-trap-planning-certainty",
-      "publishedAt": "2026-09-21T04:00:00.000Z",
-      "excerpt": "Planning Certainty Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Planning Certainty. Over-investing in upfront certainty delays learning and reduces the ability to respond to change. Simulated Assessment Question A Scrum Team spends significant time refining Product Backlog Items to ensure they are fully understood before starting work. A",
-      "titleJa": "認知バイアス：計画の確実性への過度な依存",
-      "summaryJa": "Scrumにおける多くの失敗は、効率性や管理、快適さを優先する認知バイアスに起因します。事前の完全な理解を求めすぎることは学習を遅延させ、変化への対応能力を低下させます。本記事では、計画の確実性というバイアスについて、その問題と改善方法を解説します。"
     },
     {
       "category": "PdM",
