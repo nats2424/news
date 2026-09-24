@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-24T16:03:41.058Z",
+  "updatedAt": "2026-09-24T20:53:01.017Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "For Fix Sake",
+      "url": "https://qahiccupps.blogspot.com/2026/09/for-fix-sake.html",
+      "publishedAt": "2026-09-24T17:21:57.000Z",
+      "excerpt": "The latest episode of the Vernon Richard Show, New QA Job? How We'd Decide Where To Start, answers this question from a listener, Shady: When joining a new organisation, how do you decide which QA domino piece to tackle first for the rest to easily fall into place? For example, you might find flaky test automation, poor testability in user stories, no integration tests, limited test management tools, missing test data, and an ever growing regression suite. With so many improvement opportunities, how do you prioritise what to fix first? As usual the conversation ranged freely and I've picked ou",
+      "titleJa": "新しい組織でのQA改善、何から始めるべきか",
+      "summaryJa": "新しい組織に参加した際、フレークなテスト自動化、テスト管理ツールの不足、リグレッション スイートの肥大化など、複数の改善機会がある中で、どの問題を優先して取り組むべきかについて、意思決定のアプローチと優先順位付けの考え方を探る。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Current State vs. Future State in Business Analysis: Why You Need Both",
+      "url": "https://www.scrum.org/resources/blog/current-state-vs-future-state-business-analysis-why-you-need-both",
+      "publishedAt": "2026-09-24T17:17:15.000Z",
+      "excerpt": "Image Current state vs future state analysis helps teams understand where they are today, where they need to go, and what needs to change along the way. It sounds simple, but teams often skip this thinking. A business problem is identified, and the conversation quickly shifts to what should be built, purchased, automated, or changed. The problem is that choosing a solution before understanding the current situation can lead to decisions based on assumptions. Business analysis creates an opportunity to slow down the decision, not the work. By understanding the current state and defining a reali",
+      "titleJa": "現在状態と将来状態分析：ビジネス分析になぜ両方が必要か",
+      "summaryJa": "現在状態と将来状態の分析は、チームが現在地を理解し、目指すべき方向性を明確にするために重要である。仮定に基づいた意思決定を避けるため、問題解決策を選ぶ前に現状把握と丁寧な分析を行うことが、実質的な改善につながる。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -90,16 +110,6 @@
       "excerpt": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
       "titleJa": "Opus 5.5 vs. GPT-6 Sol：盲検テストの勝者は？",
       "summaryJa": "ライティング、フロントエンドプロトタイプ、長時間実行のエージェンティックタスク、SVG、コーディング、動画編集など複数のカテゴリでAIモデルの盲検評価を実施。Opus 5.5とGPT-6 Solのパフォーマンスを比較検証した結果をレポート。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your Team Isn't Slow. Your Handoffs Are.",
-      "url": "https://www.scrum.org/resources/blog/your-team-isnt-slow-your-handoffs-are",
-      "publishedAt": "2026-09-22T22:00:00.000Z",
-      "excerpt": "Image Watch where the work actually spends its time. Not the hours someone is heads-down building. The days it sits, waiting. Waiting for the one person who knows that system. Waiting for the other team to finish their sprint. Waiting for a review, a sign-off, an environment, an answer from someone who's out until Thursday. Add up the building time and it's small. Add up the waiting and it's most of the calendar. That's the thing about a slow team. Usually it isn't slow. The people are working hard and well. The work is just passing hand to hand, stalling a little in every gap between one spec",
-      "titleJa": "チームが遅いのではなく、ハンドオフが問題",
-      "summaryJa": "開発チームのボトルネックは個々の作業速度ではなく、スプリント間や部門間のハンドオフプロセスにあることを指摘。実際の建築時間は少なく、承認待ちやレビュー待ちなどの待機時間が大半を占める現状と、その解決策を提案。"
     },
     {
       "category": "QA",
