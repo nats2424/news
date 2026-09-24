@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-23T20:46:58.317Z",
+  "updatedAt": "2026-09-24T01:59:49.233Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "‘Batches’ in Scrum",
+      "url": "https://www.scrum.org/resources/blog/batches-scrum",
+      "publishedAt": "2026-09-24T01:47:45.000Z",
+      "excerpt": "Image If you consider each of Scrum’s events, you’ll notice batches of various kinds: Sprint: The team conducts all their work in the context of Sprints and each Sprint is an opportunity to focus on, and get feedback about, a batch of new work. Sprint Planning: The team is considering what portion (a batch) of the Product Backlog to convert into functionality within the Sprint. They’ll negotiate a Sprint Goal and select Product Backlog Items (a batch of PBIs) from the top of the Product Backlog. Daily Scrum: The team is inspecting the batches of work they’ve done, the batch of things in flight",
+      "titleJa": "Scrumにおける『バッチ』の概念",
+      "summaryJa": "Scrumのイベント全体を通じて、様々なバッチ処理が行われています。スプリント内では新しい仕事のバッチに焦点を当て、スプリントプランニングではプロダクトバックログから一定量のアイテムを選択し、デイリースクラムでは進行中の作業バッチを検査します。"
+    },
     {
       "category": "QA",
       "sourceName": "Satisfice (James Bach)",
@@ -160,16 +170,6 @@
       "excerpt": "Image More and more participants in my Professional Scrum Master classes arrive with Scrum \"rules\" they picked up from an AI chatbot. Some of those rules are accurate. Some stopped being true in November 2020. And a few were never part of Scrum at all. The trouble is that from the outside, the correct answers and the incorrect ones look the same. They are equally fluent, equally confident and equally well formatted. An AI that knows Scrum is useful. An AI that only sounds as if it knows Scrum is risky, especially when a Scrum Master repeats its answer to a Scrum Team or a stakeholder. This art",
       "titleJa": "AIは本当にScrum Guideを理解しているか：12の確認質問",
       "summaryJa": "AI チャットボットから得られるScrum情報には、正確なものと過時のもの、不正確なものが混在しています。見た目は同じように流暢で自信に満ちていますが、その信頼性に大きな差があります。Scrum Masterが誤った情報を伝播させないよう、AIの回答を検証する必要があります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI on Top of a Dysfunctional System (1): The Product Backlog",
-      "url": "https://www.scrum.org/resources/blog/ai-top-dysfunctional-system-1-product-backlog",
-      "publishedAt": "2026-09-20T14:53:52.000Z",
-      "excerpt": "TL;DR: Polished Artifacts, Unchanged Decisions, Or Ten Backlog Anti-Patterns AI Makes Worse Add AI to a Product Backlog process that already struggles, and everything seems to improve within an afternoon. The problem is that polishing artifacts with AI doesn’t fix the root cause: the basis for the team’s decisions doesn’t change; AI only removes the visible discomfort that used to signal something was broken, along with some of the pressure to fix it. AI applied to a dysfunctional system – here, the Product Backlog process – makes the dysfunction look like progress. This is the first article o",
-      "titleJa": "機能しないシステムの上に乗せたAI：プロダクトバックログの問題",
-      "summaryJa": "プロダクトバックログプロセスにAIを適用しても、根本的な問題は解決されない。AIは見た目の改善や成果物の磨き上げによって、本来あるべき修正の必要性をマスクしてしまう。機能不全のシステムをAIで飾ると、進歩しているように見えるだけという警告。"
     },
     {
       "category": "PdM",
