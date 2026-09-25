@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-24T20:53:01.017Z",
+  "updatedAt": "2026-09-25T02:16:49.125Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "You can't choose the system. You choose how you act inside it.",
+      "url": "https://www.scrum.org/resources/blog/you-cant-choose-system-you-choose-how-you-act-inside-it",
+      "publishedAt": "2026-09-24T22:00:00.000Z",
+      "excerpt": "Ask almost anyone on a struggling team why they've stopped pushing, and you'll get the same answer in slightly different words. There's no point. The org won't change. Leadership doesn't listen. The deadline is fixed, the mandate is thin, the priorities flip every week, and none of it is theirs to control. Most of that is true, and that's the uncomfortable part. A great deal of what shapes a team's day genuinely isn't the team's to decide. You can spend an entire career waiting for the system to hand you the conditions to do good work, and the system, mostly, won't. But there's a quiet sleight",
+      "titleJa": "システムは選べない。ただシステムの中での行動は選べる",
+      "summaryJa": "苦境にあるチームが努力を止める理由の多くは、組織や環境が変わらないという無力感にある。確かに、チームが制御できない要因は多く存在する。しかし、良い仕事をする条件がシステムから与えられるのを待つのではなく、与えられた制約の中でどう行動するかを選択することが重要であることを示唆している。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -70,16 +80,6 @@
       "excerpt": "In Kürze: Aufwendig produzierte Artefakte, unveränderte Entscheidungen oder zehn Produkt-Backlog-Antimuster, die KI verschlimmert Stülpen Sie KI über einen problematischen Produkt-Backlog-Prozess, und binnen eines Nachmittags scheint sich alles zu verbessern. Das Problem ist, dass das „Polieren“ von Artefakten mit KI die eigentliche Ursache nicht behebt: Die Entscheidungsgrundlage des Teams ändert sich nicht; die KI beseitigt lediglich das sichtbare Unbehagen, das früher signalisierte, dass mit dem Prozess etwas nicht stimmt. Damit vermindert sich auch ein Teil des Drucks, das Prozessproblem z",
       "titleJa": "AIを機能不全なシステムに適用する(1):プロダクトバックログの問題",
       "summaryJa": "AIでプロダクトバックログのアーティファクトを磨いても、根本的なプロセス問題は解決されない。10個のアンチパターンの存在により、AIはシステムの表面的な問題を隠すだけで、実際の意思決定基盤や組織的課題は改善されないという課題を論じている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "‘Batches’ in Scrum",
-      "url": "https://www.scrum.org/resources/blog/batches-scrum",
-      "publishedAt": "2026-09-24T01:47:45.000Z",
-      "excerpt": "Image If you consider each of Scrum’s events, you’ll notice batches of various kinds: Sprint: The team conducts all their work in the context of Sprints and each Sprint is an opportunity to focus on, and get feedback about, a batch of new work. Sprint Planning: The team is considering what portion (a batch) of the Product Backlog to convert into functionality within the Sprint. They’ll negotiate a Sprint Goal and select Product Backlog Items (a batch of PBIs) from the top of the Product Backlog. Daily Scrum: The team is inspecting the batches of work they’ve done, the batch of things in flight",
-      "titleJa": "Scrumにおける『バッチ』の概念",
-      "summaryJa": "Scrumのイベント全体を通じて、様々なバッチ処理が行われています。スプリント内では新しい仕事のバッチに焦点を当て、スプリントプランニングではプロダクトバックログから一定量のアイテムを選択し、デイリースクラムでは進行中の作業バッチを検査します。"
     },
     {
       "category": "QA",
