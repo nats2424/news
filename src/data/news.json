@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-26T15:17:32.686Z",
+  "updatedAt": "2026-09-26T20:18:35.953Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
+      "publishedAt": "2026-09-26T17:54:02.000Z",
+      "excerpt": "Community Wisdom 300",
+      "titleJa": "🧠 コミュニティの知恵：AI悲観論、大規模組織での発見の加速、新任PMとしてのエンジニアリング検証、アナリティクスの最大価値、ほか",
+      "summaryJa": "Lennyのニュースレターから、プロダクトマネジメント領域の実践的な知見を集約。AI関連の懸念事項から、大規模組織での業務効率化、新任PMのエンジニアリング検証スキル、アナリティクスの戦略的活用など、複数のテーマに関するコミュニティの知見や経験を紹介する。"
+    },
     {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
@@ -92,26 +102,6 @@
       "summaryJa": "AIでプロダクトバックログのアーティファクトを磨いても、根本的なプロセス問題は解決されない。10個のアンチパターンの存在により、AIはシステムの表面的な問題を隠すだけで、実際の意思決定基盤や組織的課題は改善されないという課題を論じている。"
     },
     {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Responsible Quality Engineering",
-      "url": "https://www.satisfice.com/blog/archives/488069",
-      "publishedAt": "2026-09-23T05:39:31.000Z",
-      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
-      "titleJa": "責任あるクオリティエンジニアリング",
-      "summaryJa": "クオリティエンジニアリング(QE)はテストではなく、開発者が主体的に品質を追求するプロセスです。テスターはそれをサポートするため、製品の品質を分析し、開発者にフィードバックを提供することが本来の役割です。品質工学的アプローチの意義について解説しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "The Perfect Job For Me",
-      "url": "https://www.satisfice.com/blog/archives/488204",
-      "publishedAt": "2026-09-23T03:36:07.000Z",
-      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
-      "titleJa": "私にとって理想的な職務とは",
-      "summaryJa": "大企業がAIを効果的に活用しながら制御し、収益性を保ちつつ法的・技術的リスクを回避するには、AIの今後の進化がどうなろうとも、その企業には専門的なサポートが必要です。AI時代の組織における重要な職務についての考察を提示しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
@@ -200,16 +190,6 @@
       "excerpt": "Continuous Discovery Habits* turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "第10章: 仮説の検証",
       "summaryJa": "「Continuous Discovery Habits」5周年を記念した共同読書会。毎月、該当章の詳細ガイドと重要コンセプト、動画コンテンツを提供。本章では仮説検証の手法を学ぶ。プロダクトディスカバリーの実践的スキル習得に最適な資料。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How Warp ships 2,000 PRs a month with AI factories | Zach Lloyd (CEO, Warp)",
-      "url": "https://www.lennysnewsletter.com/p/how-warp-ships-2000-prs-a-month-with",
-      "publishedAt": "2026-09-21T12:04:11.000Z",
-      "excerpt": "Watch now (47 mins) | 🎙️ Warp CEO Zach Lloyd shows how his team turns requests from Slack, Linear, and GitHub into tracked, tested pull requests, then measures and improves its cloud-based AI software factory over time",
-      "titleJa": "Warpが月2,000PRを実現するAIファクトリーの仕組み | Zach Lloyd(CEO)",
-      "summaryJa": "Warp CEOのZach Lloydが、Slack・Linear・GitHub からの依頼を自動追跡・テストされたPRに変換し、クラウドベースのAIソフトウェアファクトリーとして継続改善するシステムを解説。47分の動画で具体的な実装プロセスが学べる。"
     },
     {
       "category": "PdM",
