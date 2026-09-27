@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T20:18:35.953Z",
+  "updatedAt": "2026-09-27T02:17:51.677Z",
   "items": [
     {
       "category": "PdM",
@@ -100,6 +100,26 @@
       "excerpt": "In Kürze: Aufwendig produzierte Artefakte, unveränderte Entscheidungen oder zehn Produkt-Backlog-Antimuster, die KI verschlimmert Stülpen Sie KI über einen problematischen Produkt-Backlog-Prozess, und binnen eines Nachmittags scheint sich alles zu verbessern. Das Problem ist, dass das „Polieren“ von Artefakten mit KI die eigentliche Ursache nicht behebt: Die Entscheidungsgrundlage des Teams ändert sich nicht; die KI beseitigt lediglich das sichtbare Unbehagen, das früher signalisierte, dass mit dem Prozess etwas nicht stimmt. Damit vermindert sich auch ein Teil des Drucks, das Prozessproblem z",
       "titleJa": "AIを機能不全なシステムに適用する(1):プロダクトバックログの問題",
       "summaryJa": "AIでプロダクトバックログのアーティファクトを磨いても、根本的なプロセス問題は解決されない。10個のアンチパターンの存在により、AIはシステムの表面的な問題を隠すだけで、実際の意思決定基盤や組織的課題は改善されないという課題を論じている。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Responsible Quality Engineering",
+      "url": "https://www.satisfice.com/blog/archives/488069",
+      "publishedAt": "2026-09-23T05:39:31.000Z",
+      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
+      "titleJa": "責任あるクオリティエンジニアリング",
+      "summaryJa": "クオリティエンジニアリングはテスティングそのものではなく、テスティングを含む広い概念である。実際のQE活動の担い手は開発者であり、テスターはプロダクトの品質分析とデベロッパーへのフィードバック提供を通じてそのプロセスをサポートする役割を果たす。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "The Perfect Job For Me",
+      "url": "https://www.satisfice.com/blog/archives/488204",
+      "publishedAt": "2026-09-23T03:36:07.000Z",
+      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
+      "titleJa": "私にぴったりの仕事",
+      "summaryJa": "大企業がAIを効果的に活用しながらコントロール下に置き、利益を上げ競争力を維持し、法的・技術的な重大な失敗を避けるために必要な職務について考察する。AIの発展状況がどうなろうとも、すべての大企業にとって重要な役割がある。"
     },
     {
       "category": "PdM",
