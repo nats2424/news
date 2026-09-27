@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-27T10:58:01.058Z",
+  "updatedAt": "2026-09-27T15:56:12.456Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Jobs Matrix for AI: Four Boxes Instead of Forty Tools",
+      "url": "https://www.scrum.org/resources/blog/jobs-matrix-ai-four-boxes-instead-forty-tools",
+      "publishedAt": "2026-09-27T14:38:57.000Z",
+      "excerpt": "TL;DR: A 2×2 Matrix on AI for Agile Practitioners You probably think making sense of AI means keeping up with every new tool, agent, and pricing tier. Steve Jobs faced a similar mess at Apple in 1997, with a dozen versions of the Macintosh, and he fixed it with a two-by-two grid on a whiteboard. Almost 30 years later, the “Jobs Matrix for AI” sorts the AI tool market and, more usefully, the AI use cases of Scrum Masters, Product Owners, Agile Coaches, and anyone else in agile product development. Replace Consumer and Pro with Team and Organization, and Desktop and Portable with Chatbot and Age",
+      "titleJa": "AI時代のジョブズマトリックス：40のツールではなく4つのボックス",
+      "summaryJa": "アジャイル実践者向けに、複雑なAIツール市場を2×2マトリックスで整理するフレームワークを提案。スクラムマスターやプロダクトオーナーなどが直面するAI活用のジレンマを、シンプルなマトリックスで解決し、実践的なAI導入戦略を示唆している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Scrum Team Might Be Excellent at Building the Wrong Thing",
+      "url": "https://www.scrum.org/resources/blog/your-scrum-team-might-be-excellent-building-wrong-thing",
+      "publishedAt": "2026-09-27T14:15:19.000Z",
+      "excerpt": "Image Most Scrum Teams I work with are good at delivery. They have a stable Sprint cadence, a clear Definition of Done, and they deliver a usable Increment every Sprint. The Sprint Review runs on time and stakeholders nod along. And yet, when I ask Product Owners in class how many of last quarter's Product Backlog items measurably moved an outcome, the room goes quiet. That silence is what this post is about. Scrum is built on empiricism and lean thinking. A team can apply empiricism thoroughly to how it builds and hardly at all to what it builds. When that happens, every gain in delivery spee",
+      "titleJa": "Scrumチームは間違ったものを完璧に作っているかもしれない",
+      "summaryJa": "多くのScrumチームはデリバリーには優れているが、実際に構築する内容（What）に関する検証が不足していることを指摘。実装の効率性だけでなく、プロダクトバックログアイテムが実際のビジネスアウトカムを測定可能に改善しているか検証する重要性を強調している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
+      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
+      "publishedAt": "2026-09-27T12:32:18.000Z",
+      "excerpt": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
+      "titleJa": "テック業界に蔓延する悲観、孤立感、バーンアウト",
+      "summaryJa": "MollyGrahamがAI時代のキャリアアドバイスを再考察し、ロボットへの委任が人間への委任と異なる理由を解説。AIの急速な発展に伴うテック業界での心理的課題や、効果的な人材マネジメントのあり方についてのインサイトを提供している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,26 +90,6 @@
       "excerpt": "Image Current state vs future state analysis helps teams understand where they are today, where they need to go, and what needs to change along the way. It sounds simple, but teams often skip this thinking. A business problem is identified, and the conversation quickly shifts to what should be built, purchased, automated, or changed. The problem is that choosing a solution before understanding the current situation can lead to decisions based on assumptions. Business analysis creates an opportunity to slow down the decision, not the work. By understanding the current state and defining a reali",
       "titleJa": "現在状態と将来状態分析：ビジネス分析になぜ両方が必要か",
       "summaryJa": "現在状態と将来状態の分析は、チームが現在地を理解し、目指すべき方向性を明確にするために重要である。仮定に基づいた意思決定を避けるため、問題解決策を選ぶ前に現状把握と丁寧な分析を行うことが、実質的な改善につながる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From Deployed to Actually Used: The Lane Most Boards Are Missing",
-      "url": "https://www.scrum.org/resources/blog/deployed-actually-used-lane-most-boards-are-missing",
-      "publishedAt": "2026-09-24T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Why is nobody using the AI agents you shipped? People are deploying a feature and calling it a day, essentially. The problem is that while the feature might be working, it might not be useful. Or even if it's useful, it might not be used. One specific scenario I'm seeing when working with AI enablement leaders is that they're working on AI use cases: they are deploying agents, deploying Gems, and nobody's using them. It's not really useful that way. What follows from treating deployment as done is that nobody pays attention to whether people are really u",
-      "titleJa": "デプロイから実際の利用まで：見落とされているAIエージェント活用の道",
-      "summaryJa": "AIエージェントをデプロイしても実際に利用されないという課題が存在します。機能が動作していてもユーザーに使用されなければ意味がなく、デプロイを完了と見なすだけでは、実際の利用状況への注意が払われないままになる傾向があります。AI導入リーダーは、ツールの有用性と実際の採用のギャップに対処する必要があります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How Next Insurance Broke Its Whole Lifecycle Into Agent Skills",
-      "url": "https://www.scrum.org/resources/blog/how-next-insurance-broke-its-whole-lifecycle-agent-skills",
-      "publishedAt": "2026-09-24T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. What an agentic development lifecycle looks like when it is actually running Shay Mandel has spent his career on the boundary between engineering and product. A developer at heart, as he puts it, who also likes to see big systems: how we impact customers, how we improve processes. He joined Next Insurance more than seven years ago, when it was quite a small company that then grew almost a hundred percent every year in revenue until it was acquired. They do small business insurance: think about a technician who comes to your house and needs general liabil",
-      "titleJa": "Next Insuranceが実現したエージェント開発ライフサイクルの全体像",
-      "summaryJa": "Next Insuranceは、エンジニアリングとプロダクトの境界領域で、実践的なエージェント駆動型開発ライフサイクルを構築しました。エンジニアリング主導でありながら、ビッグシステムの視点を持つShay Mandelのアプローチにより、企業のプロセス改善と顧客インパクトを最大化する具体的な事例が紹介されています。"
     },
     {
       "category": "PjM",
@@ -190,16 +200,6 @@
       "excerpt": "About This Episode: What are 5 projects every SDET should build right now? Have you seen Google just confirmed its […]",
       "titleJa": "すべてのSDETが今構築すべき5つのAIプロジェクト",
       "summaryJa": "SDETが優先的に取り組むべき5つのAIプロジェクトについて解説。Googleも確認した最新のAI技術動向を含め、自動化テストエンジニアがAIを活用した実践的なプロジェクトの構築方法を紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: Meta’s Muse review + How Warp ships 2,000 PRs a month with AI factories",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-metas-muse-review-how-warp",
-      "publishedAt": "2026-09-21T15:03:51.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "🎙️ 「How I AI」: MetaのMuseレビュー＋Warpが月2,000のPRをAIファクトリーで実現",
-      "summaryJa": "Lenny's Podcast Networkの週刊番組「How I AI」。MetaのMuseレビューとWarpのCEO Zach Lloydが語るAIファクトリーの実例を紹介。Slackやgithubからの依頼を自動でテスト済みのPRに変換し、月2,000件のリリースを実現するプロセスについて。"
     },
     {
       "category": "PdM",
