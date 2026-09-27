@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-27T02:17:51.677Z",
+  "updatedAt": "2026-09-27T10:58:01.058Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum's Protocol Is Easy to Copy. Its Agenda Is Not.",
+      "url": "https://www.scrum.org/resources/blog/scrums-protocol-easy-copy-its-agenda-not",
+      "publishedAt": "2026-09-27T06:00:00.000Z",
+      "excerpt": "Image I have been a Professional Scrum Trainer since 2010, which means I have sat in the room when organizations decide Scrum is not working. Sprint Planning on Monday, Daily Scrum at nine, Sprint Review on the last Friday, Retrospective right after; every event on the calendar and every artifact named correctly. Nothing changed. These organizations usually ask whether they are running the wrong process, but the actual gap is more basic. Scrum carries a standard protocol and an agenda, and adopting the protocol while ignoring the agenda produces all the ceremony and none of the results. What a",
+      "titleJa": "スクラムのプロセスは真似しやすい。その本質は違う。",
+      "summaryJa": "プロフェッショナルスクラムトレーナーの経験から、多くの組織がスクラムの形式は整えていても成果が出ていない現状を指摘。スクラムには標準的なプロトコルと実行するべきアジェンダがあり、プロトコルだけを導入してアジェンダを無視すると、儀式だけで結果が伴わないという課題について論述。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -90,16 +100,6 @@
       "excerpt": "The build case is argued in sprints, and the bill turns up later as headcount",
       "titleJa": "ビルド vs バイは技術的判断ではない",
       "summaryJa": "ビルド(内製)の判断はスプリント単位で議論されるが、実際のコストは後から人員配置として計上される。技術的側面だけでなく、経営・プロジェクト管理的な観点が重要であることを指摘している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "KI auf einem dysfunktionalen System (1): Das Produkt-Backlog 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/ki-auf-einem-dysfunktionalen-system-1-das-produkt-backlog",
-      "publishedAt": "2026-09-24T03:52:30.000Z",
-      "excerpt": "In Kürze: Aufwendig produzierte Artefakte, unveränderte Entscheidungen oder zehn Produkt-Backlog-Antimuster, die KI verschlimmert Stülpen Sie KI über einen problematischen Produkt-Backlog-Prozess, und binnen eines Nachmittags scheint sich alles zu verbessern. Das Problem ist, dass das „Polieren“ von Artefakten mit KI die eigentliche Ursache nicht behebt: Die Entscheidungsgrundlage des Teams ändert sich nicht; die KI beseitigt lediglich das sichtbare Unbehagen, das früher signalisierte, dass mit dem Prozess etwas nicht stimmt. Damit vermindert sich auch ein Teil des Drucks, das Prozessproblem z",
-      "titleJa": "AIを機能不全なシステムに適用する(1):プロダクトバックログの問題",
-      "summaryJa": "AIでプロダクトバックログのアーティファクトを磨いても、根本的なプロセス問題は解決されない。10個のアンチパターンの存在により、AIはシステムの表面的な問題を隠すだけで、実際の意思決定基盤や組織的課題は改善されないという課題を論じている。"
     },
     {
       "category": "QA",
