@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-28T02:21:42.379Z",
+  "updatedAt": "2026-09-28T12:14:32.344Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Jev for beginners: how to use it and what to build",
+      "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
+      "publishedAt": "2026-09-28T12:03:04.000Z",
+      "excerpt": "Watch now (26 mins) | 🎙️ Jev returns type-safe structured values instead of text, which makes it the fastest, cheapest classification layer I’ve ever put in a pipeline—and this week I shipped three real projects with it",
+      "titleJa": "Jevの始め方：使い方と実装方法",
+      "summaryJa": "Jevはテキストの代わりに型安全な構造化された値を返すため、パイプラインにおいて最速かつ最安価な分類レイヤーとなります。この記事では、Jevの基本的な使用方法と実際のプロジェクトでの実装例を紹介しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How I Enriched The PSM Class For New Scrum Masters",
+      "url": "https://www.scrum.org/resources/blog/how-i-enriched-psm-class-new-scrum-masters",
+      "publishedAt": "2026-09-28T06:35:26.000Z",
+      "excerpt": "Learning from the PSM class alone is not enough for New Scrum Masters. To effectively apply their knowledge in the field, they require extra, enriched content and support. So, let’s explore how I enriched the PSM class. Image Imagine you join a PSM class and you learn a lot from it. However, the day after the class, you suddenly feel alone. You don't know where to start. You don't know which steps you should take first to best serve your Scrum Team. This is the reason that I decided to enrich my PSM class. I want my students to leave the class with an exceptional experience of learning and sev",
+      "titleJa": "PSM研修を充実させ新しいスクラムマスターをサポートする方法",
+      "summaryJa": "PSM研修だけではスクラムマスターとしての実践的な知識習得は不十分です。研修後の現場での応用や継続的なサポートを含めた充実したカリキュラムを提供することで、新人スクラムマスターが自信を持ってスクラムチームをサーブできる環境を整備しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -83,16 +103,6 @@
     },
     {
       "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Current State vs. Future State in Business Analysis: Why You Need Both",
-      "url": "https://www.scrum.org/resources/blog/current-state-vs-future-state-business-analysis-why-you-need-both",
-      "publishedAt": "2026-09-24T17:17:15.000Z",
-      "excerpt": "Image Current state vs future state analysis helps teams understand where they are today, where they need to go, and what needs to change along the way. It sounds simple, but teams often skip this thinking. A business problem is identified, and the conversation quickly shifts to what should be built, purchased, automated, or changed. The problem is that choosing a solution before understanding the current situation can lead to decisions based on assumptions. Business analysis creates an opportunity to slow down the decision, not the work. By understanding the current state and defining a reali",
-      "titleJa": "現在状態と将来状態分析：ビジネス分析になぜ両方が必要か",
-      "summaryJa": "現在状態と将来状態の分析は、チームが現在地を理解し、目指すべき方向性を明確にするために重要である。仮定に基づいた意思決定を避けるため、問題解決策を選ぶ前に現状把握と丁寧な分析を行うことが、実質的な改善につながる。"
-    },
-    {
-      "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "How to communicate the value of your PMO",
       "url": "https://rebelsguidetopm.com/communicate-the-value-of-pmo/",
@@ -170,16 +180,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What if the ideas you throw away tell you more about the health of your product process than the ones you ship? In this episode of All Things Product, Petra Wille introduces trash can tracking — a deceptively simple technique for making",
       "titleJa": "ゴミ箱追跡法：製品開発プロセスの健全性を測る",
       "summaryJa": "All Things Productポッドキャストで、Petra Willeが「ゴミ箱追跡」というシンプルながら強力なテクニックを紹介。リリースされなかったアイデアこそが製品プロセスの健全性をより正確に反映することを示唆しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Advanced evals: How to find (and fix) hidden AI failures in your product",
-      "url": "https://www.lennysnewsletter.com/p/advanced-evals-how-to-find-and-fix",
-      "publishedAt": "2026-09-22T12:45:14.000Z",
-      "excerpt": "Why you should never skip error discovery",
-      "titleJa": "高度な評価手法：AI製品の隠れた失敗を発見・修正する",
-      "summaryJa": "AI製品開発において、エラー検出をスキップしてはいけない理由について解説。高度な評価手法を用いることで、本番環境で顕在化する前に隠れた失敗を発見し、修正することの重要性を強調しています。"
     },
     {
       "category": "PdM",
