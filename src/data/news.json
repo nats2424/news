@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-28T12:14:32.344Z",
+  "updatedAt": "2026-09-28T22:43:17.999Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Playwright MCP vs CLI, Mutation Testing and AI Agents Flying Blind TGNS196",
+      "url": "https://testguild.com/podcast/n196-sep28/",
+      "publishedAt": "2026-09-28T17:50:42.000Z",
+      "excerpt": "About This Episode: Playwright MCP or CLI: which one’s really eating your AI budget? If you had 12,000 green unit […]",
+      "titleJa": "Playwright MCPとCLI、ミューテーションテスト、AIエージェントの課題 TGNS196",
+      "summaryJa": "Playwright MCPとCLIのどちらがAI予算を圧迫しているかを比較。12,000個の緑のユニットテストを基準に、両アプローチのコスト効率と実用性を検討し、テスト自動化におけるAI活用の最適な方法を考察する。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Jev for beginners + I left Claude for months, Opus 5.5 brought me back + Opus 5.5 vs. GPT-6 Sol bench",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-jev-for-beginners-i-left",
+      "publishedAt": "2026-09-28T15:03:13.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "How I AI:初心者向けJevからOpus 5.5とGPT-6の比較まで",
+      "summaryJa": "Lenny's Podcast Networkの「How I AI」週刊エピソード。Claude離別からOpus 5.5への乗り換えや、Opus 5.5とGPT-6のベンチマーク比較など、AI活用の最新動向と実践的な活用法を紹介する。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Made Engineering Faster. Why Not The Business?",
+      "url": "https://www.scrum.org/resources/blog/ai-made-engineering-faster-why-not-business",
+      "publishedAt": "2026-09-28T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Why More AI Activity Is Not Showing Up In The Business You can 10x engineering and still not 10x the business. AI agents are getting very good at coding, debugging, test generation, documentation, and a lot of engineering activities. That is real in many organizations. But if engineering was not the constraint to begin with, or now stops being the constraint because of these improvements, faster engineering output may just create more work waiting somewhere else. The leadership question is changing from \"how do we make teams faster?\" to \"where does this ",
+      "titleJa": "AIがエンジニアリングを高速化した、では事業は?",
+      "summaryJa": "AIエージェントはコード生成やテスト自動生成で優秀だが、エンジニアリングの高速化が必ずしも事業の成長に直結しない現象を分析。リーダーシップの観点から、真の制約要因がどこにあるかを見極める重要性を指摘する。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -82,16 +112,6 @@
       "summaryJa": "AIの長期的影響はまだ検証段階だが、組織ではマネージャーの重要性が低下し、スキルの高い個別貢献者が中心となるという傾向が注目を集めている。企業がマネージャー削減を推進する動きが続く中、リーダーシップのあり方が大きく変わろうとしている。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You can't choose the system. You choose how you act inside it.",
-      "url": "https://www.scrum.org/resources/blog/you-cant-choose-system-you-choose-how-you-act-inside-it",
-      "publishedAt": "2026-09-24T22:00:00.000Z",
-      "excerpt": "Ask almost anyone on a struggling team why they've stopped pushing, and you'll get the same answer in slightly different words. There's no point. The org won't change. Leadership doesn't listen. The deadline is fixed, the mandate is thin, the priorities flip every week, and none of it is theirs to control. Most of that is true, and that's the uncomfortable part. A great deal of what shapes a team's day genuinely isn't the team's to decide. You can spend an entire career waiting for the system to hand you the conditions to do good work, and the system, mostly, won't. But there's a quiet sleight",
-      "titleJa": "システムは選べない。ただシステムの中での行動は選べる",
-      "summaryJa": "苦境にあるチームが努力を止める理由の多くは、組織や環境が変わらないという無力感にある。確かに、チームが制御できない要因は多く存在する。しかし、良い仕事をする条件がシステムから与えられるのを待つのではなく、与えられた制約の中でどう行動するかを選択することが重要であることを示唆している。"
-    },
-    {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
       "title": "For Fix Sake",
@@ -160,16 +180,6 @@
       "excerpt": "About This Episode: I asked thirteen people inside AI testing one question: can AI test your software for you? Founders, […]",
       "titleJa": "AI テスティングの現実：13人の創業者が自動化を拒むもの",
       "summaryJa": "QA/テスティング分野のAI活用について、13人の起業家に「AIは本当にソフトウェアテストを自動化できるのか」という質問を投げかけた調査。AIテスティングツールの実際の限界と、人間にしかできないテスト領域を浮き彫りにする内容。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "I left Claude for months. Opus 5.5 is why I'm back",
-      "url": "https://www.lennysnewsletter.com/p/i-left-claude-for-months-opus-55",
-      "publishedAt": "2026-09-22T19:06:40.000Z",
-      "excerpt": "Watch now (25 mins) | 🎙️ I abandoned Claude for months because it drove me insane. Opus 5.5 changed that, and I'll show you exactly where it's earning a spot back in my stack for frontend, SVGs, and agentic tasks",
-      "titleJa": "数ヶ月間Claudeを離れていた理由と、Opus 5.5で戻ってきた訳",
-      "summaryJa": "Claudeを数ヶ月間使用していなかった理由と、最新版Opus 5.5の改善点を紹介する動画解説。フロントエンド開発、SVG処理、agentic tasksの領域でClaudeが再び活躍する場面を具体的に説明しており、開発スタックへの復帰を検討する価値を提示している。"
     },
     {
       "category": "PdM",
@@ -310,16 +320,6 @@
       "excerpt": "Note: This is the narrative version of a keynote talk for the Lenny & Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group.",
       "titleJa": "強い意見を柔軟に保つ",
       "summaryJa": "シリコンバレー・プロダクト・グループのキーノート講演を基にした記事。プロダクトマネジャーが過去に正しいと主張していた事柄の中で、現在は見方が変わったものについて考察。変化する環境下での意思決定哲学と信念の再検討について論じています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "What Is HTTP in Performance Testing?",
-      "url": "https://testguild.com/performance-testing-http/",
-      "publishedAt": "2026-09-09T21:56:43.000Z",
-      "excerpt": "HTTP is the protocol web browsers, mobile apps, and test tools use to request information from a server and receive […]",
-      "titleJa": "パフォーマンステストにおけるHTTPとは",
-      "summaryJa": "HTTPはWebブラウザ、モバイルアプリ、テストツールがサーバーから情報をリクエストして受信するために使用するプロトコルです。パフォーマンステストにおけるHTTPの役割と仕組みについて解説しています。"
     },
     {
       "category": "PjM",
