@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-09-29T11:44:02.847Z",
+  "updatedAt": "2026-09-29T17:11:01.661Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "The Aftershock of the Old",
+      "url": "https://qahiccupps.blogspot.com/2026/09/the-aftershock-of-old.html",
+      "publishedAt": "2026-09-29T16:05:07.000Z",
+      "excerpt": "After reading a couple of my posts on AI that invoked comparisons with technologies in the rural environment (Hedging Your Bets on AI) and the music industry (The Needle and the Damage Done) a friend suggested that The Shock of the Old by David Edgerton might be interesting to me. It was. The key theme of the book is that we tend to be beguiled by the invention, possibility, and novelty of technology rather than by its value, usage, or availability. This leads to some warped perspectives. For example, we lose sight of technology long before it becomes obsolete, we devalue the old whatever its ",
+      "titleJa": "古い技術の衝撃：テクノロジー史から学ぶ視点",
+      "summaryJa": "David Edgertonの著書『The Shock of the Old』から着想を得た考察。テクノロジーの価値や実用性よりも革新性に注目する傾向について、AIの事例を交えて検討し、技術評価の偏りを指摘している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "All of the Lenny & Friends Summit talks are now online!",
+      "url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
+      "publishedAt": "2026-09-29T13:15:57.000Z",
+      "excerpt": "Plus, some reflections and takeaways from the day",
+      "titleJa": "Lenny & Friends Summit の全講演がオンライン公開",
+      "summaryJa": "Lenny & Friends Summit で行われた全てのトークセッションがオンラインで公開された。イベントからの主な学び と洞察をまとめた記事。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Unpacking Innovation - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/unpacking-innovation-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-09-29T13:00:27.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Is innovation the goal — or just a byproduct of solving customer problems well? In this episode of All Things Product, Petra Wille and Teresa Torres unpack one of the most misused words in product: \"innovation.\" Teresa makes the case",
+      "titleJa": "イノベーションの本質を解く：プロダクトポッドキャスト",
+      "summaryJa": "All Things Product ポッドキャストで、Teresa Torres と Petra Wille が「イノベーション」の定義について議論。顧客課題の解決がイノベーションの真の目標なのか、あるいは副産物なのかを探っている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "5 Things the Product Owner Shouldn’t Be Doing",
+      "url": "https://www.scrum.org/resources/blog/5-things-product-owner-shouldnt-be-doing",
+      "publishedAt": "2026-09-29T13:00:00.000Z",
+      "excerpt": "Image Product Owners are accountable for maximizing the value of the product. That means setting direction, establishing the Product Goal, and ordering the Product Backlog around what matters most. But accountability doesn't mean doing everything yourself. Great Product Owners delegate work that others can do so they can protect their time for strategy. The Product Owner owns the direction and desired outcomes. The Scrum Team determines how those outcomes get delivered. Great Product Owners know what to own and what to delegate. Here are 5 places to start. 1.) Don't be the team's copy editor I",
+      "titleJa": "プロダクトオーナーがやってはいけない5つのこと",
+      "summaryJa": "プロダクトオーナーは価値最大化に責任を持つが、全ての作業を自分で行うべきではない。戦略に集中するため適切に委譲すべき5つの領域を紹介し、効果的なプロダクトオーナーシップについて解説している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "AI Agents Passed the Tests. Real Devices Didn’t. with Nick Metcalfe",
+      "url": "https://testguild.com/podcast/a606-nick/",
+      "publishedAt": "2026-09-29T12:37:46.000Z",
+      "excerpt": "About This Episode: Cloud device farms make it easy to get started with real device testing. But what happens when […]",
+      "titleJa": "AI エージェントはテストに合格。実デバイスは合格しなかった",
+      "summaryJa": "クラウドデバイスファームによる実デバイステストの導入は容易だが、実際の運用では課題が生じることがある。Nick Metcalfeが、AI エージェントのテスト結果と実デバイスでの検証結果のギャップについて解説する。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -102,16 +152,6 @@
       "summaryJa": "MollyGrahamがAI時代のキャリアアドバイスを再考察し、ロボットへの委任が人間への委任と異なる理由を解説。AIの急速な発展に伴うテック業界での心理的課題や、効果的な人材マネジメントのあり方についてのインサイトを提供している。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum's Protocol Is Easy to Copy. Its Agenda Is Not.",
-      "url": "https://www.scrum.org/resources/blog/scrums-protocol-easy-copy-its-agenda-not",
-      "publishedAt": "2026-09-27T06:00:00.000Z",
-      "excerpt": "Image I have been a Professional Scrum Trainer since 2010, which means I have sat in the room when organizations decide Scrum is not working. Sprint Planning on Monday, Daily Scrum at nine, Sprint Review on the last Friday, Retrospective right after; every event on the calendar and every artifact named correctly. Nothing changed. These organizations usually ask whether they are running the wrong process, but the actual gap is more basic. Scrum carries a standard protocol and an agenda, and adopting the protocol while ignoring the agenda produces all the ceremony and none of the results. What a",
-      "titleJa": "スクラムのプロセスは真似しやすい。その本質は違う。",
-      "summaryJa": "プロフェッショナルスクラムトレーナーの経験から、多くの組織がスクラムの形式は整えていても成果が出ていない現状を指摘。スクラムには標準的なプロトコルと実行するべきアジェンダがあり、プロトコルだけを導入してアジェンダを無視すると、儀式だけで結果が伴わないという課題について論述。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
@@ -180,16 +220,6 @@
       "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
       "titleJa": "私にぴったりの仕事",
       "summaryJa": "大企業がAIを効果的に活用しながらコントロール下に置き、利益を上げ競争力を維持し、法的・技術的な重大な失敗を避けるために必要な職務について考察する。AIの発展状況がどうなろうとも、すべての大企業にとって重要な役割がある。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Opus 5.5 vs. GPT-6 Sol: which model won my blind taste test?",
-      "url": "https://www.lennysnewsletter.com/p/opus-55-vs-gpt-6-sol-which-model",
-      "publishedAt": "2026-09-22T23:12:49.000Z",
-      "excerpt": "Watch now (39 mins) | 🎙️ I ran blind evaluations across writing, frontend prototypes, long-running agentic tasks, SVGs, coding, and video editing, then put Opus 5.5 through Barbie Bench",
-      "titleJa": "Opus 5.5 vs. GPT-6 Sol：盲検テストの勝者は？",
-      "summaryJa": "ライティング、フロントエンドプロトタイプ、長時間実行のエージェンティックタスク、SVG、コーディング、動画編集など複数のカテゴリでAIモデルの盲検評価を実施。Opus 5.5とGPT-6 Solのパフォーマンスを比較検証した結果をレポート。"
     },
     {
       "category": "QA",
@@ -290,26 +320,6 @@
       "excerpt": "\"That is a lot of first layer opportunities there. I wish I could click on this card and be like, 'Clean this up.'\" This was a Vistaly customer reviewing her first AI-generated opportunity solution tree. Up until this point, the feedback was extremely positive. But",
       "titleJa": "1件のカスタマーフィードバックから派生する4つの新規評価と16のテスト試行",
       "summaryJa": "Vistaly顧客が初めてのAI生成ソリューションツリーをレビューした際、UIの改善要望が浮き上がった。このシンプルなフィードバックから、複数の評価手法と実験パターンが必要になった事例紹介。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "How to Stay Irreplaceable When Agents Write Your Tests with Jonathon Wright",
-      "url": "https://testguild.com/podcast/a604-jonathon/",
-      "publishedAt": "2026-09-15T15:02:43.000Z",
-      "excerpt": "About This Episode: Is AI going to replace software testers, or make them more valuable than they have ever been? Jonathon […]",
-      "titleJa": "AIの時代、ソフトウェアテスターが不可欠な存在であり続けるには",
-      "summaryJa": "AIエージェントがテスト自動化を担当する時代において、ソフトウェアテスターが市場価値を高め、代替不可能な人材になるための方法や戦略について、Jonathon Wrightが考察する。テスターの役割の変化と進化する価値提供について探討するエピソード。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Delivery Isn’t Free - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/delivery-isnt-free-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-09-15T13:00:58.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Everyone's saying it: \"Now that AI makes delivery free…\" But is it? In this episode of All Things Product, Petra Wille and Teresa Torres pull apart one of the most repeated claims in product right now. They",
-      "titleJa": "配信コストはゼロではない—All Things Productポッドキャスト",
-      "summaryJa": "Teresa TorresとPetra Willeが、「AI時代には配信コストが無料」という業界で繰り返される主張を検証。プロダクト開発における実際のコスト構造と隠れたトレードオフを解き明かす。"
     },
     {
       "category": "PdM",
