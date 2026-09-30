@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-09-30T02:47:42.712Z",
+  "updatedAt": "2026-09-30T11:30:45.474Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Sprint Has Fewer Hours Than You Think: Sprint Capacity in the Age of AI Agents",
+      "url": "https://www.scrum.org/resources/blog/your-sprint-has-fewer-hours-you-think-sprint-capacity-age-ai-agents",
+      "publishedAt": "2026-09-30T08:46:22.000Z",
+      "excerpt": "Image Most Scrum Teams don't miss their Sprint forecast because they estimate badly. They miss it because they plan against hours that never existed. Picture a Sprint Planning I have watched play out, in one form or another, in dozens of organisations. Five Developers. A two-week Sprint. Someone at the whiteboard does the quick maths: five people, ten days, six focused hours a day. \"We have 300 hours.\" Heads nod. The Product Backlog items get pulled in until the number feels full. Ten days later, at the Sprint Review, three items are not Done. Nobody slacked off. Nobody estimated wildly wrong.",
+      "titleJa": "スプリント容量の誤算：AI時代のスクラムチームが見落とす隠れた制約",
+      "summaryJa": "スクラムチームがスプリント予測を外す主な原因は見積もり精度ではなく、実際には存在しない稼働時間を前提に計画していることにある。5人のデベロッパーで10日間、1日6時間という理想的な計算では300時間になるが、実際の責務やAIエージェント時代の変化を考慮すると、計画時の前提が崩れやすい。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "🎉 Published: Scrum Team Magazine - October 2026 - Issue #2",
+      "url": "https://www.scrum.org/resources/blog/published-scrum-team-magazine-october-2026-issue-2",
+      "publishedAt": "2026-09-30T08:12:00.000Z",
+      "excerpt": "Image Click here to read and download the magazine. The first high-quality magazine for the Scrum world is now live. This is the second issue, October 2026. WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who d",
+      "titleJa": "Scrum Team Magazine 2026年10月号（第2号）発刊",
+      "summaryJa": "スクラムコミュニティ初の高品質マガジン『Scrum Team Magazine』の第2号が発刊された。ファッションや映画などの業界では質の高い専門誌が存在する一方で、スクラムプロフェッショナル向けの同等クオリティの出版物がなかったため、本誌はその空白を埋めることを目指している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -122,26 +142,6 @@
       "summaryJa": "Jevはテキストの代わりに型安全な構造化された値を返すため、パイプラインにおいて最速かつ最安価な分類レイヤーとなります。この記事では、Jevの基本的な使用方法と実際のプロジェクトでの実装例を紹介しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How I Enriched The PSM Class For New Scrum Masters",
-      "url": "https://www.scrum.org/resources/blog/how-i-enriched-psm-class-new-scrum-masters",
-      "publishedAt": "2026-09-28T06:35:26.000Z",
-      "excerpt": "Learning from the PSM class alone is not enough for New Scrum Masters. To effectively apply their knowledge in the field, they require extra, enriched content and support. So, let’s explore how I enriched the PSM class. Image Imagine you join a PSM class and you learn a lot from it. However, the day after the class, you suddenly feel alone. You don't know where to start. You don't know which steps you should take first to best serve your Scrum Team. This is the reason that I decided to enrich my PSM class. I want my students to leave the class with an exceptional experience of learning and sev",
-      "titleJa": "PSM研修を充実させ新しいスクラムマスターをサポートする方法",
-      "summaryJa": "PSM研修だけではスクラムマスターとしての実践的な知識習得は不十分です。研修後の現場での応用や継続的なサポートを含めた充実したカリキュラムを提供することで、新人スクラムマスターが自信を持ってスクラムチームをサーブできる環境を整備しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Jobs Matrix for AI: Four Boxes Instead of Forty Tools",
-      "url": "https://www.scrum.org/resources/blog/jobs-matrix-ai-four-boxes-instead-forty-tools",
-      "publishedAt": "2026-09-27T14:38:57.000Z",
-      "excerpt": "TL;DR: A 2×2 Matrix on AI for Agile Practitioners You probably think making sense of AI means keeping up with every new tool, agent, and pricing tier. Steve Jobs faced a similar mess at Apple in 1997, with a dozen versions of the Macintosh, and he fixed it with a two-by-two grid on a whiteboard. Almost 30 years later, the “Jobs Matrix for AI” sorts the AI tool market and, more usefully, the AI use cases of Scrum Masters, Product Owners, Agile Coaches, and anyone else in agile product development. Replace Consumer and Pro with Team and Organization, and Desktop and Portable with Chatbot and Age",
-      "titleJa": "AI時代のジョブズマトリックス：40のツールではなく4つのボックス",
-      "summaryJa": "アジャイル実践者向けに、複雑なAIツール市場を2×2マトリックスで整理するフレームワークを提案。スクラムマスターやプロダクトオーナーなどが直面するAI活用のジレンマを、シンプルなマトリックスで解決し、実践的なAI導入戦略を示唆している。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
@@ -200,26 +200,6 @@
       "excerpt": "The build case is argued in sprints, and the bill turns up later as headcount",
       "titleJa": "ビルド vs バイは技術的判断ではない",
       "summaryJa": "ビルド(内製)の判断はスプリント単位で議論されるが、実際のコストは後から人員配置として計上される。技術的側面だけでなく、経営・プロジェクト管理的な観点が重要であることを指摘している。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Responsible Quality Engineering",
-      "url": "https://www.satisfice.com/blog/archives/488069",
-      "publishedAt": "2026-09-23T05:39:31.000Z",
-      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
-      "titleJa": "責任あるクオリティエンジニアリング",
-      "summaryJa": "クオリティエンジニアリングはテスティングそのものではなく、テスティングを含む広い概念である。実際のQE活動の担い手は開発者であり、テスターはプロダクトの品質分析とデベロッパーへのフィードバック提供を通じてそのプロセスをサポートする役割を果たす。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "The Perfect Job For Me",
-      "url": "https://www.satisfice.com/blog/archives/488204",
-      "publishedAt": "2026-09-23T03:36:07.000Z",
-      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
-      "titleJa": "私にぴったりの仕事",
-      "summaryJa": "大企業がAIを効果的に活用しながらコントロール下に置き、利益を上げ競争力を維持し、法的・技術的な重大な失敗を避けるために必要な職務について考察する。AIの発展状況がどうなろうとも、すべての大企業にとって重要な役割がある。"
     },
     {
       "category": "QA",
@@ -350,16 +330,6 @@
       "excerpt": "Note: This is the narrative version of a keynote talk for the Lenny & Friends Summit. Recently I was asked a question that I haven’t been able to get out of my head: “In light of all that has changed, what are the things that you used to argue were true, that you no longer... The post Strong Opinions, Loosely Held appeared first on Silicon Valley Product Group.",
       "titleJa": "強い意見を柔軟に保つ",
       "summaryJa": "シリコンバレー・プロダクト・グループのキーノート講演を基にした記事。プロダクトマネジャーが過去に正しいと主張していた事柄の中で、現在は見方が変わったものについて考察。変化する環境下での意思決定哲学と信念の再検討について論じています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "8 Ways for project managers to support better exec decisions",
-      "url": "https://rebelsguidetopm.com/better-exec-decisions/",
-      "publishedAt": "2026-09-09T07:51:42.000Z",
-      "excerpt": "Project managers make decisions all day. We decide how to structure the work, who needs to be in a meeting, what needs escalating and whether a risk response is worth the effort. But the bigger the decision, the less likely it is to be ours to make. At some point, the choice belongs to the sponsor, project board or another senior leader. That’s where a different project management skill becomes important: helping the person with the authority make a good decision, at the right time, with enough information to understand the consequences. That is not the same as learning another decision-making",
-      "titleJa": "プロジェクトマネージャーが経営判断を支援する8つの方法",
-      "summaryJa": "プロジェクトマネージャーは日々意思決定を行いますが、重要度が高い決定はスポンサーや上級リーダーが行います。本記事は、権限を持つ者が適切なタイミングで十分な情報を基に良好な決定を下すことを支援する、プロジェクトマネジメントの重要なスキルについて解説しています。"
     }
   ]
 }
