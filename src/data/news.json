@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-09-30T11:30:45.474Z",
+  "updatedAt": "2026-09-30T17:09:11.306Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The New SDLC From Google Has a Harness. It Doesn't Have a Team.",
+      "url": "https://www.scrum.org/resources/blog/new-sdlc-google-has-harness-it-doesnt-have-team",
+      "publishedAt": "2026-09-30T14:54:22.000Z",
+      "excerpt": "Image 85% of professional developers now regularly use AI coding agents. Forty-one percent of new code is AI-generated. Those numbers come from Google's own May 2026 paper, The New SDLC With Vibe Coding, the numbers themselves are interesting but not as interesting as how those people should work. Addy Osmani, Shubham Saboo, and Sokratis Kartakis have written the clearest account I've seen of what happens to software engineering once you stop writing syntax and start expressing intent. Their central equation, Agent = Model + Harness, seems sensible, and their instinct to blame the harness befo",
+      "titleJa": "Googleの新SDLC：ハーネスはあるがチームはない",
+      "summaryJa": "Googleの2026年論文によると、プロ開発者の85%がAIコーディングエージェントを使用し、新規コードの41%がAI生成です。Osmani、Saboo、Kartakisの分析では、開発者が構文記述から意図表現へシフトする中で、Agent=Model+Harnessの方程式が重要な役割を果たしています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "OpenAI Dev Day 2026: The releases that actually matter",
+      "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
+      "publishedAt": "2026-09-30T14:45:15.000Z",
+      "excerpt": "Watch now (24 mins) | 🎙️ Claire tests OpenAI’s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what’s worth trying first",
+      "titleJa": "OpenAI Dev Day 2026：実際に価値のある新機能",
+      "summaryJa": "OpenAIのDev Dayで発表された新機能をレビューしています。Dots、Spaces、SitesといったツールやAI搭載のサムネイル選択機能、$97ゲームなどの実用性を検証し、ユーザーが最初に試すべき機能を紹介しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
+      "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
+      "publishedAt": "2026-09-30T12:04:27.000Z",
+      "excerpt": "Watch now (46 mins) | 🎙️ Educator and developer John Lindquist shares eight Jev demos, from live voice classification and deduplication to agent routing, showing how low costs make once-impractical ideas worth trying",
+      "titleJa": "Jev：最速・最安値モデルの8つの実践的活用例",
+      "summaryJa": "教育者でありデベロッパーのJohn Lindquistが、Jevの低コストを活かした8つのデモを紹介しています。リアルタイム音声分類、重複排除、エージェントルーティングなど、従来は非現実的だったアイデアが実現可能になった事例を示しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -122,16 +152,6 @@
       "summaryJa": "Lenny's Podcast Networkの「How I AI」週刊エピソード。Claude離別からOpus 5.5への乗り換えや、Opus 5.5とGPT-6のベンチマーク比較など、AI活用の最新動向と実践的な活用法を紹介する。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Made Engineering Faster. Why Not The Business?",
-      "url": "https://www.scrum.org/resources/blog/ai-made-engineering-faster-why-not-business",
-      "publishedAt": "2026-09-28T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Why More AI Activity Is Not Showing Up In The Business You can 10x engineering and still not 10x the business. AI agents are getting very good at coding, debugging, test generation, documentation, and a lot of engineering activities. That is real in many organizations. But if engineering was not the constraint to begin with, or now stops being the constraint because of these improvements, faster engineering output may just create more work waiting somewhere else. The leadership question is changing from \"how do we make teams faster?\" to \"where does this ",
-      "titleJa": "AIがエンジニアリングを高速化した、では事業は?",
-      "summaryJa": "AIエージェントはコード生成やテスト自動生成で優秀だが、エンジニアリングの高速化が必ずしも事業の成長に直結しない現象を分析。リーダーシップの観点から、真の制約要因がどこにあるかを見極める重要性を指摘する。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "Jev for beginners: how to use it and what to build",
@@ -140,26 +160,6 @@
       "excerpt": "Watch now (26 mins) | 🎙️ Jev returns type-safe structured values instead of text, which makes it the fastest, cheapest classification layer I’ve ever put in a pipeline—and this week I shipped three real projects with it",
       "titleJa": "Jevの始め方：使い方と実装方法",
       "summaryJa": "Jevはテキストの代わりに型安全な構造化された値を返すため、パイプラインにおいて最速かつ最安価な分類レイヤーとなります。この記事では、Jevの基本的な使用方法と実際のプロジェクトでの実装例を紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "The grief, loneliness, and burnout sweeping through the tech industry right now | Molly Graham",
-      "url": "https://www.lennysnewsletter.com/p/the-grief-loneliness-and-burnout",
-      "publishedAt": "2026-09-27T12:32:18.000Z",
-      "excerpt": "Listen now (94 mins) | Molly Graham revisits her famous career advice for the AI era, and explains why delegating to a robot is nothing like delegating to a human",
-      "titleJa": "テック業界に蔓延する悲観、孤立感、バーンアウト",
-      "summaryJa": "MollyGrahamがAI時代のキャリアアドバイスを再考察し、ロボットへの委任が人間への委任と異なる理由を解説。AIの急速な発展に伴うテック業界での心理的課題や、効果的な人材マネジメントのあり方についてのインサイトを提供している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: AI doomerism, speeding up discovery in a big org, verifying engineering answers as a new PM, where analytics adds the most value, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-ai-doomerism-speeding",
-      "publishedAt": "2026-09-26T17:54:02.000Z",
-      "excerpt": "Community Wisdom 300",
-      "titleJa": "🧠 コミュニティの知恵：AI悲観論、大規模組織での発見の加速、新任PMとしてのエンジニアリング検証、アナリティクスの最大価値、ほか",
-      "summaryJa": "Lennyのニュースレターから、プロダクトマネジメント領域の実践的な知見を集約。AI関連の懸念事項から、大規模組織での業務効率化、新任PMのエンジニアリング検証スキル、アナリティクスの戦略的活用など、複数のテーマに関するコミュニティの知見や経験を紹介する。"
     },
     {
       "category": "PdM",
@@ -200,6 +200,26 @@
       "excerpt": "The build case is argued in sprints, and the bill turns up later as headcount",
       "titleJa": "ビルド vs バイは技術的判断ではない",
       "summaryJa": "ビルド(内製)の判断はスプリント単位で議論されるが、実際のコストは後から人員配置として計上される。技術的側面だけでなく、経営・プロジェクト管理的な観点が重要であることを指摘している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Responsible Quality Engineering",
+      "url": "https://www.satisfice.com/blog/archives/488069",
+      "publishedAt": "2026-09-23T05:39:31.000Z",
+      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
+      "titleJa": "責任あるクオリティエンジニアリング",
+      "summaryJa": "クオリティエンジニアリング(RQE)はテストではなく、開発者が主導するプロセスです。テスターは製品の品質を分析し、開発者にフィードバックを提供することで、このプロセスをサポートする役割を担っています。真のクオリティエンジニアリングを実現するには、テストと品質保証の関係を正しく理解することが重要です。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "The Perfect Job For Me",
+      "url": "https://www.satisfice.com/blog/archives/488204",
+      "publishedAt": "2026-09-23T03:36:07.000Z",
+      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
+      "titleJa": "私にぴったりな仕事",
+      "summaryJa": "大企業がAIを有効活用しながらコントロールを維持し、収益性を確保し競争力を保つための課題を探求します。AIの進化や市場動向にかかわらず、すべての大規模企業には重要な役割があり、その最適な人材配置とAI活用戦略について考察しています。"
     },
     {
       "category": "QA",
