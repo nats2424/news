@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-09-29T21:36:26.593Z",
+  "updatedAt": "2026-09-30T02:47:42.712Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Nobody owns whether it worked.",
+      "url": "https://www.scrum.org/resources/blog/nobody-owns-whether-it-worked",
+      "publishedAt": "2026-09-29T22:00:00.000Z",
+      "excerpt": "Image Release day. The feature goes out, the team channel fills with rocket emoji, the demo lands well, and someone says \"great job, everyone.\" Monday, the next thing starts. Three months later, in some steering meeting, somebody asks the question: did that feature actually change anything? Silence. Then the honest answer, in its usual costume: \"We'd have to pull the numbers.\" Nobody pulls the numbers. The meeting moves on, and so does everyone else. Here's the tell. On your team, delivery has everything: a date, an owner, a checklist, a party. The result has nobody. No name attached, no momen",
+      "titleJa": "誰も成果の責任を持たない",
+      "summaryJa": "リリース時には盛大に祝われる機能も、実際に効果があったかを測定・検証する責任者がいないことが多い。デリバリーには所有者や期日があるのに、その結果の測定には誰も責任を持たず、数字を確認することすらない。プロジェクトマネジメントにおいて、成果物の検証と所有権の明確化が重要な課題である。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -130,16 +140,6 @@
       "excerpt": "TL;DR: A 2×2 Matrix on AI for Agile Practitioners You probably think making sense of AI means keeping up with every new tool, agent, and pricing tier. Steve Jobs faced a similar mess at Apple in 1997, with a dozen versions of the Macintosh, and he fixed it with a two-by-two grid on a whiteboard. Almost 30 years later, the “Jobs Matrix for AI” sorts the AI tool market and, more usefully, the AI use cases of Scrum Masters, Product Owners, Agile Coaches, and anyone else in agile product development. Replace Consumer and Pro with Team and Organization, and Desktop and Portable with Chatbot and Age",
       "titleJa": "AI時代のジョブズマトリックス：40のツールではなく4つのボックス",
       "summaryJa": "アジャイル実践者向けに、複雑なAIツール市場を2×2マトリックスで整理するフレームワークを提案。スクラムマスターやプロダクトオーナーなどが直面するAI活用のジレンマを、シンプルなマトリックスで解決し、実践的なAI導入戦略を示唆している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your Scrum Team Might Be Excellent at Building the Wrong Thing",
-      "url": "https://www.scrum.org/resources/blog/your-scrum-team-might-be-excellent-building-wrong-thing",
-      "publishedAt": "2026-09-27T14:15:19.000Z",
-      "excerpt": "Image Most Scrum Teams I work with are good at delivery. They have a stable Sprint cadence, a clear Definition of Done, and they deliver a usable Increment every Sprint. The Sprint Review runs on time and stakeholders nod along. And yet, when I ask Product Owners in class how many of last quarter's Product Backlog items measurably moved an outcome, the room goes quiet. That silence is what this post is about. Scrum is built on empiricism and lean thinking. A team can apply empiricism thoroughly to how it builds and hardly at all to what it builds. When that happens, every gain in delivery spee",
-      "titleJa": "Scrumチームは間違ったものを完璧に作っているかもしれない",
-      "summaryJa": "多くのScrumチームはデリバリーには優れているが、実際に構築する内容（What）に関する検証が不足していることを指摘。実装の効率性だけでなく、プロダクトバックログアイテムが実際のビジネスアウトカムを測定可能に改善しているか検証する重要性を強調している。"
     },
     {
       "category": "PdM",
