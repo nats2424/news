@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-01T02:53:40.355Z",
+  "updatedAt": "2026-10-01T11:59:10.877Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Software Engineers Are Becoming More Like Lawyers",
+      "url": "https://www.satisfice.com/blog/archives/488216",
+      "publishedAt": "2026-10-01T09:10:19.000Z",
+      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
+      "titleJa": "ソフトウェアエンジニアが弁護士のような役割を担うようになっている",
+      "summaryJa": "Claude Opusをコーディングエージェントとして体系的にテストするプロジェクトを通じて、ソフトウェアエンジニアの仕事がより法的・契約的な性質を帯びつつあることを探察。テスター出身の著者が、AIエージェントの信頼性検証という新しい課題に直面する現象を紹介しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The Loan Nobody Wrote Down",
+      "url": "https://www.productcoalition.com/p/the-loan-nobody-wrote-down",
+      "publishedAt": "2026-10-01T08:01:34.000Z",
+      "excerpt": "Technical debt is borrowing, and the terms get agreed long after the money is spent",
+      "titleJa": "記録されない負債：テクニカルデット問題の本質",
+      "summaryJa": "テクニカルデットは借金と同じであり、実際にコストが発生してからはじめて返済条件が決まるという矛盾を指摘。目に見えないツケが長期的にプロジェクトに及ぼす影響について論じています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Die Jobs-Matrix für KI: 4 Felder statt 40 Werkzeuge 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/die-jobs-matrix-fur-ki-4-felder-statt-40-werkzeuge",
+      "publishedAt": "2026-10-01T07:00:45.000Z",
+      "excerpt": "In Kürze: Eine 2×2-Matrix zu KI für agile Praktiker Vermutlich glauben Sie, dass Sie KI nur verstehen, wenn Sie mit jedem neuen Tool, jedem neuen Agenten und jedem neuen Preismodell Schritt halten. Steve Jobs stand 1997 bei Apple vor einem ähnlichen Durcheinander, nämlich einem Dutzend Versionen des Macintosh, und er löste es mit einem Raster aus zwei mal zwei Feldern auf einem Whiteboard. Fast 30 Jahre später ordnet eine ähnliche Matrix den Markt für KI-Tools und, was nützlicher ist, die KI-Anwendungsfälle von Scrum-Mastern, Produktmanagern, Product-Ownern, Agile-Coaches und allen anderen, di",
+      "titleJa": "AI時代の仕事マトリクス：40個のツールではなく4つのフィールド",
+      "summaryJa": "ジョブズが1997年に採用した2×2マトリクスの手法をAIツール市場に適用し、スクラムマスターやプロダクトマネージャーなどの実務家向けにAI活用事例を整理・分類。複雑なAIツールエコシステムをシンプルな枠組みで理解する方法を提案しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -90,16 +120,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Is innovation the goal — or just a byproduct of solving customer problems well? In this episode of All Things Product, Petra Wille and Teresa Torres unpack one of the most misused words in product: \"innovation.\" Teresa makes the case",
       "titleJa": "イノベーションの本質を解く：プロダクトポッドキャスト",
       "summaryJa": "All Things Product ポッドキャストで、Teresa Torres と Petra Wille が「イノベーション」の定義について議論。顧客課題の解決がイノベーションの真の目標なのか、あるいは副産物なのかを探っている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "5 Things the Product Owner Shouldn’t Be Doing",
-      "url": "https://www.scrum.org/resources/blog/5-things-product-owner-shouldnt-be-doing",
-      "publishedAt": "2026-09-29T13:00:00.000Z",
-      "excerpt": "Image Product Owners are accountable for maximizing the value of the product. That means setting direction, establishing the Product Goal, and ordering the Product Backlog around what matters most. But accountability doesn't mean doing everything yourself. Great Product Owners delegate work that others can do so they can protect their time for strategy. The Product Owner owns the direction and desired outcomes. The Scrum Team determines how those outcomes get delivered. Great Product Owners know what to own and what to delegate. Here are 5 places to start. 1.) Don't be the team's copy editor I",
-      "titleJa": "プロダクトオーナーがやってはいけない5つのこと",
-      "summaryJa": "プロダクトオーナーは価値最大化に責任を持つが、全ての作業を自分で行うべきではない。戦略に集中するため適切に委譲すべき5つの領域を紹介し、効果的なプロダクトオーナーシップについて解説している。"
     },
     {
       "category": "QA",
@@ -320,16 +340,6 @@
       "excerpt": "\"That is a lot of first layer opportunities there. I wish I could click on this card and be like, 'Clean this up.'\" This was a Vistaly customer reviewing her first AI-generated opportunity solution tree. Up until this point, the feedback was extremely positive. But",
       "titleJa": "1件のカスタマーフィードバックから派生する4つの新規評価と16のテスト試行",
       "summaryJa": "Vistaly顧客が初めてのAI生成ソリューションツリーをレビューした際、UIの改善要望が浮き上がった。このシンプルなフィードバックから、複数の評価手法と実験パターンが必要になった事例紹介。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The North Star Metric Was Never the Business",
-      "url": "https://www.productcoalition.com/p/the-north-star-metric-was-never-the",
-      "publishedAt": "2026-09-15T11:28:34.000Z",
-      "excerpt": "From 2015 to today, the archive shows one number moving from KPI to rule to warning",
-      "titleJa": "北極星メトリクスはビジネスではなかった",
-      "summaryJa": "2015年から現在まで、ある数値がKPIから経営ルール、そして警告信号へと変化してきた過程を追跡。プロダクト戦略における単一指標への依存が抱える問題と、その認識の変遷を論じている。"
     },
     {
       "category": "PjM",
