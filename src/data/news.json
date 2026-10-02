@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-02T02:56:28.287Z",
+  "updatedAt": "2026-10-02T11:30:57.298Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "If I Wanted To Write A New Scrum Guide",
+      "url": "https://www.scrum.org/resources/blog/if-i-wanted-write-new-scrum-guide",
+      "publishedAt": "2026-10-02T09:16:39.000Z",
+      "excerpt": "Image Scrum Guide 2020 is the latest version, nearly six years old. Over the past 6 years, the market has changed enormously, especially with the rise of AI. With millions of people using Scrum worldwide over the past 6 years, I am sure there is a lot of feedback that needs to be incorporated into Scrum. So, I strongly believe it is time to write a new version of the Scrum Guide. Here are my main suggested changes if I were to write the Scrum Guide 2027: #1- Clarity on Accountability, Responsibility, and Role In the Scrum Guide 2020, we have this sentence: “Scrum defines three specific account",
+      "titleJa": "新しいスクラムガイドへの提案：AI時代に向けた改定案",
+      "summaryJa": "2020年版スクラムガイドの発行から約6年が経過し、特にAIの急速な発展など市場環境の大きな変化を踏まえて、新版の作成が必要と主張。アカウンタビリティと責任、ロールの明確化など、主要な改定案を提示しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP110 Agentic AI for Product Management: Building in an Autonomous Enterprise",
+      "url": "https://www.productcoalition.com/p/ep110-agentic-ai-for-product-management",
+      "publishedAt": "2026-10-02T08:01:32.000Z",
+      "excerpt": "Eshaan Jain gave me the example that made agentic AI stop sounding clever and start sounding expensive.",
+      "titleJa": "自律型AIがプロダクト管理を変える：エンタープライズの自動化戦略",
+      "summaryJa": "プロダクト管理におけるAgentic AIの活用について、その実現性とコスト面での課題を探る記事。Eshaan Jainの例を通じて、理論的な利点から現実的な導入コストへの認識転換をテーマにしています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -20,16 +40,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What happens when you hand your opportunity solution tree to an AI? Vistaly rebuilt its entire product to find out—and the agents were the easy part. In this episode of Just Now Possible, Teresa Torres talks with Matt O'",
       "titleJa": "AIで機会解決ツリーを生成する：Vistalyがインタビュー分析・評価・修正ループで製品を再構築",
       "summaryJa": "Vistaly は機会解決ツリーをAIに活用させることで製品全体を再構築しました。インタビュー合成、評価ループ、修正プロセスを組み合わせることで、従来のプロダクトマネジメント手法をAI化し、より効率的な機会発掘を実現した事例を紹介しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Software Engineers Are Becoming More Like Lawyers",
-      "url": "https://www.satisfice.com/blog/archives/488216",
-      "publishedAt": "2026-10-01T09:10:19.000Z",
-      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
-      "titleJa": "ソフトウェアエンジニアが弁護士のような役割を担うようになっている",
-      "summaryJa": "Claude Opusをコーディングエージェントとして体系的にテストするプロジェクトを通じて、ソフトウェアエンジニアの仕事がより法的・契約的な性質を帯びつつあることを探察。テスター出身の著者が、AIエージェントの信頼性検証という新しい課題に直面する現象を紹介しています。"
     },
     {
       "category": "PdM",
@@ -90,16 +100,6 @@
       "excerpt": "Image Most Scrum Teams don't miss their Sprint forecast because they estimate badly. They miss it because they plan against hours that never existed. Picture a Sprint Planning I have watched play out, in one form or another, in dozens of organisations. Five Developers. A two-week Sprint. Someone at the whiteboard does the quick maths: five people, ten days, six focused hours a day. \"We have 300 hours.\" Heads nod. The Product Backlog items get pulled in until the number feels full. Ten days later, at the Sprint Review, three items are not Done. Nobody slacked off. Nobody estimated wildly wrong.",
       "titleJa": "スプリント容量の誤算：AI時代のスクラムチームが見落とす隠れた制約",
       "summaryJa": "スクラムチームがスプリント予測を外す主な原因は見積もり精度ではなく、実際には存在しない稼働時間を前提に計画していることにある。5人のデベロッパーで10日間、1日6時間という理想的な計算では300時間になるが、実際の責務やAIエージェント時代の変化を考慮すると、計画時の前提が崩れやすい。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "🎉 Published: Scrum Team Magazine - October 2026 - Issue #2",
-      "url": "https://www.scrum.org/resources/blog/published-scrum-team-magazine-october-2026-issue-2",
-      "publishedAt": "2026-09-30T08:12:00.000Z",
-      "excerpt": "Image Click here to read and download the magazine. The first high-quality magazine for the Scrum world is now live. This is the second issue, October 2026. WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who d",
-      "titleJa": "Scrum Team Magazine 2026年10月号（第2号）発刊",
-      "summaryJa": "スクラムコミュニティ初の高品質マガジン『Scrum Team Magazine』の第2号が発刊された。ファッションや映画などの業界では質の高い専門誌が存在する一方で、スクラムプロフェッショナル向けの同等クオリティの出版物がなかったため、本誌はその空白を埋めることを目指している。"
     },
     {
       "category": "QA",
@@ -233,26 +233,6 @@
     },
     {
       "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Responsible Quality Engineering",
-      "url": "https://www.satisfice.com/blog/archives/488069",
-      "publishedAt": "2026-09-23T05:39:31.000Z",
-      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
-      "titleJa": "責任あるクオリティエンジニアリング",
-      "summaryJa": "クオリティエンジニアリング(RQE)はテストではなく、開発者が主導するプロセスです。テスターは製品の品質を分析し、開発者にフィードバックを提供することで、このプロセスをサポートする役割を担っています。真のクオリティエンジニアリングを実現するには、テストと品質保証の関係を正しく理解することが重要です。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "The Perfect Job For Me",
-      "url": "https://www.satisfice.com/blog/archives/488204",
-      "publishedAt": "2026-09-23T03:36:07.000Z",
-      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
-      "titleJa": "私にぴったりな仕事",
-      "summaryJa": "大企業がAIを有効活用しながらコントロールを維持し、収益性を確保し競争力を保つための課題を探求します。AIの進化や市場動向にかかわらず、すべての大規模企業には重要な役割があり、その最適な人材配置とAI活用戦略について考察しています。"
-    },
-    {
-      "category": "QA",
       "sourceName": "TestGuild",
       "title": "AI Testing Reality Check: What 13 Founders Refuse to Automate with Joe Colantonio",
       "url": "https://testguild.com/podcast/a605-joe/",
@@ -300,16 +280,6 @@
       "excerpt": "Continuous Discovery Habits* turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "第10章: 仮説の検証",
       "summaryJa": "「Continuous Discovery Habits」5周年を記念した共同読書会。毎月、該当章の詳細ガイドと重要コンセプト、動画コンテンツを提供。本章では仮説検証の手法を学ぶ。プロダクトディスカバリーの実践的スキル習得に最適な資料。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The Price of a Slow Yes",
-      "url": "https://www.productcoalition.com/p/the-price-of-a-slow-yes",
-      "publishedAt": "2026-09-17T21:20:36.000Z",
-      "excerpt": "Every approval chain has a weekly rate, and I have rarely seen a team work out theirs",
-      "titleJa": "遅い承認の代償",
-      "summaryJa": "すべての承認フローには週単位のレートが存在しますが、実際にこれを把握しているチームはほとんど見当たりません。記事では、承認プロセスの遅延がもたらす影響と、その改善方法について論じています。"
     },
     {
       "category": "PdM",
