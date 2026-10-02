@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-01T18:04:12.184Z",
+  "updatedAt": "2026-10-02T02:56:28.287Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Fourteen ways to stop lying to yourself: the Wizard's Rules in one place",
+      "url": "https://www.scrum.org/resources/blog/fourteen-ways-stop-lying-yourself-wizards-rules-one-place",
+      "publishedAt": "2026-10-01T22:00:00.000Z",
+      "excerpt": "Fourteen Wizard’s Rules ago, this series made a claim: most agile failures aren’t failures of process, they’re failures of honesty. An organization rarely breaks because it skipped a ceremony. It breaks because it avoided a reality, protected a story, or kept doing something nobody could justify, and dressed all of it in the language of transformation. Fourteen Rules later, the claim has had its say. And the strange thing, looking back across all of them, is how little of it was ever really about agile. Goodkind wrote these for wizards and wars. They turned out to describe steering committees ",
+      "titleJa": "自分に嘘をつかない14の方法：ウィザードの法則を一冊に",
+      "summaryJa": "アジャイル導入の失敗の多くはプロセスの問題ではなく、現実から目を背けたり物語を保護したりする誠実さの欠如が原因である。本記事は14のウィザードの法則を通じ、組織が変革の言葉で正当化できない行動を続ける傾向を指摘し、これらの法則がステアリングコミッティーなど実務的な組織マネジメントにも適用できることを示す。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -90,16 +100,6 @@
       "excerpt": "Image Click here to read and download the magazine. The first high-quality magazine for the Scrum world is now live. This is the second issue, October 2026. WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who d",
       "titleJa": "Scrum Team Magazine 2026年10月号（第2号）発刊",
       "summaryJa": "スクラムコミュニティ初の高品質マガジン『Scrum Team Magazine』の第2号が発刊された。ファッションや映画などの業界では質の高い専門誌が存在する一方で、スクラムプロフェッショナル向けの同等クオリティの出版物がなかったため、本誌はその空白を埋めることを目指している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Nobody owns whether it worked.",
-      "url": "https://www.scrum.org/resources/blog/nobody-owns-whether-it-worked",
-      "publishedAt": "2026-09-29T22:00:00.000Z",
-      "excerpt": "Image Release day. The feature goes out, the team channel fills with rocket emoji, the demo lands well, and someone says \"great job, everyone.\" Monday, the next thing starts. Three months later, in some steering meeting, somebody asks the question: did that feature actually change anything? Silence. Then the honest answer, in its usual costume: \"We'd have to pull the numbers.\" Nobody pulls the numbers. The meeting moves on, and so does everyone else. Here's the tell. On your team, delivery has everything: a date, an owner, a checklist, a party. The result has nobody. No name attached, no momen",
-      "titleJa": "誰も成果の責任を持たない",
-      "summaryJa": "リリース時には盛大に祝われる機能も、実際に効果があったかを測定・検証する責任者がいないことが多い。デリバリーには所有者や期日があるのに、その結果の測定には誰も責任を持たず、数字を確認することすらない。プロジェクトマネジメントにおいて、成果物の検証と所有権の明確化が重要な課題である。"
     },
     {
       "category": "QA",
