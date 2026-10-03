@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-03T15:20:54.324Z",
+  "updatedAt": "2026-10-03T20:18:30.248Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
+      "publishedAt": "2026-10-03T17:00:49.000Z",
+      "excerpt": "Community Wisdom 301",
+      "titleJa": "コミュニティの知見：個人用AIエージェント活用、ICからマネージャーへのキャリア転換、交渉すべき珍しい福利厚生など",
+      "summaryJa": "個人AIエージェントを効果的に活用しながらプライバシーを保つ方法、個別貢献者からマネージャーへのキャリア転換に伴う課題、一般的でない福利厚生の交渉戦略など、プロダクトマネージャーやリーダーシップ領域における実践的な知見が共有されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -190,16 +200,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "titleJa": "How I AI:初心者向けJevからOpus 5.5とGPT-6の比較まで",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」週刊エピソード。Claude離別からOpus 5.5への乗り換えや、Opus 5.5とGPT-6のベンチマーク比較など、AI活用の最新動向と実践的な活用法を紹介する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Jev for beginners: how to use it and what to build",
-      "url": "https://www.lennysnewsletter.com/p/jev-for-beginners-how-to-use-it-and",
-      "publishedAt": "2026-09-28T12:03:04.000Z",
-      "excerpt": "Watch now (26 mins) | 🎙️ Jev returns type-safe structured values instead of text, which makes it the fastest, cheapest classification layer I’ve ever put in a pipeline—and this week I shipped three real projects with it",
-      "titleJa": "Jevの始め方：使い方と実装方法",
-      "summaryJa": "Jevはテキストの代わりに型安全な構造化された値を返すため、パイプラインにおいて最速かつ最安価な分類レイヤーとなります。この記事では、Jevの基本的な使用方法と実際のプロジェクトでの実装例を紹介しています。"
     },
     {
       "category": "PdM",
