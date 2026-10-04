@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-04T03:13:55.342Z",
+  "updatedAt": "2026-10-04T11:27:47.896Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "Exploratory Testing Reimagined",
+      "url": "https://qahiccupps.blogspot.com/2026/10/exploratory-testing-reimagined.html",
+      "publishedAt": "2026-10-04T10:19:15.000Z",
+      "excerpt": "Maaret Pyhäjärvi gave a talk, Exploratory Testing Reimagined, last week. There's a blog post to go with it, so I won't say much on top of what's in my sketchnotes above, just pull out a few reflections. I don't have the data or wide range of experience reports that Maaret does, but my own anecdotal results from using AI tools for testing align closely with what she says in the talk. I have created skills to assist me, and my colleagues, in our testing work. For example, I used the contents of this blog and five years of test notes in my current role to distil a conversational workflow, facilit",
+      "titleJa": "エクスプロラトリーテスティングの再構想",
+      "summaryJa": "Maaret Pyhäjärviのトークに基づいた記事で、AIツールを活用したテスト業務の改善について紹介しています。筆者が実際に使用したAIスキルの事例と、5年間のテストノートを活用した実践的なワークフロー構築の経験が述べられています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Not All Complexity Can Be Processed Away. Fred Brooks Proved This in 1986.",
+      "url": "https://www.scrum.org/resources/blog/not-all-complexity-can-be-processed-away-fred-brooks-proved-1986",
+      "publishedAt": "2026-10-04T06:00:00.000Z",
+      "excerpt": "",
+      "titleJa": "すべての複雑性は排除できない：フレッド・ブルックスが1986年に証明したこと",
+      "summaryJa": "ソフトウェア開発における複雑性の本質に関する論文です。Fred Brooksの古典的な理論に基づき、プロジェクトやプロダクト開発において根本的に解決できない複雑性が存在することを解説しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -60,16 +80,6 @@
       "excerpt": "Scrum governs three things: who decides what gets built, what counts as finished, and how the rules change when they stop working. For eighteen months, I have been Product Owner of a Scrum Team of eight AI agents, the Relentless Raptors. At our current token budget, the team completes roughly 10 times as many Product Backlog items in a one-week Sprint as a human team would (Hodgson & West, 2026a). Capacity stopped being the constraint long ago, and governance is now the only thing keeping the output pointed at the Product Goal. Agents have no informal channels Human teams compensate for weak g",
       "titleJa": "AIエージェントは成果を生む、それを統治するのはScrum",
       "summaryJa": "Scrumは「何を構築するか」「完了とは何か」「ルールが機能しなくなった時の対応」の3つを統治します。8体のAIエージェント「Relentless Raptors」のスクラムチームでプロダクトオーナーを務めた経験では、1週間のスプリントで人間のチームの約10倍のプロダクトバックログアイテムを完了しました。キャパシティはもはや制約ではなく、ガバナンスだけが出力をプロダクトゴールに向け続ける唯一の手段となります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Fourteen ways to stop lying to yourself: the Wizard's Rules in one place",
-      "url": "https://www.scrum.org/resources/blog/fourteen-ways-stop-lying-yourself-wizards-rules-one-place",
-      "publishedAt": "2026-10-01T22:00:00.000Z",
-      "excerpt": "Fourteen Wizard’s Rules ago, this series made a claim: most agile failures aren’t failures of process, they’re failures of honesty. An organization rarely breaks because it skipped a ceremony. It breaks because it avoided a reality, protected a story, or kept doing something nobody could justify, and dressed all of it in the language of transformation. Fourteen Rules later, the claim has had its say. And the strange thing, looking back across all of them, is how little of it was ever really about agile. Goodkind wrote these for wizards and wars. They turned out to describe steering committees ",
-      "titleJa": "自分に嘘をつかない14の方法：ウィザードの法則を一冊に",
-      "summaryJa": "アジャイル導入の失敗の多くはプロセスの問題ではなく、現実から目を背けたり物語を保護したりする誠実さの欠如が原因である。本記事は14のウィザードの法則を通じ、組織が変革の言葉で正当化できない行動を続ける傾向を指摘し、これらの法則がステアリングコミッティーなど実務的な組織マネジメントにも適用できることを示す。"
     },
     {
       "category": "PdM",
