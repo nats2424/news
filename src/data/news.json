@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-05T02:48:55.955Z",
+  "updatedAt": "2026-10-05T12:54:26.478Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
+      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
+      "publishedAt": "2026-10-05T12:04:54.000Z",
+      "excerpt": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
+      "titleJa": "ChatGPT Sitesの実装活用法｜OpenAI DevDayライブデモ",
+      "summaryJa": "OpenAI DevDayでChatGPT Sitesのライブデモンストレーションが行われ、SlackやNotion、カレンダーデータをチーム向けの内部ツールに変換する方法が紹介されました。各チームメンバーに適応するカスタマイズ機能が特徴です。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum Day India 2026 Recap: Scrum Teams in the Age of Autonomous Agents",
+      "url": "https://www.scrum.org/resources/blog/scrum-day-india-2026-recap-scrum-teams-age-autonomous-agents",
+      "publishedAt": "2026-10-05T09:29:36.000Z",
+      "excerpt": "Image On Saturday, 26 September 2026, Scrum practitioners gathered at To The New in Sector 144, Noida, for Scrum Day India 2026. The theme was Scrum Teams in the Age of Autonomous Agents. For the last two years, most conversations about AI in Scrum have been about assistance: a better first draft of a user story, a faster summary of a Sprint Review. This year's sessions started from a different place. Agents now pick up Product Backlog items, run checks, and produce Increments alongside the humans on the team. So the question was not whether Scrum still works. It was what Scrum Masters, Produc",
+      "titleJa": "Scrum Day India 2026：自律型エージェント時代のスクラムチーム",
+      "summaryJa": "Scrum Day India 2026ではスクラムチームが自律型エージェントと協働する時代への対応が主題となりました。従来のAI補助ではなく、エージェントがプロダクトバックログアイテムを処理し、インクリメント生産に参加する段階へ進化し、スクラムマスターとプロダクトオーナーの役割再定義が課題とされています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "5 Things the Scrum Master Shouldn’t Be Doing",
+      "url": "https://www.scrum.org/resources/blog/5-things-scrum-master-shouldnt-be-doing",
+      "publishedAt": "2026-10-04T13:00:00.000Z",
+      "excerpt": "Image I love being a Scrum Master. What I love about it is helping a team accomplish something and honestly just making Developers' work lives as hassle-free as possible. I love working with smart people and seeing them accomplish amazing things. As a Scrum Master, most of us want to help. But sometimes we think we are helping when we’re actually hurting the team. As a case in point, when I was a new Scrum Master, I was looking for how to add value to the team. So, I observed that submitting security and access requests was an annoying administrative job for the Developers. I suggested that I ",
+      "titleJa": "スクラムマスターが避けるべき5つの行動",
+      "summaryJa": "スクラムマスターが良かれと思って実施する行動の中には、実はチームに悪影響を及ぼすものが存在します。記事では、セキュリティ申請などの管理業務を引き継ぐことの落とし穴など、よくある落ち着きのミスと対策が解説されています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -60,26 +90,6 @@
       "excerpt": "Appointing one person accountable for AI is a sound first step. In an organisation moving to a product operating model, or already running one, the same role puts a dependency and a handoff between product teams and the decisions the model gives them. Most organisations adopted AI before anyone was accountable. Pilots started in several teams at once, and whichever area needed them first bought the licences. When an AI output went wrong, nobody could say who was accountable. In a 2026 BCG survey, half of respondents said their companies lacked clear governance for teams of people and AI, and a",
       "titleJa": "組織にAIプロダクトオーナーは必要か",
       "summaryJa": "AI導入を進める組織では、AIの責任を一人に集約することが重要な第一歩となります。プロダクト運用モデルを採用している組織では、このロールが不在だとプロダクトチームとAI決定の間に依存関係と受け渡しが発生します。多くの企業では誰も責任を持たないままAIを導入しており、BCGの2026年調査では約半数の企業がAIと人のチームに対する明確なガバナンスの不足を報告しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "O Dojo de Product Ownership: Gestão Avançada de Produtos na Era da Inteligência Artificial",
-      "url": "https://www.scrum.org/resources/blog/o-dojo-de-product-ownership-gestao-avancada-de-produtos-na-era-da-inteligencia-artificial",
-      "publishedAt": "2026-10-02T11:34:32.000Z",
-      "excerpt": "A maioria das organizações ainda encara a gestão de produtos como uma linha de montagem: escrever histórias de usuário, alimentar o backlog, acompanhar a velocidade das sprints e torcer para que a funcionalidade entregue gere algum resultado. Essa postura é o teto de vidro do \"PO secretário de backlog\". No mercado corporativo atual — pressionado por eficiência, corte de desperdício e impacto financeiro —, essa abordagem tornou-se obsoleta. Para construir produtos sustentáveis e liderar negócios com autoridade, o profissional de produto precisa trilhar a disciplina de um verdadeiro Dojo de Prod",
-      "titleJa": "AI時代のプロダクト所有権道場:先進的なプロダクト管理",
-      "summaryJa": "多くの組織がプロダクト管理をユーザーストーリー作成とバックログ管理の流れ作業と見なしているが、これは古い考え方である。現代の企業環境では、持続可能なプロダクト構築と権威あるビジネスリーダーシップのため、プロダクトマネージャーはより高度な規律が必要とされる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "If I Wanted To Write A New Scrum Guide",
-      "url": "https://www.scrum.org/resources/blog/if-i-wanted-write-new-scrum-guide",
-      "publishedAt": "2026-10-02T09:16:39.000Z",
-      "excerpt": "Image Scrum Guide 2020 is the latest version, nearly six years old. Over the past 6 years, the market has changed enormously, especially with the rise of AI. With millions of people using Scrum worldwide over the past 6 years, I am sure there is a lot of feedback that needs to be incorporated into Scrum. So, I strongly believe it is time to write a new version of the Scrum Guide. Here are my main suggested changes if I were to write the Scrum Guide 2027: #1- Clarity on Accountability, Responsibility, and Role In the Scrum Guide 2020, we have this sentence: “Scrum defines three specific account",
-      "titleJa": "新しいスクラムガイドへの提案：AI時代に向けた改定案",
-      "summaryJa": "2020年版スクラムガイドの発行から約6年が経過し、特にAIの急速な発展など市場環境の大きな変化を踏まえて、新版の作成が必要と主張。アカウンタビリティと責任、ロールの明確化など、主要な改定案を提示しています。"
     },
     {
       "category": "PdM",
@@ -150,16 +160,6 @@
       "excerpt": "After reading a couple of my posts on AI that invoked comparisons with technologies in the rural environment (Hedging Your Bets on AI) and the music industry (The Needle and the Damage Done) a friend suggested that The Shock of the Old by David Edgerton might be interesting to me. It was. The key theme of the book is that we tend to be beguiled by the invention, possibility, and novelty of technology rather than by its value, usage, or availability. This leads to some warped perspectives. For example, we lose sight of technology long before it becomes obsolete, we devalue the old whatever its ",
       "titleJa": "古い技術の衝撃：テクノロジー史から学ぶ視点",
       "summaryJa": "David Edgertonの著書『The Shock of the Old』から着想を得た考察。テクノロジーの価値や実用性よりも革新性に注目する傾向について、AIの事例を交えて検討し、技術評価の偏りを指摘している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "All of the Lenny & Friends Summit talks are now online!",
-      "url": "https://www.lennysnewsletter.com/p/all-of-the-lenny-and-friends-summit",
-      "publishedAt": "2026-09-29T13:15:57.000Z",
-      "excerpt": "Plus, some reflections and takeaways from the day",
-      "titleJa": "Lenny & Friends Summit の全講演がオンライン公開",
-      "summaryJa": "Lenny & Friends Summit で行われた全てのトークセッションがオンラインで公開された。イベントからの主な学び と洞察をまとめた記事。"
     },
     {
       "category": "PdM",
