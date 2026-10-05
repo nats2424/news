@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-10-05T12:54:26.478Z",
+  "updatedAt": "2026-10-05T23:26:14.185Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "WebdriverIO, AI Agents, and 7 Questions to Ask Before Trusting AI Testing TGNS197",
+      "url": "https://testguild.com/podcast/n197-oct05/",
+      "publishedAt": "2026-10-05T19:23:37.000Z",
+      "excerpt": "About This Episode: Faster AI test runs or cheaper ones, which one should you actually pick? Is your WebdriverIO suite […]",
+      "titleJa": "WebdriverIOとAIエージェント：AIテスト導入前に問うべき7つの質問",
+      "summaryJa": "AI テスト実行の高速化と低コスト化のどちらを優先すべきか、WebdriverIOスイートの活用方法などを検討。AIテスト導入時に信頼性を確保するための重要な質問項目を紹介している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
+      "publishedAt": "2026-10-05T15:03:24.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "How I AI：8つの実践的ユースケースとOpenAIのChatGPT Sites活用事例",
+      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、実際のAI活用事例8件とDevDayで発表されたOpenAIの最新動向、Claire氏によるイベント総括を紹介する週刊エピソード。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "How to manage projects over Christmas: A year-end guide",
+      "url": "https://rebelsguidetopm.com/manage-projects-over-christmas/",
+      "publishedAt": "2026-10-05T14:53:36.000Z",
+      "excerpt": "Are you gearing up for the holidays? There’s a lot to do as we count down to the end of the year! For me in the UK, it’s a Christmas break that I’m looking forward to, but the tips below work for whatever festivity or holiday project planning you are gearing up for as a team. I’ve been caught out a couple of times (change freeze, anyone?) so in this article I’m sharing my tips for how to manage your work over the festive season. Christmas creates a temporary change to the operating environment of your project. People are away. Decisions take longer. Financial deadlines move forward. Steering m",
+      "titleJa": "クリスマス期間のプロジェクト管理：年末対策ガイド",
+      "summaryJa": "年末年始のプロジェクト管理では、人員不足や意思決定の遅延、財務期限の前倒しなど特有の課題が発生。チェンジフリーズを含めた具体的な対策と、年末年始を乗り切るマネジメント手法を紹介する。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Google Testing Blog",
+      "title": "Two-Way Doors: Don’t Code Yourself into a Corner",
+      "url": "http://testing.googleblog.com/2026/10/two-way-doors-dont-code-yourself-into.html",
+      "publishedAt": "2026-10-05T12:47:12.909Z",
+      "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Nimit Khandelwal and Chris Kennelly On large software projects, even seemingly trivial choices can set assumptions that the codebase naturally evolves around, making them incredibly expensive to fix later. To help achieve decision velocity without accumulating technica",
+      "titleJa": "リバーシブルな決定：コード設計で取り返しのつかない選択を避ける",
+      "summaryJa": "大規模ソフトウェアプロジェクトでは、一見些細な決定がコードベースに深く影響し、後で修正するのに莫大なコストがかかる。決定の速度を損なわずに技術負債を避けるための方法論を、Googleの実践例から解説している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -62,16 +102,6 @@
       "summaryJa": "Maaret Pyhäjärviのトークに基づいた記事で、AIツールを活用したテスト業務の改善について紹介しています。筆者が実際に使用したAIスキルの事例と、5年間のテストノートを活用した実践的なワークフロー構築の経験が述べられています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Not All Complexity Can Be Processed Away. Fred Brooks Proved This in 1986.",
-      "url": "https://www.scrum.org/resources/blog/not-all-complexity-can-be-processed-away-fred-brooks-proved-1986",
-      "publishedAt": "2026-10-04T06:00:00.000Z",
-      "excerpt": "",
-      "titleJa": "すべての複雑性は排除できない：フレッド・ブルックスが1986年に証明したこと",
-      "summaryJa": "ソフトウェア開発における複雑性の本質に関する論文です。Fred Brooksの古典的な理論に基づき、プロジェクトやプロダクト開発において根本的に解決できない複雑性が存在することを解説しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
@@ -90,6 +120,16 @@
       "excerpt": "Appointing one person accountable for AI is a sound first step. In an organisation moving to a product operating model, or already running one, the same role puts a dependency and a handoff between product teams and the decisions the model gives them. Most organisations adopted AI before anyone was accountable. Pilots started in several teams at once, and whichever area needed them first bought the licences. When an AI output went wrong, nobody could say who was accountable. In a 2026 BCG survey, half of respondents said their companies lacked clear governance for teams of people and AI, and a",
       "titleJa": "組織にAIプロダクトオーナーは必要か",
       "summaryJa": "AI導入を進める組織では、AIの責任を一人に集約することが重要な第一歩となります。プロダクト運用モデルを採用している組織では、このロールが不在だとプロダクトチームとAI決定の間に依存関係と受け渡しが発生します。多くの企業では誰も責任を持たないままAIを導入しており、BCGの2026年調査では約半数の企業がAIと人のチームに対する明確なガバナンスの不足を報告しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "O Dojo de Product Ownership: Gestão Avançada de Produtos na Era da Inteligência Artificial",
+      "url": "https://www.scrum.org/resources/blog/o-dojo-de-product-ownership-gestao-avancada-de-produtos-na-era-da-inteligencia-artificial",
+      "publishedAt": "2026-10-02T11:34:32.000Z",
+      "excerpt": "A maioria das organizações ainda encara a gestão de produtos como uma linha de montagem: escrever histórias de usuário, alimentar o backlog, acompanhar a velocidade das sprints e torcer para que a funcionalidade entregue gere algum resultado. Essa postura é o teto de vidro do \"PO secretário de backlog\". No mercado corporativo atual — pressionado por eficiência, corte de desperdício e impacto financeiro —, essa abordagem tornou-se obsoleta. Para construir produtos sustentáveis e liderar negócios com autoridade, o profissional de produto precisa trilhar a disciplina de um verdadeiro Dojo de Prod",
+      "titleJa": "プロダクト・オーナーシップの道場：AI時代の高度なプロダクト管理",
+      "summaryJa": "多くの組織がプロダクト管理をストーリー作成とバックログ管理の作業に矮小化している。AI時代の競争環境では、真のプロダクト規律を持つプロフェッショナルへの転換が必須であり、その方法を解説する。"
     },
     {
       "category": "PdM",
@@ -140,16 +180,6 @@
       "excerpt": "Watch now (24 mins) | 🎙️ Claire tests OpenAI’s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what’s worth trying first",
       "titleJa": "OpenAI Dev Day 2026：実際に価値のある新機能",
       "summaryJa": "OpenAIのDev Dayで発表された新機能をレビューしています。Dots、Spaces、SitesといったツールやAI搭載のサムネイル選択機能、$97ゲームなどの実用性を検証し、ユーザーが最初に試すべき機能を紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Jev: 8 real use cases for the fastest, cheapest model I’ve ever used | John Lindquist",
-      "url": "https://www.lennysnewsletter.com/p/jev-8-real-use-cases-for-the-fastest",
-      "publishedAt": "2026-09-30T12:04:27.000Z",
-      "excerpt": "Watch now (46 mins) | 🎙️ Educator and developer John Lindquist shares eight Jev demos, from live voice classification and deduplication to agent routing, showing how low costs make once-impractical ideas worth trying",
-      "titleJa": "Jev：最速・最安値モデルの8つの実践的活用例",
-      "summaryJa": "教育者でありデベロッパーのJohn Lindquistが、Jevの低コストを活かした8つのデモを紹介しています。リアルタイム音声分類、重複排除、エージェントルーティングなど、従来は非現実的だったアイデアが実現可能になった事例を示しています。"
     },
     {
       "category": "QA",
@@ -332,16 +362,6 @@
       "summaryJa": "プロダクトマネージャー向けのAIアプリビルダー「Aha! Builder」の開発プロセスを紹介するポッドキャストエピソード。競争の激しい市場でエンジニアを必要としないツールをどのように構想から実装まで実現させたかについて、Teresa TomasとBrian De Haaffが対談します。"
     },
     {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Browser-Based Load Testing vs. JMeter: When Real Browsers Are Worth the Cost",
-      "url": "https://testguild.com/browser-based-load-testing-vs-jmeter/",
-      "publishedAt": "2026-09-17T12:39:28.000Z",
-      "excerpt": "Quick Answer Browser-based load testing (also called real-browser load testing) drives real browser sessions through your critical user journeys under […]",
-      "titleJa": "ブラウザベースのロードテスト vs. JMeter：実ブラウザの価値はコストに見合うか",
-      "summaryJa": "実ブラウザセッションを使用したロードテストと、JMeterなどのツールベースのアプローチを比較する記事。ユーザージャーニーの負荷テストにおいて、実ブラウザテストが導入する追加コストが実際にメリットをもたらすケースを検討します。"
-    },
-    {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "Gate reviews: What to do and why you need them",
@@ -350,16 +370,6 @@
       "excerpt": "Project governance is an important part of project management processes – even if it’s not the most exciting part of getting work done. As a project manager, part of your role is shepherding the work through the project lifecycle. That means moving it on from idea to done and keeping it all on track as you go. Governance is a key part of that, and gate reviews are part of navigating through the project. Gate reviews, or stage reviews are part of the PRINCE2® process, and also part of the UK Government's National Infrastructure and Service Transformation Authority (NISTA) Project assurance revi",
       "titleJa": "ゲートレビュー：実施方法と必要性",
       "summaryJa": "プロジェクトガバナンスはプロジェクトマネジメントにおいて重要な要素であり、ゲートレビュー（ステージレビュー）はPRINCE2プロセスの一部として機能します。プロジェクトマネージャーはゲートレビューを通じてプロジェクトを適切に進行管理し、リスク認識と品質維持を実現する必要があります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Software review: DHTMLX Gantt",
-      "url": "https://rebelsguidetopm.com/software-review-dhtmlx-gantt/",
-      "publishedAt": "2026-09-14T18:47:53.000Z",
-      "excerpt": "General information Name: DHTMLX Gantt Vendor: DHTMLX Hosting options: Needs to be self-hosted; designed to be embedded in an existing application Cost and plans: Free 30 day trial so you can test it in your app. Perpetual licences start at $799 (individual, limited use licence) and scale up, and there are cost-efficient bundles that loop... This article first appeared on Rebel's Guide to Project Management and can be read here: Software review: DHTMLX Gantt",
-      "titleJa": "ソフトウェアレビュー：DHTMLX Gantt",
-      "summaryJa": "プロジェクト管理ツールのDHMLTX Ganttについてのレビュー記事。自社サーバー上に組み込むタイプで、30日間の無料トライアルが利用でき、個別ライセンスは799ドルから、スケーラブルな価格設定と複数のバンドルオプションが提供されています。"
     }
   ]
 }
