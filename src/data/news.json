@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-06T12:21:35.527Z",
+  "updatedAt": "2026-10-06T21:58:38.872Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Locust and Azure Load Testing: Create and Debug Load Tests with AI with Lars Holmberg and Abhinav Premsekhar",
+      "url": "https://testguild.com/podcast/a607-lars/",
+      "publishedAt": "2026-10-06T15:15:50.000Z",
+      "excerpt": "About This Episode: Performance testing has never been easier to start, or more important to get right. As teams ship […]",
+      "titleJa": "LocustとAzure Load Testing：AIを活用したロードテストの作成とデバッグ",
+      "summaryJa": "パフォーマンステストの実施方法と重要性について、Lars HolmbergとAbhinav Premsekharが解説するエピソード。AIを活用した負荷テストの作成およびデバッグ手法を紹介し、チームがテストを効果的に実装するための実践的なアプローチを提供します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie",
+      "url": "https://www.scrum.org/resources/blog/role-agency-scrum-why-self-management-without-agency-lie",
+      "publishedAt": "2026-10-06T14:00:00.000Z",
+      "excerpt": "Originally published on Engineering Leadership. Scrum is often misunderstood as a set of ceremonies or a lightweight project management method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management. But self-management is not simply a label you apply to teams. It demands something deeper and harder: real agency. Without agency, Scrum collapses into shallow ritual. Without agency, accountability is performative, not real. Withou",
+      "titleJa": "Scrumにおけるエージェンシー：セルフマネジメントなき権限委譲の限界",
+      "summaryJa": "Scrumの本質はセレモニーや軽量なプロジェクト管理手法ではなく、実質的なエージェンシー（主体性と権限）に基づいた社会技術であることを主張。エージェンシーなしではセルフマネジメントは形式的となり、真の説明責任と適応的なソリューション提供が実現できないと指摘します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Recorded Conversations - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/recorded-conversations-all-things-product/",
+      "publishedAt": "2026-10-06T13:00:39.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts We now record almost everything — every meeting has an AI note-taker, and some people wear glasses that capture every word. So what does that do to our relationships when nothing is forgotten and everything can be fact-checked? Petra Wille",
+      "titleJa": "記録される会話時代のプロダクト開発：AI時代の人間関係とプロダクト戦略",
+      "summaryJa": "Teresa TorresとPetra Willeによるポッドキャスト。AI記録ツールが日常業務に浸透する中で、何もが忘れられず検証可能になる環境が、プロダクト開発チームの関係構築やコミュニケーションに与える影響について議論します。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -132,16 +162,6 @@
       "summaryJa": "個人AIエージェントを効果的に活用しながらプライバシーを保つ方法、個別貢献者からマネージャーへのキャリア転換に伴う課題、一般的でない福利厚生の交渉戦略など、プロダクトマネージャーやリーダーシップ領域における実践的な知見が共有されている。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Does Your Organisation Need an AI Product Owner?",
-      "url": "https://www.scrum.org/resources/blog/does-your-organisation-need-ai-product-owner",
-      "publishedAt": "2026-10-02T21:56:17.000Z",
-      "excerpt": "Appointing one person accountable for AI is a sound first step. In an organisation moving to a product operating model, or already running one, the same role puts a dependency and a handoff between product teams and the decisions the model gives them. Most organisations adopted AI before anyone was accountable. Pilots started in several teams at once, and whichever area needed them first bought the licences. When an AI output went wrong, nobody could say who was accountable. In a 2026 BCG survey, half of respondents said their companies lacked clear governance for teams of people and AI, and a",
-      "titleJa": "組織にAIプロダクトオーナーは必要か",
-      "summaryJa": "AI導入を進める組織では、AIの責任を一人に集約することが重要な第一歩となります。プロダクト運用モデルを採用している組織では、このロールが不在だとプロダクトチームとAI決定の間に依存関係と受け渡しが発生します。多くの企業では誰も責任を持たないままAIを導入しており、BCGの2026年調査では約半数の企業がAIと人のチームに対する明確なガバナンスの不足を報告しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP110 Agentic AI for Product Management: Building in an Autonomous Enterprise",
@@ -160,16 +180,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What happens when you hand your opportunity solution tree to an AI? Vistaly rebuilt its entire product to find out—and the agents were the easy part. In this episode of Just Now Possible, Teresa Torres talks with Matt O'",
       "titleJa": "AIで機会解決ツリーを生成する：Vistalyがインタビュー分析・評価・修正ループで製品を再構築",
       "summaryJa": "Vistaly は機会解決ツリーをAIに活用させることで製品全体を再構築しました。インタビュー合成、評価ループ、修正プロセスを組み合わせることで、従来のプロダクトマネジメント手法をAI化し、より効率的な機会発掘を実現した事例を紹介しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Software Engineers Are Becoming More Like Lawyers",
-      "url": "https://www.satisfice.com/blog/archives/488216",
-      "publishedAt": "2026-10-01T09:10:19.000Z",
-      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
-      "titleJa": "ソフトウェアエンジニアは弁護士のような役割へシフトしている",
-      "summaryJa": "AIコーディングエージェント(Claude Opus)の体系的なテストに携わるエンジニアの経験から、ソフトウェア開発における法的・倫理的責任が増大していることを論じている。テスターとしての背景を持つ筆者が、コーディング知識の必要性について語る。"
     },
     {
       "category": "PdM",
@@ -293,26 +303,6 @@
     },
     {
       "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Responsible Quality Engineering",
-      "url": "https://www.satisfice.com/blog/archives/488069",
-      "publishedAt": "2026-09-23T05:39:31.000Z",
-      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
-      "titleJa": "責任あるクオリティエンジニアリング",
-      "summaryJa": "クオリティエンジニアリングはテストとは異なり、開発者が品質設計を担い、テスターはそれを支援する役割であることを説明する。実際の品質向上は開発者主導で進められるべきであり、テスターのフィードバックはその過程を補完するものとして位置づけられている。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "The Perfect Job For Me",
-      "url": "https://www.satisfice.com/blog/archives/488204",
-      "publishedAt": "2026-09-23T03:36:07.000Z",
-      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
-      "titleJa": "大企業におけるAI活用と品質管理の最適職務",
-      "summaryJa": "大企業がAIを効果的に活用しながら制御を保ち、収益性と競争力を維持し、法的・技術的リスクを回避するために必要とされる職務について論じている。AIの発展段階に関わらず、あらゆる大企業にとって重要な役割を指摘している。"
-    },
-    {
-      "category": "QA",
       "sourceName": "TestGuild",
       "title": "AI Testing Reality Check: What 13 Founders Refuse to Automate with Joe Colantonio",
       "url": "https://testguild.com/podcast/a605-joe/",
@@ -332,16 +322,6 @@
       "summaryJa": "All Things Productポッドキャストで、Petra Willeが「ゴミ箱追跡」というシンプルながら強力なテクニックを紹介。リリースされなかったアイデアこそが製品プロセスの健全性をより正確に反映することを示唆しています。"
     },
     {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "5 AI Projects Every SDET Should Be Building, Jev , AI Agent Hacks and more TGNS195",
-      "url": "https://testguild.com/podcast/n195-sep21/",
-      "publishedAt": "2026-09-21T20:29:42.000Z",
-      "excerpt": "About This Episode: What are 5 projects every SDET should build right now? Have you seen Google just confirmed its […]",
-      "titleJa": "すべてのSDETが今構築すべき5つのAIプロジェクト",
-      "summaryJa": "SDETが優先的に取り組むべき5つのAIプロジェクトについて解説。Googleも確認した最新のAI技術動向を含め、自動化テストエンジニアがAIを活用した実践的なプロジェクトの構築方法を紹介しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "Ch. 10: Testing Assumptions",
@@ -350,16 +330,6 @@
       "excerpt": "Continuous Discovery Habits* turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "第10章: 仮説の検証",
       "summaryJa": "「Continuous Discovery Habits」5周年を記念した共同読書会。毎月、該当章の詳細ガイドと重要コンセプト、動画コンテンツを提供。本章では仮説検証の手法を学ぶ。プロダクトディスカバリーの実践的スキル習得に最適な資料。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Creating Aha! Builder: Concept to Code, No Engineers Required",
-      "url": "https://www.producttalk.org/creating-aha-builder-concept-to-code-no-engineers-required/",
-      "publishedAt": "2026-09-17T13:00:52.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to build an AI app builder specifically for product managers—not engineers—inside an already crowded market? In this episode of Just Now Possible, Teresa Torres talks with Brian De Haaff (CEO and Co-Founder), Chris",
-      "titleJa": "Aha! Builder開発：コンセプトからコード化まで、エンジニア不要",
-      "summaryJa": "プロダクトマネージャー向けのAIアプリビルダー「Aha! Builder」の開発プロセスを紹介するポッドキャストエピソード。競争の激しい市場でエンジニアを必要としないツールをどのように構想から実装まで実現させたかについて、Teresa TomasとBrian De Haaffが対談します。"
     },
     {
       "category": "PjM",
