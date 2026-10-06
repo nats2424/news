@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T23:26:14.185Z",
+  "updatedAt": "2026-10-06T03:39:44.889Z",
   "items": [
     {
       "category": "QA",
@@ -152,16 +152,6 @@
       "summaryJa": "Vistaly は機会解決ツリーをAIに活用させることで製品全体を再構築しました。インタビュー合成、評価ループ、修正プロセスを組み合わせることで、従来のプロダクトマネジメント手法をAI化し、より効率的な機会発掘を実現した事例を紹介しています。"
     },
     {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Software Engineers Are Becoming More Like Lawyers",
-      "url": "https://www.satisfice.com/blog/archives/488216",
-      "publishedAt": "2026-10-01T09:10:19.000Z",
-      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
-      "titleJa": "ソフトウェアエンジニアが弁護士化する理由",
-      "summaryJa": "AIコーディングエージェント(Claude Opus)の体系的なテストプロジェクトに携わる著者が、ソフトウェアエンジニアリングの背景を持つエンジニアの役割の変化について考察する。テスターの視点から、プロダクションコーディングの経験を活かしながら、エンジニアに求められるスキルセットの進化を描く。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "The Loan Nobody Wrote Down",
@@ -280,26 +270,6 @@
       "excerpt": "The build case is argued in sprints, and the bill turns up later as headcount",
       "titleJa": "ビルド vs バイは技術的判断ではない",
       "summaryJa": "ビルド(内製)の判断はスプリント単位で議論されるが、実際のコストは後から人員配置として計上される。技術的側面だけでなく、経営・プロジェクト管理的な観点が重要であることを指摘している。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Responsible Quality Engineering",
-      "url": "https://www.satisfice.com/blog/archives/488069",
-      "publishedAt": "2026-09-23T05:39:31.000Z",
-      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
-      "titleJa": "責任あるクオリティエンジニアリングの実践",
-      "summaryJa": "クオリティエンジニアリング(QE)とテストの違いを解説する。クオリティエンジニアリングはテストを含むが同一ではなく、実際にはデベロッパーが主導する活動である。テスターはプロダクトの品質分析とフィードバック提供でこのプロセスをサポートする重要な役割を担う。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "The Perfect Job For Me",
-      "url": "https://www.satisfice.com/blog/archives/488204",
-      "publishedAt": "2026-09-23T03:36:07.000Z",
-      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
-      "titleJa": "AIを制御しながら活用する組織の理想的なロール",
-      "summaryJa": "大規模企業がAIを最適に活用しながら制御下に置き、利益性と競争力を維持し、法的・技術的リスクを避けるための戦略を論じる。AI技術の進化段階にかかわらず、すべての大企業に必要とされる職能の可能性を探索する記事。"
     },
     {
       "category": "QA",
