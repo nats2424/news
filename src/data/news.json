@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-06T03:39:44.889Z",
+  "updatedAt": "2026-10-06T12:21:35.527Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The Persona Was Never Supposed to Be a Person",
+      "url": "https://www.productcoalition.com/p/the-persona-was-never-supposed-to",
+      "publishedAt": "2026-10-06T08:01:00.000Z",
+      "excerpt": "A decade of Product Coalition writing says the useful version describes a decision, not a human",
+      "titleJa": "ペルソナは個人ではなく意思決定を表現する概念",
+      "summaryJa": "Product Coalition執筆の十年の経験から、ペルソナの実用的な定義は具体的な人物像ではなく、意思決定パターンを記述するべきであることを主張している。プロダクト開発における正しいペルソナの役割について再考を促す。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -102,6 +112,16 @@
       "summaryJa": "Maaret Pyhäjärviのトークに基づいた記事で、AIツールを活用したテスト業務の改善について紹介しています。筆者が実際に使用したAIスキルの事例と、5年間のテストノートを活用した実践的なワークフロー構築の経験が述べられています。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Not All Complexity Can Be Processed Away. Fred Brooks Proved This in 1986.",
+      "url": "https://www.scrum.org/resources/blog/not-all-complexity-can-be-processed-away-fred-brooks-proved-1986",
+      "publishedAt": "2026-10-04T06:00:00.000Z",
+      "excerpt": "Image Every struggling product organization I sit with arrives at the same prescription: add more process, a pre-sprint refinement session, a mid-sprint review, more documents, more sign-offs, better status visibility. I have watched this pattern since 2010, and it almost never works. Most of what those organizations are dealing with cannot be fixed that way. The distinction was drawn by Fred Brooks in 1986, in a paper called \"No Silver Bullet,\" delivered at the IFIP Tenth World Computing Conference. Brooks borrowed the framing from Aristotle, who separated essence from accident. Accidental di",
+      "titleJa": "すべての複雑性がプロセスで解決できない――1986年のフレッド・ブルックスの証明",
+      "summaryJa": "2010年から観察されてきた苦境にあるプロダクト組織は、プロセスやレビューセッションの追加で解決を図るが失敗し続けている。ブルックスの「銀の弾などない」論文(1986年)から、本質的な複雑性と付随的な複雑性の区別を通じて、プロセス改善の限界を説明している。"
+    },
+    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
@@ -122,16 +142,6 @@
       "summaryJa": "AI導入を進める組織では、AIの責任を一人に集約することが重要な第一歩となります。プロダクト運用モデルを採用している組織では、このロールが不在だとプロダクトチームとAI決定の間に依存関係と受け渡しが発生します。多くの企業では誰も責任を持たないままAIを導入しており、BCGの2026年調査では約半数の企業がAIと人のチームに対する明確なガバナンスの不足を報告しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "O Dojo de Product Ownership: Gestão Avançada de Produtos na Era da Inteligência Artificial",
-      "url": "https://www.scrum.org/resources/blog/o-dojo-de-product-ownership-gestao-avancada-de-produtos-na-era-da-inteligencia-artificial",
-      "publishedAt": "2026-10-02T11:34:32.000Z",
-      "excerpt": "A maioria das organizações ainda encara a gestão de produtos como uma linha de montagem: escrever histórias de usuário, alimentar o backlog, acompanhar a velocidade das sprints e torcer para que a funcionalidade entregue gere algum resultado. Essa postura é o teto de vidro do \"PO secretário de backlog\". No mercado corporativo atual — pressionado por eficiência, corte de desperdício e impacto financeiro —, essa abordagem tornou-se obsoleta. Para construir produtos sustentáveis e liderar negócios com autoridade, o profissional de produto precisa trilhar a disciplina de um verdadeiro Dojo de Prod",
-      "titleJa": "プロダクト・オーナーシップの道場：AI時代の高度なプロダクト管理",
-      "summaryJa": "多くの組織がプロダクト管理をストーリー作成とバックログ管理の作業に矮小化している。AI時代の競争環境では、真のプロダクト規律を持つプロフェッショナルへの転換が必須であり、その方法を解説する。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP110 Agentic AI for Product Management: Building in an Autonomous Enterprise",
@@ -150,6 +160,16 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What happens when you hand your opportunity solution tree to an AI? Vistaly rebuilt its entire product to find out—and the agents were the easy part. In this episode of Just Now Possible, Teresa Torres talks with Matt O'",
       "titleJa": "AIで機会解決ツリーを生成する：Vistalyがインタビュー分析・評価・修正ループで製品を再構築",
       "summaryJa": "Vistaly は機会解決ツリーをAIに活用させることで製品全体を再構築しました。インタビュー合成、評価ループ、修正プロセスを組み合わせることで、従来のプロダクトマネジメント手法をAI化し、より効率的な機会発掘を実現した事例を紹介しています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Software Engineers Are Becoming More Like Lawyers",
+      "url": "https://www.satisfice.com/blog/archives/488216",
+      "publishedAt": "2026-10-01T09:10:19.000Z",
+      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
+      "titleJa": "ソフトウェアエンジニアは弁護士のような役割へシフトしている",
+      "summaryJa": "AIコーディングエージェント(Claude Opus)の体系的なテストに携わるエンジニアの経験から、ソフトウェア開発における法的・倫理的責任が増大していることを論じている。テスターとしての背景を持つ筆者が、コーディング知識の必要性について語る。"
     },
     {
       "category": "PdM",
@@ -273,6 +293,26 @@
     },
     {
       "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Responsible Quality Engineering",
+      "url": "https://www.satisfice.com/blog/archives/488069",
+      "publishedAt": "2026-09-23T05:39:31.000Z",
+      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
+      "titleJa": "責任あるクオリティエンジニアリング",
+      "summaryJa": "クオリティエンジニアリングはテストとは異なり、開発者が品質設計を担い、テスターはそれを支援する役割であることを説明する。実際の品質向上は開発者主導で進められるべきであり、テスターのフィードバックはその過程を補完するものとして位置づけられている。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "The Perfect Job For Me",
+      "url": "https://www.satisfice.com/blog/archives/488204",
+      "publishedAt": "2026-09-23T03:36:07.000Z",
+      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
+      "titleJa": "大企業におけるAI活用と品質管理の最適職務",
+      "summaryJa": "大企業がAIを効果的に活用しながら制御を保ち、収益性と競争力を維持し、法的・技術的リスクを回避するために必要とされる職務について論じている。AIの発展段階に関わらず、あらゆる大企業にとって重要な役割を指摘している。"
+    },
+    {
+      "category": "QA",
       "sourceName": "TestGuild",
       "title": "AI Testing Reality Check: What 13 Founders Refuse to Automate with Joe Colantonio",
       "url": "https://testguild.com/podcast/a605-joe/",
@@ -290,16 +330,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What if the ideas you throw away tell you more about the health of your product process than the ones you ship? In this episode of All Things Product, Petra Wille introduces trash can tracking — a deceptively simple technique for making",
       "titleJa": "ゴミ箱追跡法：製品開発プロセスの健全性を測る",
       "summaryJa": "All Things Productポッドキャストで、Petra Willeが「ゴミ箱追跡」というシンプルながら強力なテクニックを紹介。リリースされなかったアイデアこそが製品プロセスの健全性をより正確に反映することを示唆しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "Nobody Killed the Roadmap",
-      "url": "https://www.productcoalition.com/p/nobody-killed-the-roadmap",
-      "publishedAt": "2026-09-22T08:02:02.000Z",
-      "excerpt": "Twelve years of product writing buried a document its own authors had already stopped defending",
-      "titleJa": "ロードマップは殺されなかった",
-      "summaryJa": "12年間のプロダクト執筆の歴史の中で、作成者たち自身が既に防衛を放棄していたドキュメントが埋もれていた。プロダクト戦略の透明性と実現性のギャップについて、実例を交えて検討する記事。"
     },
     {
       "category": "QA",
