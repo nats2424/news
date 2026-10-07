@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-07T12:13:36.180Z",
+  "updatedAt": "2026-10-07T22:23:18.711Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "📺 How to Catch AI Delegation Drift Before Your Board Does",
+      "url": "https://www.scrum.org/resources/blog/how-catch-ai-delegation-drift-your-board-does",
+      "publishedAt": "2026-10-07T14:15:54.000Z",
+      "excerpt": "TL;DR: The AI Delegation Audit Webinar Recording When AI-assisted output still looks fine, it is tempting to conclude the delegation is fine. In my October 6 webinar with Scrum.org on the AI Delegation Audit, I walked through a fictional case in which that belief held for months, then fell apart in a board meeting, and showed the check that would have caught it. Image Thesis: The AI Delegation Audit is a 45- to 60-minute review in the A3 Delegation System, run like a Sprint Retrospective, that checks whether a team’s AI delegations still hold; the post explains its four checks with a fictional",
+      "titleJa": "AIタスク委譲のドリフトを取締役会に指摘される前に検出する方法",
+      "summaryJa": "AI支援による出力が一見問題なさそうに見える場合、委譲が機能していると判断しやすい。スプリントレトロスペクティブのように実施するA3デリゲーションシステム内の「AI委譲監査」は、45～60分間のレビューで、チームのAI委譲がまだ有効かどうかを確認する4つのチェック項目で構成されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -120,16 +130,6 @@
       "excerpt": "Image On Saturday, 26 September 2026, Scrum practitioners gathered at To The New in Sector 144, Noida, for Scrum Day India 2026. The theme was Scrum Teams in the Age of Autonomous Agents. For the last two years, most conversations about AI in Scrum have been about assistance: a better first draft of a user story, a faster summary of a Sprint Review. This year's sessions started from a different place. Agents now pick up Product Backlog items, run checks, and produce Increments alongside the humans on the team. So the question was not whether Scrum still works. It was what Scrum Masters, Produc",
       "titleJa": "Scrum Day India 2026：自律型エージェント時代のスクラムチーム",
       "summaryJa": "Scrum Day India 2026ではスクラムチームが自律型エージェントと協働する時代への対応が主題となりました。従来のAI補助ではなく、エージェントがプロダクトバックログアイテムを処理し、インクリメント生産に参加する段階へ進化し、スクラムマスターとプロダクトオーナーの役割再定義が課題とされています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "5 Things the Scrum Master Shouldn’t Be Doing",
-      "url": "https://www.scrum.org/resources/blog/5-things-scrum-master-shouldnt-be-doing",
-      "publishedAt": "2026-10-04T13:00:00.000Z",
-      "excerpt": "Image I love being a Scrum Master. What I love about it is helping a team accomplish something and honestly just making Developers' work lives as hassle-free as possible. I love working with smart people and seeing them accomplish amazing things. As a Scrum Master, most of us want to help. But sometimes we think we are helping when we’re actually hurting the team. As a case in point, when I was a new Scrum Master, I was looking for how to add value to the team. So, I observed that submitting security and access requests was an annoying administrative job for the Developers. I suggested that I ",
-      "titleJa": "スクラムマスターが避けるべき5つの行動",
-      "summaryJa": "スクラムマスターが良かれと思って実施する行動の中には、実はチームに悪影響を及ぼすものが存在します。記事では、セキュリティ申請などの管理業務を引き継ぐことの落とし穴など、よくある落ち着きのミスと対策が解説されています。"
     },
     {
       "category": "PdM",
