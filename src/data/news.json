@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-06T21:58:38.872Z",
+  "updatedAt": "2026-10-07T03:06:33.393Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your framework isn't broken. Your fundamentals are.",
+      "url": "https://www.scrum.org/resources/blog/your-framework-isnt-broken-your-fundamentals-are",
+      "publishedAt": "2026-10-06T22:00:00.000Z",
+      "excerpt": "Image You've done the reorganization. You've swapped the framework, maybe more than once. Scrum, then a bit of SAFe, then something homegrown. New ceremonies, a new tool. And the same problems came back. The status that was green until it snapped. The retro that produces conversation and no change. The decision that got made properly in the meeting and then unmade in the hallway. The team that waits more than it works. The release nobody checks on. If you've been reading along these past weeks, you've met all five. And here's the thing they have in common: not one of them was caused by the fra",
+      "titleJa": "フレームワークが壊れているのではなく、基礎が問題なのだ",
+      "summaryJa": "組織が何度もプロジェクト管理フレームワークを変更（Scrum、SAFe、独自カスタマイズ等）しても同じ問題が繰り返される理由を分析。ステータス報告の信頼性喪失、レトロスペクティブの形骸化、決定の反故など、一連の問題はフレームワーク自体ではなく組織の基本姿勢に起因していることを指摘している。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -142,16 +152,6 @@
       "summaryJa": "Maaret Pyhäjärviのトークに基づいた記事で、AIツールを活用したテスト業務の改善について紹介しています。筆者が実際に使用したAIスキルの事例と、5年間のテストノートを活用した実践的なワークフロー構築の経験が述べられています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Not All Complexity Can Be Processed Away. Fred Brooks Proved This in 1986.",
-      "url": "https://www.scrum.org/resources/blog/not-all-complexity-can-be-processed-away-fred-brooks-proved-1986",
-      "publishedAt": "2026-10-04T06:00:00.000Z",
-      "excerpt": "Image Every struggling product organization I sit with arrives at the same prescription: add more process, a pre-sprint refinement session, a mid-sprint review, more documents, more sign-offs, better status visibility. I have watched this pattern since 2010, and it almost never works. Most of what those organizations are dealing with cannot be fixed that way. The distinction was drawn by Fred Brooks in 1986, in a paper called \"No Silver Bullet,\" delivered at the IFIP Tenth World Computing Conference. Brooks borrowed the framing from Aristotle, who separated essence from accident. Accidental di",
-      "titleJa": "すべての複雑性がプロセスで解決できない――1986年のフレッド・ブルックスの証明",
-      "summaryJa": "2010年から観察されてきた苦境にあるプロダクト組織は、プロセスやレビューセッションの追加で解決を図るが失敗し続けている。ブルックスの「銀の弾などない」論文(1986年)から、本質的な複雑性と付随的な複雑性の区別を通じて、プロセス改善の限界を説明している。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
@@ -180,6 +180,16 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What happens when you hand your opportunity solution tree to an AI? Vistaly rebuilt its entire product to find out—and the agents were the easy part. In this episode of Just Now Possible, Teresa Torres talks with Matt O'",
       "titleJa": "AIで機会解決ツリーを生成する：Vistalyがインタビュー分析・評価・修正ループで製品を再構築",
       "summaryJa": "Vistaly は機会解決ツリーをAIに活用させることで製品全体を再構築しました。インタビュー合成、評価ループ、修正プロセスを組み合わせることで、従来のプロダクトマネジメント手法をAI化し、より効率的な機会発掘を実現した事例を紹介しています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Software Engineers Are Becoming More Like Lawyers",
+      "url": "https://www.satisfice.com/blog/archives/488216",
+      "publishedAt": "2026-10-01T09:10:19.000Z",
+      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
+      "titleJa": "ソフトウェアエンジニアは弁護士のような役割へ変わりつつある",
+      "summaryJa": "AIコーディングエージェント（Claude Opus）の体系的テストを中心としたプロジェクトに携わる経験から、ソフトウェアエンジニアの職務がより法的責任や倫理的判断が求められる弁護士に近づいていることを論じている記事。テスターとしてのキャリアを持つ著者が、コーディングスキルと分析能力の両方が現代のエンジニアに必須となっていることを指摘。"
     },
     {
       "category": "PdM",
@@ -300,6 +310,26 @@
       "excerpt": "The build case is argued in sprints, and the bill turns up later as headcount",
       "titleJa": "ビルド vs バイは技術的判断ではない",
       "summaryJa": "ビルド(内製)の判断はスプリント単位で議論されるが、実際のコストは後から人員配置として計上される。技術的側面だけでなく、経営・プロジェクト管理的な観点が重要であることを指摘している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Responsible Quality Engineering",
+      "url": "https://www.satisfice.com/blog/archives/488069",
+      "publishedAt": "2026-09-23T05:39:31.000Z",
+      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
+      "titleJa": "責任あるQuality Engineering（品質エンジニアリング）とは",
+      "summaryJa": "Quality Engineeringは単なるテストではなく、開発者が実施する品質活動全体を指し、テスターはその過程で製品品質の分析とデベロッパーへのフィードバック提供をサポートする役割を担うことを説明。多くの「Quality Engineer」が実際には質的エンジニアリングを実行していない現状を指摘し、責任ある品質エンジニアリングの本質を再定義している。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "The Perfect Job For Me",
+      "url": "https://www.satisfice.com/blog/archives/488204",
+      "publishedAt": "2026-09-23T03:36:07.000Z",
+      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
+      "titleJa": "大規模企業における私の理想的な職務：AI統制と品質保証",
+      "summaryJa": "大規模企業がAIを効果的に活用しながらコントロール下に置き、収益性の維持と競争力強化、重大な法的・技術的リスクの回避を実現するために必要な職務について論じている。AIの発展段階や市場動向に関わらず、すべての大規模企業が直面する根本的な課題に対応する役割の重要性を強調。"
     },
     {
       "category": "QA",
