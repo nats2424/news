@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-07T03:06:33.393Z",
+  "updatedAt": "2026-10-07T12:13:36.180Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Der Kobra-Effekt in der KI-Transformation: So misst du den Erfolg deiner KI-Strategie, ohne den Fehler zu wiederholen, an dem schon Agile-Transformationen gescheitert sind",
+      "url": "https://www.scrum.org/resources/blog/der-kobra-effekt-der-ki-transformation-so-misst-du-den-erfolg-deiner-ki-strategie-ohne-den-fehler-zu-wiederholen-dem-schon-agile-transformationen-gescheitert-sind",
+      "publishedAt": "2026-10-07T06:00:00.000Z",
+      "excerpt": "Seit Jahresbeginn begleite ich ein Unternehmen bei der Einführung von KI. Wie du dir denken kannst, dreht sich ein großer Teil meiner Arbeit um eine Frage: Woran lässt sich der Erfolg der KI-Transformationen festmachen? Die Antworten ließen mich aufhorchen: „Jeder Mitarbeiter nutzt in der täglichen Arbeit KI.“ „KI-Tools liefern 95 % Genauigkeit bei allen Ergebnissen.“ „Die Tokennutzung in der Entwicklung steigt um 25 %.“ Moment mal, diese Sätze kenne ich doch schon: „Alle Teams arbeiten nach Scrum.“ „95 % der geplanten User-Stories wurden umgesetzt.“ „Entwicklerteams liefern 25 % mehr Velocity",
+      "titleJa": "AI変革のコブラ効果：アジャイル失敗の轍を踏まないAI戦略の成功測定法",
+      "summaryJa": "AI導入の成功指標をめぐり、トークン使用量やツール精度といった数値目標が重視される傾向が見られます。本記事では、アジャイル変革で失敗した指標の落とし穴（コブラ効果）がAI戦略でも繰り返される危険性を指摘し、真の成功測定のあり方を考察しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -130,16 +140,6 @@
       "excerpt": "Listen now (37 mins) | Tibo Sottiaux on why Dots is OpenAI’s biggest bet, why agents will dominate internet traffic, and what builders are still getting wrong",
       "titleJa": "OpenAI ChatGPT責任者が語る、AI新時代の到来",
       "summaryJa": "OpenAIのChatGPT責任者Tibo Sottiaux氏が、Dotsプロジェクトの重要性、AIエージェントがインターネットトラフィックを支配する理由、プロダクトビルダーが見落としている点について解説します。AI分野の最新動向と将来展望について語られています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Outcome-Based Leadership in Project Management: Measuring What Really Matters",
-      "url": "https://www.scrum.org/resources/blog/outcome-based-leadership-project-management-measuring-what-really-matters",
-      "publishedAt": "2026-10-04T11:35:53.000Z",
-      "excerpt": "Image The Context I once led a software development program with more than 100 developers and several project managers. The projects were strategically important for the company, and expectations from upper leadership were high. Officially, the organization was working with Scrum. In practice, however, the organization was following a waterfall approach. Upper leadership was not satisfied with the program's performance. Project managers were also under increasing pressure to improve their individual performance. My mission was clear: get the program back on track and help the project managers ",
-      "titleJa": "プロジェクト管理における結果ベースのリーダーシップ：本当に重要なメトリクスを測定する",
-      "summaryJa": "100人以上の開発者とスクラムマスターを抱えるソフトウェア開発プログラムで、形式的にはScrum導入されていながら実運用ではウォーターフォール的になっていた課題に直面した経験を基に、プロジェクト管理における成果ベースのリーダーシップの重要性と実装方法を解説します。"
     },
     {
       "category": "QA",
