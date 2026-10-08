@@ -1,16 +1,6 @@
 {
-  "updatedAt": "2026-10-08T12:24:04.838Z",
+  "updatedAt": "2026-10-08T22:36:35.459Z",
   "items": [
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "PMO operating models (and how to choose)",
-      "url": "https://rebelsguidetopm.com/pmo-operating-models/",
-      "publishedAt": "2026-10-08T08:35:44.000Z",
-      "excerpt": "How does your PMO work? As a Project Management Office leader, or someone setting up a PMO, you need to know where the PMO sits in the company, how it’s organized, and what services it offers. This is your operating model. An operating model is different from your staffing model (you could have full-time, part-time or a fractional PMO team). And it’s different from maturity level, which is more about how good your capabilities are. A centralized PMO can be immature; a federated PMO can be highly capable. So what we’re talking about here is how you are setting up your PMO. Your operating model ",
-      "titleJa": "PMOの運営モデルと選択方法",
-      "summaryJa": "プロジェクト管理オフィス（PMO）のリーダーは、企業内でのPMOの位置づけ、組織構造、提供サービスなど運営モデルを明確にする必要がある。運営モデルはスタッフモデルや成熟度レベルとは異なり、PMOをどのように構成・設計するかという根本的な問題である。"
-    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -110,16 +100,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "How I AI：8つの実践的ユースケースとOpenAIのChatGPT Sites活用事例",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、実際のAI活用事例8件とDevDayで発表されたOpenAIの最新動向、Claire氏によるイベント総括を紹介する週刊エピソード。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to manage projects over Christmas: A year-end guide",
-      "url": "https://rebelsguidetopm.com/manage-projects-over-christmas/",
-      "publishedAt": "2026-10-05T14:53:36.000Z",
-      "excerpt": "Are you gearing up for the holidays? There’s a lot to do as we count down to the end of the year! For me in the UK, it’s a Christmas break that I’m looking forward to, but the tips below work for whatever festivity or holiday project planning you are gearing up for as a team. I’ve been caught out a couple of times (change freeze, anyone?) so in this article I’m sharing my tips for how to manage your work over the festive season. Christmas creates a temporary change to the operating environment of your project. People are away. Decisions take longer. Financial deadlines move forward. Steering m",
-      "titleJa": "クリスマス期間のプロジェクト管理：年末対策ガイド",
-      "summaryJa": "年末年始のプロジェクト管理では、人員不足や意思決定の遅延、財務期限の前倒しなど特有の課題が発生。チェンジフリーズを含めた具体的な対策と、年末年始を乗り切るマネジメント手法を紹介する。"
     },
     {
       "category": "QA",
@@ -262,16 +242,6 @@
       "summaryJa": "クラウドデバイスファームによる実デバイステストの導入は容易だが、実際の運用では課題が生じることがある。Nick Metcalfeが、AI エージェントのテスト結果と実デバイスでの検証結果のギャップについて解説する。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Your newest team member won’t show up to stand-up: How project managers become agent bosses",
-      "url": "https://rebelsguidetopm.com/agent-bosses/",
-      "publishedAt": "2026-09-29T08:51:07.000Z",
-      "excerpt": "Project managers have been doing the job of the future for decades. Think about what you actually do all day. You don't personally write the code, design the screens, or draft the contracts. You get the right people pointed at the right work, with the right information, at the right time. And then you make sure what comes back is good enough to deliver. That's orchestration. One small thing is different now - some of the \"people\" you're orchestrating aren't people any more. The team roster just got longer Sasha Thackaberry-Voinovich, Ph.D AI agents have moved out of the demo and into the workf",
-      "titleJa": "最新のチームメンバーがスタンドアップに現れない：プロジェクトマネージャーがエージェントボスへ",
-      "summaryJa": "プロジェクトマネージャーは数十年前から未来の仕事をしてきた。コード実装や画面設計ではなく、適切な人材を適切なタスクに適切な情報とともに指示する「オーケストレーション」が本質である。今、この仕事に変化が起きている。チームに加わる「メンバー」がAIエージェントを含むようになり、チームの構成が拡大している。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "Agile's Real Opponent Was Never Waterfall",
@@ -310,16 +280,6 @@
       "excerpt": "The latest episode of the Vernon Richard Show, New QA Job? How We'd Decide Where To Start, answers this question from a listener, Shady: When joining a new organisation, how do you decide which QA domino piece to tackle first for the rest to easily fall into place? For example, you might find flaky test automation, poor testability in user stories, no integration tests, limited test management tools, missing test data, and an ever growing regression suite. With so many improvement opportunities, how do you prioritise what to fix first? As usual the conversation ranged freely and I've picked ou",
       "titleJa": "新しい組織でのQA改善、何から始めるべきか",
       "summaryJa": "新しい組織に参加した際、フレークなテスト自動化、テスト管理ツールの不足、リグレッション スイートの肥大化など、複数の改善機会がある中で、どの問題を優先して取り組むべきかについて、意思決定のアプローチと優先順位付けの考え方を探る。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to communicate the value of your PMO",
-      "url": "https://rebelsguidetopm.com/communicate-the-value-of-pmo/",
-      "publishedAt": "2026-09-24T11:14:17.000Z",
-      "excerpt": "When I started out in project management I remember clearly being told that the lifecycle of a PMO was 7 years. It’s often seen as overhead, and certainly I’ve known organizations where the PMO team was caught in reshuffles and redundancies in a way that other teams were not. At least, getting people to believe that the Project Management Office adds value is tricky until something goes wrong, and by then it's too late to build credibility and magic up a PMO when the company has underinvested in it from the start. And if your PMO is only reporting management activity (like number of reports pr",
-      "titleJa": "PMOの価値をステークホルダーに伝える方法",
-      "summaryJa": "PMO（プロジェクトマネジメントオフィス）は往々にして組織内でオーバーヘッドと見なされ、危機が発生してからでは信頼を構築できません。PMOの価値を理解してもらうには、単なる管理活動の報告ではなく、組織への貢献を明確に可視化・伝達することが重要です。"
     },
     {
       "category": "QA",
