@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-08T03:22:30.974Z",
+  "updatedAt": "2026-10-08T12:24:04.838Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "PMO operating models (and how to choose)",
+      "url": "https://rebelsguidetopm.com/pmo-operating-models/",
+      "publishedAt": "2026-10-08T08:35:44.000Z",
+      "excerpt": "How does your PMO work? As a Project Management Office leader, or someone setting up a PMO, you need to know where the PMO sits in the company, how it’s organized, and what services it offers. This is your operating model. An operating model is different from your staffing model (you could have full-time, part-time or a fractional PMO team). And it’s different from maturity level, which is more about how good your capabilities are. A centralized PMO can be immature; a federated PMO can be highly capable. So what we’re talking about here is how you are setting up your PMO. Your operating model ",
+      "titleJa": "PMOの運営モデルと選択方法",
+      "summaryJa": "プロジェクト管理オフィス（PMO）のリーダーは、企業内でのPMOの位置づけ、組織構造、提供サービスなど運営モデルを明確にする必要がある。運営モデルはスタッフモデルや成熟度レベルとは異なり、PMOをどのように構成・設計するかという根本的な問題である。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The Customer Who Paid and Never Arrived",
+      "url": "https://www.productcoalition.com/p/the-customer-who-paid-and-never-arrived",
+      "publishedAt": "2026-10-08T08:00:34.000Z",
+      "excerpt": "Acquisition buys the signature. Activation decides whether that revenue was ever real.",
+      "titleJa": "支払ったのに現れなかった顧客",
+      "summaryJa": "アクイジション（新規顧客獲得）は契約署名までを担当し、その後のアクティベーション（顧客定着）が実際の収益が創出されたかどうかを判断する重要なプロセスであることを示唆している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -182,6 +202,16 @@
       "summaryJa": "Vistaly は機会解決ツリーをAIに活用させることで製品全体を再構築しました。インタビュー合成、評価ループ、修正プロセスを組み合わせることで、従来のプロダクトマネジメント手法をAI化し、より効率的な機会発掘を実現した事例を紹介しています。"
     },
     {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Software Engineers Are Becoming More Like Lawyers",
+      "url": "https://www.satisfice.com/blog/archives/488216",
+      "publishedAt": "2026-10-01T09:10:19.000Z",
+      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
+      "titleJa": "ソフトウェアエンジニアが法律家のような役割を担うようになっている",
+      "summaryJa": "AIコーディングエージェントの体系的なテストに関するプロジェクトから、ソフトウェアエンジニアの職務が法的責任や厳密な検証を求める方向へシフトしていることが明らかになる。テスター出身者も含め、エンジニアには従来のコーディングスキル以上の多面的な能力が求められるようになっている。"
+    },
+    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "The Loan Nobody Wrote Down",
@@ -292,14 +322,24 @@
       "summaryJa": "PMO（プロジェクトマネジメントオフィス）は往々にして組織内でオーバーヘッドと見なされ、危機が発生してからでは信頼を構築できません。PMOの価値を理解してもらうには、単なる管理活動の報告ではなく、組織への貢献を明確に可視化・伝達することが重要です。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "Build or Buy Is Not a Technical Decision",
-      "url": "https://www.productcoalition.com/p/build-or-buy-is-not-a-technical-decision",
-      "publishedAt": "2026-09-24T08:01:42.000Z",
-      "excerpt": "The build case is argued in sprints, and the bill turns up later as headcount",
-      "titleJa": "ビルド vs バイは技術的判断ではない",
-      "summaryJa": "ビルド(内製)の判断はスプリント単位で議論されるが、実際のコストは後から人員配置として計上される。技術的側面だけでなく、経営・プロジェクト管理的な観点が重要であることを指摘している。"
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Responsible Quality Engineering",
+      "url": "https://www.satisfice.com/blog/archives/488069",
+      "publishedAt": "2026-09-23T05:39:31.000Z",
+      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
+      "titleJa": "責任あるクオリティエンジニアリング",
+      "summaryJa": "クオリティエンジニアリングはテストそのものではなく、テストを含む包括的なプロセスである。実際のクオリティエンジニアリングはデベロッパーが主導し、テスターは製品品質の分析とフィードバック提供でそれをサポートする役割を担うべきという考え方を説く。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "Satisfice (James Bach)",
+      "title": "The Perfect Job For Me",
+      "url": "https://www.satisfice.com/blog/archives/488204",
+      "publishedAt": "2026-09-23T03:36:07.000Z",
+      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
+      "titleJa": "私にとって理想的な仕事",
+      "summaryJa": "大企業がAIを活用しながらも制御を維持し、収益性を確保し競争力を保つためには、法的・技術的な重大リスクを回避する能力が重要である。AIの進化の行方に関わらず、これはあらゆる大規模企業にとって必須の課題として位置付けられている。"
     },
     {
       "category": "QA",
@@ -330,16 +370,6 @@
       "excerpt": "Continuous Discovery Habits* turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
       "titleJa": "第10章: 仮説の検証",
       "summaryJa": "「Continuous Discovery Habits」5周年を記念した共同読書会。毎月、該当章の詳細ガイドと重要コンセプト、動画コンテンツを提供。本章では仮説検証の手法を学ぶ。プロダクトディスカバリーの実践的スキル習得に最適な資料。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Gate reviews: What to do and why you need them",
-      "url": "https://rebelsguidetopm.com/gate-reviews-need-to-know/",
-      "publishedAt": "2026-09-17T07:47:11.000Z",
-      "excerpt": "Project governance is an important part of project management processes – even if it’s not the most exciting part of getting work done. As a project manager, part of your role is shepherding the work through the project lifecycle. That means moving it on from idea to done and keeping it all on track as you go. Governance is a key part of that, and gate reviews are part of navigating through the project. Gate reviews, or stage reviews are part of the PRINCE2® process, and also part of the UK Government's National Infrastructure and Service Transformation Authority (NISTA) Project assurance revi",
-      "titleJa": "ゲートレビュー：実施方法と必要性",
-      "summaryJa": "プロジェクトガバナンスはプロジェクトマネジメントにおいて重要な要素であり、ゲートレビュー（ステージレビュー）はPRINCE2プロセスの一部として機能します。プロジェクトマネージャーはゲートレビューを通じてプロジェクトを適切に進行管理し、リスク認識と品質維持を実現する必要があります。"
     }
   ]
 }
