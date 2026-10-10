@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-10T11:31:01.476Z",
+  "updatedAt": "2026-10-10T16:31:06.976Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
+      "publishedAt": "2026-10-10T13:01:38.000Z",
+      "excerpt": "Community Wisdom 301",
+      "titleJa": "コミュニティの知恵：2026年夏クラストップ貢献者たちが語るML推薦システム、職を失った後のプロダクト復帰、サイドプロジェクト終了の判断ほか",
+      "summaryJa": "Lennyのニュースレター「Community Wisdom 301」から、コミュニティの有識者たちが実践的な知見を共有。機械学習による推薦システムの実装、キャリアの再構築、サイドプロジェクトの継続判断など、プロダクトマネジャーが直面する現実的な課題への対処法を紹介している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -220,16 +230,6 @@
       "excerpt": "Technical debt is borrowing, and the terms get agreed long after the money is spent",
       "titleJa": "記録されない負債：テクニカルデット問題の本質",
       "summaryJa": "テクニカルデットは借金と同じであり、実際にコストが発生してからはじめて返済条件が決まるという矛盾を指摘。目に見えないツケが長期的にプロジェクトに及ぼす影響について論じています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "OpenAI Dev Day 2026: The releases that actually matter",
-      "url": "https://www.lennysnewsletter.com/p/openai-dev-day-2026-the-releases",
-      "publishedAt": "2026-09-30T14:45:15.000Z",
-      "excerpt": "Watch now (24 mins) | 🎙️ Claire tests OpenAI’s DevDay releases, from Dots, Spaces, and Sites to AI-picked thumbnails and a $97 game, and shares what’s worth trying first",
-      "titleJa": "OpenAI Dev Day 2026：実際に価値のある新機能",
-      "summaryJa": "OpenAIのDev Dayで発表された新機能をレビューしています。Dots、Spaces、SitesといったツールやAI搭載のサムネイル選択機能、$97ゲームなどの実用性を検証し、ユーザーが最初に試すべき機能を紹介しています。"
     },
     {
       "category": "QA",
