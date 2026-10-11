@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-11T11:44:28.465Z",
+  "updatedAt": "2026-10-11T16:55:53.004Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "To Switch, or Not to Switch the AI Model",
+      "url": "https://www.scrum.org/resources/blog/switch-or-not-switch-ai-model",
+      "publishedAt": "2026-10-11T14:22:58.000Z",
+      "excerpt": "TL;DR: The Hidden Cost of Switching AI Models A new AI model arrives that is cheaper per token, scores better on benchmarks, and seems to require nothing more than a setting change. However, the token bill shows only part of the cost of switching AI models. There is also the effort to check whether your workflows, for example, the one to create status reports for stakeholders, still produce outputs in line with your AI Definition of Done. More often than not, this task remains unaligned with the decision to switch AI models. In the worst case, switching AI models behind a business workflow can",
+      "titleJa": "AIモデルの切り替え判断と隠れたコスト",
+      "summaryJa": "より安価で高性能な新しいAIモデルへの切り替えには、トークンコスト以外の隠れたコストが存在します。ワークフローの動作確認やAIの Definition of Done との整合性検証など、AI Definition of Done との一貫性を確保するための検証作業が必要であり、この検討が切り替え決定と連携していないことが多いです。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
+      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
+      "publishedAt": "2026-10-11T12:31:59.000Z",
+      "excerpt": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
+      "titleJa": "企業はなぜラボチームのように思考・運用する必要があるのか",
+      "summaryJa": "Google LabsのJosh Woodward氏が、優れたアイデアがどこから生まれるのか、いつそれを中止すべきかを判断する方法、そして毎週可能性が変わる世界での構築方法について語ります。組織がイノベーションを推進する際に実験的なマインドセットを持つことの重要性を解説します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +100,6 @@
       "excerpt": "About This Episode: Performance testing has never been easier to start, or more important to get right. As teams ship […]",
       "titleJa": "LocustとAzure Load Testing：AIを活用したロードテストの作成とデバッグ",
       "summaryJa": "パフォーマンステストの実施方法と重要性について、Lars HolmbergとAbhinav Premsekharが解説するエピソード。AIを活用した負荷テストの作成およびデバッグ手法を紹介し、チームがテストを効果的に実装するための実践的なアプローチを提供します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Role of Agency in Scrum: Why Self-Management Without Agency is a Lie",
-      "url": "https://www.scrum.org/resources/blog/role-agency-scrum-why-self-management-without-agency-lie",
-      "publishedAt": "2026-10-06T14:00:00.000Z",
-      "excerpt": "Originally published on Engineering Leadership. Scrum is often misunderstood as a set of ceremonies or a lightweight project management method. It is neither. Scrum is a social technology built around the ethos of Agile, enabling teams to deliver adaptive solutions in complex environments. At its core lies a fundamental, non-negotiable requirement: self-management. But self-management is not simply a label you apply to teams. It demands something deeper and harder: real agency. Without agency, Scrum collapses into shallow ritual. Without agency, accountability is performative, not real. Withou",
-      "titleJa": "Scrumにおけるエージェンシー：セルフマネジメントなき権限委譲の限界",
-      "summaryJa": "Scrumの本質はセレモニーや軽量なプロジェクト管理手法ではなく、実質的なエージェンシー（主体性と権限）に基づいた社会技術であることを主張。エージェンシーなしではセルフマネジメントは形式的となり、真の説明責任と適応的なソリューション提供が実現できないと指摘します。"
     },
     {
       "category": "PdM",
@@ -180,16 +190,6 @@
       "excerpt": "Maaret Pyhäjärvi gave a talk, Exploratory Testing Reimagined, last week. There's a blog post to go with it, so I won't say much on top of what's in my sketchnotes above, just pull out a few reflections. I don't have the data or wide range of experience reports that Maaret does, but my own anecdotal results from using AI tools for testing align closely with what she says in the talk. I have created skills to assist me, and my colleagues, in our testing work. For example, I used the contents of this blog and five years of test notes in my current role to distil a conversational workflow, facilit",
       "titleJa": "エクスプロラトリーテスティングの再構想",
       "summaryJa": "Maaret Pyhäjärviのトークに基づいた記事で、AIツールを活用したテスト業務の改善について紹介しています。筆者が実際に使用したAIスキルの事例と、5年間のテストノートを活用した実践的なワークフロー構築の経験が述べられています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Getting value from personal AI agents without handing over your inbox, the ego threat of going from IC to manager, uncommon perks to negotiate for, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-getting-value-from",
-      "publishedAt": "2026-10-03T17:00:49.000Z",
-      "excerpt": "Community Wisdom 301",
-      "titleJa": "コミュニティの知見：個人用AIエージェント活用、ICからマネージャーへのキャリア転換、交渉すべき珍しい福利厚生など",
-      "summaryJa": "個人AIエージェントを効果的に活用しながらプライバシーを保つ方法、個別貢献者からマネージャーへのキャリア転換に伴う課題、一般的でない福利厚生の交渉戦略など、プロダクトマネージャーやリーダーシップ領域における実践的な知見が共有されている。"
     },
     {
       "category": "PdM",
