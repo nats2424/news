@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-11T02:39:47.888Z",
+  "updatedAt": "2026-10-11T11:44:28.465Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "SAFe Didn't Scale Agile. It Scaled Bureaucracy.",
+      "url": "https://www.scrum.org/resources/blog/safe-didnt-scale-agile-it-scaled-bureaucracy",
+      "publishedAt": "2026-10-11T06:00:00.000Z",
+      "excerpt": "Image Gary Hamel spent decades asking why large organizations become rigid, slow, and hard to work inside. His diagnosis is simple: bureaucracy is not a symptom of poor management. It is a design, and its purpose is control, not the creation of value. I have been watching this design operate inside enterprise product teams since 2010, and one of its most successful recent forms wears an Agile badge. The teams that struggle most are rarely short of process. They have Release Train Engineers, quarterly PI Planning, Portfolio SAFe layers, and Agile coaches in numbers that would surprise most star",
+      "titleJa": "SAFeはアジャイルをスケールさせず、官僚制度をスケールさせた",
+      "summaryJa": "大規模組織が硬直し非効率になる原因は官僚制度にあり、それは管理不全ではなく意図的な設計である。SAFeはアジャイルのバッジを纏いながらも、この官僚的な設計を拡大させ、本来のアジャイルの価値創造を阻害しているという指摘。企業のプロダクトチームが直面する問題は、プロセスの不足ではなく過剰にある。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -150,16 +160,6 @@
       "excerpt": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
       "titleJa": "ChatGPT Sitesの実装活用法｜OpenAI DevDayライブデモ",
       "summaryJa": "OpenAI DevDayでChatGPT Sitesのライブデモンストレーションが行われ、SlackやNotion、カレンダーデータをチーム向けの内部ツールに変換する方法が紹介されました。各チームメンバーに適応するカスタマイズ機能が特徴です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum Day India 2026 Recap: Scrum Teams in the Age of Autonomous Agents",
-      "url": "https://www.scrum.org/resources/blog/scrum-day-india-2026-recap-scrum-teams-age-autonomous-agents",
-      "publishedAt": "2026-10-05T09:29:36.000Z",
-      "excerpt": "Image On Saturday, 26 September 2026, Scrum practitioners gathered at To The New in Sector 144, Noida, for Scrum Day India 2026. The theme was Scrum Teams in the Age of Autonomous Agents. For the last two years, most conversations about AI in Scrum have been about assistance: a better first draft of a user story, a faster summary of a Sprint Review. This year's sessions started from a different place. Agents now pick up Product Backlog items, run checks, and produce Increments alongside the humans on the team. So the question was not whether Scrum still works. It was what Scrum Masters, Produc",
-      "titleJa": "Scrum Day India 2026：自律型エージェント時代のスクラムチーム",
-      "summaryJa": "Scrum Day India 2026ではスクラムチームが自律型エージェントと協働する時代への対応が主題となりました。従来のAI補助ではなく、エージェントがプロダクトバックログアイテムを処理し、インクリメント生産に参加する段階へ進化し、スクラムマスターとプロダクトオーナーの役割再定義が課題とされています。"
     },
     {
       "category": "PdM",
