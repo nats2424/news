@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-12T13:46:38.477Z",
+  "updatedAt": "2026-10-12T23:54:39.599Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "The Enchanted Hammer",
+      "url": "https://qahiccupps.blogspot.com/2026/10/the-enchanted-hammer.html",
+      "publishedAt": "2026-10-12T19:29:47.000Z",
+      "excerpt": "attributes this version to Maslow: I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail. Which is insightful, but it belongs to a simpler, slower era. No, today the problem is that we don't have to bother, and many of us don't. I suppose it is tempting, if you have an enchanted hammer, to treat everything as if it were a who-cares-just-hit-it-for-me. Image: Geronimo Giqueaux on Unsplash",
+      "titleJa": "魔法のハンマー：ツール思考の落とし穴",
+      "summaryJa": "マズローの言葉「ハンマーしか持っていなければ、すべてを釘に見える」を引用しながら、現代ではより自動化・効率化に頼りすぎて思考停止に陥るリスクについて論じています。QA業務においても、ツールの便利さに甘えて問題の本質を見失わないことの重要性を指摘しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Silicon Valley Product Group",
+      "title": "Predictability vs Outcomes",
+      "url": "https://www.svpg.com/predictability-vs-outcomes/",
+      "publishedAt": "2026-10-12T15:24:29.000Z",
+      "excerpt": "I was first taught about the importance of outcome over output way back when I was an engineer getting coached to become a tech lead, and I was explicitly told that it was no longer enough to just build and ship, I had to make sure the solution actually solves the underlying problem. I have... The post Predictability vs Outcomes appeared first on Silicon Valley Product Group.",
+      "titleJa": "予測可能性 vs 実際の成果：エンジニアからテックリードへの転換",
+      "summaryJa": "単なるアウトプット（成果物の納品）ではなく、アウトカム（実際に問題を解決できたか）の重要性について、エンジニアがテックリードにキャリアアップする過程での学びをもとに解説しています。プロダクト開発においては、本当に価値のある結果を生み出すことが求められるという点を強調しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
+      "publishedAt": "2026-10-12T15:00:38.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "AI活用インタビュー：MetaのMuseをAlex Cornellと語る",
+      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズ内で、MetaのAIプロダクト「Muse」の設計プロセスについて、Alex Cornellをゲストに招いてディスカッションするポッドキャストエピソードです。AI時代のプロダクト戦略や設計思想に関する実践的な知見が共有されています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -180,16 +210,6 @@
       "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Nimit Khandelwal and Chris Kennelly On large software projects, even seemingly trivial choices can set assumptions that the codebase naturally evolves around, making them incredibly expensive to fix later. To help achieve decision velocity without accumulating technica",
       "titleJa": "リバーシブルな決定：コード設計で取り返しのつかない選択を避ける",
       "summaryJa": "大規模ソフトウェアプロジェクトでは、一見些細な決定がコードベースに深く影響し、後で修正するのに莫大なコストがかかる。決定の速度を損なわずに技術負債を避けるための方法論を、Googleの実践例から解説している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How OpenAI uses ChatGPT Sites (live at DevDay!) | Kath Korevec (Product Lead)",
-      "url": "https://www.lennysnewsletter.com/p/how-openai-uses-chatgpt-sites-live",
-      "publishedAt": "2026-10-05T12:04:54.000Z",
-      "excerpt": "Watch now (36 mins) | 🎙️ Kath Korevec demos ChatGPT Sites live at OpenAI DevDay, showing how to turn Slack, Notion, and calendar data into internal tools that adapt to each person on your team",
-      "titleJa": "ChatGPT Sitesの実装活用法｜OpenAI DevDayライブデモ",
-      "summaryJa": "OpenAI DevDayでChatGPT Sitesのライブデモンストレーションが行われ、SlackやNotion、カレンダーデータをチーム向けの内部ツールに変換する方法が紹介されました。各チームメンバーに適応するカスタマイズ機能が特徴です。"
     },
     {
       "category": "QA",
