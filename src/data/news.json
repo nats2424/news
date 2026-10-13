@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-13T13:05:37.611Z",
+  "updatedAt": "2026-10-13T22:02:53.600Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Sprint Review isn't inspection. It's theatre.",
+      "url": "https://www.scrum.org/resources/blog/your-sprint-review-isnt-inspection-its-theatre-0",
+      "publishedAt": "2026-10-13T22:00:00.000Z",
+      "excerpt": "Image The demo works. The feature does exactly what the slide said it would. Someone says \"nice.\" A couple of people do the little typing-clap in the chat. \"Any questions?\" A pause, the good kind, the kind that means we're done. \"Great, thanks everyone.\" And the review is over. Notice what didn't happen. Nobody looked at the thing that's three weeks behind. Nobody mentioned the integration that's holding together with tape. The risk everyone's privately worried about didn't come up, because this wasn't the room for it. Something was shown. Nothing was inspected. That's the quiet swap at the he",
+      "titleJa": "スプリントレビューは検査ではなくショーになっている",
+      "summaryJa": "スプリントレビューが単なるデモンストレーションに終わり、実質的な検査が行われていない問題を指摘。期限遅延や統合の課題、チーム内で懸念されているリスクなど、実際の問題が検討されないまま形式的に終了している状況を批判している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -160,16 +170,6 @@
       "excerpt": "Acquisition buys the signature. Activation decides whether that revenue was ever real.",
       "titleJa": "支払ったのに現れなかった顧客",
       "summaryJa": "アクイジション（新規顧客獲得）は契約署名までを担当し、その後のアクティベーション（顧客定着）が実際の収益が創出されたかどうかを判断する重要なプロセスであることを示唆している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "📺 How to Catch AI Delegation Drift Before Your Board Does",
-      "url": "https://www.scrum.org/resources/blog/how-catch-ai-delegation-drift-your-board-does",
-      "publishedAt": "2026-10-07T14:15:54.000Z",
-      "excerpt": "TL;DR: The AI Delegation Audit Webinar Recording When AI-assisted output still looks fine, it is tempting to conclude the delegation is fine. In my October 6 webinar with Scrum.org on the AI Delegation Audit, I walked through a fictional case in which that belief held for months, then fell apart in a board meeting, and showed the check that would have caught it. Image Thesis: The AI Delegation Audit is a 45- to 60-minute review in the A3 Delegation System, run like a Sprint Retrospective, that checks whether a team’s AI delegations still hold; the post explains its four checks with a fictional",
-      "titleJa": "AIタスク委譲のドリフトを取締役会に指摘される前に検出する方法",
-      "summaryJa": "AI支援による出力が一見問題なさそうに見える場合、委譲が機能していると判断しやすい。スプリントレトロスペクティブのように実施するA3デリゲーションシステム内の「AI委譲監査」は、45～60分間のレビューで、チームのAI委譲がまだ有効かどうかを確認する4つのチェック項目で構成されている。"
     },
     {
       "category": "QA",
@@ -380,16 +380,6 @@
       "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
       "titleJa": "私にとって理想的な仕事",
       "summaryJa": "大企業がAIを活用しながらも制御を維持し、収益性を確保し競争力を保つためには、法的・技術的な重大リスクを回避する能力が重要である。AIの進化の行方に関わらず、これはあらゆる大規模企業にとって必須の課題として位置付けられている。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "AI Testing Reality Check: What 13 Founders Refuse to Automate with Joe Colantonio",
-      "url": "https://testguild.com/podcast/a605-joe/",
-      "publishedAt": "2026-09-22T21:00:32.000Z",
-      "excerpt": "About This Episode: I asked thirteen people inside AI testing one question: can AI test your software for you? Founders, […]",
-      "titleJa": "AI テスティングの現実：13人の創業者が自動化を拒むもの",
-      "summaryJa": "QA/テスティング分野のAI活用について、13人の起業家に「AIは本当にソフトウェアテストを自動化できるのか」という質問を投げかけた調査。AIテスティングツールの実際の限界と、人間にしかできないテスト領域を浮き彫りにする内容。"
     }
   ]
 }
