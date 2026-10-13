@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-13T04:19:12.361Z",
+  "updatedAt": "2026-10-13T13:05:37.611Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Training Expectations - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/training-expectations-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-10-13T13:00:18.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got twelve people and one hour booked at next week's offsite. Can someone teach your team to do continuous discovery in that hour? Teresa Torres's answer is a flat no — and this episode is",
+      "titleJa": "継続的ディスカバリーの期待値管理",
+      "summaryJa": "All Things Product Podcastの配信エピソード。Teresa TorresとPetra Willeが、限定的な時間枠内でのチーム教育と継続的ディスカバリーの現実的な実装について議論しており、プロダクトマネージャーの育成と組織文化の課題に焦点を当てています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How to tell if a startup has a moat",
+      "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
+      "publishedAt": "2026-10-13T12:45:41.000Z",
+      "excerpt": "A framework for assessing whether the company you’re considering joining is built to last",
+      "titleJa": "スタートアップの競争優位性を見極める方法",
+      "summaryJa": "参加を検討しているスタートアップが長期的に成功するために必要な競争優位性(モート)を評価するためのフレームワークを紹介。企業の組織文化や戦略がいかに持続可能かを判断するための実践的なガイドです。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "Nobody Told the Agent There Was a Floor",
+      "url": "https://www.productcoalition.com/p/nobody-told-the-agent-there-was-a",
+      "publishedAt": "2026-10-13T08:01:20.000Z",
+      "excerpt": "From experiment results to models to agents that write to business systems",
+      "titleJa": "AIエージェントが見落とした制約条件",
+      "summaryJa": "実験結果からモデル、そしてビジネスシステムに直接書き込むAIエージェントへの進化について論じた記事。AIの能力と実際の運用上の制約とのギャップを指摘し、より実用的なエージェント開発のアプローチを提示しています。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -182,16 +212,6 @@
       "summaryJa": "AI テスト実行の高速化と低コスト化のどちらを優先すべきか、WebdriverIOスイートの活用方法などを検討。AIテスト導入時に信頼性を確保するための重要な質問項目を紹介している。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: 8 real Jev use cases + How OpenAI uses ChatGPT Sites (live at DevDay!) + Claire’s DevDay recap",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-8-real-jev-use-cases-how",
-      "publishedAt": "2026-10-05T15:03:24.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "How I AI：8つの実践的ユースケースとOpenAIのChatGPT Sites活用事例",
-      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズで、実際のAI活用事例8件とDevDayで発表されたOpenAIの最新動向、Claire氏によるイベント総括を紹介する週刊エピソード。"
-    },
-    {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "How to manage projects over Christmas: A year-end guide",
@@ -302,16 +322,6 @@
       "summaryJa": "プロジェクトマネージャーの役割がAIエージェントの登場により変容しようとしている。従来のPMは適切な人材を適切な仕事に配置する調整役を担ってきたが、チームメンバーが人間でなくなる新しい現実に対応する必要が生じた。AIエージェントをチーム構成員として統合するPMの新しい課題に直面している。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "Agile's Real Opponent Was Never Waterfall",
-      "url": "https://www.productcoalition.com/p/agiles-real-opponent-was-never-waterfall",
-      "publishedAt": "2026-09-29T08:01:18.000Z",
-      "excerpt": "Nine years of Product Coalition writing keep landing on the same obstacle, and no framework removes it",
-      "titleJa": "Agileの本当の課題はウォーターフォールではなかった",
-      "summaryJa": "Product Coalitionの9年間の執筆活動を通じて、Agile導入の際に繰り返し現れる根本的な障害が明らかになっている。この課題はどのフレームワークでも解決できない本質的な問題であり、単なる開発手法の違いではなく、組織文化や運用の側面にあることが指摘されている。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Playwright MCP vs CLI, Mutation Testing and AI Agents Flying Blind TGNS196",
@@ -380,16 +390,6 @@
       "excerpt": "About This Episode: I asked thirteen people inside AI testing one question: can AI test your software for you? Founders, […]",
       "titleJa": "AI テスティングの現実：13人の創業者が自動化を拒むもの",
       "summaryJa": "QA/テスティング分野のAI活用について、13人の起業家に「AIは本当にソフトウェアテストを自動化できるのか」という質問を投げかけた調査。AIテスティングツールの実際の限界と、人間にしかできないテスト領域を浮き彫りにする内容。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Trash Can Tracking - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/trash-can-tracking-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-09-22T13:00:04.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What if the ideas you throw away tell you more about the health of your product process than the ones you ship? In this episode of All Things Product, Petra Wille introduces trash can tracking — a deceptively simple technique for making",
-      "titleJa": "ゴミ箱追跡法：製品開発プロセスの健全性を測る",
-      "summaryJa": "All Things Productポッドキャストで、Petra Willeが「ゴミ箱追跡」というシンプルながら強力なテクニックを紹介。リリースされなかったアイデアこそが製品プロセスの健全性をより正確に反映することを示唆しています。"
     }
   ]
 }
