@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T02:30:35.525Z",
+  "updatedAt": "2026-10-14T10:46:52.828Z",
   "items": [
     {
       "category": "PjM",
@@ -360,26 +360,6 @@
       "excerpt": "When I started out in project management I remember clearly being told that the lifecycle of a PMO was 7 years. It’s often seen as overhead, and certainly I’ve known organizations where the PMO team was caught in reshuffles and redundancies in a way that other teams were not. At least, getting people to believe that the Project Management Office adds value is tricky until something goes wrong, and by then it's too late to build credibility and magic up a PMO when the company has underinvested in it from the start. And if your PMO is only reporting management activity (like number of reports pr",
       "titleJa": "PMOの価値をステークホルダーに伝える方法",
       "summaryJa": "プロジェクトマネジメントオフィス(PMO)は一般にオーバーヘッドと見なされやすく、組織内での信用構築が困難である。PMOの価値を事前に示さないと、経営層の過小投資につながり、危機的状況では信頼を取り戻す時間がない。管理活動の報告だけでなく、PMOが組織にもたらす実質的な価値を効果的に伝える必要がある。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Responsible Quality Engineering",
-      "url": "https://www.satisfice.com/blog/archives/488069",
-      "publishedAt": "2026-09-23T05:39:31.000Z",
-      "excerpt": "Let’s talk about responsible quality engineering (RQE). Quality engineering is not testing, although it may require testing. Also, most “quality engineers” don’t do quality engineering. The people who do quality engineering are developers. Testers support that process by analyzing the quality of the product and providing feedback to developers as part of the quality engineering […]",
-      "titleJa": "責任あるクオリティエンジニアリング",
-      "summaryJa": "クオリティエンジニアリングはテストそのものではなく、テストを含む包括的なプロセスである。実際のクオリティエンジニアリングはデベロッパーが主導し、テスターは製品品質の分析とフィードバック提供でそれをサポートする役割を担うべきという考え方を説く。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "The Perfect Job For Me",
-      "url": "https://www.satisfice.com/blog/archives/488204",
-      "publishedAt": "2026-09-23T03:36:07.000Z",
-      "excerpt": "Consider a large company that wants to make the best use of AI, while maintaining control over it, so that it can run itself profitably, compete effectively, and avoid disastrous legal or technical mistakes. Regardless of whether AI keeps getting better or plateaus, or whether the AI bubble pops sooner or later, every single large […]",
-      "titleJa": "私にとって理想的な仕事",
-      "summaryJa": "大企業がAIを活用しながらも制御を維持し、収益性を確保し競争力を保つためには、法的・技術的な重大リスクを回避する能力が重要である。AIの進化の行方に関わらず、これはあらゆる大規模企業にとって必須の課題として位置付けられている。"
     }
   ]
 }
