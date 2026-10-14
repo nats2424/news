@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-14T10:46:52.828Z",
+  "updatedAt": "2026-10-14T16:05:59.110Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The First 90 Days Field Guide For New Scrum Masters",
+      "url": "https://www.scrum.org/resources/blog/first-90-days-field-guide-new-scrum-masters",
+      "publishedAt": "2026-10-14T15:21:28.000Z",
+      "excerpt": "Discover the practical steps you need to take within your first 3 months on the job to confidently solidify your position in your Scrum Team. Image Imagine your company has recently asked you to take over the Scrum Master role within your Scrum Team, or maybe you've personally chosen to pursue a leadership position in your company after years of working as an implementer (like a developer, business analyst, QA, etc.). Then, obviously, you are at the beginning of your Scrum Mastery journey, which is a challenging adventure. So, most likely, you are experiencing these worries and fears: You feel",
+      "titleJa": "新任スクラムマスターのための最初の90日間ガイド",
+      "summaryJa": "スクラムマスター職に就いた初期3ヶ月間に実施すべき実践的なステップを解説。スクラムチーム内での立場を確実にするための具体的なアクションと、新しいリーダーシップポジションへの移行における課題や懸念への対処方法を提供。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
+      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
+      "publishedAt": "2026-10-14T12:04:05.000Z",
+      "excerpt": "Watch now (24 mins) | 🎙️Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
+      "titleJa": "Meta「Muse Wonder」モデル：AI エージェント向けには優れているがデザインには不向き",
+      "summaryJa": "Metaが発表したMuse Wonderのエージェンティック性能について、Claude Codeを使用して20近くのタスクでテストした結果をレポート。AIエージェント機能の実際の効果と制限について検証した内容。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -122,16 +142,6 @@
       "summaryJa": "Scrumの実装失敗の多くはフレームワーク理解ではなく、不適切な文脈での運用に起因。複数人での責任共有はスプリント進行を遅延させ、説明責任の明確性を損ないます。プロダクトオーナーの責任分散がこの罠の典型例として紹介されています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "To Switch, or Not to Switch the AI Model",
-      "url": "https://www.scrum.org/resources/blog/switch-or-not-switch-ai-model",
-      "publishedAt": "2026-10-11T14:22:58.000Z",
-      "excerpt": "TL;DR: The Hidden Cost of Switching AI Models A new AI model arrives that is cheaper per token, scores better on benchmarks, and seems to require nothing more than a setting change. However, the token bill shows only part of the cost of switching AI models. There is also the effort to check whether your workflows, for example, the one to create status reports for stakeholders, still produce outputs in line with your AI Definition of Done. More often than not, this task remains unaligned with the decision to switch AI models. In the worst case, switching AI models behind a business workflow can",
-      "titleJa": "AIモデルの切り替え判断と隠れたコスト",
-      "summaryJa": "より安価で高性能な新しいAIモデルへの切り替えには、トークンコスト以外の隠れたコストが存在します。ワークフローの動作確認やAIの Definition of Done との整合性検証など、AI Definition of Done との一貫性を確保するための検証作業が必要であり、この検討が切り替え決定と連携していないことが多いです。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
@@ -140,16 +150,6 @@
       "excerpt": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
       "titleJa": "企業はなぜラボチームのように思考・運用する必要があるのか",
       "summaryJa": "Google LabsのJosh Woodward氏が、優れたアイデアがどこから生まれるのか、いつそれを中止すべきかを判断する方法、そして毎週可能性が変わる世界での構築方法について語ります。組織がイノベーションを推進する際に実験的なマインドセットを持つことの重要性を解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Community Wisdom Top Contributors Summer Class 2026 + ML recommendation systems, getting back into product after being fired, deciding when to quit a side project, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-community-wisdom",
-      "publishedAt": "2026-10-10T13:01:38.000Z",
-      "excerpt": "Community Wisdom 301",
-      "titleJa": "コミュニティの知恵：2026年夏クラストップ貢献者たちが語るML推薦システム、職を失った後のプロダクト復帰、サイドプロジェクト終了の判断ほか",
-      "summaryJa": "Lennyのニュースレター「Community Wisdom 301」から、コミュニティの有識者たちが実践的な知見を共有。機械学習による推薦システムの実装、キャリアの再構築、サイドプロジェクトの継続判断など、プロダクトマネジャーが直面する現実的な課題への対処法を紹介している。"
     },
     {
       "category": "PjM",
