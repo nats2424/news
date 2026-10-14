@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-13T22:02:53.600Z",
+  "updatedAt": "2026-10-14T02:30:35.525Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum: Delivery Method or AI Governance?",
+      "url": "https://www.scrum.org/resources/blog/scrum-delivery-method-or-ai-governance",
+      "publishedAt": "2026-10-13T22:10:54.000Z",
+      "excerpt": "The same Scrum framework sits behind organisations that get real value from AI and those that don't. What separates them is where Scrum is placed in their operating model. For many organisations, Scrum is a delivery method inside a project: the business case fixes scope, budget, and the definition of success before the first Sprint starts, and the Scrum Team's job is to produce the agreed outputs faster. For those who reap genuine outcomes from AI, Scrum is how the organisation decides what to build next, tests whether the last investment worked, and settles when work is good enough to release",
+      "titleJa": "Scrumは納品手法か、AIガバナンスか",
+      "summaryJa": "同じScrumフレームワークを使用していても、AI投資から実質的な成果を得られる組織と得られない組織が存在する。差を分ける要因は、Scrumが組織の運営モデル内のどの位置に置かれているかである。多くの組織ではScrumはプロジェクト内の納品手法にすぎないが、真の成果を得ている組織ではScrumは次に何を構築するかを決定し、過去の投資が機能したかをテストし、リリースに適切な品質を判断するための意思決定プロセスそのものである。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -130,16 +140,6 @@
       "excerpt": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
       "titleJa": "企業はなぜラボチームのように思考・運用する必要があるのか",
       "summaryJa": "Google LabsのJosh Woodward氏が、優れたアイデアがどこから生まれるのか、いつそれを中止すべきかを判断する方法、そして毎週可能性が変わる世界での構築方法について語ります。組織がイノベーションを推進する際に実験的なマインドセットを持つことの重要性を解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "SAFe Didn't Scale Agile. It Scaled Bureaucracy.",
-      "url": "https://www.scrum.org/resources/blog/safe-didnt-scale-agile-it-scaled-bureaucracy",
-      "publishedAt": "2026-10-11T06:00:00.000Z",
-      "excerpt": "Image Gary Hamel spent decades asking why large organizations become rigid, slow, and hard to work inside. His diagnosis is simple: bureaucracy is not a symptom of poor management. It is a design, and its purpose is control, not the creation of value. I have been watching this design operate inside enterprise product teams since 2010, and one of its most successful recent forms wears an Agile badge. The teams that struggle most are rarely short of process. They have Release Train Engineers, quarterly PI Planning, Portfolio SAFe layers, and Agile coaches in numbers that would surprise most star",
-      "titleJa": "SAFeはアジャイルをスケールさせず、官僚制度をスケールさせた",
-      "summaryJa": "大規模組織が硬直し非効率になる原因は官僚制度にあり、それは管理不全ではなく意図的な設計である。SAFeはアジャイルのバッジを纏いながらも、この官僚的な設計を拡大させ、本来のアジャイルの価値創造を阻害しているという指摘。企業のプロダクトチームが直面する問題は、プロセスの不足ではなく過剰にある。"
     },
     {
       "category": "PdM",
