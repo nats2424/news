@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-15T02:11:15.669Z",
+  "updatedAt": "2026-10-15T10:29:39.612Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "The Deal That Came With Its Own Roadmap",
+      "url": "https://www.productcoalition.com/p/the-deal-that-came-with-its-own-roadmap",
+      "publishedAt": "2026-10-15T08:01:10.000Z",
+      "excerpt": "Product & Profit #101",
+      "titleJa": "ロードマップ付きの契約戦略",
+      "summaryJa": "プロダクト&プロフィット#101では、契約段階でロードマップを組み込む戦略について解説。プロダクトマネージャーが営業段階から顧客期待を明確にし、実装計画と連動させることで、契約後の認識ズレを防ぎ、顧客満足度とプロダクト開発の効率性を向上させるアプローチを紹介しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -270,16 +280,6 @@
       "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
       "titleJa": "ソフトウェアエンジニアが法律家のような役割を担うようになっている",
       "summaryJa": "AIコーディングエージェントの体系的なテストに関するプロジェクトから、ソフトウェアエンジニアの職務が法的責任や厳密な検証を求める方向へシフトしていることが明らかになる。テスター出身者も含め、エンジニアには従来のコーディングスキル以上の多面的な能力が求められるようになっている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The Loan Nobody Wrote Down",
-      "url": "https://www.productcoalition.com/p/the-loan-nobody-wrote-down",
-      "publishedAt": "2026-10-01T08:01:34.000Z",
-      "excerpt": "Technical debt is borrowing, and the terms get agreed long after the money is spent",
-      "titleJa": "記録されない負債：テクニカルデット問題の本質",
-      "summaryJa": "テクニカルデットは借金と同じであり、実際にコストが発生してからはじめて返済条件が決まるという矛盾を指摘。目に見えないツケが長期的にプロジェクトに及ぼす影響について論じています。"
     },
     {
       "category": "QA",
