@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-15T10:29:39.612Z",
+  "updatedAt": "2026-10-15T15:53:53.377Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Building an AI Voice Agent for 360 Degree Feedback: How Your360 AI Uses State Machines, Evals, and Layered Synthesis",
+      "url": "https://www.producttalk.org/building-an-ai-voice-agent-for-360-degree-feedback-how-your360-ai-uses-state-machines-evals-and-layered-synthesis/",
+      "publishedAt": "2026-10-15T13:00:00.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to build an AI voice agent that people will talk to for 44 minutes about their own blind spots? Your360 AI found out, one call at a time. In this episode of Just Now Possible, Teresa Torres talks",
+      "titleJa": "360度フィードバック向けAIボイスエージェント構築：Your360 AIのステートマシン・評価・合成層の活用",
+      "summaryJa": "Your360 AIが実装したAIボイスエージェントの開発事例。ユーザーが自身のブラインドスポットについて44分間対話できるシステム構築に必要な、ステートマシン・Evals・レイヤード合成などの技術的アプローチについて解説されています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Das KI-Modell wechseln oder nicht, das ist hier die Frage! 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/das-ki-modell-wechseln-oder-nicht-das-ist-hier-die-frage",
+      "publishedAt": "2026-10-15T12:09:48.000Z",
+      "excerpt": "In Kürze: Der KI-Modellwechsel und seine versteckten Kosten Ein neues KI-Modell erscheint, das pro Token günstiger ist, in Benchmarks besser abschneidet und scheinbar keine Änderung erfordert. Da sollte man doch einen KI-Modellwechsel in Betracht ziehen, oder? Das Problem liegt jedoch im Detail, denn die Token-Berechnung erfasst nur einen Teil der Kosten eines Modellwechsels. Hinzu kommt der Aufwand, zu prüfen, ob Ihre Workflows weiterhin Ergebnisse liefern, die Ihrer KI-Definition of Done entsprechen, etwa ein Workflow, der Statusberichte für Stakeholder erstellt. Oftmals bleibt diese Aufgabe",
+      "titleJa": "AIモデル切り替えの判断：隠れたコストと運用リスク",
+      "summaryJa": "新しいAIモデルはトークンコストが安く性能が良くても、単純な置き換えは危険という指摘。トークン計算以外の隠れたコスト、ワークフローの検証、Definition of Doneへの適合性確認など、モデル切り替え時に見落としやすい課題が説明されています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -140,16 +160,6 @@
       "excerpt": "In a recent class, we were discussing how teams are using AI and finishing coding faster but still missing Sprint Goals. How can these things both be true? That question gets to the heart of a shift many Scrum Teams are experiencing right now. AI has changed the bottleneck. Coding is no longer the constraint it once was. Yet many teams respond by increasing work in progress instead of reducing it. The thinking goes: “We can handle more work now, so let’s pull more in.” The result is pretty predictable. When you work on too many things at once, you end up context switching and delivering value ",
       "titleJa": "AIの時代こそWIP制限を厳格に",
       "summaryJa": "AIの活用でコーディングが高速化してもスプリントゴール達成に失敗するチームが増加。AIにより開発のボトルネックが変わり、多くのチームが仕掛かり品(WIP)を増やす傾向にあります。しかし実際には、同時進行タスクを減らし、集中度を高めることが重要です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Cognitive Trap: Accountability Diffusion",
-      "url": "https://www.scrum.org/resources/blog/cognitive-trap-accountability-diffusion",
-      "publishedAt": "2026-10-12T04:00:00.000Z",
-      "excerpt": "Accountability Diffusion Trap Most mistakes in Scrum aren’t because people don’t understand the framework—they come from applying reasonable thinking in the wrong context. Cognitive traps happen when decisions favor efficiency, control, or comfort over transparency, inspection, and adaptation. Here is one of ten cognitive traps, Accountability Diffusion. Sharing accountability across multiple people slows decisions and removes the clarity needed for Scrum accountabilities. We'll use Product Owner as the example, since it's the most common accountability where this trap occurs. Simulated Assess",
-      "titleJa": "認知的罠：アカウンタビリティの拡散",
-      "summaryJa": "Scrumの実装失敗の多くはフレームワーク理解ではなく、不適切な文脈での運用に起因。複数人での責任共有はスプリント進行を遅延させ、説明責任の明確性を損ないます。プロダクトオーナーの責任分散がこの罠の典型例として紹介されています。"
     },
     {
       "category": "PdM",
@@ -350,16 +360,6 @@
       "excerpt": "The latest episode of the Vernon Richard Show, New QA Job? How We'd Decide Where To Start, answers this question from a listener, Shady: When joining a new organisation, how do you decide which QA domino piece to tackle first for the rest to easily fall into place? For example, you might find flaky test automation, poor testability in user stories, no integration tests, limited test management tools, missing test data, and an ever growing regression suite. With so many improvement opportunities, how do you prioritise what to fix first? As usual the conversation ranged freely and I've picked ou",
       "titleJa": "新しい組織でのQA改善、何から始めるべきか",
       "summaryJa": "新しい組織に参加した際、フレークなテスト自動化、テスト管理ツールの不足、リグレッション スイートの肥大化など、複数の改善機会がある中で、どの問題を優先して取り組むべきかについて、意思決定のアプローチと優先順位付けの考え方を探る。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How to communicate the value of your PMO",
-      "url": "https://rebelsguidetopm.com/communicate-the-value-of-pmo/",
-      "publishedAt": "2026-09-24T11:14:17.000Z",
-      "excerpt": "When I started out in project management I remember clearly being told that the lifecycle of a PMO was 7 years. It’s often seen as overhead, and certainly I’ve known organizations where the PMO team was caught in reshuffles and redundancies in a way that other teams were not. At least, getting people to believe that the Project Management Office adds value is tricky until something goes wrong, and by then it's too late to build credibility and magic up a PMO when the company has underinvested in it from the start. And if your PMO is only reporting management activity (like number of reports pr",
-      "titleJa": "PMOの価値をステークホルダーに伝える方法",
-      "summaryJa": "プロジェクトマネジメントオフィス(PMO)は一般にオーバーヘッドと見なされやすく、組織内での信用構築が困難である。PMOの価値を事前に示さないと、経営層の過小投資につながり、危機的状況では信頼を取り戻す時間がない。管理活動の報告だけでなく、PMOが組織にもたらす実質的な価値を効果的に伝える必要がある。"
     }
   ]
 }
