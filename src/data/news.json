@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-15T15:53:53.377Z",
+  "updatedAt": "2026-10-15T20:38:54.307Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "See the System: When a Team Impediment Is Really a Design Problem",
+      "url": "https://www.scrum.org/resources/blog/see-system-when-team-impediment-really-design-problem",
+      "publishedAt": "2026-10-15T18:50:39.000Z",
+      "excerpt": "Organizational problems rarely arrive labelled as organization-design problems. They show up in everyday work. A team waits for a decision. Another starts before its inputs are final and has to redo the work. Someone escalates to protect a launch date. A new control gets added after something goes wrong. Individually, each of these looks like an ordinary team impediment. But when they keep returning, Sprint after Sprint, they may be telling us something else. Not about the team but about the system around the team. Learning to tell those two apart has changed how I worked as a Scrum Master, an",
+      "titleJa": "システムを見る：チームの障害が実は設計問題である場合",
+      "summaryJa": "組織の問題は日々の業務で顕在化します。決定待ち、入力不完全での作業やり直し、リスク対応など個別には通常の障害に見えますが、繰り返し発生する場合、実はチーム自体ではなくその周辺システムの問題を示唆しています。Scrum Masterはこの二つを区別することで、より効果的に対応できるようになります。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Perform a Gap Analysis",
+      "url": "https://www.scrum.org/resources/blog/how-perform-gap-analysis",
+      "publishedAt": "2026-10-15T14:41:41.000Z",
+      "excerpt": "Image Knowing where you are today and where you want to go is important, but you also need to understand what stands between the two. Learning how to perform a gap analysis helps teams identify what needs to change before they can reach their desired future state. In business analysis, a useful gap analysis does more than create a list of differences. It helps teams understand what is missing, why it matters, what should be addressed first, and what decisions are needed to move forward. What Is a Gap Analysis? A gap analysis compares the current state with the future state to identify what nee",
+      "titleJa": "ギャップ分析の実施方法",
+      "summaryJa": "ギャップ分析は現状と望ましい将来状態を比較し、達成に必要な変化を特定するプロセスです。単なる差異リストではなく、欠落している要素、その重要性、優先対応事項、必要な意思決定を把握することで、チームが目標達成に向けて前進するための具体的な道筋を明らかにします。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -60,16 +80,6 @@
       "excerpt": "The same Scrum framework sits behind organisations that get real value from AI and those that don't. What separates them is where Scrum is placed in their operating model. For many organisations, Scrum is a delivery method inside a project: the business case fixes scope, budget, and the definition of success before the first Sprint starts, and the Scrum Team's job is to produce the agreed outputs faster. For those who reap genuine outcomes from AI, Scrum is how the organisation decides what to build next, tests whether the last investment worked, and settles when work is good enough to release",
       "titleJa": "Scrumは納品手法か、AIガバナンスか",
       "summaryJa": "同じScrumフレームワークを使用していても、AI投資から実質的な成果を得られる組織と得られない組織が存在する。差を分ける要因は、Scrumが組織の運営モデル内のどの位置に置かれているかである。多くの組織ではScrumはプロジェクト内の納品手法にすぎないが、真の成果を得ている組織ではScrumは次に何を構築するかを決定し、過去の投資が機能したかをテストし、リリースに適切な品質を判断するための意思決定プロセスそのものである。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your Sprint Review isn't inspection. It's theatre.",
-      "url": "https://www.scrum.org/resources/blog/your-sprint-review-isnt-inspection-its-theatre-0",
-      "publishedAt": "2026-10-13T22:00:00.000Z",
-      "excerpt": "Image The demo works. The feature does exactly what the slide said it would. Someone says \"nice.\" A couple of people do the little typing-clap in the chat. \"Any questions?\" A pause, the good kind, the kind that means we're done. \"Great, thanks everyone.\" And the review is over. Notice what didn't happen. Nobody looked at the thing that's three weeks behind. Nobody mentioned the integration that's holding together with tape. The risk everyone's privately worried about didn't come up, because this wasn't the room for it. Something was shown. Nothing was inspected. That's the quiet swap at the he",
-      "titleJa": "スプリントレビューは検査ではなくショーになっている",
-      "summaryJa": "スプリントレビューが単なるデモンストレーションに終わり、実質的な検査が行われていない問題を指摘。期限遅延や統合の課題、チーム内で懸念されているリスクなど、実際の問題が検討されないまま形式的に終了している状況を批判している。"
     },
     {
       "category": "PdM",
@@ -150,16 +160,6 @@
       "excerpt": "‘Fractional’ is a bit of a management buzzword at the moment, but if you’re setting up a small Project Management Office, it could be a model worth looking at. This article is for you if you’re evaluating PMO resourcing options, in the role of a business owner, operations lead, or project manager asked to advise... This article first appeared on Rebel's Guide to Project Management and can be read here: Fractional PMO vs full-time PMO: which one do you need?",
       "titleJa": "フラクショナルPMOとフルタイムPMO：どちらが必要か",
       "summaryJa": "小規模なプロジェクトマネジメントオフィス(PMO)立ち上げ時に、フラクショナルモデルの導入を検討する価値について解説。事業オーナー、オペレーション主導者、プロジェクトマネージャーがPMOのリソーシング判断を行う際の指針を提供します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You Need Tighter WIP Limits With AI",
-      "url": "https://www.scrum.org/resources/blog/you-need-tighter-wip-limits-ai",
-      "publishedAt": "2026-10-12T07:05:14.000Z",
-      "excerpt": "In a recent class, we were discussing how teams are using AI and finishing coding faster but still missing Sprint Goals. How can these things both be true? That question gets to the heart of a shift many Scrum Teams are experiencing right now. AI has changed the bottleneck. Coding is no longer the constraint it once was. Yet many teams respond by increasing work in progress instead of reducing it. The thinking goes: “We can handle more work now, so let’s pull more in.” The result is pretty predictable. When you work on too many things at once, you end up context switching and delivering value ",
-      "titleJa": "AIの時代こそWIP制限を厳格に",
-      "summaryJa": "AIの活用でコーディングが高速化してもスプリントゴール達成に失敗するチームが増加。AIにより開発のボトルネックが変わり、多くのチームが仕掛かり品(WIP)を増やす傾向にあります。しかし実際には、同時進行タスクを減らし、集中度を高めることが重要です。"
     },
     {
       "category": "PdM",
@@ -350,16 +350,6 @@
       "excerpt": "We are still early in the journey to learn the long-term impact of AI, but one trend that continues to capture attention is that managers and other leaders will be much less important, and that all we really need are skilled individual contributor builders. We’ve all seen the headlines about companies pushing for fewer managers... The post Experts Lead Experts appeared first on Silicon Valley Product Group.",
       "titleJa": "エキスパートがエキスパートを導く",
       "summaryJa": "AIの長期的影響はまだ検証段階だが、組織ではマネージャーの重要性が低下し、スキルの高い個別貢献者が中心となるという傾向が注目を集めている。企業がマネージャー削減を推進する動きが続く中、リーダーシップのあり方が大きく変わろうとしている。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "For Fix Sake",
-      "url": "https://qahiccupps.blogspot.com/2026/09/for-fix-sake.html",
-      "publishedAt": "2026-09-24T17:21:57.000Z",
-      "excerpt": "The latest episode of the Vernon Richard Show, New QA Job? How We'd Decide Where To Start, answers this question from a listener, Shady: When joining a new organisation, how do you decide which QA domino piece to tackle first for the rest to easily fall into place? For example, you might find flaky test automation, poor testability in user stories, no integration tests, limited test management tools, missing test data, and an ever growing regression suite. With so many improvement opportunities, how do you prioritise what to fix first? As usual the conversation ranged freely and I've picked ou",
-      "titleJa": "新しい組織でのQA改善、何から始めるべきか",
-      "summaryJa": "新しい組織に参加した際、フレークなテスト自動化、テスト管理ツールの不足、リグレッション スイートの肥大化など、複数の改善機会がある中で、どの問題を優先して取り組むべきかについて、意思決定のアプローチと優先順位付けの考え方を探る。"
     }
   ]
 }
