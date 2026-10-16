@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:42:18.658Z",
+  "updatedAt": "2026-10-16T20:11:45.392Z",
   "items": [
     {
       "category": "PjM",
@@ -350,16 +350,6 @@
       "excerpt": "About This Episode: Playwright MCP or CLI: which one’s really eating your AI budget? If you had 12,000 green unit […]",
       "titleJa": "Playwright MCPとCLI、ミューテーションテスト、AIエージェントの課題 TGNS196",
       "summaryJa": "Playwright MCPとCLIのどちらがAI予算を圧迫しているかを比較。12,000個の緑のユニットテストを基準に、両アプローチのコスト効率と実用性を検討し、テスト自動化におけるAI活用の最適な方法を考察する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Silicon Valley Product Group",
-      "title": "Experts Lead Experts",
-      "url": "https://www.svpg.com/experts-lead-experts/",
-      "publishedAt": "2026-09-25T18:17:29.000Z",
-      "excerpt": "We are still early in the journey to learn the long-term impact of AI, but one trend that continues to capture attention is that managers and other leaders will be much less important, and that all we really need are skilled individual contributor builders. We’ve all seen the headlines about companies pushing for fewer managers... The post Experts Lead Experts appeared first on Silicon Valley Product Group.",
-      "titleJa": "エキスパートがエキスパートを導く",
-      "summaryJa": "AIの長期的影響はまだ検証段階だが、組織ではマネージャーの重要性が低下し、スキルの高い個別貢献者が中心となるという傾向が注目を集めている。企業がマネージャー削減を推進する動きが続く中、リーダーシップのあり方が大きく変わろうとしている。"
     }
   ]
 }
