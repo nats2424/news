@@ -1,55 +1,75 @@
 {
-  "updatedAt": "2026-10-16T10:17:08.063Z",
+  "updatedAt": "2026-10-16T15:42:18.658Z",
   "items": [
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
-      "title": "Best PMI-ACP Exam Prep Courses for 2026",
-      "url": "https://rebelsguidetopm.com/best-pmi-acp-exam-prep-courses/",
-      "publishedAt": "2026-10-16T10:16:04.000Z",
-      "excerpt": "Short on time? In my opinion, the best PMI-ACP exam prep course is the Brain Sensei PMI-ACP course. With that and PMI membership (to get a free PMBOK® Guide and Agile Practice Guide), you’ll be on your way to exam success. Note: The PMI-ACP Exam changed substantively in November 2024. Check out the updated Exam Content Outline and make sure any study materials you buy are aligned to the latest edition. Are you aiming to achieve your PMI Agile Certified Professional (PMI-ACP)®? Then you’ll be looking for a course that will give you exam confidence and fits the way you want to study. I’ve rounde",
-      "titleJa": "2026年のPMI-ACP試験対策講座トップセレクション",
-      "summaryJa": "PMI-ACP(Agile Certified Professional)資格取得を目指す人向けの試験対策講座を比較紹介しています。2024年11月に試験内容が大幅に改定されたため、最新の試験要綱に対応した教材選びの重要性と、推奨される学習方法について解説しています。"
+      "title": "BrainBOK Review: PMP and CAPM Training",
+      "url": "https://rebelsguidetopm.com/online-training-brainbok-review/",
+      "publishedAt": "2026-10-16T13:10:51.000Z",
+      "excerpt": "Category: Training for students preparing for Project Management Professional (PMP)® and Certified Associates in Project Management (CAPM)®: BrainBOK review. BrainBOK is an online, reasonably-priced project management training program and toolkit for students preparing for PMP® and CAPM® exams. I've reviewed the product in depth so I can confidently recommend it. In this review, I'll share more about BrainBOK's features and the pros and cons of this project management training tool. Cost and plans There’s a free version to allow you to test out a limited number of features. BrainBOK offers one",
+      "titleJa": "BrainBOKレビュー：PMP・CAPM資格試験対策プログラム",
+      "summaryJa": "BrainBOKはPMP®とCAP M®資格試験の受験者向けオンライン学習プログラムで、手頃な価格で包括的な対策ツールを提供しています。無料版も用意されており、その機能と利点・欠点を詳しく解説したレビューです。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "Our Standards",
+      "url": "https://www.productcoalition.com/p/standards",
+      "publishedAt": "2026-10-16T12:59:21.000Z",
+      "excerpt": "Product Coalition has been running since 2014.",
+      "titleJa": "私たちの基準",
+      "summaryJa": "Product Coalitionは2014年から運営されており、組織の理念と基準を示しています。"
     },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
-      "title": "Project management training to achieve certification this year",
-      "url": "https://rebelsguidetopm.com/project-management-training-to-help-you-achieve-certification-this-year/",
-      "publishedAt": "2026-10-16T09:53:04.000Z",
-      "excerpt": "The skills gap for project managers is getting worse, according to research by APM for National Apprenticeship Week. Their survey showed that 1 in 8 project managers think that the gap between what employers want and the ability of employees to meet those expectations. The survey also found that 1 in 7 project managers believe there aren't enough skilled professionals in their industry. Skilled professionals are in demand, especially those who can demonstrate adaptability, flexibility, communication, time management, risk management and leadership, according to the survey. Certification can he",
-      "titleJa": "今年の認定資格取得を目指すプロジェクト管理研修",
-      "summaryJa": "APMの調査によると、プロジェクトマネージャーのスキルギャップが拡大しており、8人に1人が経営陣の期待と従業員の能力のズレを感じています。適応性、コミュニケーション、リスク管理などのスキルを持つ認定資格取得者の需要が高まっているとされています。"
+      "title": "How do you use CAPM to become a PMP?",
+      "url": "https://rebelsguidetopm.com/capm-become-pmp/",
+      "publishedAt": "2026-10-16T12:41:15.000Z",
+      "excerpt": "So you’re already a Certified Associate in Project Management (CAPM)®? Congratulations! Now you might be thinking of moving on in your career to earn the Project Management Professional (PMP)® designation. The good news is that your CAPM studies and exam experience will help you get there faster. If you’re ready to take the next step, let me explain how to use your CAPM credential to fast-track your way to passing the PMP exam. But before we get started, let me address a common question: is it possible to convert your CAPM to a PMP somehow? Is it possible to convert CAPM to PMP? No, you can’t ",
+      "titleJa": "CAPMからPMPへ：資格アップグレードの道のり",
+      "summaryJa": "CAPM®認定者がPMP®資格を取得するためのステップアップ戦略を解説しており、既存の知識を活かして試験対策を加速できることを説明しています。"
     },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
-      "title": "5 Fab Online Resources for Project Management Certification Prep",
-      "url": "https://rebelsguidetopm.com/online-resources-for-certification-prep/",
-      "publishedAt": "2026-10-16T09:50:54.000Z",
-      "excerpt": "If you want to land a good project manager role, one of the things to consider is certification. When I did my first project management training, it was all classroom based. Fortunately, that isn’t the case any longer and if you can’t take a week off work or travel to a training center, there are plenty of online resources that will help you get ahead in your certification journey. Here are 5 types of online project management study resources you can use for certification prep, regardless of what exam you are taking or method you are following. 1. Online courses Obviously, the first thing I’m ",
-      "titleJa": "プロジェクト管理認定試験対策の5つの優良オンラインリソース",
-      "summaryJa": "プロジェクトマネージャー職を目指す際に重要な認定資格について、仕事を休まず学習できるオンライン資源を5つのタイプに分けて紹介しています。試験形式や学習方法に関わらず活用できる学習リソースの選択肢を提示しています。"
+      "title": "PMP Exam Changes: Why you should consider taking the exam now",
+      "url": "https://rebelsguidetopm.com/why-you-should-consider-taking-the-pmp-exam-now/",
+      "publishedAt": "2026-10-16T12:39:34.000Z",
+      "excerpt": "If you want to certify as a PMP before the exam requirements change, you've just about got time. I believe it takes 8-12 weeks to comfortably prep for the exam so if you are committed and prepared to put the effort in, you can squeeze in your exam. So what's changing? You will only be able to claim the 35 contact hours of training for live courses if the live course is taught by an accredited provider. Also, and this is a big one... I think live learning under the new scheme will cost more. Currently, pretty much any training that covers PMP-related topics can count towards the requirement for",
+      "titleJa": "PMP試験の変更：今受験すべき理由",
+      "summaryJa": "PMP®の試験要件が変わる前に受験することの重要性を指摘し、認定研修の資格要件と費用面での変更について解説しています。試験対策には8～12週間必要とされています。"
     },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
-      "title": "PDUs for CAPM: The Complete Guide for 2026",
-      "url": "https://rebelsguidetopm.com/pdus-capm/",
-      "publishedAt": "2026-10-16T09:45:21.000Z",
-      "excerpt": "Do you need PDUs for the Certified Associate in Project Management (CAPM)® certificate? Yes, you do! In this article I’ll explain what this means for CAPM certification holders and how you can maintain your credential without having to take the exam again. Spoiler: If you already know you need them and don't want to read on, here's my recommended all-in pack of PDUs for CAPM certificate holders. Continuous professional development baked into your certificate requirements Professional Development Units (PDUs) are a way to prove that certification holders are continuing to build their profession",
-      "titleJa": "CAPM資格取得者向けPDU完全ガイド【2026年版】",
-      "summaryJa": "認定アソシエイト・プロジェクトマネージャー(CAPM)資格を維持するために必要なPDU(Professional Development Units)について、取得要件と具体的な取得方法を詳しく解説しています。再受験せずに資格を更新するための方法をカバーしています。"
+      "title": "How the PMP exam changed in 2026",
+      "url": "https://rebelsguidetopm.com/how-the-pmp-exam-is-changing-next-year/",
+      "publishedAt": "2026-10-16T12:30:03.000Z",
+      "excerpt": "Updated: October 2026 Are you here because you've heard the PMP exam changed on 9 July 2026? Here's what you need to know. The Project Management Professional (PMP)® exam updated in July 2026, but what exactly is different? And what do the new training eligibility requirements mean for candidates when these come into effect later in 2026? Read on... Whoah, the exam changed? I didn't know. How did that happen? Every so often PMI carry out an assessment of what a project manager does all day. This is done by carrying out a Job Task Analysis, where PMI analyzes the standards and industry practice",
+      "titleJa": "2026年のPMP試験改正：何が変わったのか",
+      "summaryJa": "2026年7月のPMP®試験改正内容と新しい研修資格要件について説明し、PMIが実施したJob Task Analysis に基づく変更内容を紹介しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Stop Guessing, Start Forecasting: Why Scrum Teams Should Embrace Monte Carlo",
+      "url": "https://www.scrum.org/resources/blog/stop-guessing-start-forecasting-why-scrum-teams-should-embrace-monte-carlo",
+      "publishedAt": "2026-10-16T11:49:45.000Z",
+      "excerpt": "Image How confident are you when someone asks, \"When will it be done?\" If you've worked with a Scrum Team for any length of time, you'll know this question well. And you'll probably recognise the uncomfortable silence that sometimes follows. We estimate. We plan. We look at velocity, maybe do a burn chart. Then, rather optimistically, we pick a date and hope reality cooperates. But what if we stopped pretending the future was predictable? That's where Monte Carlo forecasting comes in. Forecasting Without the Crystal Ball Monte Carlo forecasting sounds complicated. It isn't. Rather than relying",
+      "titleJa": "推測はやめて予測を始めよう：Scrumチームがモンテカルロシミュレーションを採用すべき理由",
+      "summaryJa": "Scrumチームの納期予測は従来のベロシティやバーンダウンチャートに頼りがちですが、モンテカルロ予測法を活用することで、より正確で信頼性の高い見通しが可能になります。複雑に見えるこの手法は実は簡潔で実用的です。"
     },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
-      "title": "15 Easy Ways to Earn PDUs this year",
-      "url": "https://rebelsguidetopm.com/easy-ways-to-earn-pdus/",
-      "publishedAt": "2026-10-16T09:35:10.000Z",
-      "excerpt": "Do you need to earn PDUs to maintain your PMI certification? You’re in the right place! In this article, we’ll cover what you need to know about the different categories of PDUs and how many you need to get, plus some simple and free ways to earn PDUs. There are also some further suggestions that take a bit more effort but are equally worthwhile in case you’ve got more time and energy to spare for your professional development. What is a PDU? PDUs are professional development units. They are a measure of how much professional, continuous learning you have done. PDUs are measured in hours. You ",
-      "titleJa": "今年のPDU取得を効率化する15の簡単な方法",
-      "summaryJa": "PMI認定資格を維持するために必要なPDU(Professional Development Units)の取得方法を紹介しています。PDUのカテゴリー分類、必要単位数、無料および有料の学習方法を網羅し、忙しい専門家でも実践可能な継続教育の選択肢を提示しています。"
+      "title": "Best CAPM Exam Prep Tools for 2026",
+      "url": "https://rebelsguidetopm.com/best-capm-study-tools/",
+      "publishedAt": "2026-10-16T10:33:39.000Z",
+      "excerpt": "You’re here because you’re looking for the best way to get CAPM certification (Certified Associate in Project Management – CAPM®) without having to invest in a load of study guides. Well, you’re in the right place. We’ve reviewed a range of the best CAPM exam prep materials on the market and you can read our assessments below. If you’re short on time, here are our recommendations: :arrow: Best CAPM prep course: Brain Sensei CAPM Exam Prep course :arrow: Best CAPM exam simulator: Brain Sensei CAPM Exam Simulator :arrow: Best CAPM exam prep book: CAPM Exam Prep by Rita Mulcahy Note: The PM PrepC",
+      "titleJa": "2026年版CAPM試験対策ツール完全ガイド",
+      "summaryJa": "CAPM®資格取得に向けた実践的な学習教材を厳選して紹介し、最適な対策講座、模擬試験、参考書をランキング形式で推奨しています。"
     },
     {
       "category": "PdM",
@@ -130,16 +150,6 @@
       "excerpt": "Watch now (24 mins) | 🎙️Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
       "titleJa": "Meta「Muse Wonder」モデル：AI エージェント向けには優れているがデザインには不向き",
       "summaryJa": "Metaが発表したMuse Wonderのエージェンティック性能について、Claude Codeを使用して20近くのタスクでテストした結果をレポート。AIエージェント機能の実際の効果と制限について検証した内容。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum: Delivery Method or AI Governance?",
-      "url": "https://www.scrum.org/resources/blog/scrum-delivery-method-or-ai-governance",
-      "publishedAt": "2026-10-13T22:10:54.000Z",
-      "excerpt": "The same Scrum framework sits behind organisations that get real value from AI and those that don't. What separates them is where Scrum is placed in their operating model. For many organisations, Scrum is a delivery method inside a project: the business case fixes scope, budget, and the definition of success before the first Sprint starts, and the Scrum Team's job is to produce the agreed outputs faster. For those who reap genuine outcomes from AI, Scrum is how the organisation decides what to build next, tests whether the last investment worked, and settles when work is good enough to release",
-      "titleJa": "Scrumは納品手法か、AIガバナンスか",
-      "summaryJa": "同じScrumフレームワークを使用していても、AI投資から実質的な成果を得られる組織と得られない組織が存在する。差を分ける要因は、Scrumが組織の運営モデル内のどの位置に置かれているかである。多くの組織ではScrumはプロジェクト内の納品手法にすぎないが、真の成果を得ている組織ではScrumは次に何を構築するかを決定し、過去の投資が機能したかをテストし、リリースに適切な品質を判断するための意思決定プロセスそのものである。"
     },
     {
       "category": "PdM",
@@ -250,16 +260,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts We now record almost everything — every meeting has an AI note-taker, and some people wear glasses that capture every word. So what does that do to our relationships when nothing is forgotten and everything can be fact-checked? Petra Wille",
       "titleJa": "記録される会話時代のプロダクト開発：AI時代の人間関係とプロダクト戦略",
       "summaryJa": "Teresa TorresとPetra Willeによるポッドキャスト。AI記録ツールが日常業務に浸透する中で、何もが忘れられず検証可能になる環境が、プロダクト開発チームの関係構築やコミュニケーションに与える影響について議論します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The Persona Was Never Supposed to Be a Person",
-      "url": "https://www.productcoalition.com/p/the-persona-was-never-supposed-to",
-      "publishedAt": "2026-10-06T08:01:00.000Z",
-      "excerpt": "A decade of Product Coalition writing says the useful version describes a decision, not a human",
-      "titleJa": "ペルソナは個人ではなく意思決定を表現する概念",
-      "summaryJa": "Product Coalition執筆の十年の経験から、ペルソナの実用的な定義は具体的な人物像ではなく、意思決定パターンを記述するべきであることを主張している。プロダクト開発における正しいペルソナの役割について再考を促す。"
     },
     {
       "category": "QA",
