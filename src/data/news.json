@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-17T09:50:52.717Z",
+  "updatedAt": "2026-10-17T14:34:06.226Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
+      "publishedAt": "2026-10-17T13:53:57.000Z",
+      "excerpt": "Community Wisdom 302",
+      "titleJa": "コミュニティの知見：エージェント向けPRD、競合メッセージング追跡、ソフトウェアの競争優位性、スタートアップ退職時のオプション行使など",
+      "summaryJa": "Lennyのニュースレター第302号では、AIエージェント向けの要件定義書（PRD）の作成方法、競合企業のメッセージング戦略の効果的な追跡方法、ソフトウェア企業の競争優位性の存在可能性、そしてスタートアップを退職する際のストックオプション行使の判断基準など、プロダクトマネジャーが直面する複数の重要な課題について、コミュニティからの実践的な知見を紹介しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -220,16 +230,6 @@
       "excerpt": "Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
       "titleJa": "Metaが設計したMuse：ユーザーが本当に使いたいAIエージェント",
       "summaryJa": "MetaのデザインディレクターAlex Cornellが、Museがあらゆるユーザーに対応する同一インターフェースの設計思想を解説。SkyMall風カタログ、ゴルフレポート、ブログポッドキャスト化など、実際の活用例をデモンストレーションしています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Why every company now needs to think and operate like a lab team | Josh Woodward (Google Labs, Gemini, AI Studio)",
-      "url": "https://www.lennysnewsletter.com/p/why-every-company-now-needs-to-think",
-      "publishedAt": "2026-10-11T12:31:59.000Z",
-      "excerpt": "Listen now (62 mins) | Josh Woodward of Google Labs on where great ideas come from, knowing when to kill them, and building for a world where what’s possible changes every week",
-      "titleJa": "企業はなぜラボチームのように思考・運用する必要があるのか",
-      "summaryJa": "Google LabsのJosh Woodward氏が、優れたアイデアがどこから生まれるのか、いつそれを中止すべきかを判断する方法、そして毎週可能性が変わる世界での構築方法について語ります。組織がイノベーションを推進する際に実験的なマインドセットを持つことの重要性を解説します。"
     },
     {
       "category": "PdM",
