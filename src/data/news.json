@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-18T10:02:28.370Z",
+  "updatedAt": "2026-10-18T15:01:41.721Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
+      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
+      "publishedAt": "2026-10-18T12:31:36.000Z",
+      "excerpt": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
+      "titleJa": "AI の black box を開く：言語モデルはどのように思考するのか",
+      "summaryJa": "Anthropic の Emmanuel Ameisen が、言語モデルの内部構造の解析を通じて、AI の計画策定、意識、セーフティについて説明します。言語モデルがどのようにして推論を行い、意思決定をしているのかについての洞察を提供します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -220,16 +230,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "titleJa": "AI活用インタビュー：MetaのMuseをAlex Cornellと語る",
       "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズ内で、MetaのAIプロダクト「Muse」の設計プロセスについて、Alex Cornellをゲストに招いてディスカッションするポッドキャストエピソードです。AI時代のプロダクト戦略や設計思想に関する実践的な知見が共有されています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How Meta designed Muse: an AI agent people actually want to talk to | Alex Cornell (Design Director)",
-      "url": "https://www.lennysnewsletter.com/p/how-meta-designed-muse-an-ai-agent",
-      "publishedAt": "2026-10-12T12:03:55.000Z",
-      "excerpt": "Listen now | 🎙️Alex Cornell explains how Muse serves your mom and an engineer with the same interface, and demos a SkyMall-style catalog, golf recaps, and a blog turned podcast",
-      "titleJa": "Metaが設計したMuse：ユーザーが本当に使いたいAIエージェント",
-      "summaryJa": "MetaのデザインディレクターAlex Cornellが、Museがあらゆるユーザーに対応する同一インターフェースの設計思想を解説。SkyMall風カタログ、ゴルフレポート、ブログポッドキャスト化など、実際の活用例をデモンストレーションしています。"
     },
     {
       "category": "PdM",
