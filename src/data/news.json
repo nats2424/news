@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-18T01:55:11.960Z",
+  "updatedAt": "2026-10-18T10:02:28.370Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AGI and the Product Owner's Accountability",
+      "url": "https://www.scrum.org/resources/blog/agi-and-product-owners-accountability",
+      "publishedAt": "2026-10-18T09:12:17.000Z",
+      "excerpt": "Image It's Monday morning. Over the weekend, an AI system read every support ticket from the last quarter, every sales-call transcript and every competitor's release notes. It rewrote sixty Product Backlog items, re-ordered the top twenty and drafted a Product Goal, with a short memo explaining each choice. The memo is good. Better, honestly, than what most of us would have produced in the same week. Then a stakeholder forwards it with one question: \"What does the Product Owner add here?\" In my Professional Scrum Product Owner – AI Essentials classes, I hear some version of that question more ",
+      "titleJa": "AGIの時代におけるプロダクトオーナーの責任",
+      "summaryJa": "AIが短時間でプロダクトバックログの整理やプロダクトゴールの策定を実行できるようになる中、プロダクトオーナーの真の価値とは何かという問いが生じている。AIの出力がまともなものになる一方で、人間のプロダクトオーナーが付加価値を提供する領域を明確にすることが重要な課題となっている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Strategy Thinks in Bets. Tactics Execute Them.",
+      "url": "https://www.scrum.org/resources/blog/strategy-thinks-bets-tactics-execute-them",
+      "publishedAt": "2026-10-18T06:00:00.000Z",
+      "excerpt": "Image Something has been spreading through the product teams I work with since around 2022, and it has the same shape as every good idea that becomes a religion. Teams are describing everything as a bet. The instinct behind it is a sound one. Outcomes, the real measure of product work, are lagging indicators. They move slowly, often weeks or months after the work is done, and they sit outside your direct control. Outputs, the features you can count the moment they ship, are leading. Faced with that gap, framing an outcome as a bet is a real fix: it signals that you know you might be wrong and ",
+      "titleJa": "戦略は「賭け」で考え、戦術がそれを実行する",
+      "summaryJa": "プロダクトチームの間で「すべてを賭けとして説明する」という傾向が広がっている。遅行指標である成果と、すぐに計測できる先行指標の出力の間にあるギャップに対して、アウトカムを賭けとしてフレーミングすることで、不確実性への対処と改善の姿勢を示すことができる。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -122,16 +142,6 @@
       "summaryJa": "Your360 AIが実装したAIボイスエージェントの開発事例。ユーザーが自身のブラインドスポットについて44分間対話できるシステム構築に必要な、ステートマシン・Evals・レイヤード合成などの技術的アプローチについて解説されています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Das KI-Modell wechseln oder nicht, das ist hier die Frage! 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/das-ki-modell-wechseln-oder-nicht-das-ist-hier-die-frage",
-      "publishedAt": "2026-10-15T12:09:48.000Z",
-      "excerpt": "In Kürze: Der KI-Modellwechsel und seine versteckten Kosten Ein neues KI-Modell erscheint, das pro Token günstiger ist, in Benchmarks besser abschneidet und scheinbar keine Änderung erfordert. Da sollte man doch einen KI-Modellwechsel in Betracht ziehen, oder? Das Problem liegt jedoch im Detail, denn die Token-Berechnung erfasst nur einen Teil der Kosten eines Modellwechsels. Hinzu kommt der Aufwand, zu prüfen, ob Ihre Workflows weiterhin Ergebnisse liefern, die Ihrer KI-Definition of Done entsprechen, etwa ein Workflow, der Statusberichte für Stakeholder erstellt. Oftmals bleibt diese Aufgabe",
-      "titleJa": "AIモデル切り替えの判断：隠れたコストと運用リスク",
-      "summaryJa": "新しいAIモデルはトークンコストが安く性能が良くても、単純な置き換えは危険という指摘。トークン計算以外の隠れたコスト、ワークフローの検証、Definition of Doneへの適合性確認など、モデル切り替え時に見落としやすい課題が説明されています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "The Deal That Came With Its Own Roadmap",
@@ -140,16 +150,6 @@
       "excerpt": "Product & Profit #101",
       "titleJa": "ロードマップ付きの契約戦略",
       "summaryJa": "プロダクト&プロフィット#101では、契約段階でロードマップを組み込む戦略について解説。プロダクトマネージャーが営業段階から顧客期待を明確にし、実装計画と連動させることで、契約後の認識ズレを防ぎ、顧客満足度とプロダクト開発の効率性を向上させるアプローチを紹介しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The First 90 Days Field Guide For New Scrum Masters",
-      "url": "https://www.scrum.org/resources/blog/first-90-days-field-guide-new-scrum-masters",
-      "publishedAt": "2026-10-14T15:21:28.000Z",
-      "excerpt": "Discover the practical steps you need to take within your first 3 months on the job to confidently solidify your position in your Scrum Team. Image Imagine your company has recently asked you to take over the Scrum Master role within your Scrum Team, or maybe you've personally chosen to pursue a leadership position in your company after years of working as an implementer (like a developer, business analyst, QA, etc.). Then, obviously, you are at the beginning of your Scrum Mastery journey, which is a challenging adventure. So, most likely, you are experiencing these worries and fears: You feel",
-      "titleJa": "新任スクラムマスターのための最初の90日間ガイド",
-      "summaryJa": "スクラムマスター職に就いた初期3ヶ月間に実施すべき実践的なステップを解説。スクラムチーム内での立場を確実にするための具体的なアクションと、新しいリーダーシップポジションへの移行における課題や懸念への対処方法を提供。"
     },
     {
       "category": "PdM",
