@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-18T15:01:41.721Z",
+  "updatedAt": "2026-10-18T19:48:27.085Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
+      "url": "https://www.scrum.org/resources/blog/ai-assisted-product-discovery-when-code-cheap-judgment-job",
+      "publishedAt": "2026-10-18T14:54:47.000Z",
+      "excerpt": "TL; DR: Deciding What to Build Is the New Job, Now that Code Is No Longer a Constraint Agentic coding has removed the cost gate that used to stop product teams from chasing every idea at once, and the constraint has moved to product judgment: the ability to tell what is worth building. AI-Assisted product discovery can prepare that judgment by reading far more customer evidence than any product person could. Such a discovery agent analyzes three families of sources, checks eight patterns, and argues both against and for your current direction. The A3 Framework has a name for this work: Assist,",
+      "titleJa": "AIが変える新時代のプロダクト発見：判断力がボトルネック",
+      "summaryJa": "エージェンティック・コーディングにより開発コストが低下し、プロダクト判断が新たなボトルネックになった。AI支援型プロダクト発見は顧客証拠を大規模に分析し、8つのパターンを検査することで、構築するべき機能の判断を強化。A3フレームワークのAssist段階として、複数のデータソースから包括的な検討を提供する。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -130,16 +140,6 @@
       "excerpt": "Organizational problems rarely arrive labelled as organization-design problems. They show up in everyday work. A team waits for a decision. Another starts before its inputs are final and has to redo the work. Someone escalates to protect a launch date. A new control gets added after something goes wrong. Individually, each of these looks like an ordinary team impediment. But when they keep returning, Sprint after Sprint, they may be telling us something else. Not about the team but about the system around the team. Learning to tell those two apart has changed how I worked as a Scrum Master, an",
       "titleJa": "システムを見る：チームの障害が実は設計問題である場合",
       "summaryJa": "組織の問題は日々の業務で顕在化します。決定待ち、入力不完全での作業やり直し、リスク対応など個別には通常の障害に見えますが、繰り返し発生する場合、実はチーム自体ではなくその周辺システムの問題を示唆しています。Scrum Masterはこの二つを区別することで、より効果的に対応できるようになります。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Perform a Gap Analysis",
-      "url": "https://www.scrum.org/resources/blog/how-perform-gap-analysis",
-      "publishedAt": "2026-10-15T14:41:41.000Z",
-      "excerpt": "Image Knowing where you are today and where you want to go is important, but you also need to understand what stands between the two. Learning how to perform a gap analysis helps teams identify what needs to change before they can reach their desired future state. In business analysis, a useful gap analysis does more than create a list of differences. It helps teams understand what is missing, why it matters, what should be addressed first, and what decisions are needed to move forward. What Is a Gap Analysis? A gap analysis compares the current state with the future state to identify what nee",
-      "titleJa": "ギャップ分析の実施方法",
-      "summaryJa": "ギャップ分析は現状と望ましい将来状態を比較し、達成に必要な変化を特定するプロセスです。単なる差異リストではなく、欠落している要素、その重要性、優先対応事項、必要な意思決定を把握することで、チームが目標達成に向けて前進するための具体的な道筋を明らかにします。"
     },
     {
       "category": "PdM",
