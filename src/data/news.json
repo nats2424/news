@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-19T02:12:14.700Z",
+  "updatedAt": "2026-10-19T11:27:20.066Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How To Create A Team Wall For Your Scrum Team",
+      "url": "https://www.scrum.org/resources/blog/how-create-team-wall-your-scrum-team",
+      "publishedAt": "2026-10-19T08:01:16.000Z",
+      "excerpt": "Image Transparency is the backbone of empiricism, which is the foundation of Scrum. Without transparency, inspection and adaptation are pointless. The higher the transparency you have in your team, the better. Bear in mind that all Scrum Team members are responsible for keeping the transparency high. However, the Scrum Master has a crucial role in this regard. One of the most effective techniques to significantly increase transparency is to create a Team Wall. A Team Wall is a practice to keep all the main information of the team at the project level in a single place. Team Wall Blocks These a",
+      "titleJa": "Scrumチームのためのチームウォール作成ガイド",
+      "summaryJa": "チームウォールはScrumの基盤である経験主義を支える透明性を高める有効な実践方法です。プロジェクトレベルのすべての重要情報を一箇所に集約することで、検査と適応をより効果的にします。Scrumマスターはこの透明性維持において重要な役割を担います。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -130,16 +140,6 @@
       "excerpt": "A payment method can lift conversion and still leave the product worse off.",
       "titleJa": "支払い方法導入の隠れた解約率",
       "summaryJa": "新しい支払い方法の導入はコンバージョンを向上させる一方で、製品全体にネガティブな影響をもたらす可能性があります。表面的な数値改善だけでなく、顧客満足度や長期的な経営指標への影響を総合的に分析することの重要性を解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "See the System: When a Team Impediment Is Really a Design Problem",
-      "url": "https://www.scrum.org/resources/blog/see-system-when-team-impediment-really-design-problem",
-      "publishedAt": "2026-10-15T18:50:39.000Z",
-      "excerpt": "Organizational problems rarely arrive labelled as organization-design problems. They show up in everyday work. A team waits for a decision. Another starts before its inputs are final and has to redo the work. Someone escalates to protect a launch date. A new control gets added after something goes wrong. Individually, each of these looks like an ordinary team impediment. But when they keep returning, Sprint after Sprint, they may be telling us something else. Not about the team but about the system around the team. Learning to tell those two apart has changed how I worked as a Scrum Master, an",
-      "titleJa": "システムを見る：チームの障害が実は設計問題である場合",
-      "summaryJa": "組織の問題は日々の業務で顕在化します。決定待ち、入力不完全での作業やり直し、リスク対応など個別には通常の障害に見えますが、繰り返し発生する場合、実はチーム自体ではなくその周辺システムの問題を示唆しています。Scrum Masterはこの二つを区別することで、より効果的に対応できるようになります。"
     },
     {
       "category": "PdM",
