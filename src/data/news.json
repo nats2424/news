@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-19T11:27:20.066Z",
+  "updatedAt": "2026-10-19T17:53:32.884Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
+      "publishedAt": "2026-10-19T15:03:35.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "🎙️ How I AI: Meta Muse Wonder + Brookeが動画をAIでスケール",
+      "summaryJa": "Lenny's Podcast Networkの週刊配信「How I AI」シリーズ。Brooke Laceyがいかにして動画制作をAI技術を活用してスケールしているかについて紹介。PdM向けの最新トレンド情報を提供します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
+      "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
+      "publishedAt": "2026-10-19T12:04:52.000Z",
+      "excerpt": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
+      "titleJa": "Claude Code活用で動画編集を自動化するクリエイター戦略",
+      "summaryJa": "Brooke Laceyが実演を交えて、Claude Codeを使い生の動画を15秒でキャプション付きのジャンプカット形式TikTok動画に変換するプロセスを紹介。AI活用による動画制作のスケーリング事例として注目。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -34,12 +54,12 @@
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
-      "title": "AGI and the Product Owner's Accountability",
-      "url": "https://www.scrum.org/resources/blog/agi-and-product-owners-accountability",
+      "title": "AI and the Product Owner's Accountability",
+      "url": "https://www.scrum.org/resources/blog/ai-and-product-owners-accountability",
       "publishedAt": "2026-10-18T09:12:17.000Z",
       "excerpt": "Image It's Monday morning. Over the weekend, an AI system read every support ticket from the last quarter, every sales-call transcript and every competitor's release notes. It rewrote sixty Product Backlog items, re-ordered the top twenty and drafted a Product Goal, with a short memo explaining each choice. The memo is good. Better, honestly, than what most of us would have produced in the same week. Then a stakeholder forwards it with one question: \"What does the Product Owner add here?\" In my Professional Scrum Product Owner – AI Essentials classes, I hear some version of that question more ",
-      "titleJa": "AGIの時代におけるプロダクトオーナーの責任",
-      "summaryJa": "AIが短時間でプロダクトバックログの整理やプロダクトゴールの策定を実行できるようになる中、プロダクトオーナーの真の価値とは何かという問いが生じている。AIの出力がまともなものになる一方で、人間のプロダクトオーナーが付加価値を提供する領域を明確にすることが重要な課題となっている。"
+      "titleJa": "AIの時代におけるプロダクトオーナーのアカウンタビリティ",
+      "summaryJa": "AIがサポートチケットやセールストランスクリプト、競合情報を分析し、プロダクトバックログを自動で編成・最適化する時代が来ている。その中でプロダクトオーナーの付加価値とアカウンタビリティをどう定義するかについて考察。"
     },
     {
       "category": "PjM",
@@ -183,16 +203,6 @@
     },
     {
       "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How to tell if a startup has a moat",
-      "url": "https://www.lennysnewsletter.com/p/how-to-tell-if-a-startup-has-a-moat",
-      "publishedAt": "2026-10-13T12:45:41.000Z",
-      "excerpt": "A framework for assessing whether the company you’re considering joining is built to last",
-      "titleJa": "スタートアップの競争優位性を見極める方法",
-      "summaryJa": "参加を検討しているスタートアップが長期的に成功するために必要な競争優位性(モート)を評価するためのフレームワークを紹介。企業の組織文化や戦略がいかに持続可能かを判断するための実践的なガイドです。"
-    },
-    {
-      "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "Nobody Told the Agent There Was a Floor",
       "url": "https://www.productcoalition.com/p/nobody-told-the-agent-there-was-a",
@@ -220,16 +230,6 @@
       "excerpt": "I was first taught about the importance of outcome over output way back when I was an engineer getting coached to become a tech lead, and I was explicitly told that it was no longer enough to just build and ship, I had to make sure the solution actually solves the underlying problem. I have... The post Predictability vs Outcomes appeared first on Silicon Valley Product Group.",
       "titleJa": "予測可能性 vs 実際の成果：エンジニアからテックリードへの転換",
       "summaryJa": "単なるアウトプット（成果物の納品）ではなく、アウトカム（実際に問題を解決できたか）の重要性について、エンジニアがテックリードにキャリアアップする過程での学びをもとに解説しています。プロダクト開発においては、本当に価値のある結果を生み出すことが求められるという点を強調しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: How Meta designed Muse with Alex Cornell",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-meta-designed-muse-with",
-      "publishedAt": "2026-10-12T15:00:38.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "AI活用インタビュー：MetaのMuseをAlex Cornellと語る",
-      "summaryJa": "Lenny's Podcast Networkの「How I AI」シリーズ内で、MetaのAIプロダクト「Muse」の設計プロセスについて、Alex Cornellをゲストに招いてディスカッションするポッドキャストエピソードです。AI時代のプロダクト戦略や設計思想に関する実践的な知見が共有されています。"
     },
     {
       "category": "PdM",
@@ -340,16 +340,6 @@
       "excerpt": "About This Episode: Cloud device farms make it easy to get started with real device testing. But what happens when […]",
       "titleJa": "AI エージェントはテストに合格。実デバイスは合格しなかった",
       "summaryJa": "クラウドデバイスファームによる実デバイステストの導入は容易だが、実際の運用では課題が生じることがある。Nick Metcalfeが、AI エージェントのテスト結果と実デバイスでの検証結果のギャップについて解説する。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Playwright MCP vs CLI, Mutation Testing and AI Agents Flying Blind TGNS196",
-      "url": "https://testguild.com/podcast/n196-sep28/",
-      "publishedAt": "2026-09-28T17:50:42.000Z",
-      "excerpt": "About This Episode: Playwright MCP or CLI: which one’s really eating your AI budget? If you had 12,000 green unit […]",
-      "titleJa": "Playwright MCPとCLI、ミューテーションテスト、AIエージェントの課題 TGNS196",
-      "summaryJa": "Playwright MCPとCLIのどちらがAI予算を圧迫しているかを比較。12,000個の緑のユニットテストを基準に、両アプローチのコスト効率と実用性を検討し、テスト自動化におけるAI活用の最適な方法を考察する。"
     }
   ]
 }
