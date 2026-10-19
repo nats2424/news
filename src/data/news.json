@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-19T17:53:32.884Z",
+  "updatedAt": "2026-10-19T21:48:56.324Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "k6 MCP, SelectorsHub MCP, Cypress and the Rise of AI Test Agents TGNS198",
+      "url": "https://testguild.com/podcast/n198-oct19/",
+      "publishedAt": "2026-10-19T17:25:46.000Z",
+      "excerpt": "About This Episode: Is your AI agent inventing locators that break on the next deploy? Can AI really write a […]",
+      "titleJa": "k6 MCP、SelectorsHub MCP、Cypressと急速に進化するAIテストエージェント",
+      "summaryJa": "このエピソードでは、AIエージェントがテスト自動化ツール(k6、SelectorsHub、Cypress)と統合される中で、AIが生成したロケータが次のデプロイで破損するといった課題や、AIが本当に信頼できるテストコードを書けるのかという問題について探討しています。QA業界におけるAIテストエージェントの台頭と実務的な課題が焦点です。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
