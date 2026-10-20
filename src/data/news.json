@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-20T02:27:20.408Z",
+  "updatedAt": "2026-10-20T10:33:34.265Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "IA e Product Owner: decidere sulla base delle evidenze",
+      "url": "https://www.scrum.org/resources/blog/ia-e-product-owner-decidere-sulla-base-delle-evidenze",
+      "publishedAt": "2026-10-20T08:34:30.000Z",
+      "excerpt": "L'intelligenza artificiale permette di analizzare informazioni e sviluppare nuove proposte in tempi sempre più brevi. Per il Product Owner diventa ancora più importante comprendere quali informazioni siano affidabili e come utilizzarle per prendere decisioni sul prodotto. Image Immaginiamo un Product Owner che riceve una lista di possibili miglioramenti per il proprio prodotto. Uno strumento di intelligenza artificiale (IA) ha analizzato le richieste di assistenza e i dati di utilizzo. In poche ore ha prodotto una sintesi dei problemi più frequenti, accompagnata da dieci proposte di funzionali",
+      "titleJa": "AIとプロダクトオーナー：エビデンスに基づく意思決定",
+      "summaryJa": "AIが膨大なサポートリクエストと利用データを分析し、短時間で改善提案を生成する時代において、プロダクトオーナーはどの情報が信頼できるか見極め、意思決定に活用する能力がより重要になることを論じている。AIツールの活用と信頼性評価のバランスについて扱う。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "NPS Never Told You Why",
+      "url": "https://www.productcoalition.com/p/nps-never-told-you-why",
+      "publishedAt": "2026-10-20T08:00:45.000Z",
+      "excerpt": "Nine years of Product Coalition writing moved one score from answer to warning light",
+      "titleJa": "NPSスコアでは理由が見えない",
+      "summaryJa": "Product Coalitionの9年間の執筆活動を通じて、NPS（Net Promoter Score）が単なる数値回答ではなく、問題を警告する指標として機能することを示している。顧客満足度測定の限界と実際の改善につながる指標の重要性を論じた記事。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +100,6 @@
       "excerpt": "Image It's Monday morning. Over the weekend, an AI system read every support ticket from the last quarter, every sales-call transcript and every competitor's release notes. It rewrote sixty Product Backlog items, re-ordered the top twenty and drafted a Product Goal, with a short memo explaining each choice. The memo is good. Better, honestly, than what most of us would have produced in the same week. Then a stakeholder forwards it with one question: \"What does the Product Owner add here?\" In my Professional Scrum Product Owner – AI Essentials classes, I hear some version of that question more ",
       "titleJa": "AIの時代におけるプロダクトオーナーのアカウンタビリティ",
       "summaryJa": "AIがサポートチケットやセールストランスクリプト、競合情報を分析し、プロダクトバックログを自動で編成・最適化する時代が来ている。その中でプロダクトオーナーの付加価値とアカウンタビリティをどう定義するかについて考察。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Strategy Thinks in Bets. Tactics Execute Them.",
-      "url": "https://www.scrum.org/resources/blog/strategy-thinks-bets-tactics-execute-them",
-      "publishedAt": "2026-10-18T06:00:00.000Z",
-      "excerpt": "Image Something has been spreading through the product teams I work with since around 2022, and it has the same shape as every good idea that becomes a religion. Teams are describing everything as a bet. The instinct behind it is a sound one. Outcomes, the real measure of product work, are lagging indicators. They move slowly, often weeks or months after the work is done, and they sit outside your direct control. Outputs, the features you can count the moment they ship, are leading. Faced with that gap, framing an outcome as a bet is a real fix: it signals that you know you might be wrong and ",
-      "titleJa": "戦略は「賭け」で考え、戦術がそれを実行する",
-      "summaryJa": "プロダクトチームの間で「すべてを賭けとして説明する」という傾向が広がっている。遅行指標である成果と、すぐに計測できる先行指標の出力の間にあるギャップに対して、アウトカムを賭けとしてフレーミングすることで、不確実性への対処と改善の姿勢を示すことができる。"
     },
     {
       "category": "PdM",
@@ -240,16 +250,6 @@
       "excerpt": "I was first taught about the importance of outcome over output way back when I was an engineer getting coached to become a tech lead, and I was explicitly told that it was no longer enough to just build and ship, I had to make sure the solution actually solves the underlying problem. I have... The post Predictability vs Outcomes appeared first on Silicon Valley Product Group.",
       "titleJa": "予測可能性 vs 実際の成果：エンジニアからテックリードへの転換",
       "summaryJa": "単なるアウトプット（成果物の納品）ではなく、アウトカム（実際に問題を解決できたか）の重要性について、エンジニアがテックリードにキャリアアップする過程での学びをもとに解説しています。プロダクト開発においては、本当に価値のある結果を生み出すことが求められるという点を強調しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The Customer Who Paid and Never Arrived",
-      "url": "https://www.productcoalition.com/p/the-customer-who-paid-and-never-arrived",
-      "publishedAt": "2026-10-08T08:00:34.000Z",
-      "excerpt": "Acquisition buys the signature. Activation decides whether that revenue was ever real.",
-      "titleJa": "支払ったのに現れなかった顧客",
-      "summaryJa": "アクイジション（新規顧客獲得）は契約署名までを担当し、その後のアクティベーション（顧客定着）が実際の収益が創出されたかどうかを判断する重要なプロセスであることを示唆している。"
     },
     {
       "category": "QA",
