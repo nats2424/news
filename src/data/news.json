@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-19T21:48:56.324Z",
+  "updatedAt": "2026-10-20T02:27:20.408Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Your Transformation is Suboptimal Because You keep your Dependencies",
+      "url": "https://www.scrum.org/resources/blog/your-transformation-suboptimal-because-you-keep-your-dependencies",
+      "publishedAt": "2026-10-19T22:00:00.000Z",
+      "excerpt": "Your Transformation is suboptimal Because You keep your Dependencies You trained the teams. You renamed the roles. AI tools, sprints, backlogs, planning events, all in place. Teams got a lot faster but end-to-end delivery not so. Why? Well, likely you changed how people work but you didn't change how the work depends on itself. And dependencies decide your speed, not ceremonies (yes even the Scrum events, big room or small room planning all equally don't help in this case). Structure wins. Every time. Three forces shape behavior: Goals and rewards shape what people chase. Processes shape how w",
+      "titleJa": "変革が最適でない理由――依存関係を残したままでは",
+      "summaryJa": "アジャイル変革でチームの作業速度は向上しても、エンドツーエンドの納期短縮につながらないことがある。その理由は、人々の働き方は変えても、業務間の依存関係の構造は変わっていないからである。スプリントやスクラムイベントといった儀式ではなく、組織構造こそが最終的な速度を決定する。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -140,16 +150,6 @@
       "excerpt": "Updated: October 2026 Are you here because you've heard the PMP exam changed on 9 July 2026? Here's what you need to know. The Project Management Professional (PMP)® exam updated in July 2026, but what exactly is different? And what do the new training eligibility requirements mean for candidates when these come into effect later in 2026? Read on... Whoah, the exam changed? I didn't know. How did that happen? Every so often PMI carry out an assessment of what a project manager does all day. This is done by carrying out a Job Task Analysis, where PMI analyzes the standards and industry practice",
       "titleJa": "2026年のPMP試験改正：何が変わったのか",
       "summaryJa": "2026年7月のPMP®試験改正内容と新しい研修資格要件について説明し、PMIが実施したJob Task Analysis に基づく変更内容を紹介しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Stop Guessing, Start Forecasting: Why Scrum Teams Should Embrace Monte Carlo",
-      "url": "https://www.scrum.org/resources/blog/stop-guessing-start-forecasting-why-scrum-teams-should-embrace-monte-carlo",
-      "publishedAt": "2026-10-16T11:49:45.000Z",
-      "excerpt": "Image How confident are you when someone asks, \"When will it be done?\" If you've worked with a Scrum Team for any length of time, you'll know this question well. And you'll probably recognise the uncomfortable silence that sometimes follows. We estimate. We plan. We look at velocity, maybe do a burn chart. Then, rather optimistically, we pick a date and hope reality cooperates. But what if we stopped pretending the future was predictable? That's where Monte Carlo forecasting comes in. Forecasting Without the Crystal Ball Monte Carlo forecasting sounds complicated. It isn't. Rather than relying",
-      "titleJa": "推測はやめて予測を始めよう：Scrumチームがモンテカルロシミュレーションを採用すべき理由",
-      "summaryJa": "Scrumチームの納期予測は従来のベロシティやバーンダウンチャートに頼りがちですが、モンテカルロ予測法を活用することで、より正確で信頼性の高い見通しが可能になります。複雑に見えるこの手法は実は簡潔で実用的です。"
     },
     {
       "category": "PjM",
