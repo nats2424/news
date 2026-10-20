@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-20T15:58:01.919Z",
+  "updatedAt": "2026-10-20T20:58:29.223Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Scary Test Automation POCs Made Easy: Halloween Special With Paul Grossman",
+      "url": "https://testguild.com/podcast/a608-paul/",
+      "publishedAt": "2026-10-20T16:15:46.000Z",
+      "excerpt": "About This Episode: Running a proof of concept on test automation tools can feel like a horror movie. Vendors promise […]",
+      "titleJa": "テスト自動化のPOCを成功させるコツ：ハロウィン特別版 with Paul Grossman",
+      "summaryJa": "テスト自動化ツールのPOC(概念実証)は、ベンダーの過剰な約束と現実のギャップから悪夢のように感じることがある。この特別エピソードでは、ツール選定のリスクを減らし、実質的な効果を得るためのPOC実施のポイントを紹介する。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -323,13 +333,13 @@
     },
     {
       "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "The Aftershock of the Old",
-      "url": "https://qahiccupps.blogspot.com/2026/09/the-aftershock-of-old.html",
-      "publishedAt": "2026-09-29T16:05:07.000Z",
-      "excerpt": "After reading a couple of my posts on AI that invoked comparisons with technologies in the rural environment (Hedging Your Bets on AI) and the music industry (The Needle and the Damage Done) a friend suggested that The Shock of the Old by David Edgerton might be interesting to me. It was. The key theme of the book is that we tend to be beguiled by the invention, possibility, and novelty of technology rather than by its value, usage, or availability. This leads to some warped perspectives. For example, we lose sight of technology long before it becomes obsolete, we devalue the old whatever its ",
-      "titleJa": "古い技術の衝撃：テクノロジー史から学ぶ視点",
-      "summaryJa": "David Edgertonの著書『The Shock of the Old』から着想を得た考察。テクノロジーの価値や実用性よりも革新性に注目する傾向について、AIの事例を交えて検討し、技術評価の偏りを指摘している。"
+      "sourceName": "Satisfice (James Bach)",
+      "title": "Software Engineers Are Becoming More Like Lawyers",
+      "url": "https://www.satisfice.com/blog/archives/488216",
+      "publishedAt": "2026-10-01T09:10:19.000Z",
+      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
+      "titleJa": "ソフトウェアエンジニアはいま法律家に近づいている",
+      "summaryJa": "Claude Opusなどのコーディングエージェントに対する体系的なテストに従事するなかで、テスターとしてのアイデンティティとエンジニアリングスキルの融合の必要性が高まっている。プロダクトコード経験のあるテスターが、AIツール検証の最前線で新たな役割を担う時代が到来している。"
     }
   ]
 }
