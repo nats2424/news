@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-20T10:33:34.265Z",
+  "updatedAt": "2026-10-20T15:58:01.919Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Pragmatism crushes Dogma in the wild",
+      "url": "https://www.scrum.org/resources/blog/pragmatism-crushes-dogma-wild",
+      "publishedAt": "2026-10-20T14:00:00.000Z",
+      "excerpt": "Originally published on Engineering Leadership. In my journey of delivering an immersive Product Development Mentor Program over the last eight weeks, a compelling narrative unfolded that beautifully illustrates the essence and true strength of Scrum. This story, rooted in the practical application of Scrum through Minecraft, unveils the depth of adaptability and resilience that Scrum can foster within a team. The program structured around a series of sprints in Minecraft, aimed to mirror the real-world complexities and dynamism present in product development projects. Starting from the initia",
+      "titleJa": "Scrumは実践に基づく柔軟性こそが本質——実例から学ぶ適応力とレジリエンス",
+      "summaryJa": "プロダクト開発メンタープログラムを通じ、Minecraftを活用したスプリント形式の学習で、Scrumの実践的な価値が実証された。教条的なルール適用ではなく、実際のプロジェクトの複雑性に対応する柔軟性と回復力がScrumの真の強さであることが明らかになった。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Mind-Bending Experiences - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/mind-bending-experiences-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-10-20T13:00:54.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Team events are making a comeback. After years of remote work and tight budgets, companies are bringing people together again, and many are looking for experiences that go beyond the usual offsite. So should companies deliberately send their people somewhere strange, uncomfortable,",
+      "titleJa": "チームを変える体験デザイン——プロダクト開発におけるオフサイトの新しい形",
+      "summaryJa": "リモートワーク時代の終焉とともに、企業のチームイベントが復活している。従来のオフサイトを超えた、意図的に非日常的で挑戦的な体験の場を提供することの価値について、プロダクト管理の視点から探る対談。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -90,16 +110,6 @@
       "excerpt": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
       "titleJa": "AI の black box を開く：言語モデルはどのように思考するのか",
       "summaryJa": "Anthropic の Emmanuel Ameisen が、言語モデルの内部構造の解析を通じて、AI の計画策定、意識、セーフティについて説明します。言語モデルがどのようにして推論を行い、意思決定をしているのかについての洞察を提供します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI and the Product Owner's Accountability",
-      "url": "https://www.scrum.org/resources/blog/ai-and-product-owners-accountability",
-      "publishedAt": "2026-10-18T09:12:17.000Z",
-      "excerpt": "Image It's Monday morning. Over the weekend, an AI system read every support ticket from the last quarter, every sales-call transcript and every competitor's release notes. It rewrote sixty Product Backlog items, re-ordered the top twenty and drafted a Product Goal, with a short memo explaining each choice. The memo is good. Better, honestly, than what most of us would have produced in the same week. Then a stakeholder forwards it with one question: \"What does the Product Owner add here?\" In my Professional Scrum Product Owner – AI Essentials classes, I hear some version of that question more ",
-      "titleJa": "AIの時代におけるプロダクトオーナーのアカウンタビリティ",
-      "summaryJa": "AIがサポートチケットやセールストランスクリプト、競合情報を分析し、プロダクトバックログを自動で編成・最適化する時代が来ている。その中でプロダクトオーナーの付加価値とアカウンタビリティをどう定義するかについて考察。"
     },
     {
       "category": "PdM",
@@ -313,16 +323,6 @@
     },
     {
       "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Software Engineers Are Becoming More Like Lawyers",
-      "url": "https://www.satisfice.com/blog/archives/488216",
-      "publishedAt": "2026-10-01T09:10:19.000Z",
-      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
-      "titleJa": "ソフトウェアエンジニアが法律家のような役割を担うようになっている",
-      "summaryJa": "AIコーディングエージェントの体系的なテストに関するプロジェクトから、ソフトウェアエンジニアの職務が法的責任や厳密な検証を求める方向へシフトしていることが明らかになる。テスター出身者も含め、エンジニアには従来のコーディングスキル以上の多面的な能力が求められるようになっている。"
-    },
-    {
-      "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
       "title": "The Aftershock of the Old",
       "url": "https://qahiccupps.blogspot.com/2026/09/the-aftershock-of-old.html",
@@ -330,26 +330,6 @@
       "excerpt": "After reading a couple of my posts on AI that invoked comparisons with technologies in the rural environment (Hedging Your Bets on AI) and the music industry (The Needle and the Damage Done) a friend suggested that The Shock of the Old by David Edgerton might be interesting to me. It was. The key theme of the book is that we tend to be beguiled by the invention, possibility, and novelty of technology rather than by its value, usage, or availability. This leads to some warped perspectives. For example, we lose sight of technology long before it becomes obsolete, we devalue the old whatever its ",
       "titleJa": "古い技術の衝撃：テクノロジー史から学ぶ視点",
       "summaryJa": "David Edgertonの著書『The Shock of the Old』から着想を得た考察。テクノロジーの価値や実用性よりも革新性に注目する傾向について、AIの事例を交えて検討し、技術評価の偏りを指摘している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Unpacking Innovation - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/unpacking-innovation-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-09-29T13:00:27.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Is innovation the goal — or just a byproduct of solving customer problems well? In this episode of All Things Product, Petra Wille and Teresa Torres unpack one of the most misused words in product: \"innovation.\" Teresa makes the case",
-      "titleJa": "イノベーションの本質を解く：プロダクトポッドキャスト",
-      "summaryJa": "All Things Product ポッドキャストで、Teresa Torres と Petra Wille が「イノベーション」の定義について議論。顧客課題の解決がイノベーションの真の目標なのか、あるいは副産物なのかを探っている。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "AI Agents Passed the Tests. Real Devices Didn’t. with Nick Metcalfe",
-      "url": "https://testguild.com/podcast/a606-nick/",
-      "publishedAt": "2026-09-29T12:37:46.000Z",
-      "excerpt": "About This Episode: Cloud device farms make it easy to get started with real device testing. But what happens when […]",
-      "titleJa": "AI エージェントはテストに合格。実デバイスは合格しなかった",
-      "summaryJa": "クラウドデバイスファームによる実デバイステストの導入は容易だが、実際の運用では課題が生じることがある。Nick Metcalfeが、AI エージェントのテスト結果と実デバイスでの検証結果のギャップについて解説する。"
     }
   ]
 }
