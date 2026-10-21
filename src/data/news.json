@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-20T20:58:29.223Z",
+  "updatedAt": "2026-10-21T02:21:05.465Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Visibility You Think You Have Isn't the Visibility You Have.",
+      "url": "https://www.scrum.org/resources/blog/visibility-you-think-you-have-isnt-visibility-you-have",
+      "publishedAt": "2026-10-20T22:00:00.000Z",
+      "excerpt": "Image In Digital.ai's 2025 State of Agile, 55% of organizations said they have complete visibility into what they're building. In the same survey, 63% can't reliably deliver it, up 12 points in a year. Those two findings describe the same companies. Sit with that. Visibility went up. Delivery got worse. If visibility were the thing that saved you, that graph would slope the other way. A few weeks ago we looked at the surprise everyone saw coming: the status that was green all quarter and then snapped, and the post-mortem where person after person admitted they'd already known. The strange part",
+      "titleJa": "見えていると思う可視性は、実は見えていない",
+      "summaryJa": "Digital.aiの2025年Agile調査では、55%の組織が開発内容の完全な可視性があると回答した一方で、63%は確実に納品できていないという矛盾した結果が報告されている。可視性の向上が必ずしも納品品質の改善につながらないことを指摘し、プロジェクトマネジメントにおける真の課題を提示している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Business Requirements: From Business Decisions to Clear Action",
+      "url": "https://www.scrum.org/resources/blog/business-requirements-business-decisions-clear-action",
+      "publishedAt": "2026-10-20T18:21:32.000Z",
+      "excerpt": "Image Business requirements are about more than choosing the right words. A requirement can sound clear and still create problems if the team has not fully understood the business need or made the decisions required to move forward. Strong business requirements start with the work that happens before they are written. Teams need to understand the problem, determine what needs to change, resolve important questions, and then turn that understanding into requirements people can use. Why Are Requirements Often Unclear? Teams sometimes begin writing requirements too early. A stakeholder describes ",
+      "titleJa": "ビジネス要件：ビジネス意思決定から実行可能な指示へ",
+      "summaryJa": "ビジネス要件の質は単なる言葉選びではなく、チームが真のビジネスニーズを理解し、必要な意思決定を完了することが重要である。要件を書く前の準備作業—問題の理解、変更点の特定、重要な質問の解決—が強固な要件作成の基盤となることを解説している。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -90,26 +110,6 @@
       "excerpt": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
       "titleJa": "Claude Code活用で動画編集を自動化するクリエイター戦略",
       "summaryJa": "Brooke Laceyが実演を交えて、Claude Codeを使い生の動画を15秒でキャプション付きのジャンプカット形式TikTok動画に変換するプロセスを紹介。AI活用による動画制作のスケーリング事例として注目。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How To Create A Team Wall For Your Scrum Team",
-      "url": "https://www.scrum.org/resources/blog/how-create-team-wall-your-scrum-team",
-      "publishedAt": "2026-10-19T08:01:16.000Z",
-      "excerpt": "Image Transparency is the backbone of empiricism, which is the foundation of Scrum. Without transparency, inspection and adaptation are pointless. The higher the transparency you have in your team, the better. Bear in mind that all Scrum Team members are responsible for keeping the transparency high. However, the Scrum Master has a crucial role in this regard. One of the most effective techniques to significantly increase transparency is to create a Team Wall. A Team Wall is a practice to keep all the main information of the team at the project level in a single place. Team Wall Blocks These a",
-      "titleJa": "Scrumチームのためのチームウォール作成ガイド",
-      "summaryJa": "チームウォールはScrumの基盤である経験主義を支える透明性を高める有効な実践方法です。プロジェクトレベルのすべての重要情報を一箇所に集約することで、検査と適応をより効果的にします。Scrumマスターはこの透明性維持において重要な役割を担います。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI-Assisted Product Discovery: When Code Is Cheap, Judgment Is the Job",
-      "url": "https://www.scrum.org/resources/blog/ai-assisted-product-discovery-when-code-cheap-judgment-job",
-      "publishedAt": "2026-10-18T14:54:47.000Z",
-      "excerpt": "TL; DR: Deciding What to Build Is the New Job, Now that Code Is No Longer a Constraint Agentic coding has removed the cost gate that used to stop product teams from chasing every idea at once, and the constraint has moved to product judgment: the ability to tell what is worth building. AI-Assisted product discovery can prepare that judgment by reading far more customer evidence than any product person could. Such a discovery agent analyzes three families of sources, checks eight patterns, and argues both against and for your current direction. The A3 Framework has a name for this work: Assist,",
-      "titleJa": "AIが変える新時代のプロダクト発見：判断力がボトルネック",
-      "summaryJa": "エージェンティック・コーディングにより開発コストが低下し、プロダクト判断が新たなボトルネックになった。AI支援型プロダクト発見は顧客証拠を大規模に分析し、8つのパターンを検査することで、構築するべき機能の判断を強化。A3フレームワークのAssist段階として、複数のデータソースから包括的な検討を提供する。"
     },
     {
       "category": "PdM",
