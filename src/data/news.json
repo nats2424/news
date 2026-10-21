@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-21T16:14:25.220Z",
+  "updatedAt": "2026-10-21T20:58:51.504Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Claude Duet is beautiful. I still forgot to use it",
+      "url": "https://www.lennysnewsletter.com/p/claude-duet-is-beautiful-i-still",
+      "publishedAt": "2026-10-21T20:25:18.000Z",
+      "excerpt": "Watch now (16 mins) | 🎙️ I tested Claude Duet, Anthropic's beautifully designed new personal agent, on real work to see if it can beat my personal agent fatigue and make the cut",
+      "titleJa": "Claude Duetは素晴らしい。でも結局使い忘れた",
+      "summaryJa": "Anthropic の新しいパーソナルエージェント「Claude Duet」の実用性をテストした内容。美しく設計されたUIを備えながらも、実際の業務で使い続けるまでには至らなかった経験を、エージェント疲れの問題を交えて考察している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
@@ -230,16 +240,6 @@
       "excerpt": "Product & Profit #101",
       "titleJa": "ロードマップ付きの契約戦略",
       "summaryJa": "プロダクト&プロフィット#101では、契約段階でロードマップを組み込む戦略について解説。プロダクトマネージャーが営業段階から顧客期待を明確にし、実装計画と連動させることで、契約後の認識ズレを防ぎ、顧客満足度とプロダクト開発の効率性を向上させるアプローチを紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Meta’s new ‘Muse Wonder’ model: good for AI agents, bad for design",
-      "url": "https://www.lennysnewsletter.com/p/metas-new-muse-wonder-model-good",
-      "publishedAt": "2026-10-14T12:04:05.000Z",
-      "excerpt": "Watch now (24 mins) | 🎙️Meta launched Muse Wonder with claims of frontier agentic performance, so I ran it headlessly through Claude Code against nearly 20 tasks to find out if any of it is true",
-      "titleJa": "Meta「Muse Wonder」モデル：AI エージェント向けには優れているがデザインには不向き",
-      "summaryJa": "Metaが発表したMuse Wonderのエージェンティック性能について、Claude Codeを使用して20近くのタスクでテストした結果をレポート。AIエージェント機能の実際の効果と制限について検証した内容。"
     },
     {
       "category": "PdM",
