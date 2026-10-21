@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-21T10:45:54.480Z",
+  "updatedAt": "2026-10-21T16:14:25.220Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Silicon Valley Product Group",
+      "title": "Experimentation, AI and the Product Model",
+      "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
+      "publishedAt": "2026-10-21T15:53:41.000Z",
+      "excerpt": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing. This talk is focused on the product organization, the people responsible for building the products the company sells. Some Notes on... The post Experimentation, AI and the Product Model appeared first on Silicon Valley Product Group.",
+      "titleJa": "実験とAIがプロダクト組織にもたらす変化",
+      "summaryJa": "プロダクト組織における実験の重要性をテーマにしたカンファレンスキーノート。実験手法がプロダクト開発にいかに活用されるか、またAI時代のプロダクトモデルの進化について論じている。プロダクトマネージャーが顧客価値を検証する上での実験の役割を中心に解説。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
