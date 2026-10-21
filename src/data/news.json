@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-21T02:21:05.465Z",
+  "updatedAt": "2026-10-21T10:45:54.480Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How To Write Effective Acceptance Criteria",
+      "url": "https://www.scrum.org/resources/blog/how-write-effective-acceptance-criteria",
+      "publishedAt": "2026-10-21T07:26:09.000Z",
+      "excerpt": "Image Acceptance Criteria, or Conditions of Satisfaction, is a set of expectations that a feature must meet to be considered complete and work as intended. Acceptance Criteria is a non-negotiable mechanism for creating quality features. Unfortunately, many Scrum Teams overlook this powerful concept. Don’t add a few simple bullet points to your ticket and claim you have Acceptance Criteria. You should go much deeper. When the team learns how to write effective Acceptance Criteria, it significantly increases the quality of your product. Based on my experience, it is a GAME-CHANGER. Practically, ",
+      "titleJa": "効果的なアクセプタンス基準の書き方",
+      "summaryJa": "アクセプタンス基準（完了の条件）は機能の品質を左右する重要な要素です。多くのスクラムチームがこの概念を軽視していますが、効果的なアクセプタンス基準を書くことで、プロダクト全体の品質が大幅に向上します。単なる箇条書きではなく、より深い思考が必要です。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Stop asking whether your pharma company should \"go agile\"",
+      "url": "https://www.scrum.org/resources/blog/stop-asking-whether-your-pharma-company-should-go-agile",
+      "publishedAt": "2026-10-21T05:46:23.000Z",
+      "excerpt": "One pharma company works in four very different kinds of environment at the same time. So the useful question isn't whether to adopt agile. It's agile to solve what, how much, and what kind. Over the years, I've been asked some version of the same question countless times: \"Should we introduce agile?\" I understand where the question is coming from. I often introduce myself as an \"agile coach\". And \"agile\" is often promoted as a thing you \"implement\" or \"introduce\". So it's tempting for leaders to ask me that, hoping for a clear answer. But this question has a false premise. It treats agile as ",
+      "titleJa": "製薬企業の「アジャイル導入」を問い直す",
+      "summaryJa": "製薬企業のような複雑な環境では、単に「アジャイルを導入すべきか」という二項択一の問いは適切ではありません。何を解決するために、どの程度、どのような形でアジャイルを活用するかという具体的な問いが有効です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -52,16 +72,6 @@
       "summaryJa": "リモートワーク時代の終焉とともに、企業のチームイベントが復活している。従来のオフサイトを超えた、意図的に非日常的で挑戦的な体験の場を提供することの価値について、プロダクト管理の視点から探る対談。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "IA e Product Owner: decidere sulla base delle evidenze",
-      "url": "https://www.scrum.org/resources/blog/ia-e-product-owner-decidere-sulla-base-delle-evidenze",
-      "publishedAt": "2026-10-20T08:34:30.000Z",
-      "excerpt": "L'intelligenza artificiale permette di analizzare informazioni e sviluppare nuove proposte in tempi sempre più brevi. Per il Product Owner diventa ancora più importante comprendere quali informazioni siano affidabili e come utilizzarle per prendere decisioni sul prodotto. Image Immaginiamo un Product Owner che riceve una lista di possibili miglioramenti per il proprio prodotto. Uno strumento di intelligenza artificiale (IA) ha analizzato le richieste di assistenza e i dati di utilizzo. In poche ore ha prodotto una sintesi dei problemi più frequenti, accompagnata da dieci proposte di funzionali",
-      "titleJa": "AIとプロダクトオーナー：エビデンスに基づく意思決定",
-      "summaryJa": "AIが膨大なサポートリクエストと利用データを分析し、短時間で改善提案を生成する時代において、プロダクトオーナーはどの情報が信頼できるか見極め、意思決定に活用する能力がより重要になることを論じている。AIツールの活用と信頼性評価のバランスについて扱う。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "NPS Never Told You Why",
@@ -70,16 +80,6 @@
       "excerpt": "Nine years of Product Coalition writing moved one score from answer to warning light",
       "titleJa": "NPSスコアでは理由が見えない",
       "summaryJa": "Product Coalitionの9年間の執筆活動を通じて、NPS（Net Promoter Score）が単なる数値回答ではなく、問題を警告する指標として機能することを示している。顧客満足度測定の限界と実際の改善につながる指標の重要性を論じた記事。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your Transformation is Suboptimal Because You keep your Dependencies",
-      "url": "https://www.scrum.org/resources/blog/your-transformation-suboptimal-because-you-keep-your-dependencies",
-      "publishedAt": "2026-10-19T22:00:00.000Z",
-      "excerpt": "Your Transformation is suboptimal Because You keep your Dependencies You trained the teams. You renamed the roles. AI tools, sprints, backlogs, planning events, all in place. Teams got a lot faster but end-to-end delivery not so. Why? Well, likely you changed how people work but you didn't change how the work depends on itself. And dependencies decide your speed, not ceremonies (yes even the Scrum events, big room or small room planning all equally don't help in this case). Structure wins. Every time. Three forces shape behavior: Goals and rewards shape what people chase. Processes shape how w",
-      "titleJa": "変革が最適でない理由――依存関係を残したままでは",
-      "summaryJa": "アジャイル変革でチームの作業速度は向上しても、エンドツーエンドの納期短縮につながらないことがある。その理由は、人々の働き方は変えても、業務間の依存関係の構造は変わっていないからである。スプリントやスクラムイベントといった儀式ではなく、組織構造こそが最終的な速度を決定する。"
     },
     {
       "category": "QA",
