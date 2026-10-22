@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T02:15:55.489Z",
+  "updatedAt": "2026-10-22T10:46:50.852Z",
   "items": [
     {
       "category": "PdM",
@@ -340,16 +340,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What happens when you hand your opportunity solution tree to an AI? Vistaly rebuilt its entire product to find out—and the agents were the easy part. In this episode of Just Now Possible, Teresa Torres talks with Matt O'",
       "titleJa": "AIで機会解決ツリーを生成する：Vistalyがインタビュー分析・評価・修正ループで製品を再構築",
       "summaryJa": "Vistaly は機会解決ツリーをAIに活用させることで製品全体を再構築しました。インタビュー合成、評価ループ、修正プロセスを組み合わせることで、従来のプロダクトマネジメント手法をAI化し、より効率的な機会発掘を実現した事例を紹介しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Satisfice (James Bach)",
-      "title": "Software Engineers Are Becoming More Like Lawyers",
-      "url": "https://www.satisfice.com/blog/archives/488216",
-      "publishedAt": "2026-10-01T09:10:19.000Z",
-      "excerpt": "I am working on a project I can’t say much about, except that it involves the systematic testing of Claude Opus as a coding agent. I got onto the project based on my background in software engineering. Although I identify as a tester, I was once a production coder, and I’ve kept up my coding […]",
-      "titleJa": "ソフトウェアエンジニアはいま法律家に近づいている",
-      "summaryJa": "Claude Opusなどのコーディングエージェントに対する体系的なテストに従事するなかで、テスターとしてのアイデンティティとエンジニアリングスキルの融合の必要性が高まっている。プロダクトコード経験のあるテスターが、AIツール検証の最前線で新たな役割を担う時代が到来している。"
     }
   ]
 }
