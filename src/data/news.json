@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T09:56:31.893Z",
+  "updatedAt": "2026-10-24T14:59:53.085Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From AI Theater to Unreasonable Agility",
+      "url": "https://www.scrum.org/resources/blog/ai-theater-unreasonable-agility",
+      "publishedAt": "2026-10-24T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Why does so much AI adoption look busy and change so little? There’s theater in both places. Some organizations focus agile on activities and outputs. They measure story points and velocity, and they do a lot of hoo-ha ceremonies. And you’re starting to see that with AI. You’re seeing token maxing, and people that are measured based on how many tokens they use. If they don’t use all of the tokens by the end of the month, then they will get fewer tokens the next month, and they will be on some lists where they won’t be considered 10x, 100x employees. Ther",
+      "titleJa": "AI導入の見た目の成果から真の機敏性へ",
+      "summaryJa": "多くのAI導入が活動的に見えながら実質的な変化をもたらさない理由を探ります。アジャイル組織が活動量や出力を重視し、ストーリーポイントやベロシティを測定する傾向と同様に、AI領域でもトークン消費量を指標にする「見た目の成果」が蔓延しており、真の価値創造ではなく数値目標の達成が優先されている実態を指摘しています。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -70,16 +80,6 @@
       "excerpt": "Image Acceptance Criteria, or Conditions of Satisfaction, is a set of expectations that a feature must meet to be considered complete and work as intended. Acceptance Criteria is a non-negotiable mechanism for creating quality features. Unfortunately, many Scrum Teams overlook this powerful concept. Don’t add a few simple bullet points to your ticket and claim you have Acceptance Criteria. You should go much deeper. When the team learns how to write effective Acceptance Criteria, it significantly increases the quality of your product. Based on my experience, it is a GAME-CHANGER. Practically, ",
       "titleJa": "効果的なアクセプタンス基準の書き方",
       "summaryJa": "アクセプタンス基準（完了の条件）は機能の品質を左右する重要な要素です。多くのスクラムチームがこの概念を軽視していますが、効果的なアクセプタンス基準を書くことで、プロダクト全体の品質が大幅に向上します。単なる箇条書きではなく、より深い思考が必要です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Stop asking whether your pharma company should \"go agile\"",
-      "url": "https://www.scrum.org/resources/blog/stop-asking-whether-your-pharma-company-should-go-agile",
-      "publishedAt": "2026-10-21T05:46:23.000Z",
-      "excerpt": "One pharma company works in four very different kinds of environment at the same time. So the useful question isn't whether to adopt agile. It's agile to solve what, how much, and what kind. Over the years, I've been asked some version of the same question countless times: \"Should we introduce agile?\" I understand where the question is coming from. I often introduce myself as an \"agile coach\". And \"agile\" is often promoted as a thing you \"implement\" or \"introduce\". So it's tempting for leaders to ask me that, hoping for a clear answer. But this question has a false premise. It treats agile as ",
-      "titleJa": "製薬企業の「アジャイル導入」を問い直す",
-      "summaryJa": "製薬企業のような複雑な環境では、単に「アジャイルを導入すべきか」という二項択一の問いは適切ではありません。何を解決するために、どの程度、どのような形でアジャイルを活用するかという具体的な問いが有効です。"
     },
     {
       "category": "QA",
