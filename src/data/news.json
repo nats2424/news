@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T14:59:53.085Z",
+  "updatedAt": "2026-10-24T19:56:11.837Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
+      "publishedAt": "2026-10-24T15:11:42.000Z",
+      "excerpt": "Community Wisdom 303",
+      "titleJa": "コミュニティの知恵：低い提示額の交渉、プロダクト意思決定への設計者の参画、MCPサーバー構築リソースなど",
+      "summaryJa": "Lenny's Newsletterのコミュニティ投稿シリーズ第303号。プロダクトマネジメント関連のトピックとして、給与交渉のスキル、デザイナーがプロダクト決定に関わる方法、MCPサーバー開発のためのリソースなど、実践的な知見やベストプラクティスを共有しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -150,16 +160,6 @@
       "excerpt": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
       "titleJa": "AI の black box を開く：言語モデルはどのように思考するのか",
       "summaryJa": "Anthropic の Emmanuel Ameisen が、言語モデルの内部構造の解析を通じて、AI の計画策定、意識、セーフティについて説明します。言語モデルがどのようにして推論を行い、意思決定をしているのかについての洞察を提供します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: PRDs for agents, tracking competitor messaging, whether software moats still exist, exercising startup options when you leave, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-prds-for-agents",
-      "publishedAt": "2026-10-17T13:53:57.000Z",
-      "excerpt": "Community Wisdom 302",
-      "titleJa": "コミュニティの知見：エージェント向けPRD、競合メッセージング追跡、ソフトウェアの競争優位性、スタートアップ退職時のオプション行使など",
-      "summaryJa": "Lennyのニュースレター第302号では、AIエージェント向けの要件定義書（PRD）の作成方法、競合企業のメッセージング戦略の効果的な追跡方法、ソフトウェア企業の競争優位性の存在可能性、そしてスタートアップを退職する際のストックオプション行使の判断基準など、プロダクトマネジャーが直面する複数の重要な課題について、コミュニティからの実践的な知見を紹介しています。"
     },
     {
       "category": "PjM",
