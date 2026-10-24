@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T02:19:20.320Z",
+  "updatedAt": "2026-10-24T09:56:31.893Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "Sign of the Times",
+      "url": "https://qahiccupps.blogspot.com/2026/10/sign-of-times.html",
+      "publishedAt": "2026-10-24T05:15:41.000Z",
+      "excerpt": "Time flies, they say. This is the 720th post on Hiccupps and I'm publishing it fifteen years after the first, to the day. I've often used blog birthdays as a chance to step back a little and reflect but fifteen feels like a big number so I thought I'd step all the way back. --00-- I use the blog as a reference, to recall what I did or what I thought, but I don't have strong memories of a lot of the material, so I decided to sample it by reading the post published closest to its anniversary for every year of its existence. 2011 Sign Language Phew. The first post is not too cringe and it makes a",
+      "titleJa": "時の流れと15年の歩み",
+      "summaryJa": "QA技術者のブログ「Hiccupps」が15周年を迎え、創設から現在までの720件の投稿を振り返る記事。ブログを参考資料として活用しながら、毎年の記念日に最も近い投稿を読み返すことで、15年間の思考と経験の軌跡を総括している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
