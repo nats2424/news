@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-23T20:44:41.324Z",
+  "updatedAt": "2026-10-24T02:19:20.320Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Do WIP Limits Still Make Sense When Agents Write the Code?",
+      "url": "https://www.scrum.org/resources/blog/do-wip-limits-still-make-sense-when-agents-write-code",
+      "publishedAt": "2026-10-23T23:19:22.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Starting work has become easier. I catch myself doing this. I start one agent on a dashboard, another on article research, another on a client artifact. Each start is rational. The agent is going to work for a while, so why should I wait? A couple of hours later, I am the one carrying the map. Which decision is waiting? Which branch needs review? Which result do I no longer remember well enough to judge quickly? The agents are not overloaded. I am. That experience is becoming normal. Anthropic’s customer stories describe teams at Rakuten and developers a",
+      "titleJa": "AIエージェントの時代、WIP制限はまだ有効か",
+      "summaryJa": "AIエージェントが次々とタスクを並行処理するようになった現在、開発者が複数の作業を同時に開始することが容易になった。しかし実際には、エージェント自体は過負荷になっていなくても、その進捗管理や決定判断を担当する人間側がボトルネックになるという新たな課題が生じている。従来のWIP(仕掛かり数)制限の概念が、人間中心から作業分担型へシフトする中で、再考が必要になる状況を指摘している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +70,6 @@
       "excerpt": "One pharma company works in four very different kinds of environment at the same time. So the useful question isn't whether to adopt agile. It's agile to solve what, how much, and what kind. Over the years, I've been asked some version of the same question countless times: \"Should we introduce agile?\" I understand where the question is coming from. I often introduce myself as an \"agile coach\". And \"agile\" is often promoted as a thing you \"implement\" or \"introduce\". So it's tempting for leaders to ask me that, hoping for a clear answer. But this question has a false premise. It treats agile as ",
       "titleJa": "製薬企業の「アジャイル導入」を問い直す",
       "summaryJa": "製薬企業のような複雑な環境では、単に「アジャイルを導入すべきか」という二項択一の問いは適切ではありません。何を解決するために、どの程度、どのような形でアジャイルを活用するかという具体的な問いが有効です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Visibility You Think You Have Isn't the Visibility You Have.",
-      "url": "https://www.scrum.org/resources/blog/visibility-you-think-you-have-isnt-visibility-you-have",
-      "publishedAt": "2026-10-20T22:00:00.000Z",
-      "excerpt": "Image In Digital.ai's 2025 State of Agile, 55% of organizations said they have complete visibility into what they're building. In the same survey, 63% can't reliably deliver it, up 12 points in a year. Those two findings describe the same companies. Sit with that. Visibility went up. Delivery got worse. If visibility were the thing that saved you, that graph would slope the other way. A few weeks ago we looked at the surprise everyone saw coming: the status that was green all quarter and then snapped, and the post-mortem where person after person admitted they'd already known. The strange part",
-      "titleJa": "見えていると思う可視性は、実は見えていない",
-      "summaryJa": "Digital.aiの2025年Agile調査では、55%の組織が開発内容の完全な可視性があると回答した一方で、63%は確実に納品できていないという矛盾した結果が報告されている。可視性の向上が必ずしも納品品質の改善につながらないことを指摘し、プロジェクトマネジメントにおける真の課題を提示している。"
     },
     {
       "category": "QA",
