@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-25T10:19:12.082Z",
+  "updatedAt": "2026-10-25T15:11:06.961Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Get AI Initiatives Beyond the Proof of Concept",
+      "url": "https://www.scrum.org/resources/blog/how-get-ai-initiatives-beyond-proof-concept",
+      "publishedAt": "2026-10-25T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Where do AI initiatives actually go to die? I’m tempted to say an AI-native CRM that doesn’t require the salespeople to enter information manually, that’s great. Everybody’s gonna love that. But I’ve seen so often that even these obvious assumptions eventually fall flat. How often do we think things are really desirable, a field of dreams that people will really come, and we jump to the technology feasibility? Even for great ideas, do we want to test them? And how do you test something like this without building it in the AI world? Will anybody actually ",
+      "titleJa": "AI施策をPoC段階から先へ進める方法",
+      "summaryJa": "AI施策が失敗する根本的な理由と、検証段階から本格運用への進め方を探討。優れたアイデアであっても、実装前に適切なテストを実施することの重要性と、AI世界での検証方法についての考察。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
+      "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
+      "publishedAt": "2026-10-25T12:31:34.000Z",
+      "excerpt": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
+      "titleJa": "PMF発見への86分ガイド：PULLフレームワーク解説",
+      "summaryJa": "50社以上のスタートアップを月間経常収益100万ドル達成に導いたファウンダーが、真のプロダクト・マーケット・フィット(PMF)を見つけるためのPULLフレームワークについて解説。86分間のポッドキャストを通じて、実践的なアプローチを学べます。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI-Assisted Refinement Preparation and the Risk When a Suggestion Becomes a Decision",
+      "url": "https://www.scrum.org/resources/blog/ai-assisted-refinement-preparation-and-risk-when-suggestion-becomes-decision",
+      "publishedAt": "2026-10-25T10:37:02.000Z",
+      "excerpt": "TL; DR: The Product Backlog Refinement Agent and the Risk When a Suggestion Becomes a Decision Preparing a refinement session is tedious, and AI is good at the tedious part: reading every Product Backlog item, every repeated comment column, and the team’s own records on the afternoon before. The risk sits elsewhere. A refinement agent asked to “help with refinement” can take the conversation away from the team without writing a single acceptance criterion: “suggesting” to the Product Owner or Product Manager which items to close, merge, split, or create is enough, and the questions the team wa",
+      "titleJa": "AIによるリファインメント準備と提案が決定に変わるリスク",
+      "summaryJa": "プロダクトバックログリファインメント自動化におけるAIツールの活用と潜在的なリスクについて分析。AIの提案がチームの主体的な判断を奪う危険性と、人間中心のプロセスを維持する重要性を指摘。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,26 +80,6 @@
       "excerpt": "Time flies, they say. This is the 720th post on Hiccupps and I'm publishing it fifteen years after the first, to the day. I've often used blog birthdays as a chance to step back a little and reflect but fifteen feels like a big number so I thought I'd step all the way back. --00-- I use the blog as a reference, to recall what I did or what I thought, but I don't have strong memories of a lot of the material, so I decided to sample it by reading the post published closest to its anniversary for every year of its existence. 2011 Sign Language Phew. The first post is not too cringe and it makes a",
       "titleJa": "時の流れと15年の歩み",
       "summaryJa": "QA技術者のブログ「Hiccupps」が15周年を迎え、創設から現在までの720件の投稿を振り返る記事。ブログを参考資料として活用しながら、毎年の記念日に最も近い投稿を読み返すことで、15年間の思考と経験の軌跡を総括している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Do WIP Limits Still Make Sense When Agents Write the Code?",
-      "url": "https://www.scrum.org/resources/blog/do-wip-limits-still-make-sense-when-agents-write-code",
-      "publishedAt": "2026-10-23T23:19:22.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Starting work has become easier. I catch myself doing this. I start one agent on a dashboard, another on article research, another on a client artifact. Each start is rational. The agent is going to work for a while, so why should I wait? A couple of hours later, I am the one carrying the map. Which decision is waiting? Which branch needs review? Which result do I no longer remember well enough to judge quickly? The agents are not overloaded. I am. That experience is becoming normal. Anthropic’s customer stories describe teams at Rakuten and developers a",
-      "titleJa": "AIエージェントの時代、WIP制限はまだ有効か",
-      "summaryJa": "AIエージェントが次々とタスクを並行処理するようになった現在、開発者が複数の作業を同時に開始することが容易になった。しかし実際には、エージェント自体は過負荷になっていなくても、その進捗管理や決定判断を担当する人間側がボトルネックになるという新たな課題が生じている。従来のWIP(仕掛かり数)制限の概念が、人間中心から作業分担型へシフトする中で、再考が必要になる状況を指摘している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Your agents' skills are your craft now",
-      "url": "https://www.scrum.org/resources/blog/your-agents-skills-are-your-craft-now",
-      "publishedAt": "2026-10-22T20:04:48.000Z",
-      "excerpt": "When your agent team starts producing defective output mid-Sprint, fixing the skill file is yours to do. You do not need approval from your manager, an AI governance team, or anyone outside your Scrum Team. Scrum is unambiguous: Developers are self-managing and accountable for adhering to the Definition of Done (Schwaber & Sutherland, 2020). Your agents work within the Sprint Backlog your team owns. When their output falls short of the Definition of Done, the accountability to fix it is yours. Specification gaming and goal substitution are the defects to know Defective agent output follows two",
-      "titleJa": "エージェントのスキル開発はDeveloperの責任",
-      "summaryJa": "Scrum Teamの一員としてDeveloperは、Sprintの途中でエージェントが不正な出力を生成した場合、マネージャーやAIガバナンスチームの承認を得ずにスキルファイルを修正する責任を持ちます。Developerは自己管理的であり、Definition of Doneの遵守に説明責任があります。Specification gamingとgoal substitutionがエージェント出力の典型的な欠陥として認識すべき重要な課題です。"
     },
     {
       "category": "PdM",
@@ -150,16 +160,6 @@
       "excerpt": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
       "titleJa": "Claude Code活用で動画編集を自動化するクリエイター戦略",
       "summaryJa": "Brooke Laceyが実演を交えて、Claude Codeを使い生の動画を15秒でキャプション付きのジャンプカット形式TikTok動画に変換するプロセスを紹介。AI活用による動画制作のスケーリング事例として注目。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Inside the black box of AI: How AI models actually think | Emmanuel Ameisen (Anthropic)",
-      "url": "https://www.lennysnewsletter.com/p/a-mind-expanding-conversation-on",
-      "publishedAt": "2026-10-18T12:31:36.000Z",
-      "excerpt": "Listen now (72 mins) | Emmanuel Ameisen of Anthropic explains what looking inside language models reveals about planning, consciousness, and AI safety",
-      "titleJa": "AI の black box を開く：言語モデルはどのように思考するのか",
-      "summaryJa": "Anthropic の Emmanuel Ameisen が、言語モデルの内部構造の解析を通じて、AI の計画策定、意識、セーフティについて説明します。言語モデルがどのようにして推論を行い、意思決定をしているのかについての洞察を提供します。"
     },
     {
       "category": "PjM",
@@ -330,16 +330,6 @@
       "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Nimit Khandelwal and Chris Kennelly On large software projects, even seemingly trivial choices can set assumptions that the codebase naturally evolves around, making them incredibly expensive to fix later. To help achieve decision velocity without accumulating technica",
       "titleJa": "リバーシブルな決定：コード設計で取り返しのつかない選択を避ける",
       "summaryJa": "大規模ソフトウェアプロジェクトでは、一見些細な決定がコードベースに深く影響し、後で修正するのに莫大なコストがかかる。決定の速度を損なわずに技術負債を避けるための方法論を、Googleの実践例から解説している。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "Exploratory Testing Reimagined",
-      "url": "https://qahiccupps.blogspot.com/2026/10/exploratory-testing-reimagined.html",
-      "publishedAt": "2026-10-04T10:19:15.000Z",
-      "excerpt": "Maaret Pyhäjärvi gave a talk, Exploratory Testing Reimagined, last week. There's a blog post to go with it, so I won't say much on top of what's in my sketchnotes above, just pull out a few reflections. I don't have the data or wide range of experience reports that Maaret does, but my own anecdotal results from using AI tools for testing align closely with what she says in the talk. I have created skills to assist me, and my colleagues, in our testing work. For example, I used the contents of this blog and five years of test notes in my current role to distil a conversational workflow, facilit",
-      "titleJa": "エクスプロラトリーテスティングの再構想",
-      "summaryJa": "Maaret Pyhäjärviのトークに基づいた記事で、AIツールを活用したテスト業務の改善について紹介しています。筆者が実際に使用したAIスキルの事例と、5年間のテストノートを活用した実践的なワークフロー構築の経験が述べられています。"
     }
   ]
 }
