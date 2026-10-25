@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-25T15:11:06.961Z",
+  "updatedAt": "2026-10-25T20:06:08.050Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From Babysitting AI to Developing the Factory",
+      "url": "https://www.scrum.org/resources/blog/babysitting-ai-developing-factory",
+      "publishedAt": "2026-10-25T17:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. \"I feel like I'm constantly babysitting agents who throw walls of markdown and code at me,\" shared a senior engineer I've been coaching through AI adoption. He was missing the joy of troubleshooting tough problems himself. This frustration reminded me of my days troubleshooting Linux kernel issues. The friction, challenge, and joy when you eventually find that sneaky memory leak or kernel oops. Where does that joy come from when agents do the coding? I see signs of this in myself too: fatigue from the volume of content agents pour on us, whether code, te",
+      "titleJa": "AIエージェントの監視から開発工場へ",
+      "summaryJa": "AIツール導入時にエンジニアが感じる課題を探討した記事。AIエージェントが生成する膨大なコードやマークダウンに対応することの疲労感と、自らが問題解決する本来の喜びの喪失について指摘。エンジニアの満足度とAI活用のバランスをどう取るかという重要な問題提起をしている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +70,6 @@
       "excerpt": "Community Wisdom 303",
       "titleJa": "コミュニティの知恵：低い提示額の交渉、プロダクト意思決定への設計者の参画、MCPサーバー構築リソースなど",
       "summaryJa": "Lenny's Newsletterのコミュニティ投稿シリーズ第303号。プロダクトマネジメント関連のトピックとして、給与交渉のスキル、デザイナーがプロダクト決定に関わる方法、MCPサーバー開発のためのリソースなど、実践的な知見やベストプラクティスを共有しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From AI Theater to Unreasonable Agility",
-      "url": "https://www.scrum.org/resources/blog/ai-theater-unreasonable-agility",
-      "publishedAt": "2026-10-24T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Why does so much AI adoption look busy and change so little? There’s theater in both places. Some organizations focus agile on activities and outputs. They measure story points and velocity, and they do a lot of hoo-ha ceremonies. And you’re starting to see that with AI. You’re seeing token maxing, and people that are measured based on how many tokens they use. If they don’t use all of the tokens by the end of the month, then they will get fewer tokens the next month, and they will be on some lists where they won’t be considered 10x, 100x employees. Ther",
-      "titleJa": "AI導入の見た目の成果から真の機敏性へ",
-      "summaryJa": "多くのAI導入が活動的に見えながら実質的な変化をもたらさない理由を探ります。アジャイル組織が活動量や出力を重視し、ストーリーポイントやベロシティを測定する傾向と同様に、AI領域でもトークン消費量を指標にする「見た目の成果」が蔓延しており、真の価値創造ではなく数値目標の達成が優先されている実態を指摘しています。"
     },
     {
       "category": "QA",
