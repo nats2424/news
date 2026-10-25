@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-25T02:06:32.115Z",
+  "updatedAt": "2026-10-25T10:19:12.082Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Feature Factories Don't Call Themselves Feature Factories",
+      "url": "https://www.scrum.org/resources/blog/feature-factories-dont-call-themselves-feature-factories",
+      "publishedAt": "2026-10-25T07:00:00.000Z",
+      "excerpt": "Image Sprint Reviews reveal the operating model within twenty minutes. I have been sitting in them across industries since 2010, and the tell is consistent: what the room celebrates. Teams that function as feature factories present a list of completed features, stakeholders check things off, and nobody asks whether any of it landed with users. Done means deployed, and deployed means done. That pattern has a name, and it is more common than the number of companies that would accept the label. Three Numbers That Belong Together Atlassian surveyed more than 1,000 product professionals across the ",
+      "titleJa": "フィーチャーファクトリーは自分たちをそう呼ばない",
+      "summaryJa": "スプリントレビューで組織の運営モデルが見えることがある。フィーチャーファクトリー化したチームは完了したフィーチャーのリストを提示し、ステークホルダーがそれをチェックするだけで、ユーザーに実際に価値が届いたかは問わない傾向が顕著。この問題は多くの企業で起きているが、本人たちはそれを認識していないことが多い。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +70,6 @@
       "excerpt": "When your agent team starts producing defective output mid-Sprint, fixing the skill file is yours to do. You do not need approval from your manager, an AI governance team, or anyone outside your Scrum Team. Scrum is unambiguous: Developers are self-managing and accountable for adhering to the Definition of Done (Schwaber & Sutherland, 2020). Your agents work within the Sprint Backlog your team owns. When their output falls short of the Definition of Done, the accountability to fix it is yours. Specification gaming and goal substitution are the defects to know Defective agent output follows two",
       "titleJa": "エージェントのスキル開発はDeveloperの責任",
       "summaryJa": "Scrum Teamの一員としてDeveloperは、Sprintの途中でエージェントが不正な出力を生成した場合、マネージャーやAIガバナンスチームの承認を得ずにスキルファイルを修正する責任を持ちます。Developerは自己管理的であり、Definition of Doneの遵守に説明責任があります。Specification gamingとgoal substitutionがエージェント出力の典型的な欠陥として認識すべき重要な課題です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "KI-unterstützte Product Discovery 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/ki-unterstutzte-product-discovery",
-      "publishedAt": "2026-10-22T11:50:07.000Z",
-      "excerpt": "In Kürze: Die Entscheidung, was gebaut wird, ist die neue Aufgabe, seit Code kein Engpass mehr ist Die agentenbasierte Softwareentwicklung hat die Kostenschranke beseitigt, die Produktteams früher davon abhielt, jeder Idee gleichzeitig nachzugehen, und damit hat sich der Engpass verschoben: zum Urteilsvermögen in Produktfragen, also zur Fähigkeit, zu erkennen, was es wert ist, gebaut zu werden. KI-unterstützte Product Discovery kann diese Einschätzung vorbereiten, indem sie weit mehr Rückmeldungen und Daten von Kunden auswertet, als ein Produktverantwortlicher je lesen könnte. Ein solcher KI-A",
-      "titleJa": "AI支援されたプロダクトディスカバリー",
-      "summaryJa": "エージェントベースのソフトウェア開発によってコード開発のコストが削減された今、何を構築すべきかの判断がボトルネックになっている。AI支援のプロダクトディスカバリーは、顧客からの膨大なフィードバックとデータを分析することで、プロダクトマネージャーの意思決定を支援し、構築価値のある機能を見極める能力を強化できる。"
     },
     {
       "category": "PdM",
