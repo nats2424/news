@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-24T19:56:11.837Z",
+  "updatedAt": "2026-10-25T02:06:32.115Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI... improving the wrong system faster",
+      "url": "https://www.scrum.org/resources/blog/ai-improving-wrong-system-faster",
+      "publishedAt": "2026-10-24T22:00:00.000Z",
+      "excerpt": "AI... improving the wrong system faster Many management AI conversation drift to the same place fast. Which model? Where can we automate? How much faster can developers code? Which admin tasks can we cut? Useful questions. But they aren't yet organizational design questions and that's exactly why most AI programs stall. When you add AI onto the existing organization, the wheels spin faster, but are you heading in the right direction?. The new Death march Back in the day there was this idea of software factories, and of-course it did not work as development is not production. Then agile develop",
+      "titleJa": "AIは間違ったシステムを高速化しているだけかもしれない",
+      "summaryJa": "AI導入時の多くの議論は自動化やコード生成速度に焦点を当てがちですが、これは組織設計の根本的な問題に対応していません。既存組織にAIを単純に追加しても、処理速度は上がっても方向性が正しくなければ意味がなく、これが多くのAIプログラムが停滞する理由です。本来は組織的な課題から着手すべきです。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -80,16 +90,6 @@
       "excerpt": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing. This talk is focused on the product organization, the people responsible for building the products the company sells. Some Notes on... The post Experimentation, AI and the Product Model appeared first on Silicon Valley Product Group.",
       "titleJa": "実験とAIがプロダクト組織にもたらす変化",
       "summaryJa": "プロダクト組織における実験の重要性をテーマにしたカンファレンスキーノート。実験手法がプロダクト開発にいかに活用されるか、またAI時代のプロダクトモデルの進化について論じている。プロダクトマネージャーが顧客価値を検証する上での実験の役割を中心に解説。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How To Write Effective Acceptance Criteria",
-      "url": "https://www.scrum.org/resources/blog/how-write-effective-acceptance-criteria",
-      "publishedAt": "2026-10-21T07:26:09.000Z",
-      "excerpt": "Image Acceptance Criteria, or Conditions of Satisfaction, is a set of expectations that a feature must meet to be considered complete and work as intended. Acceptance Criteria is a non-negotiable mechanism for creating quality features. Unfortunately, many Scrum Teams overlook this powerful concept. Don’t add a few simple bullet points to your ticket and claim you have Acceptance Criteria. You should go much deeper. When the team learns how to write effective Acceptance Criteria, it significantly increases the quality of your product. Based on my experience, it is a GAME-CHANGER. Practically, ",
-      "titleJa": "効果的なアクセプタンス基準の書き方",
-      "summaryJa": "アクセプタンス基準（完了の条件）は機能の品質を左右する重要な要素です。多くのスクラムチームがこの概念を軽視していますが、効果的なアクセプタンス基準を書くことで、プロダクト全体の品質が大幅に向上します。単なる箇条書きではなく、より深い思考が必要です。"
     },
     {
       "category": "QA",
