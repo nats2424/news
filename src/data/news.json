@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-26T17:48:26.562Z",
+  "updatedAt": "2026-10-26T22:01:32.721Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "VegaLoad, Leapwork Play, and the End of Untrustworthy AI Tests TGNS199",
+      "url": "https://testguild.com/podcast/n199-oct26/",
+      "publishedAt": "2026-10-26T19:28:49.000Z",
+      "excerpt": "About This Episode: Can you actually trust the Playwright tests your AI generates? A new free tool says it can […]",
+      "titleJa": "VegaLoad、Leapwork Play、そして信頼できないAIテストの終焉",
+      "summaryJa": "AIが生成するPlaywrightテストの信頼性は本当に担保できるのか。本エピソードでは、AIが自動生成するテストの品質と信頼性を検証する新しい無料ツールについて取り上げ、テスト自動化における課題と解決策を探ります。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -310,16 +320,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts We now record almost everything — every meeting has an AI note-taker, and some people wear glasses that capture every word. So what does that do to our relationships when nothing is forgotten and everything can be fact-checked? Petra Wille",
       "titleJa": "記録される会話時代のプロダクト開発：AI時代の人間関係とプロダクト戦略",
       "summaryJa": "Teresa TorresとPetra Willeによるポッドキャスト。AI記録ツールが日常業務に浸透する中で、何もが忘れられず検証可能になる環境が、プロダクト開発チームの関係構築やコミュニケーションに与える影響について議論します。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "WebdriverIO, AI Agents, and 7 Questions to Ask Before Trusting AI Testing TGNS197",
-      "url": "https://testguild.com/podcast/n197-oct05/",
-      "publishedAt": "2026-10-05T19:23:37.000Z",
-      "excerpt": "About This Episode: Faster AI test runs or cheaper ones, which one should you actually pick? Is your WebdriverIO suite […]",
-      "titleJa": "WebdriverIOとAIエージェント：AIテスト導入前に問うべき7つの質問",
-      "summaryJa": "AI テスト実行の高速化と低コスト化のどちらを優先すべきか、WebdriverIOスイートの活用方法などを検討。AIテスト導入時に信頼性を確保するための重要な質問項目を紹介している。"
     }
   ]
 }
