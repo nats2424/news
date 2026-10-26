@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-10-26T11:45:54.543Z",
+  "updatedAt": "2026-10-26T17:48:26.562Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From Vibe Coding to Developing the Company",
+      "url": "https://www.scrum.org/resources/blog/vibe-coding-developing-company",
+      "publishedAt": "2026-10-26T17:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. Vibe coding with generative AI. It's the experience of building products in some weird combination of the Las Vegas slot machine with LA's Universal Studios tour. Random, nondeterministic, with a cool product facade with not much behind it. A great way to explore and prototype. Not so much for making real products or capabilities. Spec-driven development came on the scene as the mature version of agentic coding. Specify the feature The idea of spec-driven development is to take an idea, turn it into a specification, and use that specification to guide ag",
+      "titleJa": "バイブコーディングから会社開発へ",
+      "summaryJa": "生成AIの時代における開発アプローチの進化を解説。当初のバイブコーディングは試作に優れるが本物の製品構築には不向き。これに対して仕様駆動開発はエージェント型コーディングの成熟版として、アイデアから仕様策定を経てそれを開発に活かすアプローチとして登場しました。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
+      "publishedAt": "2026-10-26T15:00:53.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
+      "titleJa": "How I AI:Claude Duetレビュー＆Redditの独自AI試作ツール",
+      "summaryJa": "Lenny's Podcast Networkの週間配信番組。RedditがデザイナーのためにFigma MCPとCursor pipelineを組み合わせた独自のAI試作ツールを開発した経緯と、その実運用について、Redditのプリンシパルデザイナーエンジニアが解説します。Gitなしで数分で本番レベルのプロトタイプまで完成させる仕組みです。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Stop Demoing Your AI Rollout. Find the Unavoidable Project.",
+      "url": "https://www.scrum.org/resources/blog/stop-demoing-your-ai-rollout-find-unavoidable-project",
+      "publishedAt": "2026-10-26T13:00:00.000Z",
+      "excerpt": "Originally published on yuvalyeret.com. What a developer sees when the AI coding CLI rollout arrives From everybody’s perspective, if I’m a developer on a team, it’s not unavoidable right now. I don’t really have to use it right now. I can keep on developing. And at some point, somebody might tell me you have to use it. If I’m told I have to use it, then that’s the only reason I do it. Because it’s mandated. And I still don’t feel the pull. How will that resistance manifest itself? I’ll just use tokens: I’ll use it, I’ll do some demo, but I won’t really believe in it. I’ll go through the motio",
+      "titleJa": "AI導入デモンストレーションを止めて、必須プロジェクトを見つけよ",
+      "summaryJa": "AI開発ツールの導入は現在のところ開発者にとって任意とみなされ、実質的な推進力が働きません。そのため導入は形式的なデモに終わる傾向があります。本記事は、AI導入を成功させるには義務化ではなく、チームにとって本当に必要な不可欠なプロジェクトを明確にすることが重要であると主張しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Great Project Managers Make Great Scrum Masters",
+      "url": "https://www.scrum.org/resources/blog/great-project-managers-make-great-scrum-masters",
+      "publishedAt": "2026-10-26T13:00:00.000Z",
+      "excerpt": "Image I’ve been using Scrum for over 20 years now. And great Scrum Masters can come from anywhere. They can be people from the business, Developers, HR Managers, and (occasionally) Leadership. But I often see Scrum Masters come to Scrum from Project Management. It makes sense. There is a lot of overlap. Project Managers facilitate meetings, help a team deliver value, remove impediments, and escalate risks. But there is also a lot that Project Managers need to let go of in order to be great Scrum Masters. Among other things, they need to let go of creating the plan for how the work will get don",
+      "titleJa": "優秀なプロジェクトマネージャーは優秀なスクラムマスターになる",
+      "summaryJa": "20年以上Scrumを実践する著者が、プロジェクトマネジャーがスクラムマスターに転身する際の課題を論じています。両職は会議ファシリテーション、チーム支援、障害排除など多くの共通点がありますが、スクラムマスターとして成功するにはPMのアプローチをいくつか手放す必要があります。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
+      "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
+      "publishedAt": "2026-10-26T12:04:20.000Z",
+      "excerpt": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git required",
+      "titleJa": "RedditがAI試作ツール自社開発した理由",
+      "summaryJa": "RedditのプリンシパルUXエンジニアBlairが、カスタムFigma MCPとCursorパイプラインの組み合わせにより、デザイナーが白紙から本番対応のプロトタイプまで数分で作成できる方法を紹介。Gitの知識不要で、すぐシェア可能なプロトタイプが実現する仕組みについて30分で解説します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -20,36 +70,6 @@
       "excerpt": "AI can help Product Owners identify patterns in customer feedback. Understanding what those patterns mean often requires hearing from people whose experiences are missing from the original reports. Choosing whom to speak with next can make a real difference to the next product decision. Image Consider, for example, a service that allows customers to book repair appointments. Several customers have contacted support because they struggled to find a suitable appointment. An AI tool groups these reports together, bringing a possible pattern to the Product Owner's attention. The reports suggest a ",
       "titleJa": "AIが顧客フィードバックのパターンを提案するとき、何が見落とされているか",
       "summaryJa": "AIは顧客フィードバックのパターン抽出を支援しますが、パターンの意味を真に理解するには、レポートに含まれていない経験を持つユーザーの声を聞く必要があります。誰に次に話を聞くかの選択が、プロダクト判断の成否を左右します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Four ways pharma companies actually adopt agility",
-      "url": "https://www.scrum.org/resources/blog/four-ways-pharma-companies-actually-adopt-agility",
-      "publishedAt": "2026-10-26T01:04:02.000Z",
-      "excerpt": "Image In the first post of this series, I suggested replacing \"should we introduce agile?\" with three other questions: agile to solve what, where and how much, and what kind. Another question I'm sometimes asked is: \"So what are other pharma companies actually doing?\" If you work in this industry, you know it's a relatively closed circle of large companies with many links between them: they co-promote drugs together, and their people often move from one company to another. So it's natural to be curious about what the others are doing. Two questions that sort most cases One imperfect but useful",
-      "titleJa": "製薬企業が実際にアジャイルを導入する4つの方法",
-      "summaryJa": "製薬企業におけるアジャイル導入の実態を解説する記事。「アジャイルを導入すべきか」という単純な問いではなく、「何を解決するのか」「どの範囲で」「どの程度」など、より具体的な質問へシフトさせることの重要性を提案。業界内で実際に行われている導入事例の検討を通じて、成功するアジャイル導入のポイントを紹介しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From Babysitting AI to Developing the Factory",
-      "url": "https://www.scrum.org/resources/blog/babysitting-ai-developing-factory",
-      "publishedAt": "2026-10-25T17:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. \"I feel like I'm constantly babysitting agents who throw walls of markdown and code at me,\" shared a senior engineer I've been coaching through AI adoption. He was missing the joy of troubleshooting tough problems himself. This frustration reminded me of my days troubleshooting Linux kernel issues. The friction, challenge, and joy when you eventually find that sneaky memory leak or kernel oops. Where does that joy come from when agents do the coding? I see signs of this in myself too: fatigue from the volume of content agents pour on us, whether code, te",
-      "titleJa": "AIエージェントの監視から開発工場へ",
-      "summaryJa": "AIツール導入時にエンジニアが感じる課題を探討した記事。AIエージェントが生成する膨大なコードやマークダウンに対応することの疲労感と、自らが問題解決する本来の喜びの喪失について指摘。エンジニアの満足度とAI活用のバランスをどう取るかという重要な問題提起をしている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Get AI Initiatives Beyond the Proof of Concept",
-      "url": "https://www.scrum.org/resources/blog/how-get-ai-initiatives-beyond-proof-concept",
-      "publishedAt": "2026-10-25T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. Where do AI initiatives actually go to die? I’m tempted to say an AI-native CRM that doesn’t require the salespeople to enter information manually, that’s great. Everybody’s gonna love that. But I’ve seen so often that even these obvious assumptions eventually fall flat. How often do we think things are really desirable, a field of dreams that people will really come, and we jump to the technology feasibility? Even for great ideas, do we want to test them? And how do you test something like this without building it in the AI world? Will anybody actually ",
-      "titleJa": "AI施策をPoC段階から先へ進める方法",
-      "summaryJa": "AI施策が失敗する根本的な理由と、検証段階から本格運用への進め方を探討。優れたアイデアであっても、実装前に適切なテストを実施することの重要性と、AI世界での検証方法についての考察。"
     },
     {
       "category": "PdM",
@@ -140,26 +160,6 @@
       "excerpt": "About This Episode: Is your AI agent inventing locators that break on the next deploy? Can AI really write a […]",
       "titleJa": "k6 MCP、SelectorsHub MCP、Cypressと急速に進化するAIテストエージェント",
       "summaryJa": "このエピソードでは、AIエージェントがテスト自動化ツール(k6、SelectorsHub、Cypress)と統合される中で、AIが生成したロケータが次のデプロイで破損するといった課題や、AIが本当に信頼できるテストコードを書けるのかという問題について探討しています。QA業界におけるAIテストエージェントの台頭と実務的な課題が焦点です。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: Meta Muse Wonder + How Brooke Lacey is scaling video with AI",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-meta-muse-wonder-how-brooke",
-      "publishedAt": "2026-10-19T15:03:35.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "🎙️ How I AI: Meta Muse Wonder + Brookeが動画をAIでスケール",
-      "summaryJa": "Lenny's Podcast Networkの週刊配信「How I AI」シリーズ。Brooke Laceyがいかにして動画制作をAI技術を活用してスケールしているかについて紹介。PdM向けの最新トレンド情報を提供します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "“Claude cuts my TikTok”: How this creator is scaling video with AI | Brooke Lacey",
-      "url": "https://www.lennysnewsletter.com/p/claude-cuts-my-tiktok-how-this-creator",
-      "publishedAt": "2026-10-19T12:04:52.000Z",
-      "excerpt": "Watch now (37 mins) | 🎙️ Brooke Lacey shows live how Claude Code turns a raw phone video into a captioned, jump-cut TikTok in about 15 seconds",
-      "titleJa": "Claude Code活用で動画編集を自動化するクリエイター戦略",
-      "summaryJa": "Brooke Laceyが実演を交えて、Claude Codeを使い生の動画を15秒でキャプション付きのジャンプカット形式TikTok動画に変換するプロセスを紹介。AI活用による動画制作のスケーリング事例として注目。"
     },
     {
       "category": "PjM",
@@ -320,16 +320,6 @@
       "excerpt": "About This Episode: Faster AI test runs or cheaper ones, which one should you actually pick? Is your WebdriverIO suite […]",
       "titleJa": "WebdriverIOとAIエージェント：AIテスト導入前に問うべき7つの質問",
       "summaryJa": "AI テスト実行の高速化と低コスト化のどちらを優先すべきか、WebdriverIOスイートの活用方法などを検討。AIテスト導入時に信頼性を確保するための重要な質問項目を紹介している。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "Google Testing Blog",
-      "title": "Two-Way Doors: Don’t Code Yourself into a Corner",
-      "url": "http://testing.googleblog.com/2026/10/two-way-doors-dont-code-yourself-into.html",
-      "publishedAt": "2026-10-05T12:47:12.909Z",
-      "excerpt": "@media only screen and (max-width: 600px) { .body { overflow-x: auto; } .post-content table, .post-content td { width: auto !important; white-space: nowrap; } } This article was adapted from a Google Tech on the Toilet (TotT) episode. You can download a printer-friendly version of this TotT episode and post it in your office. By Nimit Khandelwal and Chris Kennelly On large software projects, even seemingly trivial choices can set assumptions that the codebase naturally evolves around, making them incredibly expensive to fix later. To help achieve decision velocity without accumulating technica",
-      "titleJa": "リバーシブルな決定：コード設計で取り返しのつかない選択を避ける",
-      "summaryJa": "大規模ソフトウェアプロジェクトでは、一見些細な決定がコードベースに深く影響し、後で修正するのに莫大なコストがかかる。決定の速度を損なわずに技術負債を避けるための方法論を、Googleの実践例から解説している。"
     }
   ]
 }
