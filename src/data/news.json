@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-26T02:07:14.173Z",
+  "updatedAt": "2026-10-26T11:45:54.543Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How To Create The  First Version Of Your  Definition of Done",
+      "url": "https://www.scrum.org/resources/blog/how-create-first-version-your-definition-done",
+      "publishedAt": "2026-10-26T08:16:06.000Z",
+      "excerpt": "Image Done is a simple yet mysterious concept. Ask different Developers when a Product Backlog Item is Done, and you'll get different answers, a serious problem that costs the team transparency. On the other hand, every Sprint is a learning loop, and the Scrum Team should close that loop by creating a Done Increment, delivering it to Stakeholders, and gathering their feedback. If you don't create a Done Increment each Sprint, you don't close the learning loop. That's how important Done is. In fact, if we had to squeeze Scrum into a single sentence, it would be: \"Create a Done Increment each Sp",
+      "titleJa": "Done定義の初版を作成する方法",
+      "summaryJa": "「Done」の定義が曖昧だと、チーム内の認識にズレが生じ、透明性が損なわれます。スクラムでは毎スプリント、完成したインクリメントを届け、ステークホルダーからのフィードバックを得ることで学習ループを閉じることが重要です。Done定義の統一は、スクラムの本質そのものです。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "When AI Suggests a Pattern in Customer Feedback, What Might Be Missing?",
+      "url": "https://www.scrum.org/resources/blog/when-ai-suggests-pattern-customer-feedback-what-might-be-missing",
+      "publishedAt": "2026-10-26T07:54:21.000Z",
+      "excerpt": "AI can help Product Owners identify patterns in customer feedback. Understanding what those patterns mean often requires hearing from people whose experiences are missing from the original reports. Choosing whom to speak with next can make a real difference to the next product decision. Image Consider, for example, a service that allows customers to book repair appointments. Several customers have contacted support because they struggled to find a suitable appointment. An AI tool groups these reports together, bringing a possible pattern to the Product Owner's attention. The reports suggest a ",
+      "titleJa": "AIが顧客フィードバックのパターンを提案するとき、何が見落とされているか",
+      "summaryJa": "AIは顧客フィードバックのパターン抽出を支援しますが、パターンの意味を真に理解するには、レポートに含まれていない経験を持つユーザーの声を聞く必要があります。誰に次に話を聞くかの選択が、プロダクト判断の成否を左右します。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -40,26 +60,6 @@
       "excerpt": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
       "titleJa": "PMF発見への86分ガイド：PULLフレームワーク解説",
       "summaryJa": "50社以上のスタートアップを月間経常収益100万ドル達成に導いたファウンダーが、真のプロダクト・マーケット・フィット(PMF)を見つけるためのPULLフレームワークについて解説。86分間のポッドキャストを通じて、実践的なアプローチを学べます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI-Assisted Refinement Preparation and the Risk When a Suggestion Becomes a Decision",
-      "url": "https://www.scrum.org/resources/blog/ai-assisted-refinement-preparation-and-risk-when-suggestion-becomes-decision",
-      "publishedAt": "2026-10-25T10:37:02.000Z",
-      "excerpt": "TL; DR: The Product Backlog Refinement Agent and the Risk When a Suggestion Becomes a Decision Preparing a refinement session is tedious, and AI is good at the tedious part: reading every Product Backlog item, every repeated comment column, and the team’s own records on the afternoon before. The risk sits elsewhere. A refinement agent asked to “help with refinement” can take the conversation away from the team without writing a single acceptance criterion: “suggesting” to the Product Owner or Product Manager which items to close, merge, split, or create is enough, and the questions the team wa",
-      "titleJa": "AIによるリファインメント準備と提案が決定に変わるリスク",
-      "summaryJa": "プロダクトバックログリファインメント自動化におけるAIツールの活用と潜在的なリスクについて分析。AIの提案がチームの主体的な判断を奪う危険性と、人間中心のプロセスを維持する重要性を指摘。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Feature Factories Don't Call Themselves Feature Factories",
-      "url": "https://www.scrum.org/resources/blog/feature-factories-dont-call-themselves-feature-factories",
-      "publishedAt": "2026-10-25T07:00:00.000Z",
-      "excerpt": "Image Sprint Reviews reveal the operating model within twenty minutes. I have been sitting in them across industries since 2010, and the tell is consistent: what the room celebrates. Teams that function as feature factories present a list of completed features, stakeholders check things off, and nobody asks whether any of it landed with users. Done means deployed, and deployed means done. That pattern has a name, and it is more common than the number of companies that would accept the label. Three Numbers That Belong Together Atlassian surveyed more than 1,000 product professionals across the ",
-      "titleJa": "フィーチャーファクトリーは自分たちをそう呼ばない",
-      "summaryJa": "スプリントレビューで組織の運営モデルが見えることがある。フィーチャーファクトリー化したチームは完了したフィーチャーのリストを提示し、ステークホルダーがそれをチェックするだけで、ユーザーに実際に価値が届いたかは問わない傾向が顕著。この問題は多くの企業で起きているが、本人たちはそれを認識していないことが多い。"
     },
     {
       "category": "PdM",
