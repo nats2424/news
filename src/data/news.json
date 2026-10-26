@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-25T20:06:08.050Z",
+  "updatedAt": "2026-10-26T02:07:14.173Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Four ways pharma companies actually adopt agility",
+      "url": "https://www.scrum.org/resources/blog/four-ways-pharma-companies-actually-adopt-agility",
+      "publishedAt": "2026-10-26T01:04:02.000Z",
+      "excerpt": "Image In the first post of this series, I suggested replacing \"should we introduce agile?\" with three other questions: agile to solve what, where and how much, and what kind. Another question I'm sometimes asked is: \"So what are other pharma companies actually doing?\" If you work in this industry, you know it's a relatively closed circle of large companies with many links between them: they co-promote drugs together, and their people often move from one company to another. So it's natural to be curious about what the others are doing. Two questions that sort most cases One imperfect but useful",
+      "titleJa": "製薬企業が実際にアジャイルを導入する4つの方法",
+      "summaryJa": "製薬企業におけるアジャイル導入の実態を解説する記事。「アジャイルを導入すべきか」という単純な問いではなく、「何を解決するのか」「どの範囲で」「どの程度」など、より具体的な質問へシフトさせることの重要性を提案。業界内で実際に行われている導入事例の検討を通じて、成功するアジャイル導入のポイントを紹介しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,16 +60,6 @@
       "excerpt": "Image Sprint Reviews reveal the operating model within twenty minutes. I have been sitting in them across industries since 2010, and the tell is consistent: what the room celebrates. Teams that function as feature factories present a list of completed features, stakeholders check things off, and nobody asks whether any of it landed with users. Done means deployed, and deployed means done. That pattern has a name, and it is more common than the number of companies that would accept the label. Three Numbers That Belong Together Atlassian surveyed more than 1,000 product professionals across the ",
       "titleJa": "フィーチャーファクトリーは自分たちをそう呼ばない",
       "summaryJa": "スプリントレビューで組織の運営モデルが見えることがある。フィーチャーファクトリー化したチームは完了したフィーチャーのリストを提示し、ステークホルダーがそれをチェックするだけで、ユーザーに実際に価値が届いたかは問わない傾向が顕著。この問題は多くの企業で起きているが、本人たちはそれを認識していないことが多い。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI... improving the wrong system faster",
-      "url": "https://www.scrum.org/resources/blog/ai-improving-wrong-system-faster",
-      "publishedAt": "2026-10-24T22:00:00.000Z",
-      "excerpt": "AI... improving the wrong system faster Many management AI conversation drift to the same place fast. Which model? Where can we automate? How much faster can developers code? Which admin tasks can we cut? Useful questions. But they aren't yet organizational design questions and that's exactly why most AI programs stall. When you add AI onto the existing organization, the wheels spin faster, but are you heading in the right direction?. The new Death march Back in the day there was this idea of software factories, and of-course it did not work as development is not production. Then agile develop",
-      "titleJa": "AIは間違ったシステムを高速化しているだけかもしれない",
-      "summaryJa": "AI導入時の多くの議論は自動化やコード生成速度に焦点を当てがちですが、これは組織設計の根本的な問題に対応していません。既存組織にAIを単純に追加しても、処理速度は上がっても方向性が正しくなければ意味がなく、これが多くのAIプログラムが停滞する理由です。本来は組織的な課題から着手すべきです。"
     },
     {
       "category": "PdM",
