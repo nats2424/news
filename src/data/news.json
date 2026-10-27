@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-27T16:58:31.866Z",
+  "updatedAt": "2026-10-27T21:33:00.043Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Agility Beyond Software: Improving Your Revenue Machine While You Run It",
+      "url": "https://www.scrum.org/resources/blog/agility-beyond-software-improving-your-revenue-machine-while-you-run-it",
+      "publishedAt": "2026-10-27T17:00:00.000Z",
+      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. A conversation with Roi Carmel on In the Spotlight. It’s essentially being empirical, getting transparency on what is working for us, what’s not working for us, inspecting it, being open to inspect what’s working and not working in the system. It’s not about the people. I’m not necessarily saying that this approach is the approach that sales teams need to use day in and day out for managing their sales work. We started with: this is the work of building and evolving your organization, your machine. One of the things tha",
+      "titleJa": "ソフトウェア以上の俊敏性：走りながら収益エンジンを改善する",
+      "summaryJa": "組織やシステムの構築・進化において、実証的なアプローチと透明性が重要であることを論じた記事。何が機能しているか、していないかを検査し、システム全体に対してオープンな姿勢で改善を続けることの必要性を、セールスチームの管理にも応用可能な考え方として提示しています。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -90,16 +100,6 @@
       "excerpt": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git required",
       "titleJa": "RedditがAI試作ツール自社開発した理由",
       "summaryJa": "RedditのプリンシパルUXエンジニアBlairが、カスタムFigma MCPとCursorパイプラインの組み合わせにより、デザイナーが白紙から本番対応のプロトタイプまで数分で作成できる方法を紹介。Gitの知識不要で、すぐシェア可能なプロトタイプが実現する仕組みについて30分で解説します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How To Create The  First Version Of Your  Definition of Done",
-      "url": "https://www.scrum.org/resources/blog/how-create-first-version-your-definition-done",
-      "publishedAt": "2026-10-26T08:16:06.000Z",
-      "excerpt": "Image Done is a simple yet mysterious concept. Ask different Developers when a Product Backlog Item is Done, and you'll get different answers, a serious problem that costs the team transparency. On the other hand, every Sprint is a learning loop, and the Scrum Team should close that loop by creating a Done Increment, delivering it to Stakeholders, and gathering their feedback. If you don't create a Done Increment each Sprint, you don't close the learning loop. That's how important Done is. In fact, if we had to squeeze Scrum into a single sentence, it would be: \"Create a Done Increment each Sp",
-      "titleJa": "Done定義の初版を作成する方法",
-      "summaryJa": "「Done」の定義が曖昧だと、チーム内の認識にズレが生じ、透明性が損なわれます。スクラムでは毎スプリント、完成したインクリメントを届け、ステークホルダーからのフィードバックを得ることで学習ループを閉じることが重要です。Done定義の統一は、スクラムの本質そのものです。"
     },
     {
       "category": "PdM",
