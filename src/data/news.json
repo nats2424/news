@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-10-27T11:12:25.368Z",
+  "updatedAt": "2026-10-27T16:58:31.866Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Why Your AI Tests Pass When Your Features Fail with Donovan Brady",
+      "url": "https://testguild.com/podcast/a609-donovan/",
+      "publishedAt": "2026-10-27T14:34:17.000Z",
+      "excerpt": "About This Episode: Why Your AI Tests Pass When Your Features Fail? Donovan Brady of Leapwork shows how to make […]",
+      "titleJa": "AIテストが成功してもフィーチャーが失敗する理由",
+      "summaryJa": "Leapworkのドノヴァン・ブレディが、AIテストと実装フィーチャーのギャップを生じさせる原因と、その問題を解決するための実践的なアプローチについて解説します。テストの成功が必ずしも本番環境での機能動作を保証しない理由を理解することが重要です。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Defining What Good Looks Likes - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/defining-what-good-looks-likes-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-10-27T13:00:15.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts AI evals feel like a brand-new skill — but the hardest part is a question product teams have always had to answer: what does \"good\" actually look like? Petra Wille and Teresa Torres dig into Teresa's recent",
+      "titleJa": "プロダクト定義の本質 — AI評価時代の「良さ」の定義",
+      "summaryJa": "テレサ・トレスとペトラ・ウィレが、プロダクトチームが直面する根本的な課題「良いとは何か」をAI評価の文脈で掘り下げています。AI時代のプロダクトマネジメントでは、成功基準の明確な定義がかつてないほど重要になっています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scaling the AI Software Factory from Activity to Impact",
+      "url": "https://www.scrum.org/resources/blog/scaling-ai-software-factory-activity-impact",
+      "publishedAt": "2026-10-27T13:00:00.000Z",
+      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. As AI agents take on more of software development, our job as engineers shifts towards designing the system they work in. That means rethinking what teams own, how work flows, and how we learn from what customers actually use. Watch the full episode on YouTube (47 minutes). Chapters 00:00 Navigating AI in Software Development 02:59 The Role of Evidence-Based Management 07:17 The Shift to Spec-Driven Development 14:52 Understanding AI’s Impact on Innovation 19:55 Managing Workflow and Bottlenecks 25:46 Empowering Teams f",
+      "titleJa": "AI時代のソフトウェア開発組織のスケーリング",
+      "summaryJa": "AIエージェントが開発作業の多くを担う時代、エンジニアの役割はシステム設計へシフトしていきます。チームの権限範囲、ワークフロー、顧客利用データからの学習方法を再考し、活動から実際のビジネスインパクトへの測定軸の転換が必要です。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -70,16 +100,6 @@
       "excerpt": "Image Done is a simple yet mysterious concept. Ask different Developers when a Product Backlog Item is Done, and you'll get different answers, a serious problem that costs the team transparency. On the other hand, every Sprint is a learning loop, and the Scrum Team should close that loop by creating a Done Increment, delivering it to Stakeholders, and gathering their feedback. If you don't create a Done Increment each Sprint, you don't close the learning loop. That's how important Done is. In fact, if we had to squeeze Scrum into a single sentence, it would be: \"Create a Done Increment each Sp",
       "titleJa": "Done定義の初版を作成する方法",
       "summaryJa": "「Done」の定義が曖昧だと、チーム内の認識にズレが生じ、透明性が損なわれます。スクラムでは毎スプリント、完成したインクリメントを届け、ステークホルダーからのフィードバックを得ることで学習ループを閉じることが重要です。Done定義の統一は、スクラムの本質そのものです。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "When AI Suggests a Pattern in Customer Feedback, What Might Be Missing?",
-      "url": "https://www.scrum.org/resources/blog/when-ai-suggests-pattern-customer-feedback-what-might-be-missing",
-      "publishedAt": "2026-10-26T07:54:21.000Z",
-      "excerpt": "AI can help Product Owners identify patterns in customer feedback. Understanding what those patterns mean often requires hearing from people whose experiences are missing from the original reports. Choosing whom to speak with next can make a real difference to the next product decision. Image Consider, for example, a service that allows customers to book repair appointments. Several customers have contacted support because they struggled to find a suitable appointment. An AI tool groups these reports together, bringing a possible pattern to the Product Owner's attention. The reports suggest a ",
-      "titleJa": "AIが顧客フィードバックのパターンを提案するとき、何が見落とされているか",
-      "summaryJa": "AIは顧客フィードバックのパターン抽出を支援しますが、パターンの意味を真に理解するには、レポートに含まれていない経験を持つユーザーの声を聞く必要があります。誰に次に話を聞くかの選択が、プロダクト判断の成否を左右します。"
     },
     {
       "category": "PdM",
@@ -300,26 +320,6 @@
       "excerpt": "I was first taught about the importance of outcome over output way back when I was an engineer getting coached to become a tech lead, and I was explicitly told that it was no longer enough to just build and ship, I had to make sure the solution actually solves the underlying problem. I have... The post Predictability vs Outcomes appeared first on Silicon Valley Product Group.",
       "titleJa": "予測可能性 vs 実際の成果：エンジニアからテックリードへの転換",
       "summaryJa": "単なるアウトプット（成果物の納品）ではなく、アウトカム（実際に問題を解決できたか）の重要性について、エンジニアがテックリードにキャリアアップする過程での学びをもとに解説しています。プロダクト開発においては、本当に価値のある結果を生み出すことが求められるという点を強調しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Locust and Azure Load Testing: Create and Debug Load Tests with AI with Lars Holmberg and Abhinav Premsekhar",
-      "url": "https://testguild.com/podcast/a607-lars/",
-      "publishedAt": "2026-10-06T15:15:50.000Z",
-      "excerpt": "About This Episode: Performance testing has never been easier to start, or more important to get right. As teams ship […]",
-      "titleJa": "LocustとAzure Load Testing：AIを活用したロードテストの作成とデバッグ",
-      "summaryJa": "パフォーマンステストの実施方法と重要性について、Lars HolmbergとAbhinav Premsekharが解説するエピソード。AIを活用した負荷テストの作成およびデバッグ手法を紹介し、チームがテストを効果的に実装するための実践的なアプローチを提供します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Recorded Conversations - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/recorded-conversations-all-things-product/",
-      "publishedAt": "2026-10-06T13:00:39.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts We now record almost everything — every meeting has an AI note-taker, and some people wear glasses that capture every word. So what does that do to our relationships when nothing is forgotten and everything can be fact-checked? Petra Wille",
-      "titleJa": "記録される会話時代のプロダクト開発：AI時代の人間関係とプロダクト戦略",
-      "summaryJa": "Teresa TorresとPetra Willeによるポッドキャスト。AI記録ツールが日常業務に浸透する中で、何もが忘れられず検証可能になる環境が、プロダクト開発チームの関係構築やコミュニケーションに与える影響について議論します。"
     }
   ]
 }
