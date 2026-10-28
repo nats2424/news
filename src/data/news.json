@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-27T21:33:00.043Z",
+  "updatedAt": "2026-10-28T02:53:28.635Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Nobody disagreed. Nobody decided. Nothing changed.",
+      "url": "https://www.scrum.org/resources/blog/nobody-disagreed-nobody-decided-nothing-changed",
+      "publishedAt": "2026-10-27T23:00:00.000Z",
+      "excerpt": "Image Nobody disagreed. Nobody decided. Nothing changed. You put the plan on the screen. You did the responsible thing and asked for honest reactions before committing to it. A pause. A couple of nods. \"Looks good to me.\" Nobody objects. \"Great, we're aligned.\" The plan is now the plan. Six weeks later it's in trouble, in exactly the way one person in that room could have told you it would be. And in the debrief, they more or less do. \"I had a bad feeling about the timeline.\" \"I wasn't sure that dependency would hold.\" \"Honestly, none of us thought it would work.\" The concerns existed the whol",
+      "titleJa": "誰も反対しない。誰も決めない。何も変わらない。",
+      "summaryJa": "チーム会議で計画案を提示しても、表面的な同意しか得られず、実は懸念を抱いていたメンバーの声が上がらないままになる問題について説明しています。計画実行後のトラブルの振り返りで、初めから問題点を指摘できていたはずのメンバーの懸念が顕在化する現象を指摘しており、プロジェクト管理における心理的安全性の重要性を示唆しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "Originally published on yuvalyeret.com. What a developer sees when the AI coding CLI rollout arrives From everybody’s perspective, if I’m a developer on a team, it’s not unavoidable right now. I don’t really have to use it right now. I can keep on developing. And at some point, somebody might tell me you have to use it. If I’m told I have to use it, then that’s the only reason I do it. Because it’s mandated. And I still don’t feel the pull. How will that resistance manifest itself? I’ll just use tokens: I’ll use it, I’ll do some demo, but I won’t really believe in it. I’ll go through the motio",
       "titleJa": "AI導入デモンストレーションを止めて、必須プロジェクトを見つけよ",
       "summaryJa": "AI開発ツールの導入は現在のところ開発者にとって任意とみなされ、実質的な推進力が働きません。そのため導入は形式的なデモに終わる傾向があります。本記事は、AI導入を成功させるには義務化ではなく、チームにとって本当に必要な不可欠なプロジェクトを明確にすることが重要であると主張しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Great Project Managers Make Great Scrum Masters",
-      "url": "https://www.scrum.org/resources/blog/great-project-managers-make-great-scrum-masters",
-      "publishedAt": "2026-10-26T13:00:00.000Z",
-      "excerpt": "Image I’ve been using Scrum for over 20 years now. And great Scrum Masters can come from anywhere. They can be people from the business, Developers, HR Managers, and (occasionally) Leadership. But I often see Scrum Masters come to Scrum from Project Management. It makes sense. There is a lot of overlap. Project Managers facilitate meetings, help a team deliver value, remove impediments, and escalate risks. But there is also a lot that Project Managers need to let go of in order to be great Scrum Masters. Among other things, they need to let go of creating the plan for how the work will get don",
-      "titleJa": "優秀なプロジェクトマネージャーは優秀なスクラムマスターになる",
-      "summaryJa": "20年以上Scrumを実践する著者が、プロジェクトマネジャーがスクラムマスターに転身する際の課題を論じています。両職は会議ファシリテーション、チーム支援、障害排除など多くの共通点がありますが、スクラムマスターとして成功するにはPMのアプローチをいくつか手放す必要があります。"
     },
     {
       "category": "PdM",
