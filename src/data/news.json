@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-28T02:53:28.635Z",
+  "updatedAt": "2026-10-28T11:46:13.151Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Write An Observation Report",
+      "url": "https://www.scrum.org/resources/blog/write-observation-report",
+      "publishedAt": "2026-10-28T07:33:13.000Z",
+      "excerpt": "Image When you join a Scrum Team, spend at least one Sprint observing their way of working. By doing so, you will get familiar with their product, processes, tools, practices, agreements, and, of course, shortages. The output of this period should be an observation report. Explicitly inform your Scrum Team that you will use the first few weeks to observe their way of working. In addition, inform them that at the end of the observation period, you will write a report of what you have observed. More than that, it would be a great idea to have a one-on-one chat with all team members to get famili",
+      "titleJa": "観察レポートを作成する",
+      "summaryJa": "Scrum Teamに参加する際は、最初の1スプリント以上をかけて彼らの作業方法を観察することが推奨されます。チームの製品、プロセス、ツール、慣行、合意事項などを理解し、改善点を把握するために、観察期間の終了時に観察レポートを作成することが重要です。事前にチームに観察意図を伝え、全メンバーとの1対1面談を通じてさらに詳しく理解することが効果的です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "How I AI:Claude Duetレビュー＆Redditの独自AI試作ツール",
       "summaryJa": "Lenny's Podcast Networkの週間配信番組。RedditがデザイナーのためにFigma MCPとCursor pipelineを組み合わせた独自のAI試作ツールを開発した経緯と、その実運用について、Redditのプリンシパルデザイナーエンジニアが解説します。Gitなしで数分で本番レベルのプロトタイプまで完成させる仕組みです。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Stop Demoing Your AI Rollout. Find the Unavoidable Project.",
-      "url": "https://www.scrum.org/resources/blog/stop-demoing-your-ai-rollout-find-unavoidable-project",
-      "publishedAt": "2026-10-26T13:00:00.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. What a developer sees when the AI coding CLI rollout arrives From everybody’s perspective, if I’m a developer on a team, it’s not unavoidable right now. I don’t really have to use it right now. I can keep on developing. And at some point, somebody might tell me you have to use it. If I’m told I have to use it, then that’s the only reason I do it. Because it’s mandated. And I still don’t feel the pull. How will that resistance manifest itself? I’ll just use tokens: I’ll use it, I’ll do some demo, but I won’t really believe in it. I’ll go through the motio",
-      "titleJa": "AI導入デモンストレーションを止めて、必須プロジェクトを見つけよ",
-      "summaryJa": "AI開発ツールの導入は現在のところ開発者にとって任意とみなされ、実質的な推進力が働きません。そのため導入は形式的なデモに終わる傾向があります。本記事は、AI導入を成功させるには義務化ではなく、チームにとって本当に必要な不可欠なプロジェクトを明確にすることが重要であると主張しています。"
     },
     {
       "category": "PdM",
