@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-29T03:17:13.877Z",
+  "updatedAt": "2026-10-29T11:54:37.472Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Der Refinement-Agent: Was ist sinnvoll, was ist zu vermeiden 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/der-refinement-agent-was-ist-sinnvoll-was-ist-zu-vermeiden",
+      "publishedAt": "2026-10-29T05:51:18.000Z",
+      "excerpt": "In Kürze: Der Refinement-Agent für das Produktbacklog und das Risiko, wenn ein Vorschlag zur Entscheidung wird Die Vorbereitung einer Refinement-Session ist mühsam, und genau bei diesem mühsamen Teil ist KI gut: Sie liest am Nachmittag davor jeden Produktbacklog-Eintrag, jede der zahlreichen Kommentarspalten und die eigenen Aufzeichnungen des Teams. Das Risiko dieser Arbeit liegt jedoch woanders. Ein Refinement-Agent, der „helfen“ soll, kann dem Team das Gespräch aus der Hand nehmen, ohne ein einziges Akzeptanzkriterium zu formulieren. Denn es genügt, dem Product Owner oder Produktmanager „vor",
+      "titleJa": "Refinement エージェントの活用：有効な使い方と避けるべき落とし穴",
+      "summaryJa": "AIを活用したRefinement セッションの準備支援は、バックログ項目やコメントの読み込みなど定型業務を効率化できる一方で、チームの対話を奪い、適切なアクセプタンス基準策定を阻害するリスクがある。Product Owner の判断が重要。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI saved your team time. The Product Backlog decides where it goes.",
+      "url": "https://www.scrum.org/resources/blog/ai-saved-your-team-time-product-backlog-decides-where-it-goes",
+      "publishedAt": "2026-10-29T05:29:19.000Z",
+      "excerpt": "When AI frees up your Developers' time, the Product Owner decides whether that time becomes value. You make that decision through tools you already have: Product Backlog ordering, the Sprint Goal and the Sprint Review. If you don't, whatever comes next gets those \"saved hours\". Gartner reported in October 2026 that only 3% of organisations beat their cost-saving targets through AI productivity, while 77% of board members expect AI to deliver those savings (Gartner, 2026a). Employees are saving time: in a 2025 Gartner survey, 62% said AI had saved them time. Yet only 7% of organisations told st",
+      "titleJa": "解放された時間の行き先を決めるのはプロダクトバックログ",
+      "summaryJa": "AIが開発者の時間を削減しても、その時間を価値に変えるかどうかはProduct Owner の判断次第である。プロダクトバックログの優先順位付けやスプリントゴール、スプリントレビューなどの既存ツールを通じて意思決定することが、組織のAI生産性向上を実現させる鍵となる。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -42,16 +62,6 @@
       "summaryJa": "チーム会議で計画案を提示しても、表面的な同意しか得られず、実は懸念を抱いていたメンバーの声が上がらないままになる問題について説明しています。計画実行後のトラブルの振り返りで、初めから問題点を指摘できていたはずのメンバーの懸念が顕在化する現象を指摘しており、プロジェクト管理における心理的安全性の重要性を示唆しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Agility Beyond Software: Improving Your Revenue Machine While You Run It",
-      "url": "https://www.scrum.org/resources/blog/agility-beyond-software-improving-your-revenue-machine-while-you-run-it",
-      "publishedAt": "2026-10-27T17:00:00.000Z",
-      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. A conversation with Roi Carmel on In the Spotlight. It’s essentially being empirical, getting transparency on what is working for us, what’s not working for us, inspecting it, being open to inspect what’s working and not working in the system. It’s not about the people. I’m not necessarily saying that this approach is the approach that sales teams need to use day in and day out for managing their sales work. We started with: this is the work of building and evolving your organization, your machine. One of the things tha",
-      "titleJa": "ソフトウェア以上の俊敏性：走りながら収益エンジンを改善する",
-      "summaryJa": "組織やシステムの構築・進化において、実証的なアプローチと透明性が重要であることを論じた記事。何が機能しているか、していないかを検査し、システム全体に対してオープンな姿勢で改善を続けることの必要性を、セールスチームの管理にも応用可能な考え方として提示しています。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Why Your AI Tests Pass When Your Features Fail with Donovan Brady",
@@ -70,16 +80,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts AI evals feel like a brand-new skill — but the hardest part is a question product teams have always had to answer: what does \"good\" actually look like? Petra Wille and Teresa Torres dig into Teresa's recent",
       "titleJa": "プロダクト定義の本質 — AI評価時代の「良さ」の定義",
       "summaryJa": "テレサ・トレスとペトラ・ウィレが、プロダクトチームが直面する根本的な課題「良いとは何か」をAI評価の文脈で掘り下げています。AI時代のプロダクトマネジメントでは、成功基準の明確な定義がかつてないほど重要になっています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scaling the AI Software Factory from Activity to Impact",
-      "url": "https://www.scrum.org/resources/blog/scaling-ai-software-factory-activity-impact",
-      "publishedAt": "2026-10-27T13:00:00.000Z",
-      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. As AI agents take on more of software development, our job as engineers shifts towards designing the system they work in. That means rethinking what teams own, how work flows, and how we learn from what customers actually use. Watch the full episode on YouTube (47 minutes). Chapters 00:00 Navigating AI in Software Development 02:59 The Role of Evidence-Based Management 07:17 The Shift to Spec-Driven Development 14:52 Understanding AI’s Impact on Innovation 19:55 Managing Workflow and Bottlenecks 25:46 Empowering Teams f",
-      "titleJa": "AI時代のソフトウェア開発組織のスケーリング",
-      "summaryJa": "AIエージェントが開発作業の多くを担う時代、エンジニアの役割はシステム設計へシフトしていきます。チームの権限範囲、ワークフロー、顧客利用データからの学習方法を再考し、活動から実際のビジネスインパクトへの測定軸の転換が必要です。"
     },
     {
       "category": "QA",
