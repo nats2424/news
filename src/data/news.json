@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-29T11:54:37.472Z",
+  "updatedAt": "2026-10-29T17:43:44.041Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Tiny Teams, Same Dependencies: Can AI Flatten Your Organization?",
+      "url": "https://www.scrum.org/resources/blog/tiny-teams-same-dependencies-can-ai-flatten-your-organization",
+      "publishedAt": "2026-10-29T13:00:00.000Z",
+      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Agents can make people faster, not necessarily more independent. Your engineers or teams who are adopting an agentic software lifecycle see work compression. Big initiatives used to be split into features that eventually were broken down into stories that used to take days. Now, with AI-assisted and especially agentic development, they take minutes, or at most hours. What is needed for success with these tiny teams? Can we just staff these tiny teams, give them tokens, decide on a spec-driven harness, and that’s it? Can",
+      "titleJa": "小規模チームの依存性：AIで組織をフラット化できるか",
+      "summaryJa": "AI・エージェント開発により、従来は数日かかった大型案件が数分から数時間で完了するようになった。しかしエージェント活用による作業の効率化は、チームの独立性を必ずしも高めない。小規模チームで成功を収めるには、トークン配分や仕様駆動設計だけでなく、組織設計の工夫が必要となる。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Dalla velocità al valore: come l’IA può migliorare le decisioni sul prodotto",
+      "url": "https://www.scrum.org/resources/blog/dalla-velocita-al-valore-come-lia-puo-migliorare-le-decisioni-sul-prodotto",
+      "publishedAt": "2026-10-29T12:30:49.000Z",
+      "excerpt": "Una persona sta prenotando online un appuntamento presso la pubblica amministrazione quando scopre, soltanto all’ultimo passaggio, quali documenti dovrà portare con sé. Non essendo sicura di averli tutti a disposizione, decide di interrompere la procedura. In questo scenario ipotetico, altre persone incontrano la stessa difficoltà, come emerge dalle richieste di chiarimento ricevute dall’ente. Il Product Owner ne parla con lo Scrum Team per valutare una possibile soluzione: mostrare l’elenco dei documenti prima della scelta dell’orario potrebbe aiutare le persone a completare la prenotazione? ",
+      "titleJa": "スピードから価値へ：AIが製品判断を高める方法",
+      "summaryJa": "オンラインで行政サービスの予約をしていたユーザーが、最後のステップになって初めて必要書類を知り、予約を中止する状況が発生。Product Ownerとスrum Teamが、予約前に書類リストを表示することでユーザー完了率を向上させられるか検討。AIはこうした製品判断をデータに基づいて支援できる。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -40,26 +60,6 @@
       "excerpt": "Listen now | 🎙️ I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks—and the scores told me which agent runs my work and which runs my life",
       "titleJa": "AI エージェント4種を徹底比較：Grok、Dot、Muse、Claude Duet",
       "summaryJa": "Grok Bot、Dot、Muse、Claude Duetを9つの実務タスクで評価し、各AIエージェントの性能をランキング。仕事に最適なエージェントと日常使いに優れたエージェントを特定し、その違いと強みを明確にしている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Write An Observation Report",
-      "url": "https://www.scrum.org/resources/blog/write-observation-report",
-      "publishedAt": "2026-10-28T07:33:13.000Z",
-      "excerpt": "Image When you join a Scrum Team, spend at least one Sprint observing their way of working. By doing so, you will get familiar with their product, processes, tools, practices, agreements, and, of course, shortages. The output of this period should be an observation report. Explicitly inform your Scrum Team that you will use the first few weeks to observe their way of working. In addition, inform them that at the end of the observation period, you will write a report of what you have observed. More than that, it would be a great idea to have a one-on-one chat with all team members to get famili",
-      "titleJa": "観察レポートを作成する",
-      "summaryJa": "Scrum Teamに参加する際は、最初の1スプリント以上をかけて彼らの作業方法を観察することが推奨されます。チームの製品、プロセス、ツール、慣行、合意事項などを理解し、改善点を把握するために、観察期間の終了時に観察レポートを作成することが重要です。事前にチームに観察意図を伝え、全メンバーとの1対1面談を通じてさらに詳しく理解することが効果的です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Nobody disagreed. Nobody decided. Nothing changed.",
-      "url": "https://www.scrum.org/resources/blog/nobody-disagreed-nobody-decided-nothing-changed",
-      "publishedAt": "2026-10-27T23:00:00.000Z",
-      "excerpt": "Image Nobody disagreed. Nobody decided. Nothing changed. You put the plan on the screen. You did the responsible thing and asked for honest reactions before committing to it. A pause. A couple of nods. \"Looks good to me.\" Nobody objects. \"Great, we're aligned.\" The plan is now the plan. Six weeks later it's in trouble, in exactly the way one person in that room could have told you it would be. And in the debrief, they more or less do. \"I had a bad feeling about the timeline.\" \"I wasn't sure that dependency would hold.\" \"Honestly, none of us thought it would work.\" The concerns existed the whol",
-      "titleJa": "誰も反対しない。誰も決めない。何も変わらない。",
-      "summaryJa": "チーム会議で計画案を提示しても、表面的な同意しか得られず、実は懸念を抱いていたメンバーの声が上がらないままになる問題について説明しています。計画実行後のトラブルの振り返りで、初めから問題点を指摘できていたはずのメンバーの懸念が顕在化する現象を指摘しており、プロジェクト管理における心理的安全性の重要性を示唆しています。"
     },
     {
       "category": "QA",
