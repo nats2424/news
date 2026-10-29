@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T21:58:29.123Z",
+  "updatedAt": "2026-10-29T03:17:13.877Z",
   "items": [
     {
       "category": "PjM",
@@ -280,6 +280,16 @@
       "excerpt": "Product & Profit #101",
       "titleJa": "ロードマップ付きの契約戦略",
       "summaryJa": "プロダクト&プロフィット#101では、契約段階でロードマップを組み込む戦略について解説。プロダクトマネージャーが営業段階から顧客期待を明確にし、実装計画と連動させることで、契約後の認識ズレを防ぎ、顧客満足度とプロダクト開発の効率性を向上させるアプローチを紹介しています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Playwright Testing Framework: A Practitioner’s Guide for 2026",
+      "url": "https://testguild.com/playwright-testing/",
+      "publishedAt": "2026-10-14T11:48:33.000Z",
+      "excerpt": "Last updated: October 2026. Quick answer: Playwright is Microsoft’s open-source browser automation framework. One API drives Chromium, Firefox, and WebKit, […]",
+      "titleJa": "Playwrightテスティングフレームワーク：2026年実践ガイド",
+      "summaryJa": "MicrosoftのオープンソースブラウザオートメーションフレームワークであるPlaywrightについての実践的なガイド。単一のAPIでChromium、Firefox、WebKitを操作でき、2026年時点での最新情報とベストプラクティスをまとめた包括的なリソースとなっている。"
     },
     {
       "category": "PdM",
