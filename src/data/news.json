@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-30T03:19:03.137Z",
+  "updatedAt": "2026-10-30T11:48:03.637Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What Interviewers Really Test When Hiring an AI Product Owner",
+      "url": "https://www.scrum.org/resources/blog/what-interviewers-really-test-when-hiring-ai-product-owner",
+      "publishedAt": "2026-10-30T09:48:25.000Z",
+      "excerpt": "Image AI has not changed what a Product Owner is accountable for. It has changed where the hard work sits, and that is exactly what good interviewers now probe. The Scrum Guide is clear: the Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. That sentence holds whether the product is a payroll screen or an agent that books travel for its users. Yet candidates keep walking into AI Product Owner interviews and losing the room on questions they never rehearsed. Over the last year I have sat in hiring loops for Product Owners on AI produ",
+      "titleJa": "AI時代のプロダクトオーナー採用面接の真意",
+      "summaryJa": "AI PO採用面接で実際に問われることを解説した記事。AIの登場により、POの責務そのものは変わらず、仕事の場所が変わったのみ。Scrum Guideが明確に定める「プロダクト価値の最大化」という責務は変わらず、採用面接ではこの本質的な責任遂行能力が厳しく探られていると述べています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP109 Why the Best Leaders Give Context, Not Direction with Norma Løvhaugen (Neat.no) and Jay Stansell",
+      "url": "https://www.productcoalition.com/p/ep109-why-the-best-leaders-give-context",
+      "publishedAt": "2026-10-30T09:00:59.000Z",
+      "excerpt": "A team can deliver exactly what a customer requested and still solve the wrong problem.",
+      "titleJa": "最高のリーダーは指示ではなく文脈を与える",
+      "summaryJa": "優れたリーダーシップの本質について論じた記事。チームが顧客の要件を正確に実装しても、実は間違った問題を解決している可能性がある。指示を与えるのではなく、適切な文脈を提供することが重要なリーダーシップの手法であることを解説しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -40,16 +60,6 @@
       "excerpt": "When AI frees up your Developers' time, the Product Owner decides whether that time becomes value. You make that decision through tools you already have: Product Backlog ordering, the Sprint Goal and the Sprint Review. If you don't, whatever comes next gets those \"saved hours\". Gartner reported in October 2026 that only 3% of organisations beat their cost-saving targets through AI productivity, while 77% of board members expect AI to deliver those savings (Gartner, 2026a). Employees are saving time: in a 2025 Gartner survey, 62% said AI had saved them time. Yet only 7% of organisations told st",
       "titleJa": "解放された時間の行き先を決めるのはプロダクトバックログ",
       "summaryJa": "AIが開発者の時間を削減しても、その時間を価値に変えるかどうかはProduct Owner の判断次第である。プロダクトバックログの優先順位付けやスプリントゴール、スプリントレビューなどの既存ツールを通じて意思決定することが、組織のAI生産性向上を実現させる鍵となる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Beyond Token Caps: How Enterprises Actually Measure AI Impact — with Tomer Elias",
-      "url": "https://www.scrum.org/resources/blog/beyond-token-caps-how-enterprises-actually-measure-ai-impact-tomer-elias",
-      "publishedAt": "2026-10-28T13:00:00.000Z",
-      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. I met Tomer Elias at a private product leadership community, and it was pretty obvious very quickly that we share an interest in exploring what people are doing out there to evolve beyond tokenmaxxing and AI activity and start to get some real outcomes and some real impact. So I thought: let’s invite Tomer here and compare notes. When you manage your portfolio of experiments, you’d say: this is one of our top priorities. We want to run on it. But like we do in VC funding, you get pre-seed money. You get a couple of week",
-      "titleJa": "トークン数を超えて：エンタープライズ向けAI効果測定の実際",
-      "summaryJa": "トークン消費量から実ビジネス成果へと評価軸をシフトさせるべきプロジェクト管理アプローチを解説。実験ポートフォリオの管理と予算配分を通じて、AI導入の真の価値測定方法を考察している。"
     },
     {
       "category": "PdM",
@@ -300,16 +310,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got twelve people and one hour booked at next week's offsite. Can someone teach your team to do continuous discovery in that hour? Teresa Torres's answer is a flat no — and this episode is",
       "titleJa": "継続的ディスカバリーの期待値管理",
       "summaryJa": "All Things Product Podcastの配信エピソード。Teresa TorresとPetra Willeが、限定的な時間枠内でのチーム教育と継続的ディスカバリーの現実的な実装について議論しており、プロダクトマネージャーの育成と組織文化の課題に焦点を当てています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "Nobody Told the Agent There Was a Floor",
-      "url": "https://www.productcoalition.com/p/nobody-told-the-agent-there-was-a",
-      "publishedAt": "2026-10-13T08:01:20.000Z",
-      "excerpt": "From experiment results to models to agents that write to business systems",
-      "titleJa": "AIエージェントが見落とした制約条件",
-      "summaryJa": "実験結果からモデル、そしてビジネスシステムに直接書き込むAIエージェントへの進化について論じた記事。AIの能力と実際の運用上の制約とのギャップを指摘し、より実用的なエージェント開発のアプローチを提示しています。"
     },
     {
       "category": "QA",
