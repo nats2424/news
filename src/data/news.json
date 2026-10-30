@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-10-30T11:48:03.637Z",
+  "updatedAt": "2026-10-30T17:23:52.019Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Is Rewriting Professional Services: When Faster Implementation Moves the Bottleneck — with Julie Hodge",
+      "url": "https://www.scrum.org/resources/blog/ai-rewriting-professional-services-when-faster-implementation-moves-bottleneck-julie-hodge",
+      "publishedAt": "2026-10-30T13:00:00.000Z",
+      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Julie Hodge and I have been chatting about a very interesting use case of using AI to improve how her company delivers services to clients. When you say speed, I’m hearing from my experience the potential for two things that are possibly related. One is the time it takes: elapsed time, calendar time. The other is that, typically, when something takes less elapsed time, I would assume it also takes less effort. One of the things that are changing right now is that it’s closer and closer to the point, especially for AI-na",
+      "titleJa": "AIが専門サービス業を変革：実装速度がボトルネックをシフトさせる",
+      "summaryJa": "AI導入により企業のサービス提供方法が変わっている。実装時間の短縮だけでなく、作業工数の削減も同時に実現する可能性がある。特にAI活用により、従来のボトルネックが新たな制約点へと移行しつつあり、プロジェクトマネジメント戦略の見直しが必要になっている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -40,16 +50,6 @@
       "excerpt": "Una persona sta prenotando online un appuntamento presso la pubblica amministrazione quando scopre, soltanto all’ultimo passaggio, quali documenti dovrà portare con sé. Non essendo sicura di averli tutti a disposizione, decide di interrompere la procedura. In questo scenario ipotetico, altre persone incontrano la stessa difficoltà, come emerge dalle richieste di chiarimento ricevute dall’ente. Il Product Owner ne parla con lo Scrum Team per valutare una possibile soluzione: mostrare l’elenco dei documenti prima della scelta dell’orario potrebbe aiutare le persone a completare la prenotazione? ",
       "titleJa": "スピードから価値へ：AIが製品判断を高める方法",
       "summaryJa": "オンラインで行政サービスの予約をしていたユーザーが、最後のステップになって初めて必要書類を知り、予約を中止する状況が発生。Product Ownerとスrum Teamが、予約前に書類リストを表示することでユーザー完了率を向上させられるか検討。AIはこうした製品判断をデータに基づいて支援できる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Der Refinement-Agent: Was ist sinnvoll, was ist zu vermeiden 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/der-refinement-agent-was-ist-sinnvoll-was-ist-zu-vermeiden",
-      "publishedAt": "2026-10-29T05:51:18.000Z",
-      "excerpt": "In Kürze: Der Refinement-Agent für das Produktbacklog und das Risiko, wenn ein Vorschlag zur Entscheidung wird Die Vorbereitung einer Refinement-Session ist mühsam, und genau bei diesem mühsamen Teil ist KI gut: Sie liest am Nachmittag davor jeden Produktbacklog-Eintrag, jede der zahlreichen Kommentarspalten und die eigenen Aufzeichnungen des Teams. Das Risiko dieser Arbeit liegt jedoch woanders. Ein Refinement-Agent, der „helfen“ soll, kann dem Team das Gespräch aus der Hand nehmen, ohne ein einziges Akzeptanzkriterium zu formulieren. Denn es genügt, dem Product Owner oder Produktmanager „vor",
-      "titleJa": "Refinement エージェントの活用：有効な使い方と避けるべき落とし穴",
-      "summaryJa": "AIを活用したRefinement セッションの準備支援は、バックログ項目やコメントの読み込みなど定型業務を効率化できる一方で、チームの対話を奪い、適切なアクセプタンス基準策定を阻害するリスクがある。Product Owner の判断が重要。"
     },
     {
       "category": "PjM",
