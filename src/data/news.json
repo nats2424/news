@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-10-31T11:22:02.017Z",
+  "updatedAt": "2026-10-31T16:27:15.946Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
+      "publishedAt": "2026-10-31T16:14:41.000Z",
+      "excerpt": "Community Wisdom 304",
+      "titleJa": "コミュニティの知恵：PMが直面する中断要因、ジュニアPM採用の工夫、AI駆動開発のためのプロダクトハーネス構築など",
+      "summaryJa": "Lennyのニュースレターのコミュニティウィズダムシリーズ。プロダクトマネージャーが直面する割り込みの主な要因、ジュニアPM採用時のケーススタディと行動面接の比較検討、AI駆動開発のためのプロダクトハーネス構築方法など、実践的な知見を共有しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Leading in the Fog (using Agility) — with Brad Farris",
+      "url": "https://www.scrum.org/resources/blog/leading-fog-using-agility-brad-farris",
+      "publishedAt": "2026-10-31T13:00:00.000Z",
+      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Fog, uncertainty, agility, and the world around us. That’s what we’re going to talk about. Brad Farris mentioned the need for agility as a way for businesses, companies and firms to navigate what’s going on around us: the amount of change and disruption and uncertainty, the fog that’s all around us. That’s exactly my language, so I said we have to catch up. What have you seen work and not work, from a language or approach perspective, when you’re trying to convince people who aren’t product people, product builders or m",
+      "titleJa": "霧の中でのリーダーシップ：アジリティを使いこなす（Brad Farrisとの対談）",
+      "summaryJa": "「Scaling AI: From Activity to Impact」の一部として、Brad Farrisが事業環境における変化、混乱、不確実性（「霧」）の中での経営やプロダクト開発におけるアジリティの重要性について論じています。プロダクト関係者以外のステークホルダーを説得する際の言語的アプローチと実践的な手法を紹介しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,16 +70,6 @@
       "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Agents can make people faster, not necessarily more independent. Your engineers or teams who are adopting an agentic software lifecycle see work compression. Big initiatives used to be split into features that eventually were broken down into stories that used to take days. Now, with AI-assisted and especially agentic development, they take minutes, or at most hours. What is needed for success with these tiny teams? Can we just staff these tiny teams, give them tokens, decide on a spec-driven harness, and that’s it? Can",
       "titleJa": "小規模チームの依存性：AIで組織をフラット化できるか",
       "summaryJa": "AI・エージェント開発により、従来は数日かかった大型案件が数分から数時間で完了するようになった。しかしエージェント活用による作業の効率化は、チームの独立性を必ずしも高めない。小規模チームで成功を収めるには、トークン配分や仕様駆動設計だけでなく、組織設計の工夫が必要となる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI saved your team time. The Product Backlog decides where it goes.",
-      "url": "https://www.scrum.org/resources/blog/ai-saved-your-team-time-product-backlog-decides-where-it-goes",
-      "publishedAt": "2026-10-29T05:29:19.000Z",
-      "excerpt": "When AI frees up your Developers' time, the Product Owner decides whether that time becomes value. You make that decision through tools you already have: Product Backlog ordering, the Sprint Goal and the Sprint Review. If you don't, whatever comes next gets those \"saved hours\". Gartner reported in October 2026 that only 3% of organisations beat their cost-saving targets through AI productivity, while 77% of board members expect AI to deliver those savings (Gartner, 2026a). Employees are saving time: in a 2025 Gartner survey, 62% said AI had saved them time. Yet only 7% of organisations told st",
-      "titleJa": "解放された時間の行き先を決めるのはプロダクトバックログ",
-      "summaryJa": "AIが開発者の時間を削減しても、その時間を価値に変えるかどうかはProduct Owner の判断次第である。プロダクトバックログの優先順位付けやスプリントゴール、スプリントレビューなどの既存ツールを通じて意思決定することが、組織のAI生産性向上を実現させる鍵となる。"
     },
     {
       "category": "PdM",
@@ -130,16 +140,6 @@
       "excerpt": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
       "titleJa": "PMF発見への86分ガイド：PULLフレームワーク解説",
       "summaryJa": "50社以上のスタートアップを月間経常収益100万ドル達成に導いたファウンダーが、真のプロダクト・マーケット・フィット(PMF)を見つけるためのPULLフレームワークについて解説。86分間のポッドキャストを通じて、実践的なアプローチを学べます。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: Negotiating a lowball offer, designers earning a seat in product decisions, resources for building an MCP server, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-negotiating-a-lowball",
-      "publishedAt": "2026-10-24T15:11:42.000Z",
-      "excerpt": "Community Wisdom 303",
-      "titleJa": "コミュニティの知恵：低い提示額の交渉、プロダクト意思決定への設計者の参画、MCPサーバー構築リソースなど",
-      "summaryJa": "Lenny's Newsletterのコミュニティ投稿シリーズ第303号。プロダクトマネジメント関連のトピックとして、給与交渉のスキル、デザイナーがプロダクト決定に関わる方法、MCPサーバー開発のためのリソースなど、実践的な知見やベストプラクティスを共有しています。"
     },
     {
       "category": "QA",
