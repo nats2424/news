@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-01T02:58:12.022Z",
+  "updatedAt": "2026-11-01T12:12:47.311Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Work Your Scrum Board Never Shows",
+      "url": "https://www.scrum.org/resources/blog/work-your-scrum-board-never-shows",
+      "publishedAt": "2026-11-01T07:00:00.000Z",
+      "excerpt": "Image I run a simple exercise in retrospectives. I ask the team to list everything they actually worked on in the last two weeks. Not what they planned to work on. Everything. Then I ask them to check each item against the Sprint board. The gap between the two lists is almost always larger than anyone in the room expected. That gap is invisible work, and it is why throughput is harder to predict than teams think it should be. In 2017, Dominica DeGrandis published Making Work Visible and named five categories she calls time thieves: too much work in progress, unknown dependencies, unplanned wor",
+      "titleJa": "Scrumボードに映らない仕事の実態",
+      "summaryJa": "レトロスペクティブで実際の作業内容とスプリントボード上の予定を比較すると、大きなギャップが生じることが多い。このような目に見えない業務は処理能力の予測を困難にする主要因であり、DeGrandisの『Making Work Visible』で指摘された「時間泥棒」カテゴリー（進行中の過剰な作業、隠れた依存関係、計画外の作業など）が、チームの効率性に深刻な影響を与えている。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -60,16 +70,6 @@
       "excerpt": "A team can deliver exactly what a customer requested and still solve the wrong problem.",
       "titleJa": "最高のリーダーは指示ではなく文脈を与える",
       "summaryJa": "優れたリーダーシップの本質について論じた記事。チームが顧客の要件を正確に実装しても、実は間違った問題を解決している可能性がある。指示を与えるのではなく、適切な文脈を提供することが重要なリーダーシップの手法であることを解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Tiny Teams, Same Dependencies: Can AI Flatten Your Organization?",
-      "url": "https://www.scrum.org/resources/blog/tiny-teams-same-dependencies-can-ai-flatten-your-organization",
-      "publishedAt": "2026-10-29T13:00:00.000Z",
-      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Agents can make people faster, not necessarily more independent. Your engineers or teams who are adopting an agentic software lifecycle see work compression. Big initiatives used to be split into features that eventually were broken down into stories that used to take days. Now, with AI-assisted and especially agentic development, they take minutes, or at most hours. What is needed for success with these tiny teams? Can we just staff these tiny teams, give them tokens, decide on a spec-driven harness, and that’s it? Can",
-      "titleJa": "小規模チームの依存性：AIで組織をフラット化できるか",
-      "summaryJa": "AI・エージェント開発により、従来は数日かかった大型案件が数分から数時間で完了するようになった。しかしエージェント活用による作業の効率化は、チームの独立性を必ずしも高めない。小規模チームで成功を収めるには、トークン配分や仕様駆動設計だけでなく、組織設計の工夫が必要となる。"
     },
     {
       "category": "PdM",
