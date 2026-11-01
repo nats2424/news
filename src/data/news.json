@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-01T12:12:47.311Z",
+  "updatedAt": "2026-11-01T21:27:29.331Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Measuring AI Impact at the Team Level",
+      "url": "https://www.scrum.org/resources/blog/measuring-ai-impact-team-level",
+      "publishedAt": "2026-11-01T14:07:02.000Z",
+      "excerpt": "TL; DR: What Your Velocity Chart Cannot Tell the CFO Sooner or later, someone in your organization shows a slide with a number about what AI did for your team: typically, the team’s “velocity” before and after the coding agents arrived, plus a percentage that looks like a return on the token bill. The number may even be “correct”; however, it answers a different question than the one finance is asking: A before-and-after comparison credits every change in that period to the agents, and measuring velocity is controversial for good reason under normal circumstances, which makes measuring AI impa",
+      "titleJa": "チームレベルでのAIインパクト測定方法",
+      "summaryJa": "ベロシティチャートだけでは経営層への説明不足であることを指摘。AIコーディングエージェント導入前後の比較には課題があり、真のビジネスインパクトを正確に測定するには多角的なメトリクスが必要であることを解説する。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
+      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
+      "publishedAt": "2026-11-01T13:31:36.000Z",
+      "excerpt": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
+      "titleJa": "19歳インターンが構築した20億ドル企業の成長エンジン",
+      "summaryJa": "Wispr Flowの成長を牽引したペイドUGC戦略の構築について、Hector Serranoが語る。経歴書よりも若い才能を重視する採用戦略、そして最高のマーケターがAIに警戒的である理由など、スタートアップの成長戦略に関する実例が紹介される。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,16 +70,6 @@
       "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Julie Hodge and I have been chatting about a very interesting use case of using AI to improve how her company delivers services to clients. When you say speed, I’m hearing from my experience the potential for two things that are possibly related. One is the time it takes: elapsed time, calendar time. The other is that, typically, when something takes less elapsed time, I would assume it also takes less effort. One of the things that are changing right now is that it’s closer and closer to the point, especially for AI-na",
       "titleJa": "AIが専門サービス業を変革：実装速度がボトルネックをシフトさせる",
       "summaryJa": "AI導入により企業のサービス提供方法が変わっている。実装時間の短縮だけでなく、作業工数の削減も同時に実現する可能性がある。特にAI活用により、従来のボトルネックが新たな制約点へと移行しつつあり、プロジェクトマネジメント戦略の見直しが必要になっている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "What Interviewers Really Test When Hiring an AI Product Owner",
-      "url": "https://www.scrum.org/resources/blog/what-interviewers-really-test-when-hiring-ai-product-owner",
-      "publishedAt": "2026-10-30T09:48:25.000Z",
-      "excerpt": "Image AI has not changed what a Product Owner is accountable for. It has changed where the hard work sits, and that is exactly what good interviewers now probe. The Scrum Guide is clear: the Product Owner is accountable for maximizing the value of the product resulting from the work of the Scrum Team. That sentence holds whether the product is a payroll screen or an agent that books travel for its users. Yet candidates keep walking into AI Product Owner interviews and losing the room on questions they never rehearsed. Over the last year I have sat in hiring loops for Product Owners on AI produ",
-      "titleJa": "AI時代のプロダクトオーナー採用面接の真意",
-      "summaryJa": "AI PO採用面接で実際に問われることを解説した記事。AIの登場により、POの責務そのものは変わらず、仕事の場所が変わったのみ。Scrum Guideが明確に定める「プロダクト価値の最大化」という責務は変わらず、採用面接ではこの本質的な責任遂行能力が厳しく探られていると述べています。"
     },
     {
       "category": "PdM",
@@ -130,16 +140,6 @@
       "excerpt": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git required",
       "titleJa": "RedditがAI試作ツール自社開発した理由",
       "summaryJa": "RedditのプリンシパルUXエンジニアBlairが、カスタムFigma MCPとCursorパイプラインの組み合わせにより、デザイナーが白紙から本番対応のプロトタイプまで数分で作成できる方法を紹介。Gitの知識不要で、すぐシェア可能なプロトタイプが実現する仕組みについて30分で解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "An 86-minute guide to finding PMF | Rob Snyder (Author, The Power of Pull)",
-      "url": "https://www.lennysnewsletter.com/p/an-86-minute-guide-to-finding-pmf",
-      "publishedAt": "2026-10-25T12:31:34.000Z",
-      "excerpt": "Listen now (86 mins) | The founder who helped over 50 startups hit $1M ARR shares his PULL framework for finding real product-market fit",
-      "titleJa": "PMF発見への86分ガイド：PULLフレームワーク解説",
-      "summaryJa": "50社以上のスタートアップを月間経常収益100万ドル達成に導いたファウンダーが、真のプロダクト・マーケット・フィット(PMF)を見つけるためのPULLフレームワークについて解説。86分間のポッドキャストを通じて、実践的なアプローチを学べます。"
     },
     {
       "category": "QA",
