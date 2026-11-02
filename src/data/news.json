@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-02T03:07:39.136Z",
+  "updatedAt": "2026-11-02T14:02:24.475Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
+      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
+      "publishedAt": "2026-11-02T13:04:11.000Z",
+      "excerpt": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
+      "titleJa": "FigmaのPMが毎日AIを活用する方法",
+      "summaryJa": "Figma成長担当PMのエズラ・メカベルが、60以上のPMが使用する31スキルのリポジトリ「PM OS」と、成長実験を自動実行するAIエージェント「AutoXP」を紹介。人間による最小限のチェックポイントで効率的に実験を運用できる仕組みを解説しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Issue #3 - Scrum Team Magazine - November 2026",
+      "url": "https://www.scrum.org/resources/blog/issue-3-scrum-team-magazine-november-2026",
+      "publishedAt": "2026-11-02T08:22:13.000Z",
+      "excerpt": "Image Click here to read and download the magazine. The first high-quality magazine for the Scrum world is now live. This is the third issue, November 2026. WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who d",
+      "titleJa": "Scrum Team Magazine 第3号（2026年11月）",
+      "summaryJa": "Scrum専門コミュニティ向けの高品質マガジン第3号。宝飾品やファッション業界の優れた出版物に並ぶ、Scrum専門家向けの本格的な雑誌として立ち上げられました。業界水準を大きく引き上げることを目標としています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -62,16 +82,6 @@
       "summaryJa": "著者がScrum.orgのPST(Professional Scrum Trainer)プログラムから退会することを決めた経緯と、スクラムコミュニティにフローとカンバンを導入してきた経験を振り返る記事。2017年からスクラムにカンバンの考え方を統合し、Professional Scrum with Kanbanクラスの開発に携わってきた経験が述べられている。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Is Rewriting Professional Services: When Faster Implementation Moves the Bottleneck — with Julie Hodge",
-      "url": "https://www.scrum.org/resources/blog/ai-rewriting-professional-services-when-faster-implementation-moves-bottleneck-julie-hodge",
-      "publishedAt": "2026-10-30T13:00:00.000Z",
-      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Julie Hodge and I have been chatting about a very interesting use case of using AI to improve how her company delivers services to clients. When you say speed, I’m hearing from my experience the potential for two things that are possibly related. One is the time it takes: elapsed time, calendar time. The other is that, typically, when something takes less elapsed time, I would assume it also takes less effort. One of the things that are changing right now is that it’s closer and closer to the point, especially for AI-na",
-      "titleJa": "AIが専門サービス業を変革：実装速度がボトルネックをシフトさせる",
-      "summaryJa": "AI導入により企業のサービス提供方法が変わっている。実装時間の短縮だけでなく、作業工数の削減も同時に実現する可能性がある。特にAI活用により、従来のボトルネックが新たな制約点へと移行しつつあり、プロジェクトマネジメント戦略の見直しが必要になっている。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP109 Why the Best Leaders Give Context, Not Direction with Norma Løvhaugen (Neat.no) and Jay Stansell",
@@ -130,16 +140,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
       "titleJa": "How I AI:Claude Duetレビュー＆Redditの独自AI試作ツール",
       "summaryJa": "Lenny's Podcast Networkの週間配信番組。RedditがデザイナーのためにFigma MCPとCursor pipelineを組み合わせた独自のAI試作ツールを開発した経緯と、その実運用について、Redditのプリンシパルデザイナーエンジニアが解説します。Gitなしで数分で本番レベルのプロトタイプまで完成させる仕組みです。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Why Reddit built its own AI prototyping tool | Blair Metcalf",
-      "url": "https://www.lennysnewsletter.com/p/why-reddit-built-its-own-ai-prototyping",
-      "publishedAt": "2026-10-26T12:04:20.000Z",
-      "excerpt": "Watch now (30 mins) | 🎙️ Reddit’s principal UX engineer shows how a custom Figma MCP and Cursor pipeline takes any designer from blank slate to shareable, production-shaped prototype in minutes—no Git required",
-      "titleJa": "RedditがAI試作ツール自社開発した理由",
-      "summaryJa": "RedditのプリンシパルUXエンジニアBlairが、カスタムFigma MCPとCursorパイプラインの組み合わせにより、デザイナーが白紙から本番対応のプロトタイプまで数分で作成できる方法を紹介。Gitの知識不要で、すぐシェア可能なプロトタイプが実現する仕組みについて30分で解説します。"
     },
     {
       "category": "QA",
