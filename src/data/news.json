@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-03T13:10:32.970Z",
+  "updatedAt": "2026-11-03T22:39:37.187Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "The HS2 reset: lessons for project managers",
+      "url": "https://rebelsguidetopm.com/hs2-reset/",
+      "publishedAt": "2026-11-03T15:10:53.000Z",
+      "excerpt": "HS2, the high speed railway line, is now expected to cost between £87.7 billion and £102.7 billion, and the full line could open up to 13 years later than planned in 2020. Those are the headline numbers from the National Audit Office's latest report, High Speed Two reset, published in June 2026. It's easy to read the headlines, shake your head and move on. But the report is much more interesting than the numbers. It looks at what happens when a programme outgrows the organization running it, and at what it takes to put things right. This isn't the first reset, either. HS2 was reset in 2020, Eu",
+      "titleJa": "HS2プロジェクトの改革からプロジェクトマネージャーが学ぶこと",
+      "summaryJa": "英国高速鉄道HS2は予算が1000億ポンド近くまで膨らみ、開業が13年遅延する見通し。国家監査局の報告書から、大規模プログラムが組織を上回るケースと、その対策について実践的な教訓を紹介します。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Lenny’s Newsletter holiday gift guide 2026",
+      "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
+      "publishedAt": "2026-11-03T14:45:33.000Z",
+      "excerpt": "100+ gift ideas—all things I actually use, love, and recommend",
+      "titleJa": "Lennyのニュースレター2026年ホリデーギフトガイド",
+      "summaryJa": "Lennyが実際に使用・推奨する100以上のギフトアイデアを厳選して紹介するガイド。プロダクト関係者向けの実用的で信頼性の高い商品をまとめたリストです。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "What AI Changes - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/what-ai-changes-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Everyone’s shouting that AI changes everything. Teresa Torres wrote a LinkedIn “screed” arguing the opposite — and this episode is the debate she and Petra wanted to have about it. Petra Wille and Teresa Torres work through the",
+      "titleJa": "AIが変えるもの：Teresa Torres & Petra Willeが語るプロダクト論",
+      "summaryJa": "AIが全てを変えるという通説に対し、Teresa Torresが異なる視点を提示。ポッドキャストでTorresとWilleがAIがプロダクト開発に与える実際の影響について議論します。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "You Can't Stop the Signal! But You Can Ignore it!",
+      "url": "https://www.scrum.org/resources/blog/you-cant-stop-signal-you-can-ignore-it",
+      "publishedAt": "2026-11-03T14:00:00.000Z",
+      "excerpt": "Originally published on Engineering Leadership. In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization’s processes, effectively saying, “This is wrong, go fix it!” when a team struggles to produce a working product due to various obstacles. These are clear signals! Yet, teams often overlook these clear signals. This raises the questio",
+      "titleJa": "シグナルは止められない。でも無視することはできる",
+      "summaryJa": "AgileとScrum枠組みは問題解決ではなく、チームが対処すべき課題を可視化するもの。組織が送っている明確なシグナルを無視するチームが多いという課題と、その解決方法について論じています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "How to Prove Your Release Is Ready When AI Writes the Code",
+      "url": "https://testguild.com/podcast/a610-ashwin/",
+      "publishedAt": "2026-11-03T13:07:49.000Z",
+      "excerpt": "About This Episode: How to Prove Your Release Is Ready When AI Writes the Code? Can you prove your software is ready to ship, or does that answer still depend on a meeting and a spreadsheet? Want to see if your team can prove a release is ready? Book a custom LoopIQ demo with Ashwin: https://testgld.link/loopiqdemo In this episode, […]",
+      "titleJa": "AIが書いたコードでリリース準備完了を証明する方法",
+      "summaryJa": "AIがコード生成を行う時代に、ソフトウェアがリリース可能な状態であることをどう証明するかを解説。会議やスプレッドシートに頼るのではなく、具体的な証拠に基づくリリース判定の重要性を取り上げています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -10,6 +60,16 @@
       "excerpt": "Image The Scrum Guide makes the Product Owner accountable for maximizing the value of the product. Value starts with understanding customers, and customers tell us a lot, every day, in reviews nobody has time to read. Picture yourself as the Product Owner of a quick-commerce app like Blinkit. Some reviews are delighted. Others describe late deliveries, missing items, refunds that never seem to arrive, or an app that is hard to navigate. Somewhere in that noise are the problems worth solving. So the real question is not \"Can AI summarize reviews?\" It clearly can. The question is: how do we use ",
       "titleJa": "AIを活用したアプリレビューの分析：顧客課題から製品機会の発見",
       "summaryJa": "Scrum GuideではProduct Ownerが製品の価値最大化を担う責任を持つ。顧客理解が価値創造の起点となるが、膨大なアプリレビューの中から本当に解決すべき課題を見つけることは困難である。本記事は、AIを使用してレビューを効率的に分析し、顧客満足度の向上につながる真の製品機会を発見するためのアプローチを探求している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Missed the Scrum Bus? Don't Miss the AI Strategy Bus",
+      "url": "https://www.scrum.org/resources/blog/missed-scrum-bus-dont-miss-ai-strategy-bus",
+      "publishedAt": "2026-11-03T03:00:03.000Z",
+      "excerpt": "Image Someone asked me recently whether Scrum still matters now that AI has arrived. I gave a short answer in the moment. I have been chewing on the longer one ever since. Here it is: If your organization missed the chance to use Scrum for what it was actually for — building a place where people collaborate, challenge each other, disagree in the open, and decide together — then another chance is pulling up at the stop. Don't miss the AI strategy bus. I am not saying this because you need another transformation program. You almost certainly don't. I am saying this because AI will rearrange how ",
+      "titleJa": "Scrumバスに乗り遅れた？AI戦略バスは見逃すな",
+      "summaryJa": "AI時代でもScrum本来の価値は失われていない。組織がScrumを活用しきれていない場合、AI戦略導入は新たなチャンス。真の協働と意思決定の場づくりの重要性を強調しています。"
     },
     {
       "category": "PdM",
@@ -52,16 +112,6 @@
       "summaryJa": "Scrum専門コミュニティ向けの高品質マガジン第3号。宝飾品やファッション業界の優れた出版物に並ぶ、Scrum専門家向けの本格的な雑誌として立ち上げられました。業界水準を大きく引き上げることを目標としています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Measuring AI Impact at the Team Level",
-      "url": "https://www.scrum.org/resources/blog/measuring-ai-impact-team-level",
-      "publishedAt": "2026-11-01T14:07:02.000Z",
-      "excerpt": "TL; DR: What Your Velocity Chart Cannot Tell the CFO Sooner or later, someone in your organization shows a slide with a number about what AI did for your team: typically, the team’s “velocity” before and after the coding agents arrived, plus a percentage that looks like a return on the token bill. The number may even be “correct”; however, it answers a different question than the one finance is asking: A before-and-after comparison credits every change in that period to the agents, and measuring velocity is controversial for good reason under normal circumstances, which makes measuring AI impa",
-      "titleJa": "チームレベルでのAIインパクト測定方法",
-      "summaryJa": "ベロシティチャートだけでは経営層への説明不足であることを指摘。AIコーディングエージェント導入前後の比較には課題があり、真のビジネスインパクトを正確に測定するには多角的なメトリクスが必要であることを解説する。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
@@ -70,16 +120,6 @@
       "excerpt": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
       "titleJa": "19歳インターンが構築した20億ドル企業の成長エンジン",
       "summaryJa": "Wispr Flowの成長を牽引したペイドUGC戦略の構築について、Hector Serranoが語る。経歴書よりも若い才能を重視する採用戦略、そして最高のマーケターがAIに警戒的である理由など、スタートアップの成長戦略に関する実例が紹介される。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Work Your Scrum Board Never Shows",
-      "url": "https://www.scrum.org/resources/blog/work-your-scrum-board-never-shows",
-      "publishedAt": "2026-11-01T07:00:00.000Z",
-      "excerpt": "Image I run a simple exercise in retrospectives. I ask the team to list everything they actually worked on in the last two weeks. Not what they planned to work on. Everything. Then I ask them to check each item against the Sprint board. The gap between the two lists is almost always larger than anyone in the room expected. That gap is invisible work, and it is why throughput is harder to predict than teams think it should be. In 2017, Dominica DeGrandis published Making Work Visible and named five categories she calls time thieves: too much work in progress, unknown dependencies, unplanned wor",
-      "titleJa": "Scrumボードに映らない仕事の実態",
-      "summaryJa": "レトロスペクティブで実際の作業内容とスプリントボード上の予定を比較すると、大きなギャップが生じることが多い。このような目に見えない業務は処理能力の予測を困難にする主要因であり、DeGrandisの『Making Work Visible』で指摘された「時間泥棒」カテゴリー（進行中の過剰な作業、隠れた依存関係、計画外の作業など）が、チームの効率性に深刻な影響を与えている。"
     },
     {
       "category": "PdM",
@@ -100,16 +140,6 @@
       "excerpt": "A team can deliver exactly what a customer requested and still solve the wrong problem.",
       "titleJa": "最高のリーダーは指示ではなく文脈を与える",
       "summaryJa": "優れたリーダーシップの本質について論じた記事。チームが顧客の要件を正確に実装しても、実は間違った問題を解決している可能性がある。指示を与えるのではなく、適切な文脈を提供することが重要なリーダーシップの手法であることを解説しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Grok vs. Dot vs. Muse vs. Claude Duet: which one crushes the competition?",
-      "url": "https://www.lennysnewsletter.com/p/grok-vs-dot-vs-muse-vs-claude-duet",
-      "publishedAt": "2026-10-28T12:04:22.000Z",
-      "excerpt": "Listen now | 🎙️ I ranked Grok Bot, Dot, Muse, and Claude Duet across 9 real tasks—and the scores told me which agent runs my work and which runs my life",
-      "titleJa": "AI エージェント4種を徹底比較：Grok、Dot、Muse、Claude Duet",
-      "summaryJa": "Grok Bot、Dot、Muse、Claude Duetを9つの実務タスクで評価し、各AIエージェントの性能をランキング。仕事に最適なエージェントと日常使いに優れたエージェントを特定し、その違いと強みを明確にしている。"
     },
     {
       "category": "QA",
@@ -252,16 +282,6 @@
       "summaryJa": "2026年7月のPMP®試験改正内容と新しい研修資格要件について説明し、PMIが実施したJob Task Analysis に基づく変更内容を紹介しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "Best CAPM Exam Prep Tools for 2026",
-      "url": "https://rebelsguidetopm.com/best-capm-study-tools/",
-      "publishedAt": "2026-10-16T10:33:39.000Z",
-      "excerpt": "You’re here because you’re looking for the best way to get CAPM certification (Certified Associate in Project Management – CAPM®) without having to invest in a load of study guides. Well, you’re in the right place. We’ve reviewed a range of the best CAPM exam prep materials on the market and you can read our assessments below. If you’re short on time, here are our recommendations: :arrow: Best CAPM prep course: Brain Sensei CAPM Exam Prep course :arrow: Best CAPM exam simulator: Brain Sensei CAPM Exam Simulator :arrow: Best CAPM exam prep book: CAPM Exam Prep by Rita Mulcahy Note: The PM PrepC",
-      "titleJa": "2026年版CAPM試験対策ツール完全ガイド",
-      "summaryJa": "CAPM®資格取得に向けた実践的な学習教材を厳選して紹介し、最適な対策講座、模擬試験、参考書をランキング形式で推奨しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP111 The Churn Hidden Inside Payment Adoption",
@@ -290,16 +310,6 @@
       "excerpt": "Product & Profit #101",
       "titleJa": "ロードマップ付きの契約戦略",
       "summaryJa": "プロダクト&プロフィット#101では、契約段階でロードマップを組み込む戦略について解説。プロダクトマネージャーが営業段階から顧客期待を明確にし、実装計画と連動させることで、契約後の認識ズレを防ぎ、顧客満足度とプロダクト開発の効率性を向上させるアプローチを紹介しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Playwright Testing Framework: A Practitioner’s Guide for 2026",
-      "url": "https://testguild.com/playwright-testing/",
-      "publishedAt": "2026-10-14T11:48:33.000Z",
-      "excerpt": "Last updated: October 2026. Quick answer: Playwright is Microsoft’s open-source browser automation framework. One API drives Chromium, Firefox, and WebKit, […]",
-      "titleJa": "Playwrightテスティングフレームワーク：2026年実践ガイド",
-      "summaryJa": "MicrosoftのオープンソースブラウザオートメーションフレームワークであるPlaywrightについての実践的なガイド。単一のAPIでChromium、Firefox、WebKitを操作でき、2026年時点での最新情報とベストプラクティスをまとめた包括的なリソースとなっている。"
     }
   ]
 }
