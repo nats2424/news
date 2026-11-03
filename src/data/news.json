@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-03T00:09:03.553Z",
+  "updatedAt": "2026-11-03T13:10:32.970Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "An AI Discovery Experiment : From App Reviews to Product Opportunities",
+      "url": "https://www.scrum.org/resources/blog/ai-discovery-experiment-app-reviews-product-opportunities",
+      "publishedAt": "2026-11-03T12:32:48.000Z",
+      "excerpt": "Image The Scrum Guide makes the Product Owner accountable for maximizing the value of the product. Value starts with understanding customers, and customers tell us a lot, every day, in reviews nobody has time to read. Picture yourself as the Product Owner of a quick-commerce app like Blinkit. Some reviews are delighted. Others describe late deliveries, missing items, refunds that never seem to arrive, or an app that is hard to navigate. Somewhere in that noise are the problems worth solving. So the real question is not \"Can AI summarize reviews?\" It clearly can. The question is: how do we use ",
+      "titleJa": "AIを活用したアプリレビューの分析：顧客課題から製品機会の発見",
+      "summaryJa": "Scrum GuideではProduct Ownerが製品の価値最大化を担う責任を持つ。顧客理解が価値創造の起点となるが、膨大なアプリレビューの中から本当に解決すべき課題を見つけることは困難である。本記事は、AIを使用してレビューを効率的に分析し、顧客満足度の向上につながる真の製品機会を発見するためのアプローチを探求している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -80,16 +90,6 @@
       "excerpt": "Community Wisdom 304",
       "titleJa": "コミュニティの知恵：PMが直面する中断要因、ジュニアPM採用の工夫、AI駆動開発のためのプロダクトハーネス構築など",
       "summaryJa": "Lennyのニュースレターのコミュニティウィズダムシリーズ。プロダクトマネージャーが直面する割り込みの主な要因、ジュニアPM採用時のケーススタディと行動面接の比較検討、AI駆動開発のためのプロダクトハーネス構築方法など、実践的な知見を共有しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Leading in the Fog (using Agility) — with Brad Farris",
-      "url": "https://www.scrum.org/resources/blog/leading-fog-using-agility-brad-farris",
-      "publishedAt": "2026-10-31T13:00:00.000Z",
-      "excerpt": "Originally published as an episode of Scaling AI: From Activity to Impact. Fog, uncertainty, agility, and the world around us. That’s what we’re going to talk about. Brad Farris mentioned the need for agility as a way for businesses, companies and firms to navigate what’s going on around us: the amount of change and disruption and uncertainty, the fog that’s all around us. That’s exactly my language, so I said we have to catch up. What have you seen work and not work, from a language or approach perspective, when you’re trying to convince people who aren’t product people, product builders or m",
-      "titleJa": "霧の中でのリーダーシップ：アジリティを使いこなす（Brad Farrisとの対談）",
-      "summaryJa": "「Scaling AI: From Activity to Impact」の一部として、Brad Farrisが事業環境における変化、混乱、不確実性（「霧」）の中での経営やプロダクト開発におけるアジリティの重要性について論じています。プロダクト関係者以外のステークホルダーを説得する際の言語的アプローチと実践的な手法を紹介しています。"
     },
     {
       "category": "PdM",
@@ -300,16 +300,6 @@
       "excerpt": "Last updated: October 2026. Quick answer: Playwright is Microsoft’s open-source browser automation framework. One API drives Chromium, Firefox, and WebKit, […]",
       "titleJa": "Playwrightテスティングフレームワーク：2026年実践ガイド",
       "summaryJa": "MicrosoftのオープンソースブラウザオートメーションフレームワークであるPlaywrightについての実践的なガイド。単一のAPIでChromium、Firefox、WebKitを操作でき、2026年時点での最新情報とベストプラクティスをまとめた包括的なリソースとなっている。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Training Expectations - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/training-expectations-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-10-13T13:00:18.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got twelve people and one hour booked at next week's offsite. Can someone teach your team to do continuous discovery in that hour? Teresa Torres's answer is a flat no — and this episode is",
-      "titleJa": "継続的ディスカバリーの期待値管理",
-      "summaryJa": "All Things Product Podcastの配信エピソード。Teresa TorresとPetra Willeが、限定的な時間枠内でのチーム教育と継続的ディスカバリーの現実的な実装について議論しており、プロダクトマネージャーの育成と組織文化の課題に焦点を当てています。"
     }
   ]
 }
