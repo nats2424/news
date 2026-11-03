@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-02T14:02:24.475Z",
+  "updatedAt": "2026-11-03T00:09:03.553Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
+      "publishedAt": "2026-11-02T16:02:08.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "AI活用対談：Grok vs. Dot vs. Muse vs. Duet、Figmaのプロダクトマネージャーが実践するAI",
+      "summaryJa": "Lenny's Podcastネットワークの「How I AI」シリーズの週刊エピソド。複数のAIツール（Grok、Dot、Muse、Duet）を比較しながら、Figmaのプロダクトマネージャーが実際の業務でAIをどのように活用しているかを紹介する対談。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Basic Things Are the Big Things in Scrum",
+      "url": "https://www.scrum.org/resources/blog/basic-things-are-big-things-scrum",
+      "publishedAt": "2026-11-02T15:01:39.000Z",
+      "excerpt": "Image The teams that get the best results aren’t necessarily the ones using every complimentary practice out there. They’re the ones who do the basic things well. That's because the basic things really are the big things. Here are five so-called \"basic\" things that you can concentrate on to help push you to the next level. 1) Having a clear Product Goal When I come in to coach a team, the very first thing I ask the Product Owner is, do you have a Product Goal and does the team know what it is? Because a clear (and hopefully inspiring) Product Goal gives the team the context that they need to u",
+      "titleJa": "Scrumにおける基本的なことが本当に大事な理由",
+      "summaryJa": "スクラムチームが成果を上げるには、すべての補完的プラクティスを導入することより、基本的なことを確実に実行することが重要。プロダクトゴールの明確化をはじめとした5つの基本的な実践に集中することで、チームを次のレベルへ導く方法を解説。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -72,16 +92,6 @@
       "summaryJa": "「Scaling AI: From Activity to Impact」の一部として、Brad Farrisが事業環境における変化、混乱、不確実性（「霧」）の中での経営やプロダクト開発におけるアジリティの重要性について論じています。プロダクト関係者以外のステークホルダーを説得する際の言語的アプローチと実践的な手法を紹介しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Keep Calm and Scrum (With Kanban) On!",
-      "url": "https://www.scrum.org/resources/blog/keep-calm-and-scrum-kanban",
-      "publishedAt": "2026-10-30T19:09:38.000Z",
-      "excerpt": "Originally published on yuvalyeret.com. I've been struggling with a major dilemma for a while. The long story short is that I decided to pause my membership in the PST program. This wasn't and isn't an easy decision. And I wanted to take this opportunity to reflect on the arc of my journey with Scrum.org and where I think this is going. 2017–2018: bringing flow into Professional Scrum I joined Scrum.org as a PST at Dave West's request to help bring flow and Kanban into the Professional Scrum community. Creating the Professional Scrum with Kanban class and Kanban Guide for Scrum Teams together ",
-      "titleJa": "スクラムとカンバンを組み合わせた効果的なプロジェクト管理",
-      "summaryJa": "著者がScrum.orgのPST(Professional Scrum Trainer)プログラムから退会することを決めた経緯と、スクラムコミュニティにフローとカンバンを導入してきた経験を振り返る記事。2017年からスクラムにカンバンの考え方を統合し、Professional Scrum with Kanbanクラスの開発に携わってきた経験が述べられている。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP109 Why the Best Leaders Give Context, Not Direction with Norma Løvhaugen (Neat.no) and Jay Stansell",
@@ -130,16 +140,6 @@
       "excerpt": "About This Episode: Can you actually trust the Playwright tests your AI generates? A new free tool says it can […]",
       "titleJa": "VegaLoad、Leapwork Play、そして信頼できないAIテストの終焉",
       "summaryJa": "AIが生成するPlaywrightテストの信頼性は本当に担保できるのか。本エピソードでは、AIが自動生成するテストの品質と信頼性を検証する新しい無料ツールについて取り上げ、テスト自動化における課題と解決策を探ります。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: Claude Duet honest review + Why Reddit built its own AI prototyping tool",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-claude-duet-honest-review",
-      "publishedAt": "2026-10-26T15:00:53.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny’s Podcast Network",
-      "titleJa": "How I AI:Claude Duetレビュー＆Redditの独自AI試作ツール",
-      "summaryJa": "Lenny's Podcast Networkの週間配信番組。RedditがデザイナーのためにFigma MCPとCursor pipelineを組み合わせた独自のAI試作ツールを開発した経緯と、その実運用について、Redditのプリンシパルデザイナーエンジニアが解説します。Gitなしで数分で本番レベルのプロトタイプまで完成させる仕組みです。"
     },
     {
       "category": "QA",
@@ -310,26 +310,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts You've got twelve people and one hour booked at next week's offsite. Can someone teach your team to do continuous discovery in that hour? Teresa Torres's answer is a flat no — and this episode is",
       "titleJa": "継続的ディスカバリーの期待値管理",
       "summaryJa": "All Things Product Podcastの配信エピソード。Teresa TorresとPetra Willeが、限定的な時間枠内でのチーム教育と継続的ディスカバリーの現実的な実装について議論しており、プロダクトマネージャーの育成と組織文化の課題に焦点を当てています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "The Enchanted Hammer",
-      "url": "https://qahiccupps.blogspot.com/2026/10/the-enchanted-hammer.html",
-      "publishedAt": "2026-10-12T19:29:47.000Z",
-      "excerpt": "attributes this version to Maslow: I suppose it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail. Which is insightful, but it belongs to a simpler, slower era. No, today the problem is that we don't have to bother, and many of us don't. I suppose it is tempting, if you have an enchanted hammer, to treat everything as if it were a who-cares-just-hit-it-for-me. Image: Geronimo Giqueaux on Unsplash",
-      "titleJa": "魔法のハンマー：ツール思考の落とし穴",
-      "summaryJa": "マズローの言葉「ハンマーしか持っていなければ、すべてを釘に見える」を引用しながら、現代ではより自動化・効率化に頼りすぎて思考停止に陥るリスクについて論じています。QA業務においても、ツールの便利さに甘えて問題の本質を見失わないことの重要性を指摘しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Silicon Valley Product Group",
-      "title": "Predictability vs Outcomes",
-      "url": "https://www.svpg.com/predictability-vs-outcomes/",
-      "publishedAt": "2026-10-12T15:24:29.000Z",
-      "excerpt": "I was first taught about the importance of outcome over output way back when I was an engineer getting coached to become a tech lead, and I was explicitly told that it was no longer enough to just build and ship, I had to make sure the solution actually solves the underlying problem. I have... The post Predictability vs Outcomes appeared first on Silicon Valley Product Group.",
-      "titleJa": "予測可能性 vs 実際の成果：エンジニアからテックリードへの転換",
-      "summaryJa": "単なるアウトプット（成果物の納品）ではなく、アウトカム（実際に問題を解決できたか）の重要性について、エンジニアがテックリードにキャリアアップする過程での学びをもとに解説しています。プロダクト開発においては、本当に価値のある結果を生み出すことが求められるという点を強調しています。"
     }
   ]
 }
