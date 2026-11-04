@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-04T13:25:41.268Z",
+  "updatedAt": "2026-11-04T22:58:01.743Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Bottleneck Has Moved",
+      "url": "https://www.scrum.org/resources/blog/bottleneck-has-moved",
+      "publishedAt": "2026-11-04T21:51:23.000Z",
+      "excerpt": "Image This is part 1 of 4 in a series about Product Development teams with AI agents. The other parts are linked at the end. Code is no longer scarce The sophisticated teams I meet are not writing code by hand. (That wasn’t true in 2024. It is true in 2026.) The practices for agent-written code are still highly experimental, but some patterns are starting to emerge. A prompt is written to describe a goal, some opinions about implementation are included, an agent (or multiple) writes the change. Another agent, or a person, reviews it and runs tests. The CI/CD pipeline re-runs the checks. A pers",
+      "titleJa": "ボトルネックは移動した",
+      "summaryJa": "AI時代のプロダクト開発では、コード生成はもはや希少資源ではなくなった。AIエージェントが自動的にコードを生成し、別のエージェントや人間がレビュー・テストを実施するワークフローが確立されつつある。従来のコード手書きから自動生成への移行に伴い、開発チームのボトルネックが変化している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "Image The Scrum Guide makes the Product Owner accountable for maximizing the value of the product. Value starts with understanding customers, and customers tell us a lot, every day, in reviews nobody has time to read. Picture yourself as the Product Owner of a quick-commerce app like Blinkit. Some reviews are delighted. Others describe late deliveries, missing items, refunds that never seem to arrive, or an app that is hard to navigate. Somewhere in that noise are the problems worth solving. So the real question is not \"Can AI summarize reviews?\" It clearly can. The question is: how do we use ",
       "titleJa": "AIを活用したアプリレビューの分析：顧客課題から製品機会の発見",
       "summaryJa": "Scrum GuideではProduct Ownerが製品の価値最大化を担う責任を持つ。顧客理解が価値創造の起点となるが、膨大なアプリレビューの中から本当に解決すべき課題を見つけることは困難である。本記事は、AIを使用してレビューを効率的に分析し、顧客満足度の向上につながる真の製品機会を発見するためのアプローチを探求している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Missed the Scrum Bus? Don't Miss the AI Strategy Bus",
-      "url": "https://www.scrum.org/resources/blog/missed-scrum-bus-dont-miss-ai-strategy-bus",
-      "publishedAt": "2026-11-03T03:00:03.000Z",
-      "excerpt": "Image Someone asked me recently whether Scrum still matters now that AI has arrived. I gave a short answer in the moment. I have been chewing on the longer one ever since. Here it is: If your organization missed the chance to use Scrum for what it was actually for — building a place where people collaborate, challenge each other, disagree in the open, and decide together — then another chance is pulling up at the stop. Don't miss the AI strategy bus. I am not saying this because you need another transformation program. You almost certainly don't. I am saying this because AI will rearrange how ",
-      "titleJa": "Scrumバスに乗り遅れた？AI戦略バスは見逃すな",
-      "summaryJa": "AI時代でもScrum本来の価値は失われていない。組織がScrumを活用しきれていない場合、AI戦略導入は新たなチャンス。真の協働と意思決定の場づくりの重要性を強調しています。"
     },
     {
       "category": "PdM",
