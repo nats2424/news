@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-04T03:42:53.069Z",
+  "updatedAt": "2026-11-04T13:25:41.268Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Die eine Frage, die in Roadmap-Diskussionen fast niemand stellt – und die im KI-Zeitalter über Erfolg und Scheitern entscheidet",
+      "url": "https://www.scrum.org/resources/blog/die-eine-frage-die-roadmap-diskussionen-fast-niemand-stellt-und-die-im-ki-zeitalter-uber-erfolg-und-scheitern-entscheidet",
+      "publishedAt": "2026-11-04T07:00:00.000Z",
+      "excerpt": "Im Jahr 2013 begann Lukas Vermeer bei Booking.com als Data Scientist. Seine Aufgabe war denkbar einfach: Produkte verbessern. Also entwickelte er neue Ideen. Neue Features. Neue Varianten bestehender Funktionen. Und dann testete er diese. Mit dem Ergebnis: „Als ich als Data Scientist zu Booking.com kam, wurde mir durch ihre umfassenden A/B-Tests schnell klar, dass die meisten Dinge, die ich baute, keine Auswirkung auf das Kundenverhalten hatten.“ Acht Jahre blieb Vermeer bei Booking.com. In dieser Zeit wuchs sein Team von drei auf dreißig Personen und er wurde Director of Experimentation. Doch",
+      "titleJa": "ロードマップ討議で誰も問わない重要な質問 ─ AI時代の成功を左右する問い",
+      "summaryJa": "Booking.comのデータサイエンティストLukas Vermeerの経験から、プロダクト開発における最重要課題を掘り下げた記事。多くの開発者が構築した機能やテスト結果が顧客行動に影響を与えないという現実を通じ、ロードマップ討議で見落とされやすい重要な問いを提起する。AI時代における成功の鍵となる、この問いに何かが示唆される。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -90,16 +100,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "titleJa": "AI活用対談：Grok vs. Dot vs. Muse vs. Duet、Figmaのプロダクトマネージャーが実践するAI",
       "summaryJa": "Lenny's Podcastネットワークの「How I AI」シリーズの週刊エピソド。複数のAIツール（Grok、Dot、Muse、Duet）を比較しながら、Figmaのプロダクトマネージャーが実際の業務でAIをどのように活用しているかを紹介する対談。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Basic Things Are the Big Things in Scrum",
-      "url": "https://www.scrum.org/resources/blog/basic-things-are-big-things-scrum",
-      "publishedAt": "2026-11-02T15:01:39.000Z",
-      "excerpt": "Image The teams that get the best results aren’t necessarily the ones using every complimentary practice out there. They’re the ones who do the basic things well. That's because the basic things really are the big things. Here are five so-called \"basic\" things that you can concentrate on to help push you to the next level. 1) Having a clear Product Goal When I come in to coach a team, the very first thing I ask the Product Owner is, do you have a Product Goal and does the team know what it is? Because a clear (and hopefully inspiring) Product Goal gives the team the context that they need to u",
-      "titleJa": "Scrumにおける基本的なことが本当に大事な理由",
-      "summaryJa": "スクラムチームが成果を上げるには、すべての補完的プラクティスを導入することより、基本的なことを確実に実行することが重要。プロダクトゴールの明確化をはじめとした5つの基本的な実践に集中することで、チームを次のレベルへ導く方法を解説。"
     },
     {
       "category": "PdM",
