@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-03T22:39:37.187Z",
+  "updatedAt": "2026-11-04T03:42:53.069Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Everyone was busy. The work still wasn't done.",
+      "url": "https://www.scrum.org/resources/blog/everyone-was-busy-work-still-wasnt-done",
+      "publishedAt": "2026-11-03T23:00:00.000Z",
+      "excerpt": "Image Everyone was busy. The work still wasn't done. The feature was supposed to ship in April. Everyone worked hard on it. The board was full, the standups were full, the calendar was full. Nobody was slacking, and you could point at genuine effort every single day. It shipped in July. And within a month it was back, in the queue marked \"issues,\" being quietly re-checked by the people who built it before anyone let the important customer near it. So here's the uncomfortable question. If everyone was busy the whole time, where did the four months go, and why, after all that work, does nobody a",
+      "titleJa": "全員が忙しかった。それでも仕事は終わらなかった。",
+      "summaryJa": "プロジェクトが4ヶ月遅延した背景に、チーム全体が常に忙しく見えていたにもかかわらず進捗が停滞していた問題が指摘されている。スプリント計画から納品後の課題対応まで、スケジュール遅延が発生した根本原因と、見かけ上の活動と実際の成果の乖離について考察している。"
+    },
     {
       "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
@@ -100,16 +110,6 @@
       "excerpt": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
       "titleJa": "FigmaのPMが毎日AIを活用する方法",
       "summaryJa": "Figma成長担当PMのエズラ・メカベルが、60以上のPMが使用する31スキルのリポジトリ「PM OS」と、成長実験を自動実行するAIエージェント「AutoXP」を紹介。人間による最小限のチェックポイントで効率的に実験を運用できる仕組みを解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Issue #3 - Scrum Team Magazine - November 2026",
-      "url": "https://www.scrum.org/resources/blog/issue-3-scrum-team-magazine-november-2026",
-      "publishedAt": "2026-11-02T08:22:13.000Z",
-      "excerpt": "Image Click here to read and download the magazine. The first high-quality magazine for the Scrum world is now live. This is the third issue, November 2026. WHY SCRUM TEAM MAGAZINE? Many sectors like jewellery, watches, decoration, film, and fashion already have their own exquisite, luxurious, high-quality publications, yet the Scrum community has no such equivalent. To address this, I have decided to create a publication that not only meets but exceeds the expectations of Scrum professionals. Something that significantly raises the bar. My goal is to produce a magazine that serves those who d",
-      "titleJa": "Scrum Team Magazine 第3号（2026年11月）",
-      "summaryJa": "Scrum専門コミュニティ向けの高品質マガジン第3号。宝飾品やファッション業界の優れた出版物に並ぶ、Scrum専門家向けの本格的な雑誌として立ち上げられました。業界水準を大きく引き上げることを目標としています。"
     },
     {
       "category": "PdM",
