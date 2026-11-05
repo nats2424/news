@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-05T04:00:40.827Z",
+  "updatedAt": "2026-11-05T13:39:21.649Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Messung der KI-Wirksamkeit: Was Ihr Velocity-Chart dem CFO nicht sagen kann 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/messung-der-ki-wirksamkeit-was-ihr-velocity-chart-dem-cfo-nicht-sagen-kann",
+      "publishedAt": "2026-11-05T05:00:15.000Z",
+      "excerpt": "In Kürze: KI-Wirksamkeit auf Teamebene messen Früher oder später zeigt jemand in Ihrer Organisation eine Folie mit einer Zahl dazu, was KI für Ihr Team bewirkt hat: typischerweise die „Velocity“ des Teams vor und nach der Einführung der Coding-Agenten, dazu ein Prozentsatz, der wie eine Rendite auf die Token-Rechnung aussieht. Die Zahl mag sogar „stimmen“, beantwortet jedoch eine andere Frage als die, die die Finanzabteilung stellt: Ein Vorher-nachher-Vergleich schreibt jede Veränderung in diesem Zeitraum den KI-Agenten gut, und die Sinnhaftigkeit der Velocity ist unter normalen Umständen aus ",
+      "titleJa": "AI効果測定：ベロシティチャートがCFOに伝えない真実",
+      "summaryJa": "AIの効果を測定する際、チーム導入前後のベロシティ数値や投資リターンを示すスライドが提示されることが多い。しかし単純な数値比較では、その時期のすべての変化をAIエージェントに帰属させてしまい、実際の財務的価値や組織への真の貢献を正確に評価することはできない。効果測定にはより多角的なアプローチが必要である。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "About This Episode: How to Prove Your Release Is Ready When AI Writes the Code? Can you prove your software is ready to ship, or does that answer still depend on a meeting and a spreadsheet? Want to see if your team can prove a release is ready? Book a custom LoopIQ demo with Ashwin: https://testgld.link/loopiqdemo In this episode, […]",
       "titleJa": "AIが書いたコードでリリース準備完了を証明する方法",
       "summaryJa": "AIがコード生成を行う時代に、ソフトウェアがリリース可能な状態であることをどう証明するかを解説。会議やスプレッドシートに頼るのではなく、具体的な証拠に基づくリリース判定の重要性を取り上げています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "An AI Discovery Experiment : From App Reviews to Product Opportunities",
-      "url": "https://www.scrum.org/resources/blog/ai-discovery-experiment-app-reviews-product-opportunities",
-      "publishedAt": "2026-11-03T12:32:48.000Z",
-      "excerpt": "Image The Scrum Guide makes the Product Owner accountable for maximizing the value of the product. Value starts with understanding customers, and customers tell us a lot, every day, in reviews nobody has time to read. Picture yourself as the Product Owner of a quick-commerce app like Blinkit. Some reviews are delighted. Others describe late deliveries, missing items, refunds that never seem to arrive, or an app that is hard to navigate. Somewhere in that noise are the problems worth solving. So the real question is not \"Can AI summarize reviews?\" It clearly can. The question is: how do we use ",
-      "titleJa": "AIを活用したアプリレビューの分析：顧客課題から製品機会の発見",
-      "summaryJa": "Scrum GuideではProduct Ownerが製品の価値最大化を担う責任を持つ。顧客理解が価値創造の起点となるが、膨大なアプリレビューの中から本当に解決すべき課題を見つけることは困難である。本記事は、AIを使用してレビューを効率的に分析し、顧客満足度の向上につながる真の製品機会を発見するためのアプローチを探求している。"
     },
     {
       "category": "PdM",
@@ -290,26 +290,6 @@
       "excerpt": "A payment method can lift conversion and still leave the product worse off.",
       "titleJa": "支払い方法導入の隠れた解約率",
       "summaryJa": "新しい支払い方法の導入はコンバージョンを向上させる一方で、製品全体にネガティブな影響をもたらす可能性があります。表面的な数値改善だけでなく、顧客満足度や長期的な経営指標への影響を総合的に分析することの重要性を解説しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Building an AI Voice Agent for 360 Degree Feedback: How Your360 AI Uses State Machines, Evals, and Layered Synthesis",
-      "url": "https://www.producttalk.org/building-an-ai-voice-agent-for-360-degree-feedback-how-your360-ai-uses-state-machines-evals-and-layered-synthesis/",
-      "publishedAt": "2026-10-15T13:00:00.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts What does it take to build an AI voice agent that people will talk to for 44 minutes about their own blind spots? Your360 AI found out, one call at a time. In this episode of Just Now Possible, Teresa Torres talks",
-      "titleJa": "360度フィードバック向けAIボイスエージェント構築：Your360 AIのステートマシン・評価・合成層の活用",
-      "summaryJa": "Your360 AIが実装したAIボイスエージェントの開発事例。ユーザーが自身のブラインドスポットについて44分間対話できるシステム構築に必要な、ステートマシン・Evals・レイヤード合成などの技術的アプローチについて解説されています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "The Deal That Came With Its Own Roadmap",
-      "url": "https://www.productcoalition.com/p/the-deal-that-came-with-its-own-roadmap",
-      "publishedAt": "2026-10-15T08:01:10.000Z",
-      "excerpt": "Product & Profit #101",
-      "titleJa": "ロードマップ付きの契約戦略",
-      "summaryJa": "プロダクト&プロフィット#101では、契約段階でロードマップを組み込む戦略について解説。プロダクトマネージャーが営業段階から顧客期待を明確にし、実装計画と連動させることで、契約後の認識ズレを防ぎ、顧客満足度とプロダクト開発の効率性を向上させるアプローチを紹介しています。"
     }
   ]
 }
