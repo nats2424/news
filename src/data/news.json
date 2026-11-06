@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-06T03:59:17.784Z",
+  "updatedAt": "2026-11-06T13:23:22.020Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "A Ilusão da Eficiência Sintética: Por Que a IA Pode Criar a Fábrica de Features Mais Rápida da História",
+      "url": "https://www.scrum.org/resources/blog/ilusao-da-eficiencia-sintetica-por-que-ia-pode-criar-fabrica-de-features-mais-rapida-da-historia",
+      "publishedAt": "2026-11-06T12:28:50.000Z",
+      "excerpt": "Image A inteligência artificial generativa removeu o atrito mecânico da gestão de produtos. Com um único comando estruturado, qualquer profissional consegue desdobrar uma iniciativa estratégica em dezenas de itens de Product Backlog, redigir critérios de aceite em formato BDD impecáveis e preencher cerimônias com métricas aparentes de produtividade. Quadros do Jira e Miro, antes mantidos sob esforço analítico contínuo, agora são inflados em questão de segundos com centenas de \"User Stories\" perfeitamente formatadas. O mercado comemora essa agilidade operacional como um marco de produtividade s",
+      "titleJa": "合成効率の幻想：AIが過去最速のフィーチャーファクトリーを生む理由",
+      "summaryJa": "生成AIがプロダクト管理の機械的な障害を取り除き、戦略的イニシアティブを数十のプロダクトバックログアイテムに展開し、フォーマットされたユーザーストーリーで埋め尽くすことが可能になった。しかし、この表面的な生産性の向上の背後に隠れた課題と、その危険性について検討する重要性を指摘している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI generated the user stories – now the real work begins",
+      "url": "https://www.scrum.org/resources/blog/ai-generated-user-stories-now-real-work-begins",
+      "publishedAt": "2026-11-06T09:44:51.000Z",
+      "excerpt": "AI can generate a list of user stories in seconds. The stories may be clearly written, correctly formatted and connected to recognisable user value. They can give a Product Owner and a whole Scrum Team something concrete to discuss without spending hours facing a blank page. This is genuinely useful – and it is where the more demanding work begins. A well-written user story can still contain an unsupported business rule, an unverified technical assumption or a product decision nobody has made. Once the output has been copied into the Product Backlog, shared with stakeholders or expanded into a",
+      "titleJa": "AIで生成したユーザーストーリー：ここから本当の仕事が始まる",
+      "summaryJa": "AIはユーザーストーリーを数秒で生成できるが、形式が整っていても根拠のないビジネスルール、未検証の技術仮定、未決定のプロダクト判断が含まれている可能性がある。プロダクトオーナーとスクラムチームが、生成されたストーリーの妥当性を検証し、本質的な価値を見極める作業が真の課題である。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Ten Product Leaders, Ten Documents, No Strategy",
+      "url": "https://www.scrum.org/resources/blog/ten-product-leaders-ten-documents-no-strategy",
+      "publishedAt": "2026-11-06T09:38:45.000Z",
+      "excerpt": "Ten Product Leaders, Ten Documents, No Strategy This is the first article in our AI Product Strategy Series. This article has been co-authored by Hamza El Uamari, Head of Product Decision Intelligence at KLM. Summary: Product strategy is the set of choices that explains how a product will win: who it serves, which needs it addresses, what makes it different, and how it creates value for the business. It connects product vision to the roadmap. A strong strategy requires a clear diagnosis and deliberate choices, not a feature list or a one-size-fits-all platform. In an AI-first environment, that",
+      "titleJa": "10人のプロダクトリーダー、10のドキュメント、戦略なし",
+      "summaryJa": "プロダクト戦略とは、顧客、対応するニーズ、差別化要因、ビジネス価値創造の方法を定義する選択肢の集合である。AI環境では、フィーチャーリストやプラットフォーム依存ではなく、明確な診断と意図的な選択に基づいた強固な戦略が必須となる。"
+    },
     {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
@@ -33,26 +63,6 @@
     },
     {
       "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Die eine Frage, die in Roadmap-Diskussionen fast niemand stellt – und die im KI-Zeitalter über Erfolg und Scheitern entscheidet",
-      "url": "https://www.scrum.org/resources/blog/die-eine-frage-die-roadmap-diskussionen-fast-niemand-stellt-und-die-im-ki-zeitalter-uber-erfolg-und-scheitern-entscheidet",
-      "publishedAt": "2026-11-04T07:00:00.000Z",
-      "excerpt": "Im Jahr 2013 begann Lukas Vermeer bei Booking.com als Data Scientist. Seine Aufgabe war denkbar einfach: Produkte verbessern. Also entwickelte er neue Ideen. Neue Features. Neue Varianten bestehender Funktionen. Und dann testete er diese. Mit dem Ergebnis: „Als ich als Data Scientist zu Booking.com kam, wurde mir durch ihre umfassenden A/B-Tests schnell klar, dass die meisten Dinge, die ich baute, keine Auswirkung auf das Kundenverhalten hatten.“ Acht Jahre blieb Vermeer bei Booking.com. In dieser Zeit wuchs sein Team von drei auf dreißig Personen und er wurde Director of Experimentation. Doch",
-      "titleJa": "ロードマップ討議で誰も問わない重要な質問 ─ AI時代の成功を左右する問い",
-      "summaryJa": "Booking.comのデータサイエンティストLukas Vermeerの経験から、プロダクト開発における最重要課題を掘り下げた記事。多くの開発者が構築した機能やテスト結果が顧客行動に影響を与えないという現実を通じ、ロードマップ討議で見落とされやすい重要な問いを提起する。AI時代における成功の鍵となる、この問いに何かが示唆される。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Everyone was busy. The work still wasn't done.",
-      "url": "https://www.scrum.org/resources/blog/everyone-was-busy-work-still-wasnt-done",
-      "publishedAt": "2026-11-03T23:00:00.000Z",
-      "excerpt": "Image Everyone was busy. The work still wasn't done. The feature was supposed to ship in April. Everyone worked hard on it. The board was full, the standups were full, the calendar was full. Nobody was slacking, and you could point at genuine effort every single day. It shipped in July. And within a month it was back, in the queue marked \"issues,\" being quietly re-checked by the people who built it before anyone let the important customer near it. So here's the uncomfortable question. If everyone was busy the whole time, where did the four months go, and why, after all that work, does nobody a",
-      "titleJa": "全員が忙しかった。それでも仕事は終わらなかった。",
-      "summaryJa": "プロジェクトが4ヶ月遅延した背景に、チーム全体が常に忙しく見えていたにもかかわらず進捗が停滞していた問題が指摘されている。スプリント計画から納品後の課題対応まで、スケジュール遅延が発生した根本原因と、見かけ上の活動と実際の成果の乖離について考察している。"
-    },
-    {
-      "category": "PjM",
       "sourceName": "Rebel's Guide to Project Management",
       "title": "The HS2 reset: lessons for project managers",
       "url": "https://rebelsguidetopm.com/hs2-reset/",
@@ -80,16 +90,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Everyone’s shouting that AI changes everything. Teresa Torres wrote a LinkedIn “screed” arguing the opposite — and this episode is the debate she and Petra wanted to have about it. Petra Wille and Teresa Torres work through the",
       "titleJa": "AIが変えるもの：Teresa Torres & Petra Willeが語るプロダクト論",
       "summaryJa": "AIが全てを変えるという通説に対し、Teresa Torresが異なる視点を提示。ポッドキャストでTorresとWilleがAIがプロダクト開発に与える実際の影響について議論します。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "You Can't Stop the Signal! But You Can Ignore it!",
-      "url": "https://www.scrum.org/resources/blog/you-cant-stop-signal-you-can-ignore-it",
-      "publishedAt": "2026-11-03T14:00:00.000Z",
-      "excerpt": "Originally published on Engineering Leadership. In organizational development and team dynamics, Agile (as the Agile Manifesto delineates) and Scrum (as the Scrum Guide outlines) guide teams not by solving their problems but by illuminating the issues that demand attention. These frameworks aim to identify and spotlight the challenges within a team or organization’s processes, effectively saying, “This is wrong, go fix it!” when a team struggles to produce a working product due to various obstacles. These are clear signals! Yet, teams often overlook these clear signals. This raises the questio",
-      "titleJa": "シグナルは止められない。でも無視することはできる",
-      "summaryJa": "AgileとScrum枠組みは問題解決ではなく、チームが対処すべき課題を可視化するもの。組織が送っている明確なシグナルを無視するチームが多いという課題と、その解決方法について論じています。"
     },
     {
       "category": "QA",
@@ -240,66 +240,6 @@
       "excerpt": "About This Episode: Is your AI agent inventing locators that break on the next deploy? Can AI really write a […]",
       "titleJa": "k6 MCP、SelectorsHub MCP、Cypressと急速に進化するAIテストエージェント",
       "summaryJa": "このエピソードでは、AIエージェントがテスト自動化ツール(k6、SelectorsHub、Cypress)と統合される中で、AIが生成したロケータが次のデプロイで破損するといった課題や、AIが本当に信頼できるテストコードを書けるのかという問題について探討しています。QA業界におけるAIテストエージェントの台頭と実務的な課題が焦点です。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "BrainBOK Review: PMP and CAPM Training",
-      "url": "https://rebelsguidetopm.com/online-training-brainbok-review/",
-      "publishedAt": "2026-10-16T13:10:51.000Z",
-      "excerpt": "Category: Training for students preparing for Project Management Professional (PMP)® and Certified Associates in Project Management (CAPM)®: BrainBOK review. BrainBOK is an online, reasonably-priced project management training program and toolkit for students preparing for PMP® and CAPM® exams. I've reviewed the product in depth so I can confidently recommend it. In this review, I'll share more about BrainBOK's features and the pros and cons of this project management training tool. Cost and plans There’s a free version to allow you to test out a limited number of features. BrainBOK offers one",
-      "titleJa": "BrainBOKレビュー：PMP・CAPM資格試験対策プログラム",
-      "summaryJa": "BrainBOKはPMP®とCAP M®資格試験の受験者向けオンライン学習プログラムで、手頃な価格で包括的な対策ツールを提供しています。無料版も用意されており、その機能と利点・欠点を詳しく解説したレビューです。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "Our Standards",
-      "url": "https://www.productcoalition.com/p/standards",
-      "publishedAt": "2026-10-16T12:59:21.000Z",
-      "excerpt": "Product Coalition has been running since 2014.",
-      "titleJa": "私たちの基準",
-      "summaryJa": "Product Coalitionは2014年から運営されており、組織の理念と基準を示しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How do you use CAPM to become a PMP?",
-      "url": "https://rebelsguidetopm.com/capm-become-pmp/",
-      "publishedAt": "2026-10-16T12:41:15.000Z",
-      "excerpt": "So you’re already a Certified Associate in Project Management (CAPM)®? Congratulations! Now you might be thinking of moving on in your career to earn the Project Management Professional (PMP)® designation. The good news is that your CAPM studies and exam experience will help you get there faster. If you’re ready to take the next step, let me explain how to use your CAPM credential to fast-track your way to passing the PMP exam. But before we get started, let me address a common question: is it possible to convert your CAPM to a PMP somehow? Is it possible to convert CAPM to PMP? No, you can’t ",
-      "titleJa": "CAPMからPMPへ：資格アップグレードの道のり",
-      "summaryJa": "CAPM®認定者がPMP®資格を取得するためのステップアップ戦略を解説しており、既存の知識を活かして試験対策を加速できることを説明しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "PMP Exam Changes: Why you should consider taking the exam now",
-      "url": "https://rebelsguidetopm.com/why-you-should-consider-taking-the-pmp-exam-now/",
-      "publishedAt": "2026-10-16T12:39:34.000Z",
-      "excerpt": "If you want to certify as a PMP before the exam requirements change, you've just about got time. I believe it takes 8-12 weeks to comfortably prep for the exam so if you are committed and prepared to put the effort in, you can squeeze in your exam. So what's changing? You will only be able to claim the 35 contact hours of training for live courses if the live course is taught by an accredited provider. Also, and this is a big one... I think live learning under the new scheme will cost more. Currently, pretty much any training that covers PMP-related topics can count towards the requirement for",
-      "titleJa": "PMP試験の変更：今受験すべき理由",
-      "summaryJa": "PMP®の試験要件が変わる前に受験することの重要性を指摘し、認定研修の資格要件と費用面での変更について解説しています。試験対策には8～12週間必要とされています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "How the PMP exam changed in 2026",
-      "url": "https://rebelsguidetopm.com/how-the-pmp-exam-is-changing-next-year/",
-      "publishedAt": "2026-10-16T12:30:03.000Z",
-      "excerpt": "Updated: October 2026 Are you here because you've heard the PMP exam changed on 9 July 2026? Here's what you need to know. The Project Management Professional (PMP)® exam updated in July 2026, but what exactly is different? And what do the new training eligibility requirements mean for candidates when these come into effect later in 2026? Read on... Whoah, the exam changed? I didn't know. How did that happen? Every so often PMI carry out an assessment of what a project manager does all day. This is done by carrying out a Job Task Analysis, where PMI analyzes the standards and industry practice",
-      "titleJa": "2026年のPMP試験改正：何が変わったのか",
-      "summaryJa": "2026年7月のPMP®試験改正内容と新しい研修資格要件について説明し、PMIが実施したJob Task Analysis に基づく変更内容を紹介しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP111 The Churn Hidden Inside Payment Adoption",
-      "url": "https://www.productcoalition.com/p/ep111-the-churn-hidden-inside-payment",
-      "publishedAt": "2026-10-16T08:01:09.000Z",
-      "excerpt": "A payment method can lift conversion and still leave the product worse off.",
-      "titleJa": "支払い方法導入の隠れた解約率",
-      "summaryJa": "新しい支払い方法の導入はコンバージョンを向上させる一方で、製品全体にネガティブな影響をもたらす可能性があります。表面的な数値改善だけでなく、顧客満足度や長期的な経営指標への影響を総合的に分析することの重要性を解説しています。"
     }
   ]
 }
