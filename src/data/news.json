@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-07T03:34:45.022Z",
+  "updatedAt": "2026-11-07T12:01:32.067Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Beyond the Dam of Knowledge Hoarding",
+      "url": "https://www.scrum.org/resources/blog/beyond-dam-knowledge-hoarding",
+      "publishedAt": "2026-11-07T06:04:05.000Z",
+      "excerpt": "Picture a developer. Let's call him Chris. Chris has been with the company for twelve years. He knows the billing module better than anyone. When something breaks there, everyone calls him. Documentation? Barely any. Pair programming? Not really his thing. Chris isn't a bad guy. Chris has simply learned how to survive in organizations. If you know something nobody else knows, you're needed. If you're needed, you're safe. For decades, that worked, until AI arrived. It reads the billing module in seconds. It explains to anyone on the team what Chris spent twelve years learning. It finds the bug ",
+      "titleJa": "知識の独占から脱却する—AI時代のエンジニアの役割変化",
+      "summaryJa": "経験豊富なエンジニアが知識を独占することで自分の価値を守ってきた時代は終わった。AIは複雑なコードベースを瞬時に理解し、誰でもアクセスできる形で知識を共有する。知識の蓄積だけでなく、チーム全体の成長と透明性を優先する文化への転換が求められている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,16 +60,6 @@
       "excerpt": "In Kürze: KI-Wirksamkeit auf Teamebene messen Früher oder später zeigt jemand in Ihrer Organisation eine Folie mit einer Zahl dazu, was KI für Ihr Team bewirkt hat: typischerweise die „Velocity“ des Teams vor und nach der Einführung der Coding-Agenten, dazu ein Prozentsatz, der wie eine Rendite auf die Token-Rechnung aussieht. Die Zahl mag sogar „stimmen“, beantwortet jedoch eine andere Frage als die, die die Finanzabteilung stellt: Ein Vorher-nachher-Vergleich schreibt jede Veränderung in diesem Zeitraum den KI-Agenten gut, und die Sinnhaftigkeit der Velocity ist unter normalen Umständen aus ",
       "titleJa": "AI効果測定：ベロシティチャートがCFOに伝えない真実",
       "summaryJa": "AIの効果を測定する際、チーム導入前後のベロシティ数値や投資リターンを示すスライドが提示されることが多い。しかし単純な数値比較では、その時期のすべての変化をAIエージェントに帰属させてしまい、実際の財務的価値や組織への真の貢献を正確に評価することはできない。効果測定にはより多角的なアプローチが必要である。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Bottleneck Has Moved",
-      "url": "https://www.scrum.org/resources/blog/bottleneck-has-moved",
-      "publishedAt": "2026-11-04T21:51:23.000Z",
-      "excerpt": "Image This is part 1 of 4 in a series about Product Development teams with AI agents. The other parts are linked at the end. Code is no longer scarce The sophisticated teams I meet are not writing code by hand. (That wasn’t true in 2024. It is true in 2026.) The practices for agent-written code are still highly experimental, but some patterns are starting to emerge. A prompt is written to describe a goal, some opinions about implementation are included, an agent (or multiple) writes the change. Another agent, or a person, reviews it and runs tests. The CI/CD pipeline re-runs the checks. A pers",
-      "titleJa": "ボトルネックは移動した",
-      "summaryJa": "AI時代のプロダクト開発では、コード生成はもはや希少資源ではなくなった。AIエージェントが自動的にコードを生成し、別のエージェントや人間がレビュー・テストを実施するワークフローが確立されつつある。従来のコード手書きから自動生成への移行に伴い、開発チームのボトルネックが変化している。"
     },
     {
       "category": "PjM",
