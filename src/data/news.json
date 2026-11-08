@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-08T03:04:45.288Z",
+  "updatedAt": "2026-11-08T12:21:42.438Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Product Goal Nobody Uses",
+      "url": "https://www.scrum.org/resources/blog/product-goal-nobody-uses",
+      "publishedAt": "2026-11-08T07:00:00.000Z",
+      "excerpt": "Image In Professional Scrum Product Owner training, I ask every class the same question on the second day: describe your Product Goal. Almost everyone can answer. Most have one written down somewhere, on a slide or in a Confluence page, and the room moves on quickly. Then I ask a second question: which items in your current backlog would you remove because they do not contribute to that goal? That question takes longer. The 2020 Scrum Guide added the Product Goal as the commitment for the Product Backlog [1]. Before that revision, teams were expected to have a product direction, but Scrum neve",
+      "titleJa": "プロダクトゴールの使われていない現実",
+      "summaryJa": "Scrum Guide 2020で導入されたプロダクトゴールについて、多くのチームが掲げているものの、実際のバックログアイテムの優先順位付けに活用していない実態を指摘。プロダクトゴールを真に機能させるには、ゴールに貢献しないアイテムを積極的に除外する判断が必要。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "We’re Not Paid to Practice Scrum, but Answer 5 Product Questions",
+      "url": "https://www.scrum.org/resources/blog/were-not-paid-practice-scrum-answer-5-product-questions",
+      "publishedAt": "2026-11-08T06:53:16.000Z",
+      "excerpt": "TL;DR: Five Product Questions Cheap Code Makes More Expensive to Skip For decades, the cost of building software rationed what an organization could start: nobody could afford to build everything, so somebody had to choose, however crudely. AI has weakened that rationing; the frontier labs need your organization to use more AI with every model generation, and the product operating model promises to fix what Agile supposedly broke. None of this guarantees that anyone asks whether the work solves a customer problem, nor whether solving it was worth the cost. You need to address these product que",
+      "titleJa": "スクラム実践より重要な5つのプロダクト判断",
+      "summaryJa": "AI時代において、コスト削減のみに注目したプロダクト開発では不十分であり、顧客課題の解決と投資対効果を検証する5つの重要な質問に答えることが必要と主張。プロダクト運用モデルが組織に真の価値をもたらすには、これらの根本的な問いに向き合うべき。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -32,16 +52,6 @@
       "summaryJa": "AIはユーザーストーリーを数秒で生成できるが、形式が整っていても根拠のないビジネスルール、未検証の技術仮定、未決定のプロダクト判断が含まれている可能性がある。プロダクトオーナーとスクラムチームが、生成されたストーリーの妥当性を検証し、本質的な価値を見極める作業が真の課題である。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Ten Product Leaders, Ten Documents, No Strategy",
-      "url": "https://www.scrum.org/resources/blog/ten-product-leaders-ten-documents-no-strategy",
-      "publishedAt": "2026-11-06T09:38:45.000Z",
-      "excerpt": "Ten Product Leaders, Ten Documents, No Strategy This is the first article in our AI Product Strategy Series. This article has been co-authored by Hamza El Uamari, Head of Product Decision Intelligence at KLM. Summary: Product strategy is the set of choices that explains how a product will win: who it serves, which needs it addresses, what makes it different, and how it creates value for the business. It connects product vision to the roadmap. A strong strategy requires a clear diagnosis and deliberate choices, not a feature list or a one-size-fits-all platform. In an AI-first environment, that",
-      "titleJa": "10人のプロダクトリーダー、10のドキュメント、戦略なし",
-      "summaryJa": "プロダクト戦略とは、顧客、対応するニーズ、差別化要因、ビジネス価値創造の方法を定義する選択肢の集合である。AI環境では、フィーチャーリストやプラットフォーム依存ではなく、明確な診断と意図的な選択に基づいた強固な戦略が必須となる。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
       "title": "AI and the Future of the Product Role",
@@ -50,16 +60,6 @@
       "excerpt": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies. This has always been true, in no small part due to inheriting the job title... The post AI and the Future of the Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "AIがプロダクトマネジャーの役割にもたらす変化",
       "summaryJa": "プロダクトマネジャーの職務定義と責任は企業によって大きく異なるが、AIの登場はこの役割をさらに多様化させる可能性がある。2026年Product Leader Summitの基調講演をまとめた本記事では、AI時代においてプロダクト組織がどう進化するか、またPdMに求められるスキルの変化について考察している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Messung der KI-Wirksamkeit: Was Ihr Velocity-Chart dem CFO nicht sagen kann 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/messung-der-ki-wirksamkeit-was-ihr-velocity-chart-dem-cfo-nicht-sagen-kann",
-      "publishedAt": "2026-11-05T05:00:15.000Z",
-      "excerpt": "In Kürze: KI-Wirksamkeit auf Teamebene messen Früher oder später zeigt jemand in Ihrer Organisation eine Folie mit einer Zahl dazu, was KI für Ihr Team bewirkt hat: typischerweise die „Velocity“ des Teams vor und nach der Einführung der Coding-Agenten, dazu ein Prozentsatz, der wie eine Rendite auf die Token-Rechnung aussieht. Die Zahl mag sogar „stimmen“, beantwortet jedoch eine andere Frage als die, die die Finanzabteilung stellt: Ein Vorher-nachher-Vergleich schreibt jede Veränderung in diesem Zeitraum den KI-Agenten gut, und die Sinnhaftigkeit der Velocity ist unter normalen Umständen aus ",
-      "titleJa": "AI効果測定：ベロシティチャートがCFOに伝えない真実",
-      "summaryJa": "AIの効果を測定する際、チーム導入前後のベロシティ数値や投資リターンを示すスライドが提示されることが多い。しかし単純な数値比較では、その時期のすべての変化をAIエージェントに帰属させてしまい、実際の財務的価値や組織への真の貢献を正確に評価することはできない。効果測定にはより多角的なアプローチが必要である。"
     },
     {
       "category": "PjM",
