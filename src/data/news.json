@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-08T12:21:42.438Z",
+  "updatedAt": "2026-11-08T21:26:46.877Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "The Author Pays",
+      "url": "https://qahiccupps.blogspot.com/2026/11/the-author-pays.html",
+      "publishedAt": "2026-11-08T16:50:06.000Z",
+      "excerpt": "Java was famously promoted with the idealistic Write Once Run Anywhere and simultaneously derided with the sardonic Write Once Debug Everywhere. Neither is correct, of course, but the idea that one implementation can work for all consumers continues to be attractive, and the fact that it doesn't continues to frustrate. all been there ... on both sides of the problem, sometimes as the author and, months later, confused recipient of the same miserable text. Which is where today's post comes in. Last year's Heuristics for Working Today was a presentation I gave at work listing nine practices that",
+      "titleJa": "実装者の責任～一度書いたら、どこでも動くはずなのに",
+      "summaryJa": "JavaのWrite Once Run Anywhereという理想と、実現の困難さについて論じた記事。実装者が異なるプラットフォームでの動作確認責任をどう負うべきかを、昨年の「今日の実務的ヒューリスティクス」という発表を基に、9つの実践ガイドで解説する。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
+      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
+      "publishedAt": "2026-11-08T13:31:32.000Z",
+      "excerpt": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
+      "titleJa": "プロダクトマネージャーの価値が再評価される理由",
+      "summaryJa": "GoogleのGemini責任者Tulsee Doshiが、最先端モデル開発におけるPMの役割について語る。評価指標（evals）と直感の両立、60-20-20フレームワークなど、急速に変化するAI時代でPMが新たな価値を発揮する方法について論じている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -130,16 +150,6 @@
       "excerpt": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
       "titleJa": "19歳インターンが構築した20億ドル企業の成長エンジン",
       "summaryJa": "Wispr Flowの成長を牽引したペイドUGC戦略の構築について、Hector Serranoが語る。経歴書よりも若い才能を重視する採用戦略、そして最高のマーケターがAIに警戒的である理由など、スタートアップの成長戦略に関する実例が紹介される。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: The biggest sources of interruptions for PMs, hiring junior PMs with case studies vs. behavioral interviews, building a product harness for AI-driven development, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-the-biggest-sources",
-      "publishedAt": "2026-10-31T16:14:41.000Z",
-      "excerpt": "Community Wisdom 304",
-      "titleJa": "コミュニティの知恵：PMが直面する中断要因、ジュニアPM採用の工夫、AI駆動開発のためのプロダクトハーネス構築など",
-      "summaryJa": "Lennyのニュースレターのコミュニティウィズダムシリーズ。プロダクトマネージャーが直面する割り込みの主な要因、ジュニアPM採用時のケーススタディと行動面接の比較検討、AI駆動開発のためのプロダクトハーネス構築方法など、実践的な知見を共有しています。"
     },
     {
       "category": "PdM",
