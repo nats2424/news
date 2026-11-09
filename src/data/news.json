@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-08T21:26:46.877Z",
+  "updatedAt": "2026-11-09T03:27:25.813Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "A painful modernization story",
+      "url": "https://www.scrum.org/resources/blog/painful-modernization-story",
+      "publishedAt": "2026-11-09T01:19:22.000Z",
+      "excerpt": "Image Leadership at one company wanted to modernize their core platform. There was an obvious way to do it. They chose the other way. After years of investment, the modernization had delivered nothing, millions had gone to consultants, and the company was downsizing. What went wrong? The obvious way This is not a unique story. A lot of companies overcomplicate their modernizations. At this company, they already had a high-performing Scrum team managing their core product. The obvious move was to engage their existing Product Owner and empower them to lead the modernization effort with the curr",
+      "titleJa": "失敗に終わった現代化プロジェクトの教訓",
+      "summaryJa": "ある企業がコアプラットフォームの現代化を目指しましたが、経営陣は最適なアプローチを避け、別の道を選択。数年の投資と莫大なコンサルタント費用を費やしても成果が出ず、結局は人員削減に至りました。既存の高機能Scrumチームとプロダクトオーナーを活かすべきだったという教訓です。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -60,16 +70,6 @@
       "excerpt": "Image A inteligência artificial generativa removeu o atrito mecânico da gestão de produtos. Com um único comando estruturado, qualquer profissional consegue desdobrar uma iniciativa estratégica em dezenas de itens de Product Backlog, redigir critérios de aceite em formato BDD impecáveis e preencher cerimônias com métricas aparentes de produtividade. Quadros do Jira e Miro, antes mantidos sob esforço analítico contínuo, agora são inflados em questão de segundos com centenas de \"User Stories\" perfeitamente formatadas. O mercado comemora essa agilidade operacional como um marco de produtividade s",
       "titleJa": "合成効率の幻想：AIが過去最速のフィーチャーファクトリーを生む理由",
       "summaryJa": "生成AIがプロダクト管理の機械的な障害を取り除き、戦略的イニシアティブを数十のプロダクトバックログアイテムに展開し、フォーマットされたユーザーストーリーで埋め尽くすことが可能になった。しかし、この表面的な生産性の向上の背後に隠れた課題と、その危険性について検討する重要性を指摘している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI generated the user stories – now the real work begins",
-      "url": "https://www.scrum.org/resources/blog/ai-generated-user-stories-now-real-work-begins",
-      "publishedAt": "2026-11-06T09:44:51.000Z",
-      "excerpt": "AI can generate a list of user stories in seconds. The stories may be clearly written, correctly formatted and connected to recognisable user value. They can give a Product Owner and a whole Scrum Team something concrete to discuss without spending hours facing a blank page. This is genuinely useful – and it is where the more demanding work begins. A well-written user story can still contain an unsupported business rule, an unverified technical assumption or a product decision nobody has made. Once the output has been copied into the Product Backlog, shared with stakeholders or expanded into a",
-      "titleJa": "AIで生成したユーザーストーリー：ここから本当の仕事が始まる",
-      "summaryJa": "AIはユーザーストーリーを数秒で生成できるが、形式が整っていても根拠のないビジネスルール、未検証の技術仮定、未決定のプロダクト判断が含まれている可能性がある。プロダクトオーナーとスクラムチームが、生成されたストーリーの妥当性を検証し、本質的な価値を見極める作業が真の課題である。"
     },
     {
       "category": "PdM",
