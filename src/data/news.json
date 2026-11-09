@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-09T03:27:25.813Z",
+  "updatedAt": "2026-11-09T14:35:33.977Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How this founder built a better Duolingo with Codex | William Imoh",
+      "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
+      "publishedAt": "2026-11-09T13:04:17.000Z",
+      "excerpt": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
+      "titleJa": "CodexでDuolingoより優れた言語学習アプリを構築した起業家",
+      "summaryJa": "Hackmamba創業者のWilliam Imohが、CodexというAIツールを使ってノルウェー語学習用のネイティブアプリを開発した事例を紹介。彼の会社運営を支援する「ロード・オブ・ザ・リングス Grokボット」フェローシップについても言及しており、AI活用によるプロダクト開発の実例が学べます。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How I Enriched The PSPO Class For New Product Owners",
+      "url": "https://www.scrum.org/resources/blog/how-i-enriched-pspo-class-new-product-owners",
+      "publishedAt": "2026-11-09T10:37:39.000Z",
+      "excerpt": "Learning from the PSPO class alone is not enough for New Product Owners. To effectively apply their knowledge in the field, they require extra, enriched content and support. So, let’s explore how I enriched the PSPO class. Image Imagine you join a PSPO class and you learn a lot from it. However, the day after the class, you suddenly feel alone. You don't know where to start. You don't know which steps you should take first to best serve your Scrum Team. This is the reason that I decided to enrich my PSPO class. I want my students to leave the class with an exceptional experience of learning an",
+      "titleJa": "PSPO認定講座をより充実させた新人プロダクトオーナーへのサポート設計",
+      "summaryJa": "PSPO（Scrum Product Owner）の公式講座だけでは、新人プロダクトオーナーが実務で知識を活用できないという課題を解決するため、講座内容を充実させた取り組みについて解説。卒業後も実践的にスクラムチームをサポートできるよう、追加コンテンツとメンタリングを提供する方法を紹介しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +80,6 @@
       "excerpt": "Picture a developer. Let's call him Chris. Chris has been with the company for twelve years. He knows the billing module better than anyone. When something breaks there, everyone calls him. Documentation? Barely any. Pair programming? Not really his thing. Chris isn't a bad guy. Chris has simply learned how to survive in organizations. If you know something nobody else knows, you're needed. If you're needed, you're safe. For decades, that worked, until AI arrived. It reads the billing module in seconds. It explains to anyone on the team what Chris spent twelve years learning. It finds the bug ",
       "titleJa": "知識の独占から脱却する—AI時代のエンジニアの役割変化",
       "summaryJa": "経験豊富なエンジニアが知識を独占することで自分の価値を守ってきた時代は終わった。AIは複雑なコードベースを瞬時に理解し、誰でもアクセスできる形で知識を共有する。知識の蓄積だけでなく、チーム全体の成長と透明性を優先する文化への転換が求められている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "A Ilusão da Eficiência Sintética: Por Que a IA Pode Criar a Fábrica de Features Mais Rápida da História",
-      "url": "https://www.scrum.org/resources/blog/ilusao-da-eficiencia-sintetica-por-que-ia-pode-criar-fabrica-de-features-mais-rapida-da-historia",
-      "publishedAt": "2026-11-06T12:28:50.000Z",
-      "excerpt": "Image A inteligência artificial generativa removeu o atrito mecânico da gestão de produtos. Com um único comando estruturado, qualquer profissional consegue desdobrar uma iniciativa estratégica em dezenas de itens de Product Backlog, redigir critérios de aceite em formato BDD impecáveis e preencher cerimônias com métricas aparentes de produtividade. Quadros do Jira e Miro, antes mantidos sob esforço analítico contínuo, agora são inflados em questão de segundos com centenas de \"User Stories\" perfeitamente formatadas. O mercado comemora essa agilidade operacional como um marco de produtividade s",
-      "titleJa": "合成効率の幻想：AIが過去最速のフィーチャーファクトリーを生む理由",
-      "summaryJa": "生成AIがプロダクト管理の機械的な障害を取り除き、戦略的イニシアティブを数十のプロダクトバックログアイテムに展開し、フォーマットされたユーザーストーリーで埋め尽くすことが可能になった。しかし、この表面的な生産性の向上の背後に隠れた課題と、その危険性について検討する重要性を指摘している。"
     },
     {
       "category": "PdM",
@@ -140,16 +150,6 @@
       "excerpt": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
       "titleJa": "FigmaのPMが毎日AIを活用する方法",
       "summaryJa": "Figma成長担当PMのエズラ・メカベルが、60以上のPMが使用する31スキルのリポジトリ「PM OS」と、成長実験を自動実行するAIエージェント「AutoXP」を紹介。人間による最小限のチェックポイントで効率的に実験を運用できる仕組みを解説しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How a 19-year-old intern built the growth engine behind this $2B AI company | Hector Serrano",
-      "url": "https://www.lennysnewsletter.com/p/how-a-19-year-old-intern-built-the",
-      "publishedAt": "2026-11-01T13:31:36.000Z",
-      "excerpt": "Listen now (88 mins) | Hector Serrano on building Wispr Flow’s paid-UGC machine, hiring young talent over polished resumes, and why the best marketers are “allergic to AI”",
-      "titleJa": "19歳インターンが構築した20億ドル企業の成長エンジン",
-      "summaryJa": "Wispr Flowの成長を牽引したペイドUGC戦略の構築について、Hector Serranoが語る。経歴書よりも若い才能を重視する採用戦略、そして最高のマーケターがAIに警戒的である理由など、スタートアップの成長戦略に関する実例が紹介される。"
     },
     {
       "category": "PdM",
