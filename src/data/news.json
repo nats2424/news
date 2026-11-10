@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-10T13:54:09.660Z",
+  "updatedAt": "2026-11-10T22:37:55.853Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "State of the tech job market: late 2026",
+      "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
+      "publishedAt": "2026-11-10T15:04:03.000Z",
+      "excerpt": "PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software",
+      "titleJa": "2026年後半の技術職市場動向",
+      "summaryJa": "プロダクトマネージャーの需要が高まり、エンジニアは横ばい、デザイナーは厳しい状況にある。注目すべきはAIの最大採用増は必ずしもソフトウェア業界に限定されていない点である。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Discovery & The 4 Risks - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/discovery-the-4-risks-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-11-10T14:00:00.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts In one of their most philosophical episodes yet, Petra Wille and Teresa Torres turn product thinking on the discovery practice itself. If you treat the continuous discovery habits as a product — and the organizations that buy training as the customer —",
+      "titleJa": "プロダクトディスカバリーと4つのリスク",
+      "summaryJa": "テレサ・トーレスとペトラ・ウィレが、継続的ディスカバリーの実践そのものをプロダクトとして捉え、組織への導入・学習支援におけるリスク要因を哲学的に掘り下げたポッドキャストエピソード。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -123,16 +143,6 @@
     },
     {
       "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Lenny’s Newsletter holiday gift guide 2026",
-      "url": "https://www.lennysnewsletter.com/p/lennys-newsletter-holiday-gift-guide-057",
-      "publishedAt": "2026-11-03T14:45:33.000Z",
-      "excerpt": "100+ gift ideas—all things I actually use, love, and recommend",
-      "titleJa": "Lennyのニュースレター2026年ホリデーギフトガイド",
-      "summaryJa": "Lennyが実際に使用・推奨する100以上のギフトアイデアを厳選して紹介するガイド。プロダクト関係者向けの実用的で信頼性の高い商品をまとめたリストです。"
-    },
-    {
-      "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "What AI Changes - All Things Product Podcast with Teresa Torres & Petra Wille",
       "url": "https://www.producttalk.org/what-ai-changes-all-things-product-podcast-with-teresa-torres-petra-wille/",
@@ -210,16 +220,6 @@
       "excerpt": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing. This talk is focused on the product organization, the people responsible for building the products the company sells. Some Notes on... The post Experimentation, AI and the Product Model appeared first on Silicon Valley Product Group.",
       "titleJa": "実験とAIがプロダクト組織にもたらす変化",
       "summaryJa": "プロダクト組織における実験の重要性をテーマにしたカンファレンスキーノート。実験手法がプロダクト開発にいかに活用されるか、またAI時代のプロダクトモデルの進化について論じている。プロダクトマネージャーが顧客価値を検証する上での実験の役割を中心に解説。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Scary Test Automation POCs Made Easy: Halloween Special With Paul Grossman",
-      "url": "https://testguild.com/podcast/a608-paul/",
-      "publishedAt": "2026-10-20T16:15:46.000Z",
-      "excerpt": "About This Episode: Running a proof of concept on test automation tools can feel like a horror movie. Vendors promise […]",
-      "titleJa": "テスト自動化のPOCを成功させるコツ：ハロウィン特別版 with Paul Grossman",
-      "summaryJa": "テスト自動化ツールのPOC(概念実証)は、ベンダーの過剰な約束と現実のギャップから悪夢のように感じることがある。この特別エピソードでは、ツール選定のリスクを減らし、実質的な効果を得るためのPOC実施のポイントを紹介する。"
     }
   ]
 }
