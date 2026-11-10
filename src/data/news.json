@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T00:56:58.641Z",
+  "updatedAt": "2026-11-10T13:54:09.660Z",
   "items": [
     {
       "category": "PdM",
@@ -220,26 +220,6 @@
       "excerpt": "About This Episode: Running a proof of concept on test automation tools can feel like a horror movie. Vendors promise […]",
       "titleJa": "テスト自動化のPOCを成功させるコツ：ハロウィン特別版 with Paul Grossman",
       "summaryJa": "テスト自動化ツールのPOC(概念実証)は、ベンダーの過剰な約束と現実のギャップから悪夢のように感じることがある。この特別エピソードでは、ツール選定のリスクを減らし、実質的な効果を得るためのPOC実施のポイントを紹介する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Mind-Bending Experiences - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/mind-bending-experiences-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-10-20T13:00:54.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Team events are making a comeback. After years of remote work and tight budgets, companies are bringing people together again, and many are looking for experiences that go beyond the usual offsite. So should companies deliberately send their people somewhere strange, uncomfortable,",
-      "titleJa": "チームを変える体験デザイン——プロダクト開発におけるオフサイトの新しい形",
-      "summaryJa": "リモートワーク時代の終焉とともに、企業のチームイベントが復活している。従来のオフサイトを超えた、意図的に非日常的で挑戦的な体験の場を提供することの価値について、プロダクト管理の視点から探る対談。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "NPS Never Told You Why",
-      "url": "https://www.productcoalition.com/p/nps-never-told-you-why",
-      "publishedAt": "2026-10-20T08:00:45.000Z",
-      "excerpt": "Nine years of Product Coalition writing moved one score from answer to warning light",
-      "titleJa": "NPSスコアでは理由が見えない",
-      "summaryJa": "Product Coalitionの9年間の執筆活動を通じて、NPS（Net Promoter Score）が単なる数値回答ではなく、問題を警告する指標として機能することを示している。顧客満足度測定の限界と実際の改善につながる指標の重要性を論じた記事。"
     }
   ]
 }
