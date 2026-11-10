@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-09T14:35:33.977Z",
+  "updatedAt": "2026-11-10T00:56:58.641Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
+      "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
+      "publishedAt": "2026-11-09T20:37:49.000Z",
+      "excerpt": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
+      "titleJa": "Claude Fable 5.2レビュー：高速で創造的、ようやく使いやすくなった",
+      "summaryJa": "Fable 5.2の最初のインプレッション、実際に構築できたもの、課題点、そして日常のAIスタックに組み込む価値があるかを検証した記事。AIツールの実用性と日常業務への統合可能性を評価しています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
+      "publishedAt": "2026-11-09T16:01:20.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "🎙️ How I AI：Codexを使ってDuolingoを超えるプロダクトを作った起業家",
+      "summaryJa": "創業者がCodexを活用してDuolingoより優れた言語学習プロダクトを構築した経験を紹介するポッドキャスト。AIを活用したプロダクト開発の具体的アプローチや意思決定プロセスについて語られています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -133,26 +153,6 @@
     },
     {
       "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: Grok vs. Dot vs. Muse vs. Duet + How Figma’s PMs actually use AI every day",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-grok-vs-dot-vs-muse-vs-duet",
-      "publishedAt": "2026-11-02T16:02:08.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "AI活用対談：Grok vs. Dot vs. Muse vs. Duet、Figmaのプロダクトマネージャーが実践するAI",
-      "summaryJa": "Lenny's Podcastネットワークの「How I AI」シリーズの週刊エピソド。複数のAIツール（Grok、Dot、Muse、Duet）を比較しながら、Figmaのプロダクトマネージャーが実際の業務でAIをどのように活用しているかを紹介する対談。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How Figma’s PMs actually use AI every day | Ezra Mechaber (PM, Figma)",
-      "url": "https://www.lennysnewsletter.com/p/how-figmas-pms-actually-use-ai-every",
-      "publishedAt": "2026-11-02T13:04:11.000Z",
-      "excerpt": "Listen now | 🎙️ Figma growth PM Ezra Mechaber demos PM OS, a 31-skill repo used by 60+ PMs, and AutoXP, an agent that runs growth experiments with one human checkpoint",
-      "titleJa": "FigmaのPMが毎日AIを活用する方法",
-      "summaryJa": "Figma成長担当PMのエズラ・メカベルが、60以上のPMが使用する31スキルのリポジトリ「PM OS」と、成長実験を自動実行するAIエージェント「AutoXP」を紹介。人間による最小限のチェックポイントで効率的に実験を運用できる仕組みを解説しています。"
-    },
-    {
-      "category": "PdM",
       "sourceName": "Product Coalition",
       "title": "EP109 Why the Best Leaders Give Context, Not Direction with Norma Løvhaugen (Neat.no) and Jay Stansell",
       "url": "https://www.productcoalition.com/p/ep109-why-the-best-leaders-give-context",
@@ -240,16 +240,6 @@
       "excerpt": "Nine years of Product Coalition writing moved one score from answer to warning light",
       "titleJa": "NPSスコアでは理由が見えない",
       "summaryJa": "Product Coalitionの9年間の執筆活動を通じて、NPS（Net Promoter Score）が単なる数値回答ではなく、問題を警告する指標として機能することを示している。顧客満足度測定の限界と実際の改善につながる指標の重要性を論じた記事。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "k6 MCP, SelectorsHub MCP, Cypress and the Rise of AI Test Agents TGNS198",
-      "url": "https://testguild.com/podcast/n198-oct19/",
-      "publishedAt": "2026-10-19T17:25:46.000Z",
-      "excerpt": "About This Episode: Is your AI agent inventing locators that break on the next deploy? Can AI really write a […]",
-      "titleJa": "k6 MCP、SelectorsHub MCP、Cypressと急速に進化するAIテストエージェント",
-      "summaryJa": "このエピソードでは、AIエージェントがテスト自動化ツール(k6、SelectorsHub、Cypress)と統合される中で、AIが生成したロケータが次のデプロイで破損するといった課題や、AIが本当に信頼できるテストコードを書けるのかという問題について探討しています。QA業界におけるAIテストエージェントの台頭と実務的な課題が焦点です。"
     }
   ]
 }
