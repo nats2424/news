@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-11T03:35:06.546Z",
+  "updatedAt": "2026-11-11T13:06:52.004Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
+      "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
+      "publishedAt": "2026-11-11T13:04:09.000Z",
+      "excerpt": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
+      "titleJa": "ClaudeコードとObsidianで作る家族向けAIアシスタント",
+      "summaryJa": "Scott Farrarが構築したClaude CodeとObsidianを組み合わせたシステムの事例紹介。家電管理、保険見積もりの追跡、家庭プロジェクト管理など、実務的なユースケースを通じてAIとナレッジベースの統合活用法を解説しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -102,16 +112,6 @@
       "summaryJa": "JavaのWrite Once Run Anywhereという理想と、実現の困難さについて論じた記事。実装者が異なるプラットフォームでの動作確認責任をどう負うべきかを、昨年の「今日の実務的ヒューリスティクス」という発表を基に、9つの実践ガイドで解説する。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Why PMs are suddenly valuable again | Tulsee Doshi (Head of Product, Gemini)",
-      "url": "https://www.lennysnewsletter.com/p/what-it-actually-takes-to-build-frontier",
-      "publishedAt": "2026-11-08T13:31:32.000Z",
-      "excerpt": "Listen now (59 mins) | Tulsee Doshi on building Google’s frontier models, why evals and vibes both matter, and her 60-20-20 framework for shipping ahead of the curve",
-      "titleJa": "プロダクトマネージャーの価値が再評価される理由",
-      "summaryJa": "GoogleのGemini責任者Tulsee Doshiが、最先端モデル開発におけるPMの役割について語る。評価指標（evals）と直感の両立、60-20-20フレームワークなど、急速に変化するAI時代でPMが新たな価値を発揮する方法について論じている。"
-    },
-    {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
       "title": "The Product Goal Nobody Uses",
@@ -140,6 +140,16 @@
       "excerpt": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies. This has always been true, in no small part due to inheriting the job title... The post AI and the Future of the Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "AIがプロダクトマネジャーの役割にもたらす変化",
       "summaryJa": "プロダクトマネジャーの職務定義と責任は企業によって大きく異なるが、AIの登場はこの役割をさらに多様化させる可能性がある。2026年Product Leader Summitの基調講演をまとめた本記事では、AI時代においてプロダクト組織がどう進化するか、またPdMに求められるスキルの変化について考察している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Rebel's Guide to Project Management",
+      "title": "The HS2 reset: lessons for project managers",
+      "url": "https://rebelsguidetopm.com/hs2-reset/",
+      "publishedAt": "2026-11-03T15:10:53.000Z",
+      "excerpt": "HS2, the high speed railway line, is now expected to cost between £87.7 billion and £102.7 billion, and the full line could open up to 13 years later than planned in 2020. Those are the headline numbers from the National Audit Office's latest report, High Speed Two reset, published in June 2026. It's easy to read the headlines, shake your head and move on. But the report is much more interesting than the numbers. It looks at what happens when a programme outgrows the organization running it, and at what it takes to put things right. This isn't the first reset, either. HS2 was reset in 2020, Eu",
+      "titleJa": "HS2プロジェクトのリセットに学ぶプロジェクト管理の教訓",
+      "summaryJa": "英国の高速鉄道プロジェクト「HS2」の大幅な予算増加と期間延期について、国家監査局の報告書から学べるプロジェクト管理の教訓を分析。プログラムが組織を上回る規模に成長した時の対応策や、大型プロジェクトの修正方法に関する実践的な洞察を提供しています。"
     },
     {
       "category": "PdM",
