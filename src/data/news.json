@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-11T13:06:52.004Z",
+  "updatedAt": "2026-11-11T23:47:49.607Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "2027 Product Conferences",
+      "url": "https://www.producttalk.org/2027-product-conferences/",
+      "publishedAt": "2026-11-11T14:00:00.000Z",
+      "excerpt": "We are starting to pull together our list of 2027 product conferences. This list is by no means exhaustive. If you know of product conferences that are not on the list and you think they should be, please send an email to conferences@producttalk.org. We’ll also keep",
+      "titleJa": "2027年プロダクトカンファレンス開催情報",
+      "summaryJa": "2027年に開催されるプロダクト関連のカンファレンス情報をまとめたリストが公開されている。完全網羅ではないため、情報がない他のカンファレンスについてはProduct Talkへの情報提供を呼びかけている。今後も継続的に情報が更新される予定。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -20,6 +30,16 @@
       "excerpt": "Image You don't need a transformation. You need one repair. You've done the big change. Maybe more than once. The reorg, the new framework, the tooling migration, the all-hands where someone put \"cultural change\" on a slide. Months of disruption, a real budget, everybody's attention. And here you are, hitting the same frictions you started with. The status that stays green until it snaps. The retro that changes nothing. The team that waits more than it works. That isn't bad luck, and it isn't because you picked the wrong framework this time. It's because the unit of change was always too big. ",
       "titleJa": "大規模な変革は不要、必要なのは小さな改善",
       "summaryJa": "組織の大きな変革プロジェクトは多くの場合、元の問題を解決できていません。本記事は、再編成やツール移行などの大規模変更ではなく、変化の単位を小さくし段階的な改善を積み重ねることの重要性を指摘しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI stalled: which of McKinsey's 12 operating model elements can your Scrum Team decide?",
+      "url": "https://www.scrum.org/resources/blog/ai-stalled-which-mckinseys-12-operating-model-elements-can-your-scrum-team-decide",
+      "publishedAt": "2026-11-10T21:49:47.000Z",
+      "excerpt": "AI work stalls when a Scrum Team acts on a decision it doesn't own, or waits on a decision nobody has delegated. The Scrum Master's job is to find out who holds that decision and get it delegated before the next Sprint. Two questions show whether the team holds a decision. First, does the Scrum Guide give it to the Scrum Team, the Developers or the Product Owner? Second, if not, has the person who holds it delegated it in writing, or in a decision the team can point to? A decision that fails both tests belongs to someone else, and the team needs that person to act. What Scrum gives the team Th",
+      "titleJa": "AIプロジェクトの停滞を招く決定権の問題とスクラムチームの責任範囲",
+      "summaryJa": "AIプロジェクトはスクラムチームが所有していない決定に基づいて行動したり、権限委譲されていない決定を待つことで停滞する。スクラムマスターはスクラムガイドに基づいて決定権の帰属を明確にし、必要な権限委譲を次のスプリント前に完了させることが重要。McKinseyの12要素のオペレーティングモデルに対してチームが実際に決定できる範囲を把握することがAI開発の進捗を左右する。"
     },
     {
       "category": "QA",
@@ -122,16 +142,6 @@
       "summaryJa": "Scrum Guide 2020で導入されたプロダクトゴールについて、多くのチームが掲げているものの、実際のバックログアイテムの優先順位付けに活用していない実態を指摘。プロダクトゴールを真に機能させるには、ゴールに貢献しないアイテムを積極的に除外する判断が必要。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "We’re Not Paid to Practice Scrum, but Answer 5 Product Questions",
-      "url": "https://www.scrum.org/resources/blog/were-not-paid-practice-scrum-answer-5-product-questions",
-      "publishedAt": "2026-11-08T06:53:16.000Z",
-      "excerpt": "TL;DR: Five Product Questions Cheap Code Makes More Expensive to Skip For decades, the cost of building software rationed what an organization could start: nobody could afford to build everything, so somebody had to choose, however crudely. AI has weakened that rationing; the frontier labs need your organization to use more AI with every model generation, and the product operating model promises to fix what Agile supposedly broke. None of this guarantees that anyone asks whether the work solves a customer problem, nor whether solving it was worth the cost. You need to address these product que",
-      "titleJa": "スクラム実践より重要な5つのプロダクト判断",
-      "summaryJa": "AI時代において、コスト削減のみに注目したプロダクト開発では不十分であり、顧客課題の解決と投資対効果を検証する5つの重要な質問に答えることが必要と主張。プロダクト運用モデルが組織に真の価値をもたらすには、これらの根本的な問いに向き合うべき。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Silicon Valley Product Group",
       "title": "AI and the Future of the Product Role",
@@ -220,16 +230,6 @@
       "excerpt": "Time flies, they say. This is the 720th post on Hiccupps and I'm publishing it fifteen years after the first, to the day. I've often used blog birthdays as a chance to step back a little and reflect but fifteen feels like a big number so I thought I'd step all the way back. --00-- I use the blog as a reference, to recall what I did or what I thought, but I don't have strong memories of a lot of the material, so I decided to sample it by reading the post published closest to its anniversary for every year of its existence. 2011 Sign Language Phew. The first post is not too cringe and it makes a",
       "titleJa": "時の流れと15年の歩み",
       "summaryJa": "QA技術者のブログ「Hiccupps」が15周年を迎え、創設から現在までの720件の投稿を振り返る記事。ブログを参考資料として活用しながら、毎年の記念日に最も近い投稿を読み返すことで、15年間の思考と経験の軌跡を総括している。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Silicon Valley Product Group",
-      "title": "Experimentation, AI and the Product Model",
-      "url": "https://www.svpg.com/experimentation-ai-and-the-product-model/",
-      "publishedAt": "2026-10-21T15:53:41.000Z",
-      "excerpt": "NOTE: This is a narrative form of a keynote for the Circus Austin Experimentation Conference. While experimentation can be found in various parts of a company, most people think of either product or marketing. This talk is focused on the product organization, the people responsible for building the products the company sells. Some Notes on... The post Experimentation, AI and the Product Model appeared first on Silicon Valley Product Group.",
-      "titleJa": "実験とAIがプロダクト組織にもたらす変化",
-      "summaryJa": "プロダクト組織における実験の重要性をテーマにしたカンファレンスキーノート。実験手法がプロダクト開発にいかに活用されるか、またAI時代のプロダクトモデルの進化について論じている。プロダクトマネージャーが顧客価値を検証する上での実験の役割を中心に解説。"
     }
   ]
 }
