@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-11T23:47:49.607Z",
+  "updatedAt": "2026-11-12T04:43:28.992Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Tokens Are Capacity, Not Value: Bringing AI Agent Cost into Sprint Planning",
+      "url": "https://www.scrum.org/resources/blog/tokens-are-capacity-not-value-bringing-ai-agent-cost-sprint-planning",
+      "publishedAt": "2026-11-12T02:48:45.000Z",
+      "excerpt": "Image Once a Scrum Team pays for AI agents by the token, Sprint Planning gains a question it never had: can we afford this item? In the PSM-AI and PSPO-AI classes I teach, I hear two answers to it, and both cause trouble. The first team ignores tokens. The budget is gone by day four and nobody can say where it went. The second team swings the other way and lets token cost quietly reorder the work. The cheapest items to generate go first, whatever their value. The first team runs out of money. The second runs out of value. This post describes a third way that keeps empiricism intact: treat toke",
+      "titleJa": "トークンは容量、価値ではない：AIエージェントのコストをスプリント計画に組み込む",
+      "summaryJa": "AIエージェントを導入したスクラムチームは、スプリント計画にコスト管理という新しい課題に直面します。トークンコストを無視するチームは予算が枯渇し、コスト最小化を優先するチームは価値を失います。本記事は、実験主義を保ちながらトークンコストを適切に管理する第三の方法を提案しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -130,16 +140,6 @@
       "excerpt": "Java was famously promoted with the idealistic Write Once Run Anywhere and simultaneously derided with the sardonic Write Once Debug Everywhere. Neither is correct, of course, but the idea that one implementation can work for all consumers continues to be attractive, and the fact that it doesn't continues to frustrate. all been there ... on both sides of the problem, sometimes as the author and, months later, confused recipient of the same miserable text. Which is where today's post comes in. Last year's Heuristics for Working Today was a presentation I gave at work listing nine practices that",
       "titleJa": "実装者の責任～一度書いたら、どこでも動くはずなのに",
       "summaryJa": "JavaのWrite Once Run Anywhereという理想と、実現の困難さについて論じた記事。実装者が異なるプラットフォームでの動作確認責任をどう負うべきかを、昨年の「今日の実務的ヒューリスティクス」という発表を基に、9つの実践ガイドで解説する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Product Goal Nobody Uses",
-      "url": "https://www.scrum.org/resources/blog/product-goal-nobody-uses",
-      "publishedAt": "2026-11-08T07:00:00.000Z",
-      "excerpt": "Image In Professional Scrum Product Owner training, I ask every class the same question on the second day: describe your Product Goal. Almost everyone can answer. Most have one written down somewhere, on a slide or in a Confluence page, and the room moves on quickly. Then I ask a second question: which items in your current backlog would you remove because they do not contribute to that goal? That question takes longer. The 2020 Scrum Guide added the Product Goal as the commitment for the Product Backlog [1]. Before that revision, teams were expected to have a product direction, but Scrum neve",
-      "titleJa": "プロダクトゴールの使われていない現実",
-      "summaryJa": "Scrum Guide 2020で導入されたプロダクトゴールについて、多くのチームが掲げているものの、実際のバックログアイテムの優先順位付けに活用していない実態を指摘。プロダクトゴールを真に機能させるには、ゴールに貢献しないアイテムを積極的に除外する判断が必要。"
     },
     {
       "category": "PdM",
