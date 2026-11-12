@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-12T14:09:43.752Z",
+  "updatedAt": "2026-11-12T22:56:47.146Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Free ebook: Scrum with AI",
+      "url": "https://www.scrum.org/resources/blog/free-ebook-scrum-ai",
+      "publishedAt": "2026-11-12T14:49:56.000Z",
+      "excerpt": "Image Now that an AI agent can write in an afternoon what used to take a Sprint, a quick conclusion is going around: if building no longer costs much, Scrum is no longer needed. Jeff Gothelf makes the case in Product Management and AI (Sense & Respond Press, 2026). When shipping a feature takes minutes instead of months, he argues, delivery stops being an event, and processes like Agile and Scrum are no longer needed in the same way. I think he is right about what he criticises and wrong about what he concludes. That is why I wrote Scrum with AI, a short, free book about how to use Scrum to wo",
+      "titleJa": "無料電子書籍:AIとScrum",
+      "summaryJa": "AIエージェントによってスプリント期間でかかっていた作業が数時間で完了するようになった現在、Scrumは不要という議論が出ている。しかし著者は、Scrumの批判は妥当だが結論は間違っていると指摘し、AIとScrumを効果的に組み合わせるための方法をまとめた無料書籍を執筆した。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Ebook gratuito: Scrum con IA",
+      "url": "https://www.scrum.org/resources/blog/ebook-gratuito-scrum-con-ia",
+      "publishedAt": "2026-11-12T14:45:54.000Z",
+      "excerpt": "Image Ahora que un agente de IA escribe en una tarde lo que antes llevaba un Sprint, circula una conclusión rápida: si construir ya no cuesta, Scrum sobra. Jeff Gothelf la plantea en Product Management and AI (Sense & Respond Press, 2026). Cuando entregar una funcionalidad lleva minutos y no meses, dice, la entrega deja de ser un acontecimiento, y procesos como Agile y Scrum ya no hacen falta de la misma manera. Creo que tiene razón en lo que critica y se equivoca en lo que concluye. Por eso he escrito Scrum con IA, un libro corto y gratuito sobre cómo usar Scrum para trabajar con IA con crite",
+      "titleJa": "無料電子書籍:AIとScrum",
+      "summaryJa": "AIエージェントによってスプリント期間でかかっていた作業が数時間で完了するようになった現在、Scrumは不要という議論が出ている。しかし著者は、Scrumの批判は妥当だが結論は間違っていると指摘し、AIとScrumを効果的に組み合わせるための方法をまとめた無料書籍を執筆した。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -50,16 +70,6 @@
       "excerpt": "Image You don't need a transformation. You need one repair. You've done the big change. Maybe more than once. The reorg, the new framework, the tooling migration, the all-hands where someone put \"cultural change\" on a slide. Months of disruption, a real budget, everybody's attention. And here you are, hitting the same frictions you started with. The status that stays green until it snaps. The retro that changes nothing. The team that waits more than it works. That isn't bad luck, and it isn't because you picked the wrong framework this time. It's because the unit of change was always too big. ",
       "titleJa": "大規模な変革は不要、必要なのは小さな改善",
       "summaryJa": "組織の大きな変革プロジェクトは多くの場合、元の問題を解決できていません。本記事は、再編成やツール移行などの大規模変更ではなく、変化の単位を小さくし段階的な改善を積み重ねることの重要性を指摘しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI stalled: which of McKinsey's 12 operating model elements can your Scrum Team decide?",
-      "url": "https://www.scrum.org/resources/blog/ai-stalled-which-mckinseys-12-operating-model-elements-can-your-scrum-team-decide",
-      "publishedAt": "2026-11-10T21:49:47.000Z",
-      "excerpt": "AI work stalls when a Scrum Team acts on a decision it doesn't own, or waits on a decision nobody has delegated. The Scrum Master's job is to find out who holds that decision and get it delegated before the next Sprint. Two questions show whether the team holds a decision. First, does the Scrum Guide give it to the Scrum Team, the Developers or the Product Owner? Second, if not, has the person who holds it delegated it in writing, or in a decision the team can point to? A decision that fails both tests belongs to someone else, and the team needs that person to act. What Scrum gives the team Th",
-      "titleJa": "AIプロジェクトの停滞を招く決定権の問題とスクラムチームの責任範囲",
-      "summaryJa": "AIプロジェクトはスクラムチームが所有していない決定に基づいて行動したり、権限委譲されていない決定を待つことで停滞する。スクラムマスターはスクラムガイドに基づいて決定権の帰属を明確にし、必要な権限委譲を次のスプリント前に完了させることが重要。McKinseyの12要素のオペレーティングモデルに対してチームが実際に決定できる範囲を把握することがAI開発の進捗を左右する。"
     },
     {
       "category": "QA",
@@ -120,16 +130,6 @@
       "excerpt": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
       "titleJa": "CodexでDuolingoより優れた言語学習アプリを構築した起業家",
       "summaryJa": "Hackmamba創業者のWilliam Imohが、CodexというAIツールを使ってノルウェー語学習用のネイティブアプリを開発した事例を紹介。彼の会社運営を支援する「ロード・オブ・ザ・リングス Grokボット」フェローシップについても言及しており、AI活用によるプロダクト開発の実例が学べます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How I Enriched The PSPO Class For New Product Owners",
-      "url": "https://www.scrum.org/resources/blog/how-i-enriched-pspo-class-new-product-owners",
-      "publishedAt": "2026-11-09T10:37:39.000Z",
-      "excerpt": "Learning from the PSPO class alone is not enough for New Product Owners. To effectively apply their knowledge in the field, they require extra, enriched content and support. So, let’s explore how I enriched the PSPO class. Image Imagine you join a PSPO class and you learn a lot from it. However, the day after the class, you suddenly feel alone. You don't know where to start. You don't know which steps you should take first to best serve your Scrum Team. This is the reason that I decided to enrich my PSPO class. I want my students to leave the class with an exceptional experience of learning an",
-      "titleJa": "PSPO認定講座をより充実させた新人プロダクトオーナーへのサポート設計",
-      "summaryJa": "PSPO（Scrum Product Owner）の公式講座だけでは、新人プロダクトオーナーが実務で知識を活用できないという課題を解決するため、講座内容を充実させた取り組みについて解説。卒業後も実践的にスクラムチームをサポートできるよう、追加コンテンツとメンタリングを提供する方法を紹介しています。"
     },
     {
       "category": "QA",
