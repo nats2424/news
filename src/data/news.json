@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-12T04:43:28.992Z",
+  "updatedAt": "2026-11-12T14:09:43.752Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Niemand bezahlt uns, um Agile zu praktizieren: Fünf Produktfragen, die stattdessen zählen 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/niemand-bezahlt-uns-um-agile-zu-praktizieren-funf-produktfragen-die-stattdessen-zahlen",
+      "publishedAt": "2026-11-12T05:57:51.000Z",
+      "excerpt": "In Kürze: Fünf Produktfragen für agile Praktiker, wenn Code billig ist These: Dieser Artikel erklärt fünf Produktfragen, die an Gewicht gewinnen, wenn KI die Umsetzung von Software günstig macht, warum sinkende KI-Kosten die Menge der Arbeit erhöhen, die diese Fragen filtern müssen, und wie Teams während der frühen KI-Einführung Arbeitsprinzipien festlegen. Jahrzehntelang haben die Kosten der Softwareentwicklung rationiert, welche Produktentwicklung eine Organisation beginnen konnte: Niemand konnte es sich leisten, alles zu bauen, also musste jemand eine Auswahl treffen, wie grob auch immer. K",
+      "titleJa": "誰もAgileの実践にお金を払わない：重要な5つのプロダクト質問",
+      "summaryJa": "AI技術により、ソフトウェア開発コストが低下する時代に、アジャイルチームが優先すべき5つのプロダクト質問を提唱しています。従来、高い開発コストが自然と優先順位の判断基準となっていましたが、AI導入により実装コストが削減されると、何を作るべきかを判断する質問の重要性が高まります。チームが早期AI採用時に必要な判断基準の設定方法について解説しています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -120,16 +130,6 @@
       "excerpt": "Learning from the PSPO class alone is not enough for New Product Owners. To effectively apply their knowledge in the field, they require extra, enriched content and support. So, let’s explore how I enriched the PSPO class. Image Imagine you join a PSPO class and you learn a lot from it. However, the day after the class, you suddenly feel alone. You don't know where to start. You don't know which steps you should take first to best serve your Scrum Team. This is the reason that I decided to enrich my PSPO class. I want my students to leave the class with an exceptional experience of learning an",
       "titleJa": "PSPO認定講座をより充実させた新人プロダクトオーナーへのサポート設計",
       "summaryJa": "PSPO（Scrum Product Owner）の公式講座だけでは、新人プロダクトオーナーが実務で知識を活用できないという課題を解決するため、講座内容を充実させた取り組みについて解説。卒業後も実践的にスクラムチームをサポートできるよう、追加コンテンツとメンタリングを提供する方法を紹介しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "A painful modernization story",
-      "url": "https://www.scrum.org/resources/blog/painful-modernization-story",
-      "publishedAt": "2026-11-09T01:19:22.000Z",
-      "excerpt": "Image Leadership at one company wanted to modernize their core platform. There was an obvious way to do it. They chose the other way. After years of investment, the modernization had delivered nothing, millions had gone to consultants, and the company was downsizing. What went wrong? The obvious way This is not a unique story. A lot of companies overcomplicate their modernizations. At this company, they already had a high-performing Scrum team managing their core product. The obvious move was to engage their existing Product Owner and empower them to lead the modernization effort with the curr",
-      "titleJa": "失敗に終わった現代化プロジェクトの教訓",
-      "summaryJa": "ある企業がコアプラットフォームの現代化を目指しましたが、経営陣は最適なアプローチを避け、別の道を選択。数年の投資と莫大なコンサルタント費用を費やしても成果が出ず、結局は人員削減に至りました。既存の高機能Scrumチームとプロダクトオーナーを活かすべきだったという教訓です。"
     },
     {
       "category": "QA",
