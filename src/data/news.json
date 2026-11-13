@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-13T03:55:18.369Z",
+  "updatedAt": "2026-11-13T13:33:32.219Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP112 Why Adding Engineers Slows You Down: Escaping the Ticket Factory with Thanos Diacakis and Jay Stansell",
+      "url": "https://www.productcoalition.com/p/ep112-why-adding-engineers-slows",
+      "publishedAt": "2026-11-13T09:01:21.000Z",
+      "excerpt": "I wanted to understand why teams can add people and process, then ship less.",
+      "titleJa": "チームに人を増やすと速度が落ちる理由：Thanos DiacakisとJay Stansellと共に脱却するチケット工場",
+      "summaryJa": "人員とプロセスを増加させても配信速度が低下する逆説的な現象を探究するエピソード。組織拡大が必ずしも生産性向上につながらないメカニズムと、その改善方法について議論します。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "What Did I Do?",
+      "url": "https://qahiccupps.blogspot.com/2026/11/what-did-i-do.html",
+      "publishedAt": "2026-11-13T08:02:40.000Z",
+      "excerpt": "What did I do? why me? kind of a way. I'm good at my job and was valuable to the company and I understand that the business will always do what it believes benefits the business. But if there's no soul-searching right now, there is sadness, just as there was in previous rounds of downsizing at the company. Then, I was sad for those who were let go but this time I find that I'm feeling all the feelings for the people I've left behind. What did I do? what have I accomplished? What brought me pleasure? What did I learn? Perhaps the answers will influence where I go next, or perhaps it'll just be ",
+      "titleJa": "私は何をしたのか？",
+      "summaryJa": "リストラの対象になった著者の内省的なエッセイ。自分の仕事ぶりと貢献への疑問、そして取り残された同僚への共感と複雑な感情について述べています。今後の方向性を決める上で、これらの問い自体が重要な意味を持つかもしれないという考察。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Stakeholder Management: The Core of the Product Owner Role",
+      "url": "https://www.scrum.org/resources/blog/stakeholder-management-core-product-owner-role",
+      "publishedAt": "2026-11-13T07:45:00.000Z",
+      "excerpt": "In almost every training session, there is a product owner who has been putting off the conversation with their toughest stakeholder for three sprints already. Odds are you have one just like that. You know exactly which conversation it is and what is at stake. You just aren't having it. That’s not a failure on your part as a PO. You are doing your job just fine, but your week is consumed by stakeholders who are all screaming that their request is priority 1. Stakeholder management is still too often dismissed as a \"soft skill\": an afterthought squeezed somewhere between refining your product ",
+      "titleJa": "ステークホルダー管理：プロダクトオーナー役の本質",
+      "summaryJa": "PO研修では、困難なステークホルダーとの対話を数スプリント先延ばしにしているケースが多い。ステークホルダー管理は「ソフトスキル」として軽視されやすいが、優先順位のジャーゴンに翻弄される週間の中で、プロダクトオーナーの真の役割として重要性が論じられています。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -40,16 +70,6 @@
       "excerpt": "In Kürze: Fünf Produktfragen für agile Praktiker, wenn Code billig ist These: Dieser Artikel erklärt fünf Produktfragen, die an Gewicht gewinnen, wenn KI die Umsetzung von Software günstig macht, warum sinkende KI-Kosten die Menge der Arbeit erhöhen, die diese Fragen filtern müssen, und wie Teams während der frühen KI-Einführung Arbeitsprinzipien festlegen. Jahrzehntelang haben die Kosten der Softwareentwicklung rationiert, welche Produktentwicklung eine Organisation beginnen konnte: Niemand konnte es sich leisten, alles zu bauen, also musste jemand eine Auswahl treffen, wie grob auch immer. K",
       "titleJa": "誰もAgileの実践にお金を払わない：重要な5つのプロダクト質問",
       "summaryJa": "AI技術により、ソフトウェア開発コストが低下する時代に、アジャイルチームが優先すべき5つのプロダクト質問を提唱しています。従来、高い開発コストが自然と優先順位の判断基準となっていましたが、AI導入により実装コストが削減されると、何を作るべきかを判断する質問の重要性が高まります。チームが早期AI採用時に必要な判断基準の設定方法について解説しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Tokens Are Capacity, Not Value: Bringing AI Agent Cost into Sprint Planning",
-      "url": "https://www.scrum.org/resources/blog/tokens-are-capacity-not-value-bringing-ai-agent-cost-sprint-planning",
-      "publishedAt": "2026-11-12T02:48:45.000Z",
-      "excerpt": "Image Once a Scrum Team pays for AI agents by the token, Sprint Planning gains a question it never had: can we afford this item? In the PSM-AI and PSPO-AI classes I teach, I hear two answers to it, and both cause trouble. The first team ignores tokens. The budget is gone by day four and nobody can say where it went. The second team swings the other way and lets token cost quietly reorder the work. The cheapest items to generate go first, whatever their value. The first team runs out of money. The second runs out of value. This post describes a third way that keeps empiricism intact: treat toke",
-      "titleJa": "トークンは容量、価値ではない：AIエージェントのコストをスプリント計画に組み込む",
-      "summaryJa": "AIエージェントを導入したスクラムチームは、スプリント計画にコスト管理という新しい課題に直面します。トークンコストを無視するチームは予算が枯渇し、コスト最小化を優先するチームは価値を失います。本記事は、実験主義を保ちながらトークンコストを適切に管理する第三の方法を提案しています。"
     },
     {
       "category": "PdM",
