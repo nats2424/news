@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-14T12:39:18.396Z",
+  "updatedAt": "2026-11-14T21:46:15.899Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
+      "publishedAt": "2026-11-14T21:15:46.000Z",
+      "excerpt": "Community Wisdom 305",
+      "titleJa": "コミュニティの知恵：AIエージェントのボトルネック対策とPMフレームワーク",
+      "summaryJa": "AIエージェントがボトルネックとなった場合の対策、PMのためのPULLフレームワーク、プロダクト成長とグロースマーケティング、フィードバック反応率の向上など、プロダクトマネジメントの実践的な知見を集約。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Are you overstepping?",
+      "url": "https://www.scrum.org/resources/blog/are-you-overstepping",
+      "publishedAt": "2026-11-14T18:06:27.000Z",
+      "excerpt": "Image For a Scrum team, role clarity can make the difference between a low performing and a high performing team. In fact, whenever I see strife on a team, it almost always stems from a lack of role clarity. When people step on each other's toes - even with the best of intentions - it can create tension on a team. In this article, we will provide common oversteps for the Product Owner, Developers and Scrum Masters and what you can do to fix them. Product Owner Oversteps The Product Owner is accountable for maximizing the value of the product by focusing on what to deliver, not how to deliver i",
+      "titleJa": "スクラムチームにおけるロール明確化と権限の越境対策",
+      "summaryJa": "スクラムチームの高いパフォーマンスには、Product Owner、開発者、Scrum Masterの役割分担が不可欠。ロール明確化の欠如がチーム内の葛藤を生むため、各ロールの越境事例と改善方法を提示し、チーム運営の実効性を高める。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -10,6 +30,16 @@
       "excerpt": "Microsoft’s 2026 Work Trend Index surveyed 20,000 knowledge workers across 10 countries who use AI at work. In the survey, 45% said it felt safer to focus on current goals than to redesign their work with AI. 13% said they were rewarded for redesigning work with AI even when it did not produce the expected results. Survey findings and methodology These figures are not limited to a specific country. They do, however, raise a question about how we approach everyday goals and evaluation when asking people to change the way they work with AI. Keep Business Success at the Center Business goals matt",
       "titleJa": "AIを活用した業務改革を促進するために、マネージャーが評価すべき指標とは",
       "summaryJa": "マイクロソフトの調査によると、AI導入企業の45%が現状維持を優先し、AI活用による業務再設計に慎重です。AIを用いた業務改革を人々に促すには、従来の目標設定や評価方法を見直し、ビジネス成果と人材育成のバランスを取ることが重要だと指摘しています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "12 BEST AI Test Automation Tools for 2026 The Third Wave",
+      "url": "https://testguild.com/7-innovative-ai-test-automation-tools-future-third-wave/",
+      "publishedAt": "2026-11-13T13:57:20.000Z",
+      "excerpt": "The Bottom Line for 2026: The best AI test automation tools for 2026, by category: agentic testing with no script […]",
+      "titleJa": "2026年のAIテスト自動化ツール12選",
+      "summaryJa": "2026年における最高のAIテスト自動化ツルを、スクリプト不要のエージェンティック・テストなどのカテゴリ別に紹介。AI技術の進展に伴い、テスト自動化の新たなアプローチが注目されている。"
     },
     {
       "category": "PdM",
@@ -58,16 +88,6 @@
       "url": "https://www.scrum.org/resources/blog/free-ebook-scrum-ai",
       "publishedAt": "2026-11-12T14:49:56.000Z",
       "excerpt": "Image Now that an AI agent can write in an afternoon what used to take a Sprint, a quick conclusion is going around: if building no longer costs much, Scrum is no longer needed. Jeff Gothelf makes the case in Product Management and AI (Sense & Respond Press, 2026). When shipping a feature takes minutes instead of months, he argues, delivery stops being an event, and processes like Agile and Scrum are no longer needed in the same way. I think he is right about what he criticises and wrong about what he concludes. That is why I wrote Scrum with AI, a short, free book about how to use Scrum to wo",
-      "titleJa": "無料電子書籍:AIとScrum",
-      "summaryJa": "AIエージェントによってスプリント期間でかかっていた作業が数時間で完了するようになった現在、Scrumは不要という議論が出ている。しかし著者は、Scrumの批判は妥当だが結論は間違っていると指摘し、AIとScrumを効果的に組み合わせるための方法をまとめた無料書籍を執筆した。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Ebook gratuito: Scrum con IA",
-      "url": "https://www.scrum.org/resources/blog/ebook-gratuito-scrum-con-ia",
-      "publishedAt": "2026-11-12T14:45:54.000Z",
-      "excerpt": "Image Ahora que un agente de IA escribe en una tarde lo que antes llevaba un Sprint, circula una conclusión rápida: si construir ya no cuesta, Scrum sobra. Jeff Gothelf la plantea en Product Management and AI (Sense & Respond Press, 2026). Cuando entregar una funcionalidad lleva minutos y no meses, dice, la entrega deja de ser un acontecimiento, y procesos como Agile y Scrum ya no hacen falta de la misma manera. Creo que tiene razón en lo que critica y se equivoca en lo que concluye. Por eso he escrito Scrum con IA, un libro corto y gratuito sobre cómo usar Scrum para trabajar con IA con crite",
       "titleJa": "無料電子書籍:AIとScrum",
       "summaryJa": "AIエージェントによってスプリント期間でかかっていた作業が数時間で完了するようになった現在、Scrumは不要という議論が出ている。しかし著者は、Scrumの批判は妥当だが結論は間違っていると指摘し、AIとScrumを効果的に組み合わせるための方法をまとめた無料書籍を執筆した。"
     },
@@ -140,16 +160,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "titleJa": "🎙️ How I AI：Codexを使ってDuolingoを超えるプロダクトを作った起業家",
       "summaryJa": "創業者がCodexを活用してDuolingoより優れた言語学習プロダクトを構築した経験を紹介するポッドキャスト。AIを活用したプロダクト開発の具体的アプローチや意思決定プロセスについて語られています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "How this founder built a better Duolingo with Codex | William Imoh",
-      "url": "https://www.lennysnewsletter.com/p/how-this-founder-built-a-better-duolingo",
-      "publishedAt": "2026-11-09T13:04:17.000Z",
-      "excerpt": "Watch now (39 mins) | 🎙️ Hackmamba founder William Imoh shows the native app he built with Codex to learn Norwegian, and the Lord of the Rings Grok bot fellowship that helps run his company",
-      "titleJa": "CodexでDuolingoより優れた言語学習アプリを構築した起業家",
-      "summaryJa": "Hackmamba創業者のWilliam Imohが、CodexというAIツールを使ってノルウェー語学習用のネイティブアプリを開発した事例を紹介。彼の会社運営を支援する「ロード・オブ・ザ・リングス Grokボット」フェローシップについても言及しており、AI活用によるプロダクト開発の実例が学べます。"
     },
     {
       "category": "QA",
