@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-14T03:54:19.073Z",
+  "updatedAt": "2026-11-14T12:39:18.396Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What Should Managers Evaluate If They Want People to Rethink Their Work with AI?",
+      "url": "https://www.scrum.org/resources/blog/what-should-managers-evaluate-if-they-want-people-rethink-their-work-ai",
+      "publishedAt": "2026-11-14T12:12:27.000Z",
+      "excerpt": "Microsoft’s 2026 Work Trend Index surveyed 20,000 knowledge workers across 10 countries who use AI at work. In the survey, 45% said it felt safer to focus on current goals than to redesign their work with AI. 13% said they were rewarded for redesigning work with AI even when it did not produce the expected results. Survey findings and methodology These figures are not limited to a specific country. They do, however, raise a question about how we approach everyday goals and evaluation when asking people to change the way they work with AI. Keep Business Success at the Center Business goals matt",
+      "titleJa": "AIを活用した業務改革を促進するために、マネージャーが評価すべき指標とは",
+      "summaryJa": "マイクロソフトの調査によると、AI導入企業の45%が現状維持を優先し、AI活用による業務再設計に慎重です。AIを用いた業務改革を人々に促すには、従来の目標設定や評価方法を見直し、ビジネス成果と人材育成のバランスを取ることが重要だと指摘しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Coalition",
@@ -60,16 +70,6 @@
       "excerpt": "Image Ahora que un agente de IA escribe en una tarde lo que antes llevaba un Sprint, circula una conclusión rápida: si construir ya no cuesta, Scrum sobra. Jeff Gothelf la plantea en Product Management and AI (Sense & Respond Press, 2026). Cuando entregar una funcionalidad lleva minutos y no meses, dice, la entrega deja de ser un acontecimiento, y procesos como Agile y Scrum ya no hacen falta de la misma manera. Creo que tiene razón en lo que critica y se equivoca en lo que concluye. Por eso he escrito Scrum con IA, un libro corto y gratuito sobre cómo usar Scrum para trabajar con IA con crite",
       "titleJa": "無料電子書籍:AIとScrum",
       "summaryJa": "AIエージェントによってスプリント期間でかかっていた作業が数時間で完了するようになった現在、Scrumは不要という議論が出ている。しかし著者は、Scrumの批判は妥当だが結論は間違っていると指摘し、AIとScrumを効果的に組み合わせるための方法をまとめた無料書籍を執筆した。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Niemand bezahlt uns, um Agile zu praktizieren: Fünf Produktfragen, die stattdessen zählen 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/niemand-bezahlt-uns-um-agile-zu-praktizieren-funf-produktfragen-die-stattdessen-zahlen",
-      "publishedAt": "2026-11-12T05:57:51.000Z",
-      "excerpt": "In Kürze: Fünf Produktfragen für agile Praktiker, wenn Code billig ist These: Dieser Artikel erklärt fünf Produktfragen, die an Gewicht gewinnen, wenn KI die Umsetzung von Software günstig macht, warum sinkende KI-Kosten die Menge der Arbeit erhöhen, die diese Fragen filtern müssen, und wie Teams während der frühen KI-Einführung Arbeitsprinzipien festlegen. Jahrzehntelang haben die Kosten der Softwareentwicklung rationiert, welche Produktentwicklung eine Organisation beginnen konnte: Niemand konnte es sich leisten, alles zu bauen, also musste jemand eine Auswahl treffen, wie grob auch immer. K",
-      "titleJa": "誰もAgileの実践にお金を払わない：重要な5つのプロダクト質問",
-      "summaryJa": "AI技術により、ソフトウェア開発コストが低下する時代に、アジャイルチームが優先すべき5つのプロダクト質問を提唱しています。従来、高い開発コストが自然と優先順位の判断基準となっていましたが、AI導入により実装コストが削減されると、何を作るべきかを判断する質問の重要性が高まります。チームが早期AI採用時に必要な判断基準の設定方法について解説しています。"
     },
     {
       "category": "PdM",
@@ -240,16 +240,6 @@
       "excerpt": "About This Episode: Can you actually trust the Playwright tests your AI generates? A new free tool says it can […]",
       "titleJa": "VegaLoad、Leapwork Play、そして信頼できないAIテストの終焉",
       "summaryJa": "AIが生成するPlaywrightテストの信頼性は本当に担保できるのか。本エピソードでは、AIが自動生成するテストの品質と信頼性を検証する新しい無料ツールについて取り上げ、テスト自動化における課題と解決策を探ります。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "QA Hiccupps (James Thomas)",
-      "title": "Sign of the Times",
-      "url": "https://qahiccupps.blogspot.com/2026/10/sign-of-times.html",
-      "publishedAt": "2026-10-24T05:15:41.000Z",
-      "excerpt": "Time flies, they say. This is the 720th post on Hiccupps and I'm publishing it fifteen years after the first, to the day. I've often used blog birthdays as a chance to step back a little and reflect but fifteen feels like a big number so I thought I'd step all the way back. --00-- I use the blog as a reference, to recall what I did or what I thought, but I don't have strong memories of a lot of the material, so I decided to sample it by reading the post published closest to its anniversary for every year of its existence. 2011 Sign Language Phew. The first post is not too cringe and it makes a",
-      "titleJa": "時の流れと15年の歩み",
-      "summaryJa": "QA技術者のブログ「Hiccupps」が15周年を迎え、創設から現在までの720件の投稿を振り返る記事。ブログを参考資料として活用しながら、毎年の記念日に最も近い投稿を読み返すことで、15年間の思考と経験の軌跡を総括している。"
     }
   ]
 }
