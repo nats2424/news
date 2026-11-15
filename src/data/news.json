@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-15T13:05:17.866Z",
+  "updatedAt": "2026-11-15T22:13:31.257Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
+      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
+      "publishedAt": "2026-11-15T13:31:28.000Z",
+      "excerpt": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
+      "titleJa": "メタのMuse：史上最高の消費者向け製品をいかに立ち上げたか",
+      "summaryJa": "Mona SarantakosがOpenClawの週末プロジェクトから史上最速成長のコンシューマーAI製品の出荷まで、その道のりを語る。Metaが実現した革新的なAI製品開発の秘訣とプロダクトマネジメントの実践例を紹介。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
+      "url": "https://www.scrum.org/resources/blog/ai-adoption-failures-why-your-successful-ai-pilot-no-reason-scale",
+      "publishedAt": "2026-11-15T13:20:29.000Z",
+      "excerpt": "TL;DR: A Successful AI Pilot Proves Nothing Thesis: This article explains seven AI adoption failures that follow a successful AI pilot, from unready data to overloaded reviewers and premature cuts, and how practitioners set the standard, collect the evidence, and inspect the results before scaling anything. Your AI pilot worked: the demo impressed the steering committee, the time savings on the slide looked fantastic, and the sponsor is already drafting the rollout budget. However, the AI pilot answered a narrower question than the budget. It showed that the technology can do the task under te",
+      "titleJa": "AI導入の失敗：成功したパイロット は スケーリングの理由にはならない",
+      "summaryJa": "AI試行が成功しても、本格導入でデータ整備不足やレビュアー過負荷などの7つの課題が発生する。スケーリング前に標準設定、証拠収集、結果検証を実施し、パイロットの成功と本番運用ギャップを埋めることが重要。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -82,16 +102,6 @@
       "summaryJa": "PO研修では、困難なステークホルダーとの対話を数スプリント先延ばしにしているケースが多い。ステークホルダー管理は「ソフトスキル」として軽視されやすいが、優先順位のジャーゴンに翻弄される週間の中で、プロダクトオーナーの真の役割として重要性が論じられています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Element nobody lists is the one that makes the others work",
-      "url": "https://www.scrum.org/resources/blog/element-nobody-lists-one-makes-others-work",
-      "publishedAt": "2026-11-12T23:00:00.000Z",
-      "excerpt": "From the Scrum Guide: \"Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum.\" The Cambridge Dictionary defines an element as \"one of the parts of something that makes it work, or a quality that makes someone or something effective.\" So which parts make Scrum work? Ask a team, and you'll hear the events, the three accountabilities and the three artifacts. I hear that same list in most of my classes, even PSM Advanced and PSPO Advanced, and in most teams when I start coaching them. The element almost nobody names is the th",
-      "titleJa": "スクラムを機能させる見落とされた要素",
-      "summaryJa": "スクラム枠組みの要素について、多くのチームはイベント、説明責任、成果物を挙げますが、フレームワーク全体の価値を実現するために不可欠な「見落とされている要素」が存在します。本記事はスクラムガイドの定義に基づき、その見落とされがちながら重要な要素について考察しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "2027 Product Conferences",
@@ -150,16 +160,6 @@
       "excerpt": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
       "titleJa": "Claude Fable 5.2レビュー：高速で創造的、ようやく使いやすくなった",
       "summaryJa": "Fable 5.2の最初のインプレッション、実際に構築できたもの、課題点、そして日常のAIスタックに組み込む価値があるかを検証した記事。AIツールの実用性と日常業務への統合可能性を評価しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🎙️ How I AI: How this founder built a better Duolingo with Codex",
-      "url": "https://www.lennysnewsletter.com/p/how-i-ai-how-this-founder-built-a",
-      "publishedAt": "2026-11-09T16:01:20.000Z",
-      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
-      "titleJa": "🎙️ How I AI：Codexを使ってDuolingoを超えるプロダクトを作った起業家",
-      "summaryJa": "創業者がCodexを活用してDuolingoより優れた言語学習プロダクトを構築した経験を紹介するポッドキャスト。AIを活用したプロダクト開発の具体的アプローチや意思決定プロセスについて語られています。"
     },
     {
       "category": "QA",
