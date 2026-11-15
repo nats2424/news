@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-15T03:36:37.254Z",
+  "updatedAt": "2026-11-15T13:05:17.866Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "AI - More Feedback, Less Direction",
+      "url": "https://www.scrum.org/resources/blog/ai-more-feedback-less-direction",
+      "publishedAt": "2026-11-15T07:00:00.000Z",
+      "excerpt": "Image In a refinement I ran this year, the team asked to extend the session because there was too much to discuss. Every CI pipeline flag, every behavioral analytics alert, every AI-synthesized user interview summary had produced something worth examining. The Product Owner and the analysts had all prepared detailed, AI-generated views, and each one looked at a different aspect and presented it as the most important. Mostly they were disjointed data points. We ran over time and still ended without a decision, because the team had spent the Sprint drowning in feedback and arrived with less clar",
+      "titleJa": "AI導入時代のフィードバック過多をどう乗り越えるか",
+      "summaryJa": "スプリント内で、CI パイプラインのフラグ、行動分析アラート、AI生成ユーザーインタビュー要約など、膨大なAI生成フィードバックが蓄積される課題について述べています。プロダクトオーナーとアナリストが詳細なデータを提示しても、バラバラな情報に埋もれてチーム判断が鈍化し、スプリント内で意思決定に至らない状況を解説しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -80,16 +90,6 @@
       "excerpt": "From the Scrum Guide: \"Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum.\" The Cambridge Dictionary defines an element as \"one of the parts of something that makes it work, or a quality that makes someone or something effective.\" So which parts make Scrum work? Ask a team, and you'll hear the events, the three accountabilities and the three artifacts. I hear that same list in most of my classes, even PSM Advanced and PSPO Advanced, and in most teams when I start coaching them. The element almost nobody names is the th",
       "titleJa": "スクラムを機能させる見落とされた要素",
       "summaryJa": "スクラム枠組みの要素について、多くのチームはイベント、説明責任、成果物を挙げますが、フレームワーク全体の価値を実現するために不可欠な「見落とされている要素」が存在します。本記事はスクラムガイドの定義に基づき、その見落とされがちながら重要な要素について考察しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Free ebook: Scrum with AI",
-      "url": "https://www.scrum.org/resources/blog/free-ebook-scrum-ai",
-      "publishedAt": "2026-11-12T14:49:56.000Z",
-      "excerpt": "Image Now that an AI agent can write in an afternoon what used to take a Sprint, a quick conclusion is going around: if building no longer costs much, Scrum is no longer needed. Jeff Gothelf makes the case in Product Management and AI (Sense & Respond Press, 2026). When shipping a feature takes minutes instead of months, he argues, delivery stops being an event, and processes like Agile and Scrum are no longer needed in the same way. I think he is right about what he criticises and wrong about what he concludes. That is why I wrote Scrum with AI, a short, free book about how to use Scrum to wo",
-      "titleJa": "無料電子書籍:AIとScrum",
-      "summaryJa": "AIエージェントによってスプリント期間でかかっていた作業が数時間で完了するようになった現在、Scrumは不要という議論が出ている。しかし著者は、Scrumの批判は妥当だが結論は間違っていると指摘し、AIとScrumを効果的に組み合わせるための方法をまとめた無料書籍を執筆した。"
     },
     {
       "category": "PdM",
