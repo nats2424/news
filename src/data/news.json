@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-15T22:13:31.257Z",
+  "updatedAt": "2026-11-16T03:36:14.033Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "When AI Speeds Up Implementation, Test Your Ideas with Small Experiments",
+      "url": "https://www.scrum.org/resources/blog/when-ai-speeds-implementation-test-your-ideas-small-experiments",
+      "publishedAt": "2026-11-16T02:18:00.000Z",
+      "excerpt": "When AI makes implementation faster, it can be tempting to start the next feature too. But we need to make sure we are not adding unnecessary features. Before asking how to reduce the wait for review and validation, we need to look at how long it takes to get feedback from customers and users. Shorten lead time so that you can get feedback on what you have built sooner. To do that, reduce batch size: the amount of work you take on as a single unit. At the same time, keep work in progress (WIP), work that has been started but not finished, from growing too large. If faster implementation leads ",
+      "titleJa": "AI導入で開発が加速したら、小規模な実験でアイデアを検証する",
+      "summaryJa": "AI技術により実装速度が向上した場合でも、不要な機能追加を避けることが重要です。顧客フィードバック取得の時間を短縮するため、バッチサイズ（単位作業量）を削減し、Work in Progress（進行中業務）の増加を抑制する必要があります。迅速な実装こそが、より早い検証サイクルにつながります。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -90,16 +100,6 @@
       "excerpt": "What did I do? why me? kind of a way. I'm good at my job and was valuable to the company and I understand that the business will always do what it believes benefits the business. But if there's no soul-searching right now, there is sadness, just as there was in previous rounds of downsizing at the company. Then, I was sad for those who were let go but this time I find that I'm feeling all the feelings for the people I've left behind. What did I do? what have I accomplished? What brought me pleasure? What did I learn? Perhaps the answers will influence where I go next, or perhaps it'll just be ",
       "titleJa": "私は何をしたのか？",
       "summaryJa": "リストラの対象になった著者の内省的なエッセイ。自分の仕事ぶりと貢献への疑問、そして取り残された同僚への共感と複雑な感情について述べています。今後の方向性を決める上で、これらの問い自体が重要な意味を持つかもしれないという考察。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Stakeholder Management: The Core of the Product Owner Role",
-      "url": "https://www.scrum.org/resources/blog/stakeholder-management-core-product-owner-role",
-      "publishedAt": "2026-11-13T07:45:00.000Z",
-      "excerpt": "In almost every training session, there is a product owner who has been putting off the conversation with their toughest stakeholder for three sprints already. Odds are you have one just like that. You know exactly which conversation it is and what is at stake. You just aren't having it. That’s not a failure on your part as a PO. You are doing your job just fine, but your week is consumed by stakeholders who are all screaming that their request is priority 1. Stakeholder management is still too often dismissed as a \"soft skill\": an afterthought squeezed somewhere between refining your product ",
-      "titleJa": "ステークホルダー管理：プロダクトオーナー役の本質",
-      "summaryJa": "PO研修では、困難なステークホルダーとの対話を数スプリント先延ばしにしているケースが多い。ステークホルダー管理は「ソフトスキル」として軽視されやすいが、優先順位のジャーゴンに翻弄される週間の中で、プロダクトオーナーの真の役割として重要性が論じられています。"
     },
     {
       "category": "PdM",
