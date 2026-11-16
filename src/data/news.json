@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-16T03:36:14.033Z",
+  "updatedAt": "2026-11-16T14:11:46.409Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Ch. 11: Measuring Impact",
+      "url": "https://www.producttalk.org/ch-11-measuring-impact/",
+      "publishedAt": "2026-11-16T14:00:00.000Z",
+      "excerpt": "Continuous Discovery Habits turns five this year. And to celebrate we are reading the book together. Each month, I am releasing an in-depth reading guide that includes: The chapters we will be reading A preview of the most important concepts we'll be learning about Short videos you",
+      "titleJa": "第11章：インパクトの測定",
+      "summaryJa": "「Continuous Discovery Habits」の5周年を記念した読書ガイド。毎月各章の深掘り解説、重要概念の紹介、動画コンテンツを通じて、プロダクト開発における継続的な発見と測定について学べる企画。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "How I fight token fraud as a solo founder",
+      "url": "https://www.lennysnewsletter.com/p/how-i-fight-token-fraud-as-a-solo",
+      "publishedAt": "2026-11-16T13:04:09.000Z",
+      "excerpt": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
+      "titleJa": "ソロファウンダーがトークン詐欺と戦う方法",
+      "summaryJa": "トークン詐欺で数万ドルを失った経験から、6つの攻撃パターンと対策、無料トライアル廃止の理由を解説。セキュリティ意識の重要性と実践的な防御方法をまとめた40分間のセッション。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How I Enriched The PSM-AI Essentials Class For Scrum Masters",
+      "url": "https://www.scrum.org/resources/blog/how-i-enriched-psm-ai-essentials-class-scrum-masters",
+      "publishedAt": "2026-11-16T08:56:56.000Z",
+      "excerpt": "Learning from the PSM-AI Essentials class alone is not enough for Scrum Masters to immediately shine at work. To effectively apply their AI learnings in the field, they require extra, enriched content and support. So, let’s explore how I enriched the PSM-AI Essentials class. Image Imagine you join a PSM-AI Essentials class and you learn a lot from it. However, the day after the class, you suddenly feel alone. You don't know where to start. You don't know which steps you should take first to best serve your Scrum Team with your new AI learnings. This is the reason that I decided to enrich my PS",
+      "titleJa": "スクラムマスター向けPSM-AI基礎クラスの実践的な拡張",
+      "summaryJa": "PSM-AI Essentialsの講座修了後、スクラムマスターが実務で学習を活かせるよう、追加の実践コンテンツとサポート体制を整備した事例を紹介。AI知識を組織に浸透させるための具体的アプローチを解説。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +90,6 @@
       "excerpt": "Image For a Scrum team, role clarity can make the difference between a low performing and a high performing team. In fact, whenever I see strife on a team, it almost always stems from a lack of role clarity. When people step on each other's toes - even with the best of intentions - it can create tension on a team. In this article, we will provide common oversteps for the Product Owner, Developers and Scrum Masters and what you can do to fix them. Product Owner Oversteps The Product Owner is accountable for maximizing the value of the product by focusing on what to deliver, not how to deliver i",
       "titleJa": "スクラムチームにおけるロール明確化と権限の越境対策",
       "summaryJa": "スクラムチームの高いパフォーマンスには、Product Owner、開発者、Scrum Masterの役割分担が不可欠。ロール明確化の欠如がチーム内の葛藤を生むため、各ロールの越境事例と改善方法を提示し、チーム運営の実効性を高める。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "What Should Managers Evaluate If They Want People to Rethink Their Work with AI?",
-      "url": "https://www.scrum.org/resources/blog/what-should-managers-evaluate-if-they-want-people-rethink-their-work-ai",
-      "publishedAt": "2026-11-14T12:12:27.000Z",
-      "excerpt": "Microsoft’s 2026 Work Trend Index surveyed 20,000 knowledge workers across 10 countries who use AI at work. In the survey, 45% said it felt safer to focus on current goals than to redesign their work with AI. 13% said they were rewarded for redesigning work with AI even when it did not produce the expected results. Survey findings and methodology These figures are not limited to a specific country. They do, however, raise a question about how we approach everyday goals and evaluation when asking people to change the way they work with AI. Keep Business Success at the Center Business goals matt",
-      "titleJa": "AIを活用した業務改革を促進するために、マネージャーが評価すべき指標とは",
-      "summaryJa": "マイクロソフトの調査によると、AI導入企業の45%が現状維持を優先し、AI活用による業務再設計に慎重です。AIを用いた業務改革を人々に促すには、従来の目標設定や評価方法を見直し、ビジネス成果と人材育成のバランスを取ることが重要だと指摘しています。"
     },
     {
       "category": "QA",
@@ -150,16 +170,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts In one of their most philosophical episodes yet, Petra Wille and Teresa Torres turn product thinking on the discovery practice itself. If you treat the continuous discovery habits as a product — and the organizations that buy training as the customer —",
       "titleJa": "プロダクトディスカバリーと4つのリスク",
       "summaryJa": "テレサ・トーレスとペトラ・ウィレが、継続的ディスカバリーの実践そのものをプロダクトとして捉え、組織への導入・学習支援におけるリスク要因を哲学的に掘り下げたポッドキャストエピソード。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Claude Fable 5.2 review: fast, creative, and finally not annoying",
-      "url": "https://www.lennysnewsletter.com/p/claude-fable-52-review-fast-creative",
-      "publishedAt": "2026-11-09T20:37:49.000Z",
-      "excerpt": "Watch now (25 mins) | 🎙️ My first-look at Fable 5.2: what it built for me, where it fell down, and whether it belongs in your daily AI stack",
-      "titleJa": "Claude Fable 5.2レビュー：高速で創造的、ようやく使いやすくなった",
-      "summaryJa": "Fable 5.2の最初のインプレッション、実際に構築できたもの、課題点、そして日常のAIスタックに組み込む価値があるかを検証した記事。AIツールの実用性と日常業務への統合可能性を評価しています。"
     },
     {
       "category": "QA",
