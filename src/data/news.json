@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-17T01:14:24.167Z",
+  "updatedAt": "2026-11-17T15:03:47.288Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "The Sharing Gap - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/the-sharing-gap-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-11-17T14:00:00.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Why has everyone stopped sharing their real product work — and what do we lose when the field goes quiet? Petra Wille and Teresa Torres return to the never-ending social-media question, this time from a trend angle: the genuinely useful",
+      "titleJa": "プロダクト情報共有の断絶——Teresa Torres & Petra Willeが語る業界の変化",
+      "summaryJa": "プロダクト開発の実務情報がソーシャルメディアで共有されなくなった現象と、その影響について、業界の第一人者2名が考察するポッドキャストエピソード。有用な知見の流通が減少する中で、プロダクト業界が失うものについて掘り下げる。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "🇨🇵  L’IA nous rend du temps : faisons enfin du vrai Product Management",
+      "url": "https://www.scrum.org/resources/blog/lia-nous-rend-du-temps-faisons-enfin-du-vrai-product-management",
+      "publishedAt": "2026-11-17T06:00:23.000Z",
+      "excerpt": "Des LLMs impressionnants… et pas (encore) créatifs Soyons clairs : je suis loin d’être un détracteur de l’IA générative. Les LLMs écrivent du code, des tests, de la documentation, des synthèses, et ils le font à une vitesse qui était inimaginable il y a peu. Je les utilise, et vous aussi probablement. Mais plus je les pratique, plus un constat s’impose : ils excellent à produire du plausible. Ils recombinent, reformulent, complètent ce qui existe déjà. Ce qu’ils savent beaucoup moins faire, du moins aujourd’hui, c’est ce que nous faisons naturellement : remarquer ce que personne n’a demandé, r",
+      "titleJa": "AIがもたらす時間——真のプロダクトマネジメントへ向けて",
+      "summaryJa": "LLMはコード、テスト、ドキュメント執筆に優れるが、既存知識の再組合わせに限定され、市場の未充足ニーズを発見する創造的思考には乏しい。AIが定型業務を効率化する中、真のプロダクトマネジメントとして顧客が気づかない課題を発見する役割の重要性を主張。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "A team of AI agents needs Scrum, not a better model",
+      "url": "https://www.scrum.org/resources/blog/team-ai-agents-needs-scrum-not-better-model",
+      "publishedAt": "2026-11-17T03:25:38.000Z",
+      "excerpt": "\"Agent = Model + Harness\" describes one AI agent well and a team of agents badly. Once agents work together, the defects that matter come from handoffs, shared records and two agents doing the same work. A better model fixes none of those. A team needs a second line: Team = Agents + Coordination. Scrum already supplies the coordination. My own team of AI agents runs on Scrum, and its records show where the defects come from. The formula is right for one agent Vivek Trivedy of LangChain states the formula in exactly those words. He defines the harness as every piece of code, configuration and e",
+      "titleJa": "AIエージェントチームに必要なのはScrum、より良いモデルではない",
+      "summaryJa": "複数のAIエージェントが連携する場合、改善すべき課題はモデルではなく、エージェント間のハンドオフ、共有記録、重複作業にある。Scrumのような調整メカニズムがチーム全体には不可欠であり、実際にScrum導入チームの記録からも欠陥の原因が明確化される。"
+    },
     {
       "category": "QA",
       "sourceName": "TestGuild",
@@ -80,26 +110,6 @@
       "excerpt": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
       "titleJa": "メタのMuse：史上最高の消費者向け製品をいかに立ち上げたか",
       "summaryJa": "Mona SarantakosがOpenClawの週末プロジェクトから史上最速成長のコンシューマーAI製品の出荷まで、その道のりを語る。Metaが実現した革新的なAI製品開発の秘訣とプロダクトマネジメントの実践例を紹介。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI Adoption Failures: Why Your Successful AI Pilot Is No Reason to Scale",
-      "url": "https://www.scrum.org/resources/blog/ai-adoption-failures-why-your-successful-ai-pilot-no-reason-scale",
-      "publishedAt": "2026-11-15T13:20:29.000Z",
-      "excerpt": "TL;DR: A Successful AI Pilot Proves Nothing Thesis: This article explains seven AI adoption failures that follow a successful AI pilot, from unready data to overloaded reviewers and premature cuts, and how practitioners set the standard, collect the evidence, and inspect the results before scaling anything. Your AI pilot worked: the demo impressed the steering committee, the time savings on the slide looked fantastic, and the sponsor is already drafting the rollout budget. However, the AI pilot answered a narrower question than the budget. It showed that the technology can do the task under te",
-      "titleJa": "AI導入の失敗：成功したパイロット は スケーリングの理由にはならない",
-      "summaryJa": "AI試行が成功しても、本格導入でデータ整備不足やレビュアー過負荷などの7つの課題が発生する。スケーリング前に標準設定、証拠収集、結果検証を実施し、パイロットの成功と本番運用ギャップを埋めることが重要。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "AI - More Feedback, Less Direction",
-      "url": "https://www.scrum.org/resources/blog/ai-more-feedback-less-direction",
-      "publishedAt": "2026-11-15T07:00:00.000Z",
-      "excerpt": "Image In a refinement I ran this year, the team asked to extend the session because there was too much to discuss. Every CI pipeline flag, every behavioral analytics alert, every AI-synthesized user interview summary had produced something worth examining. The Product Owner and the analysts had all prepared detailed, AI-generated views, and each one looked at a different aspect and presented it as the most important. Mostly they were disjointed data points. We ran over time and still ended without a decision, because the team had spent the Sprint drowning in feedback and arrived with less clar",
-      "titleJa": "AI導入時代のフィードバック過多をどう乗り越えるか",
-      "summaryJa": "スプリント内で、CI パイプラインのフラグ、行動分析アラート、AI生成ユーザーインタビュー要約など、膨大なAI生成フィードバックが蓄積される課題について述べています。プロダクトオーナーとアナリストが詳細なデータを提示しても、バラバラな情報に埋もれてチーム判断が鈍化し、スプリント内で意思決定に至らない状況を解説しています。"
     },
     {
       "category": "PdM",
@@ -240,26 +250,6 @@
       "excerpt": "A team can deliver exactly what a customer requested and still solve the wrong problem.",
       "titleJa": "最高のリーダーは指示ではなく文脈を与える",
       "summaryJa": "優れたリーダーシップの本質について論じた記事。チームが顧客の要件を正確に実装しても、実は間違った問題を解決している可能性がある。指示を与えるのではなく、適切な文脈を提供することが重要なリーダーシップの手法であることを解説しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "Why Your AI Tests Pass When Your Features Fail with Donovan Brady",
-      "url": "https://testguild.com/podcast/a609-donovan/",
-      "publishedAt": "2026-10-27T14:34:17.000Z",
-      "excerpt": "About This Episode: Why Your AI Tests Pass When Your Features Fail? Donovan Brady of Leapwork shows how to make […]",
-      "titleJa": "AIテストが成功してもフィーチャーが失敗する理由",
-      "summaryJa": "Leapworkのドノヴァン・ブレディが、AIテストと実装フィーチャーのギャップを生じさせる原因と、その問題を解決するための実践的なアプローチについて解説します。テストの成功が必ずしも本番環境での機能動作を保証しない理由を理解することが重要です。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Defining What Good Looks Likes - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/defining-what-good-looks-likes-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-10-27T13:00:15.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts AI evals feel like a brand-new skill — but the hardest part is a question product teams have always had to answer: what does \"good\" actually look like? Petra Wille and Teresa Torres dig into Teresa's recent",
-      "titleJa": "プロダクト定義の本質 — AI評価時代の「良さ」の定義",
-      "summaryJa": "テレサ・トレスとペトラ・ウィレが、プロダクトチームが直面する根本的な課題「良いとは何か」をAI評価の文脈で掘り下げています。AI時代のプロダクトマネジメントでは、成功基準の明確な定義がかつてないほど重要になっています。"
     }
   ]
 }
