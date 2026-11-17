@@ -1,6 +1,36 @@
 {
-  "updatedAt": "2026-11-16T14:11:46.409Z",
+  "updatedAt": "2026-11-17T01:14:24.167Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "AI Tests You Can’t Trust? Flaky Agents, Playwright MCP, Google EGM TGNS",
+      "url": "https://testguild.com/podcast/n200-nov16/",
+      "publishedAt": "2026-11-16T19:36:18.000Z",
+      "excerpt": "About This Episode: What’s new with Playwright MCP? Can you trust tests that AI keeps rewriting? Have you seen the […]",
+      "titleJa": "信頼できないAIテスト？不安定なエージェント、Playwright MCP、Google EGM TGNS",
+      "summaryJa": "Playwright MCPの最新動向と、AIが継続的に書き直すテストの信頼性について議論。フレーキーなエージェントの問題とAIテスト自動化の課題を探ります。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🎙️ How I AI: Fable 5.2 Review + How I fight token fraud as a solo founder + Building a Claude Code family OS",
+      "url": "https://www.lennysnewsletter.com/p/how-i-ai-fable-52-review-how-i-fight",
+      "publishedAt": "2026-11-16T16:02:55.000Z",
+      "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
+      "titleJa": "🎙️ How I AI：Fable 5.2レビュー＋トークン詐欺対策＋Claude Code OSの開発",
+      "summaryJa": "How I AIポッドキャストの週刊エピソード。Fable 5.2のレビューと、ソロ創業者によるトークン詐欺との戦い、Claude CodeファミリーOSの構築について取り上げます。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Framework is Not the Point",
+      "url": "https://www.scrum.org/resources/blog/framework-not-point",
+      "publishedAt": "2026-11-16T15:29:37.000Z",
+      "excerpt": "Image I am not sure how many times I have explained to my kids that no, they probably won't use Calculus. And maybe they won't need to know the details of Earth Science. Or how Pride and Prejudice ends. But that's not the point. The point of going to High School is to learn how to learn. How to assimilate and analyze data. To find out what you're capable of and to give you confidence that yes, you can do that thing - whatever \"that thing\" is for you. Scrum has something in common with Calculus, it turns out. Scrum helps teams learn how to learn. The framework of Scrum isn't the end goal. Just ",
+      "titleJa": "フレームワークは手段であって目的ではない",
+      "summaryJa": "Scrumフレームワークの本質は、チームが学習方法を習得することにあります。Scrumは単なる手法ではなく、スプリント開発を通じてチームの能力を引き出し、変化への対応力を養うツールとして機能します。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -82,16 +112,6 @@
       "summaryJa": "AIエージェントがボトルネックとなった場合の対策、PMのためのPULLフレームワーク、プロダクト成長とグロースマーケティング、フィードバック反応率の向上など、プロダクトマネジメントの実践的な知見を集約。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Are you overstepping?",
-      "url": "https://www.scrum.org/resources/blog/are-you-overstepping",
-      "publishedAt": "2026-11-14T18:06:27.000Z",
-      "excerpt": "Image For a Scrum team, role clarity can make the difference between a low performing and a high performing team. In fact, whenever I see strife on a team, it almost always stems from a lack of role clarity. When people step on each other's toes - even with the best of intentions - it can create tension on a team. In this article, we will provide common oversteps for the Product Owner, Developers and Scrum Masters and what you can do to fix them. Product Owner Oversteps The Product Owner is accountable for maximizing the value of the product by focusing on what to deliver, not how to deliver i",
-      "titleJa": "スクラムチームにおけるロール明確化と権限の越境対策",
-      "summaryJa": "スクラムチームの高いパフォーマンスには、Product Owner、開発者、Scrum Masterの役割分担が不可欠。ロール明確化の欠如がチーム内の葛藤を生むため、各ロールの越境事例と改善方法を提示し、チーム運営の実効性を高める。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "12 BEST AI Test Automation Tools for 2026 The Third Wave",
@@ -150,16 +170,6 @@
       "excerpt": "About This Episode: Is your Playwright suite slowing you down instead of speeding you up? In this episode, Oliver Stenbom, […]",
       "titleJa": "Playwrightを大規模実行：500個のテストを数分で実行",
       "summaryJa": "テストギルドのエピソードでは、Playwright自動化スイートのパフォーマンス課題に対する解決策を紹介しています。Oliver Stenbomが、テストスイートが開発を遅延させる代わりに加速させるための最適化手法を解説します。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "State of the tech job market: late 2026",
-      "url": "https://www.lennysnewsletter.com/p/state-of-the-tech-job-market-late",
-      "publishedAt": "2026-11-10T15:04:03.000Z",
-      "excerpt": "PMs are winning, engineers are plateauing, designers are hurting, and the biggest AI hiring boom isn’t in software",
-      "titleJa": "2026年後半の技術職市場動向",
-      "summaryJa": "プロダクトマネージャーの需要が高まり、エンジニアは横ばい、デザイナーは厳しい状況にある。注目すべきはAIの最大採用増は必ずしもソフトウェア業界に限定されていない点である。"
     },
     {
       "category": "PdM",
@@ -250,16 +260,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts AI evals feel like a brand-new skill — but the hardest part is a question product teams have always had to answer: what does \"good\" actually look like? Petra Wille and Teresa Torres dig into Teresa's recent",
       "titleJa": "プロダクト定義の本質 — AI評価時代の「良さ」の定義",
       "summaryJa": "テレサ・トレスとペトラ・ウィレが、プロダクトチームが直面する根本的な課題「良いとは何か」をAI評価の文脈で掘り下げています。AI時代のプロダクトマネジメントでは、成功基準の明確な定義がかつてないほど重要になっています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "VegaLoad, Leapwork Play, and the End of Untrustworthy AI Tests TGNS199",
-      "url": "https://testguild.com/podcast/n199-oct26/",
-      "publishedAt": "2026-10-26T19:28:49.000Z",
-      "excerpt": "About This Episode: Can you actually trust the Playwright tests your AI generates? A new free tool says it can […]",
-      "titleJa": "VegaLoad、Leapwork Play、そして信頼できないAIテストの終焉",
-      "summaryJa": "AIが生成するPlaywrightテストの信頼性は本当に担保できるのか。本エピソードでは、AIが自動生成するテストの品質と信頼性を検証する新しい無料ツールについて取り上げ、テスト自動化における課題と解決策を探ります。"
     }
   ]
 }
