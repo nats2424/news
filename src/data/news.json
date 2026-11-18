@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T14:43:58.405Z",
+  "updatedAt": "2026-11-18T23:40:13.951Z",
   "items": [
     {
       "category": "PdM",
@@ -30,6 +30,16 @@
       "excerpt": "Originally published at Engineering Leadership on 13 July 2020 as I do continuous deliver, why should I Sprint? Updated on 18 March 2024. Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; “Why would I limit myself to shipping only once every two weeks?” UPDATE: Scrum.org just posted my Scrum Tapas - Scrum and Continuous Delivery which is posted inline below. To that I say: “Where in the Scrum Guide does it say that you can’t release every day?” You will not find it, I ",
       "titleJa": "継続的デリバリーを実践しているなら、なぜスプリントか",
       "summaryJa": "継続的デリバリーを導入しているチームがスプリントを採用する意味を解説。Scrum Guideではスプリント内での毎日のリリースを禁止していないため、スプリントと継続的デリバリーは矛盾しないことを論じている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "🇨🇵 Votre prochain concurrent peut naître ce week-end. Et maintenant ?",
+      "url": "https://www.scrum.org/resources/blog/votre-prochain-concurrent-peut-naitre-ce-week-end-et-maintenant",
+      "publishedAt": "2026-11-18T09:55:07.000Z",
+      "excerpt": "Image Pendant des décennies, construire un logiciel demandait du budget, des équipes et du temps. C’était une barrière à l’entrée, et pour beaucoup d’entreprises un avantage confortable. Cette barrière est tombée et les preuves sont là. ▪️ Le code : Selon le rapport GitHub Octoverse 2026, les commits ont atteint 34,3 milliards sur douze mois, plus du triple de 2024. Depuis juin, environ 55 % des commits proviennent de dépôts créés dans l’année. En septembre, plus de 40 % des pull requests ont commencé par une première proposition d’un agent IA. ▪️ Les outils : Lovable revendique plus de 60 mil",
+      "titleJa": "あなたの次のライバルは今週末誕生するかもしれない",
+      "summaryJa": "ソフトウェア開発の障壁が大幅に低下している。GitHubのOctoverse 2026レポートによると、コミット数は過去3年で3倍以上に急増し、IA エージェントによるプルリクエストの提案も40%を超えている。ツールの民主化により、起業や競争参入の敷居が劇的に下がった時代に企業はどう対応すべきかが論じられている。"
     },
     {
       "category": "PjM",
@@ -90,16 +100,6 @@
       "excerpt": "About This Episode: What makes Robot Framework flexible enough to test medical devices, low code bots, monitoring systems, and embedded […]",
       "titleJa": "Robot Framework：Web・デスクトップ・モバイル・組込みシステムの統合テスト自動化",
       "summaryJa": "Robot Frameworkは医療機器からローコード自動化ツール、モニタリングシステム、組込みシステムまで幅広いテスト対象に対応できる柔軟性を持つテスト自動化フレームワークです。その汎用性と拡張性が、多様な分野でのテスト自動化を可能にしています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "From 5 Teams to More Than 100: How a Pharma Field Organization Scaled Agility",
-      "url": "https://www.scrum.org/resources/blog/5-teams-more-100-how-pharma-field-organization-scaled-agility",
-      "publishedAt": "2026-11-17T15:00:00.000Z",
-      "excerpt": "A field organization started with five cross-functional pilot teams. A few years later it had more than a hundred, and each therapeutic area had found its own way of working. It didn't scale because of a master plan or deployment roadmap. It scaled because each phase delivered new information about what works. In the second post of this series, I described four ways pharma companies adopt agility, and promised a few case studies. This is the first one. On that map, it started as a function-led transformation in a commercial organization. It's also the organization I briefly mentioned in the fi",
-      "titleJa": "5チームから100チーム以上へ：製薬企業が実現したアジャイル拡大",
-      "summaryJa": "医薬品企業のフィールド組織が、マスタープランなしに5チームから100以上のチームへと段階的に拡大した事例を紹介。各フェーズで機能するやり方を組織化していくことで、スケーラブルなアジャイル導入が実現した。"
     },
     {
       "category": "PdM",
