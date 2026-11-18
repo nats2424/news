@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-11-18T00:08:28.950Z",
+  "updatedAt": "2026-11-18T14:43:58.405Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Grab My Personal Annual Review Claude Code Plugin",
+      "url": "https://www.producttalk.org/personal-annual-review-claude-code-plugin/",
+      "publishedAt": "2026-11-18T14:05:00.000Z",
+      "excerpt": "",
+      "titleJa": "個人年間レビュー用Claudeコードプラグインを入手",
+      "summaryJa": "プロダクトマネージャーの年間振り返りと計画策定に使えるClaudeコードプラグインの紹介。Teresa Torresによる個人用の年間レビュープロセスをプラグイン化し、効率的な自己評価を支援するツール。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "My Personal Annual Review Process (Now a Claude Code Plugin)",
+      "url": "https://www.producttalk.org/personal-annual-review/",
+      "publishedAt": "2026-11-18T14:00:00.000Z",
+      "excerpt": "Every December, I reflect on my year and plan the next. I share 4 exercises in my personal annual review, plus a Claude Code plugin.",
+      "titleJa": "個人年間レビュープロセス（Claudeコードプラグイン化）",
+      "summaryJa": "Teresa Torresが毎年12月に実施する個人の年間レビュープロセスを公開。1年の振り返りと翌年の計画立案に活用できる4つのエクササイズと、それをプラグイン化したClaudeコードツールを紹介する。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "I do continuous deliver, why should I Sprint?",
+      "url": "https://www.scrum.org/resources/blog/i-do-continuous-deliver-why-should-i-sprint",
+      "publishedAt": "2026-11-18T10:56:40.000Z",
+      "excerpt": "Originally published at Engineering Leadership on 13 July 2020 as I do continuous deliver, why should I Sprint? Updated on 18 March 2024. Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; “Why would I limit myself to shipping only once every two weeks?” UPDATE: Scrum.org just posted my Scrum Tapas - Scrum and Continuous Delivery which is posted inline below. To that I say: “Where in the Scrum Guide does it say that you can’t release every day?” You will not find it, I ",
+      "titleJa": "継続的デリバリーを実践しているなら、なぜスプリントか",
+      "summaryJa": "継続的デリバリーを導入しているチームがスプリントを採用する意味を解説。Scrum Guideではスプリント内での毎日のリリースを禁止していないため、スプリントと継続的デリバリーは矛盾しないことを論じている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What an effective sprint review looks like",
+      "url": "https://www.scrum.org/resources/blog/what-effective-sprint-review-looks",
+      "publishedAt": "2026-11-18T07:45:00.000Z",
+      "excerpt": "The vast majority of the sprint reviews I attend are painfully ineffective. They are often snooze-fests that stakeholders eventually stop showing up for altogether. The direct consequence is that you, as the product owner, end up updating everyone individually afterward. That takes loads of extra time, creates endless alignment loops, and completely misses the point of agility and focus. A sprint review is not a demo to show off how hard the team has worked. Nor is it a sales pitch where you put on a good show. A sprint review is a working session with one single goal: gathering feedback on th",
+      "titleJa": "効果的なスプリントレビューの実施方法",
+      "summaryJa": "多くのスプリントレビューが非効果的で退屈になってしまう問題を指摘。スプリントレビューの本来の目的はデモではなく、ステークホルダーからのフィードバック収集であり、その実施方法を具体的に説明する。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -52,6 +92,16 @@
       "summaryJa": "Robot Frameworkは医療機器からローコード自動化ツール、モニタリングシステム、組込みシステムまで幅広いテスト対象に対応できる柔軟性を持つテスト自動化フレームワークです。その汎用性と拡張性が、多様な分野でのテスト自動化を可能にしています。"
     },
     {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "From 5 Teams to More Than 100: How a Pharma Field Organization Scaled Agility",
+      "url": "https://www.scrum.org/resources/blog/5-teams-more-100-how-pharma-field-organization-scaled-agility",
+      "publishedAt": "2026-11-17T15:00:00.000Z",
+      "excerpt": "A field organization started with five cross-functional pilot teams. A few years later it had more than a hundred, and each therapeutic area had found its own way of working. It didn't scale because of a master plan or deployment roadmap. It scaled because each phase delivered new information about what works. In the second post of this series, I described four ways pharma companies adopt agility, and promised a few case studies. This is the first one. On that map, it started as a function-led transformation in a commercial organization. It's also the organization I briefly mentioned in the fi",
+      "titleJa": "5チームから100チーム以上へ：製薬企業が実現したアジャイル拡大",
+      "summaryJa": "医薬品企業のフィールド組織が、マスタープランなしに5チームから100以上のチームへと段階的に拡大した事例を紹介。各フェーズで機能するやり方を組織化していくことで、スケーラブルなアジャイル導入が実現した。"
+    },
+    {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
       "title": "The Sharing Gap - All Things Product Podcast with Teresa Torres & Petra Wille",
@@ -60,26 +110,6 @@
       "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Why has everyone stopped sharing their real product work — and what do we lose when the field goes quiet? Petra Wille and Teresa Torres return to the never-ending social-media question, this time from a trend angle: the genuinely useful",
       "titleJa": "プロダクト情報共有の断絶——Teresa Torres & Petra Willeが語る業界の変化",
       "summaryJa": "プロダクト開発の実務情報がソーシャルメディアで共有されなくなった現象と、その影響について、業界の第一人者2名が考察するポッドキャストエピソード。有用な知見の流通が減少する中で、プロダクト業界が失うものについて掘り下げる。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "🇨🇵  L’IA nous rend du temps : faisons enfin du vrai Product Management",
-      "url": "https://www.scrum.org/resources/blog/lia-nous-rend-du-temps-faisons-enfin-du-vrai-product-management",
-      "publishedAt": "2026-11-17T06:00:23.000Z",
-      "excerpt": "Des LLMs impressionnants… et pas (encore) créatifs Soyons clairs : je suis loin d’être un détracteur de l’IA générative. Les LLMs écrivent du code, des tests, de la documentation, des synthèses, et ils le font à une vitesse qui était inimaginable il y a peu. Je les utilise, et vous aussi probablement. Mais plus je les pratique, plus un constat s’impose : ils excellent à produire du plausible. Ils recombinent, reformulent, complètent ce qui existe déjà. Ce qu’ils savent beaucoup moins faire, du moins aujourd’hui, c’est ce que nous faisons naturellement : remarquer ce que personne n’a demandé, r",
-      "titleJa": "AIがもたらす時間——真のプロダクトマネジメントへ向けて",
-      "summaryJa": "LLMはコード、テスト、ドキュメント執筆に優れるが、既存知識の再組合わせに限定され、市場の未充足ニーズを発見する創造的思考には乏しい。AIが定型業務を効率化する中、真のプロダクトマネジメントとして顧客が気づかない課題を発見する役割の重要性を主張。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "A team of AI agents needs Scrum, not a better model",
-      "url": "https://www.scrum.org/resources/blog/team-ai-agents-needs-scrum-not-better-model",
-      "publishedAt": "2026-11-17T03:25:38.000Z",
-      "excerpt": "\"Agent = Model + Harness\" describes one AI agent well and a team of agents badly. Once agents work together, the defects that matter come from handoffs, shared records and two agents doing the same work. A better model fixes none of those. A team needs a second line: Team = Agents + Coordination. Scrum already supplies the coordination. My own team of AI agents runs on Scrum, and its records show where the defects come from. The formula is right for one agent Vivek Trivedy of LangChain states the formula in exactly those words. He defines the harness as every piece of code, configuration and e",
-      "titleJa": "AIエージェントチームに必要なのはScrum、より良いモデルではない",
-      "summaryJa": "複数のAIエージェントが連携する場合、改善すべき課題はモデルではなく、エージェント間のハンドオフ、共有記録、重複作業にある。Scrumのような調整メカニズムがチーム全体には不可欠であり、実際にScrum導入チームの記録からも欠陥の原因が明確化される。"
     },
     {
       "category": "QA",
@@ -100,16 +130,6 @@
       "excerpt": "Your weekly listens from How I AI, part of the Lenny's Podcast Network",
       "titleJa": "🎙️ How I AI：Fable 5.2レビュー＋トークン詐欺対策＋Claude Code OSの開発",
       "summaryJa": "How I AIポッドキャストの週刊エピソード。Fable 5.2のレビューと、ソロ創業者によるトークン詐欺との戦い、Claude CodeファミリーOSの構築について取り上げます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Framework is Not the Point",
-      "url": "https://www.scrum.org/resources/blog/framework-not-point",
-      "publishedAt": "2026-11-16T15:29:37.000Z",
-      "excerpt": "Image I am not sure how many times I have explained to my kids that no, they probably won't use Calculus. And maybe they won't need to know the details of Earth Science. Or how Pride and Prejudice ends. But that's not the point. The point of going to High School is to learn how to learn. How to assimilate and analyze data. To find out what you're capable of and to give you confidence that yes, you can do that thing - whatever \"that thing\" is for you. Scrum has something in common with Calculus, it turns out. Scrum helps teams learn how to learn. The framework of Scrum isn't the end goal. Just ",
-      "titleJa": "フレームワークは手段であって目的ではない",
-      "summaryJa": "Scrumフレームワークの本質は、チームが学習方法を習得することにあります。Scrumは単なる手法ではなく、スプリント開発を通じてチームの能力を引き出し、変化への対応力を養うツールとして機能します。"
     },
     {
       "category": "PdM",
@@ -202,16 +222,6 @@
       "summaryJa": "テストギルドのエピソードでは、Playwright自動化スイートのパフォーマンス課題に対する解決策を紹介しています。Oliver Stenbomが、テストスイートが開発を遅延させる代わりに加速させるための最適化手法を解説します。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "Discovery & The 4 Risks - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/discovery-the-4-risks-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-11-10T14:00:00.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts In one of their most philosophical episodes yet, Petra Wille and Teresa Torres turn product thinking on the discovery practice itself. If you treat the continuous discovery habits as a product — and the organizations that buy training as the customer —",
-      "titleJa": "プロダクトディスカバリーと4つのリスク",
-      "summaryJa": "テレサ・トーレスとペトラ・ウィレが、継続的ディスカバリーの実践そのものをプロダクトとして捉え、組織への導入・学習支援におけるリスク要因を哲学的に掘り下げたポッドキャストエピソード。"
-    },
-    {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
       "title": "The Author Pays",
@@ -240,16 +250,6 @@
       "excerpt": "HS2, the high speed railway line, is now expected to cost between £87.7 billion and £102.7 billion, and the full line could open up to 13 years later than planned in 2020. Those are the headline numbers from the National Audit Office's latest report, High Speed Two reset, published in June 2026. It's easy to read the headlines, shake your head and move on. But the report is much more interesting than the numbers. It looks at what happens when a programme outgrows the organization running it, and at what it takes to put things right. This isn't the first reset, either. HS2 was reset in 2020, Eu",
       "titleJa": "HS2プロジェクトのリセットに学ぶプロジェクト管理の教訓",
       "summaryJa": "英国の高速鉄道プロジェクト「HS2」の大幅な予算増加と期間延期について、国家監査局の報告書から学べるプロジェクト管理の教訓を分析。プログラムが組織を上回る規模に成長した時の対応策や、大型プロジェクトの修正方法に関する実践的な洞察を提供しています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "What AI Changes - All Things Product Podcast with Teresa Torres & Petra Wille",
-      "url": "https://www.producttalk.org/what-ai-changes-all-things-product-podcast-with-teresa-torres-petra-wille/",
-      "publishedAt": "2026-11-03T14:00:00.000Z",
-      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts Everyone’s shouting that AI changes everything. Teresa Torres wrote a LinkedIn “screed” arguing the opposite — and this episode is the debate she and Petra wanted to have about it. Petra Wille and Teresa Torres work through the",
-      "titleJa": "AIが変えるもの：Teresa Torres & Petra Willeが語るプロダクト論",
-      "summaryJa": "AIが全てを変えるという通説に対し、Teresa Torresが異なる視点を提示。ポッドキャストでTorresとWilleがAIがプロダクト開発に与える実際の影響について議論します。"
     },
     {
       "category": "QA",
