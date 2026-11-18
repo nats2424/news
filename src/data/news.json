@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-11-17T15:03:47.288Z",
+  "updatedAt": "2026-11-18T00:08:28.950Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How Can Managers Support Team Learning in the Age of AI?",
+      "url": "https://www.scrum.org/resources/blog/how-can-managers-support-team-learning-age-ai",
+      "publishedAt": "2026-11-17T23:30:00.000Z",
+      "excerpt": "AI can reduce the time it takes to create code and documents. But if we focus only on how much a team produces or how quickly it works, we risk losing sight of what the team has learned and what has changed for its customers. For a team using AI, a crucial part of its work is experimenting and making decisions. Managers, in turn, need to create an environment in which the team can keep learning in pursuit of the outcomes customers desire. Learning in Pursuit of a Mission Whether a team is learning depends on what it needs to learn. Its mission gives it a direction, and the team needs to be abl",
+      "titleJa": "AI時代にマネージャーがチーム学習をサポートするには",
+      "summaryJa": "AIはコード生成とドキュメント作成を加速させますが、生産性だけに注目すると組織学習を見失うリスクがあります。マネージャーは実験と意思決定を促す環境を整備し、チームが顧客価値を追求する過程での継続的学習をサポートする責任を持ちます。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Last Minute of Planning is the One that Matters.",
+      "url": "https://www.scrum.org/resources/blog/last-minute-planning-one-matters",
+      "publishedAt": "2026-11-17T23:00:00.000Z",
+      "excerpt": "Image Think back to the last problem that blindsided the people at the top. The status that was green all quarter and then snapped. The deadline that was fine until, suddenly, it wasn't. Now think about the debrief. One after another, people admitted they'd had a feeling. \"I was a bit worried about that dependency.\" \"I wasn't sure the estimate held.\" \"Honestly, I thought we were cutting it close.\" The information wasn't missing. It was in the building the whole time. It just never made it into a decision while there was still time to act on it. I've seen that change inside the last minute of a",
+      "titleJa": "計画の最後の1分が全てを決める",
+      "summaryJa": "プロジェクトが一夜にして失敗する背景には、事前に察知していた懸念事項がステータスアップデートに反映されていない問題があります。重要な情報が組織内に存在しながら、判断・行動できるタイミングで経営層に届かないことが、予期しない危機をもたらしています。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
+      "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
+      "publishedAt": "2026-11-17T18:02:02.000Z",
+      "excerpt": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
+      "titleJa": "年間無料の豪華ツール35個—OpenRouter、LangChain、Sentryなど新規追加",
+      "summaryJa": "Lennyのニュースレター購読者向けに、4万ドル相当の有料ツールが1年間無料で提供されるキャンペーンです。OpenRouter、LangChain、Sentryなど複数の新しいサービスが追加され、開発チームの生産性向上に活用できます。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "What Did They Say?",
+      "url": "https://qahiccupps.blogspot.com/2026/11/what-did-they-say.html",
+      "publishedAt": "2026-11-17T16:59:21.000Z",
+      "excerpt": "The other day in What Did I Do? I reflected on redundancy and the end of my five years at Ada Health. There was a heartwarming reaction to it and I thought a companion piece collecting some of the feedback from other people on that same period might be interesting. So I went through comments and reposts, LinkedIn recommendations, and some private messages to compile a representative, if very biased, sample. That's OK for here for now. I mean, the original piece was hardly written by a dispassionate observer and these words make me feel like the Ready Brek Kid: toasty inside despite the incleme",
+      "titleJa": "彼らは何と言ったか？：Ada Health勤務を振り返って",
+      "summaryJa": "著者がAda Healthでの5年間を終えた際、周囲からのフィードバックを集めた反応記です。冗長性についての思索を共有した前編の記事に対して、コメント、LinkedInの推薦文、プライベートメッセージから寄せられた声をまとめた、当事者目線での回顧録となっています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Robot Framework Test Automation: Automate Web, Desktop, Mobile, and Embedded Systems",
+      "url": "https://testguild.com/podcast/a612-robocon2027/",
+      "publishedAt": "2026-11-17T15:43:23.000Z",
+      "excerpt": "About This Episode: What makes Robot Framework flexible enough to test medical devices, low code bots, monitoring systems, and embedded […]",
+      "titleJa": "Robot Framework：Web・デスクトップ・モバイル・組込みシステムの統合テスト自動化",
+      "summaryJa": "Robot Frameworkは医療機器からローコード自動化ツール、モニタリングシステム、組込みシステムまで幅広いテスト対象に対応できる柔軟性を持つテスト自動化フレームワークです。その汎用性と拡張性が、多様な分野でのテスト自動化を可能にしています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -82,26 +132,6 @@
       "summaryJa": "トークン詐欺で数万ドルを失った経験から、6つの攻撃パターンと対策、無料トライアル廃止の理由を解説。セキュリティ意識の重要性と実践的な防御方法をまとめた40分間のセッション。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How I Enriched The PSM-AI Essentials Class For Scrum Masters",
-      "url": "https://www.scrum.org/resources/blog/how-i-enriched-psm-ai-essentials-class-scrum-masters",
-      "publishedAt": "2026-11-16T08:56:56.000Z",
-      "excerpt": "Learning from the PSM-AI Essentials class alone is not enough for Scrum Masters to immediately shine at work. To effectively apply their AI learnings in the field, they require extra, enriched content and support. So, let’s explore how I enriched the PSM-AI Essentials class. Image Imagine you join a PSM-AI Essentials class and you learn a lot from it. However, the day after the class, you suddenly feel alone. You don't know where to start. You don't know which steps you should take first to best serve your Scrum Team with your new AI learnings. This is the reason that I decided to enrich my PS",
-      "titleJa": "スクラムマスター向けPSM-AI基礎クラスの実践的な拡張",
-      "summaryJa": "PSM-AI Essentialsの講座修了後、スクラムマスターが実務で学習を活かせるよう、追加の実践コンテンツとサポート体制を整備した事例を紹介。AI知識を組織に浸透させるための具体的アプローチを解説。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "When AI Speeds Up Implementation, Test Your Ideas with Small Experiments",
-      "url": "https://www.scrum.org/resources/blog/when-ai-speeds-implementation-test-your-ideas-small-experiments",
-      "publishedAt": "2026-11-16T02:18:00.000Z",
-      "excerpt": "When AI makes implementation faster, it can be tempting to start the next feature too. But we need to make sure we are not adding unnecessary features. Before asking how to reduce the wait for review and validation, we need to look at how long it takes to get feedback from customers and users. Shorten lead time so that you can get feedback on what you have built sooner. To do that, reduce batch size: the amount of work you take on as a single unit. At the same time, keep work in progress (WIP), work that has been started but not finished, from growing too large. If faster implementation leads ",
-      "titleJa": "AI導入で開発が加速したら、小規模な実験でアイデアを検証する",
-      "summaryJa": "AI技術により実装速度が向上した場合でも、不要な機能追加を避けることが重要です。顧客フィードバック取得の時間を短縮するため、バッチサイズ（単位作業量）を削減し、Work in Progress（進行中業務）の増加を抑制する必要があります。迅速な実装こそが、より早い検証サイクルにつながります。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
@@ -160,16 +190,6 @@
       "excerpt": "We are starting to pull together our list of 2027 product conferences. This list is by no means exhaustive. If you know of product conferences that are not on the list and you think they should be, please send an email to conferences@producttalk.org. We’ll also keep",
       "titleJa": "2027年プロダクトカンファレンス開催情報",
       "summaryJa": "2027年に開催されるプロダクト関連のカンファレンス情報をまとめたリストが公開されている。完全網羅ではないため、情報がない他のカンファレンスについてはProduct Talkへの情報提供を呼びかけている。今後も継続的に情報が更新される予定。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Claude Code + Obsidian: My family’s AI brain | Scott Farrar",
-      "url": "https://www.lennysnewsletter.com/p/claude-code-obsidian-my-familys-ai",
-      "publishedAt": "2026-11-11T13:04:09.000Z",
-      "excerpt": "Watch now (34 mins) | 🎙️ Scott Farrar walks through the Claude Code and Obsidian system he built to track appliances, chase insurance quotes, and keep household projects moving",
-      "titleJa": "ClaudeコードとObsidianで作る家族向けAIアシスタント",
-      "summaryJa": "Scott Farrarが構築したClaude CodeとObsidianを組み合わせたシステムの事例紹介。家電管理、保険見積もりの追跡、家庭プロジェクト管理など、実務的なユースケースを通じてAIとナレッジベースの統合活用法を解説しています。"
     },
     {
       "category": "QA",
