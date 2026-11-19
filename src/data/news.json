@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-19T14:51:03.429Z",
+  "updatedAt": "2026-11-19T23:59:03.826Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The frame holds the picture. How you paint it is yours.",
+      "url": "https://www.scrum.org/resources/blog/frame-holds-picture-how-you-paint-it-yours",
+      "publishedAt": "2026-11-19T23:00:00.000Z",
+      "excerpt": "From the Scrum Guide: \"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.\" The Cambridge Dictionary defines a framework as \"a system of rules, ideas, or beliefs that is used to plan or decide something.\" Look at what that definition leaves out. There are no instructions in it. A system of rules helps you plan and decide; it doesn't tell you how to carry out the plan. In almost every training and coaching assignment, I get the same two questions. How should we prioritize our Product Backlog? How should we w",
+      "titleJa": "フレームワークは枠組み、描き方はあなた次第",
+      "summaryJa": "Scrumはルールのシステムであり、指示書ではない。プロダクトバックログの優先順位付けなど実装方法については、チームが自ら判断して決定する必要がある。フレームワークは計画と判断を支援するが、具体的な実行方法は組織の裁量に委ねられている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -34,12 +44,12 @@
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
-      "title": "I do continuous deliver, why should I Sprint?",
-      "url": "https://www.scrum.org/resources/blog/i-do-continuous-deliver-why-should-i-sprint",
+      "title": "I Do Continuous Delivery, Why Should I Sprint?",
+      "url": "https://www.scrum.org/resources/blog/i-do-continuous-delivery-why-should-i-sprint",
       "publishedAt": "2026-11-18T10:56:40.000Z",
       "excerpt": "Originally published at Engineering Leadership on 13 July 2020 as I do continuous deliver, why should I Sprint? Updated on 18 March 2024. Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; “Why would I limit myself to shipping only once every two weeks?” UPDATE: Scrum.org just posted my Scrum Tapas - Scrum and Continuous Delivery which is posted inline below. To that I say: “Where in the Scrum Guide does it say that you can’t release every day?” You will not find it, I ",
-      "titleJa": "継続的デリバリーを実践しているなら、なぜスプリントか",
-      "summaryJa": "継続的デリバリーを導入しているチームがスプリントを採用する意味を解説。Scrum Guideではスプリント内での毎日のリリースを禁止していないため、スプリントと継続的デリバリーは矛盾しないことを論じている。"
+      "titleJa": "継続的デリバリーを実践しているなら、なぜスプリントを使うのか",
+      "summaryJa": "Scrumガイドには「2週間に1回のリリース」という制限が記載されていない。継続的デリバリーパイプラインを導入している組織でも、スプリントの枠組みを活用することで計画性と可視性を確保できる。日々のリリースとスプリント体制の両立は可能である。"
     },
     {
       "category": "PjM",
@@ -60,16 +70,6 @@
       "excerpt": "The vast majority of the sprint reviews I attend are painfully ineffective. They are often snooze-fests that stakeholders eventually stop showing up for altogether. The direct consequence is that you, as the product owner, end up updating everyone individually afterward. That takes loads of extra time, creates endless alignment loops, and completely misses the point of agility and focus. A sprint review is not a demo to show off how hard the team has worked. Nor is it a sales pitch where you put on a good show. A sprint review is a working session with one single goal: gathering feedback on th",
       "titleJa": "効果的なスプリントレビューの実施方法",
       "summaryJa": "多くのスプリントレビューが非効果的で退屈になってしまう問題を指摘。スプリントレビューの本来の目的はデモではなく、ステークホルダーからのフィードバック収集であり、その実施方法を具体的に説明する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How Can Managers Support Team Learning in the Age of AI?",
-      "url": "https://www.scrum.org/resources/blog/how-can-managers-support-team-learning-age-ai",
-      "publishedAt": "2026-11-17T23:30:00.000Z",
-      "excerpt": "AI can reduce the time it takes to create code and documents. But if we focus only on how much a team produces or how quickly it works, we risk losing sight of what the team has learned and what has changed for its customers. For a team using AI, a crucial part of its work is experimenting and making decisions. Managers, in turn, need to create an environment in which the team can keep learning in pursuit of the outcomes customers desire. Learning in Pursuit of a Mission Whether a team is learning depends on what it needs to learn. Its mission gives it a direction, and the team needs to be abl",
-      "titleJa": "AI時代にマネージャーがチーム学習をサポートするには",
-      "summaryJa": "AIはコード生成とドキュメント作成を加速させますが、生産性だけに注目すると組織学習を見失うリスクがあります。マネージャーは実験と意思決定を促す環境を整備し、チームが顧客価値を追求する過程での継続的学習をサポートする責任を持ちます。"
     },
     {
       "category": "PdM",
