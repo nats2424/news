@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-18T23:40:13.951Z",
+  "updatedAt": "2026-11-19T04:52:36.357Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "KI-Einführungsfehler: Warum Ihr erfolgreiches KI-Pilotprojekt kein Grund zum Skalieren ist 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/ki-einfuhrungsfehler-warum-ihr-erfolgreiches-ki-pilotprojekt-kein-grund-zum-skalieren-ist",
+      "publishedAt": "2026-11-19T04:17:03.000Z",
+      "excerpt": "In Kürze: Sieben typische KI-Einführungsfehler und wie man sie vermeidet These: Dieser Artikel erklärt sieben KI-Einführungsfehler, die auf ein erfolgreiches KI-Pilotprojekt folgen, von nicht einsatzbereiten Daten über überlastete Prüfer bis zu verfrühten Kürzungen, und wie Praktiker den Qualitätsstandard festlegen, die Evidenz sammeln und die Ergebnisse überprüfen, bevor sie die KI-Einführung über das Pilotprojekt hinaus skalieren. Ihr KI-Pilotprojekt hat funktioniert: Die Demo hat den Lenkungsausschuss beeindruckt, die Zeitersparnis auf der PowerPoint-Folie sah fantastisch aus, und der Proje",
+      "titleJa": "AI導入の失敗パターン：パイロット成功だけでスケーリングはできない",
+      "summaryJa": "AI導入後に起こりやすい7つの典型的な失敗パターンと対策を解説。データの準備不足、テスター負荷、早すぎるコスト削減などを紹介し、品質基準の設定、エビデンス収集、結果検証を通じて、パイロットプロジェクトから本格的なAI導入へのスケーリングを成功させるアプローチを提案する。"
+    },
     {
       "category": "PdM",
       "sourceName": "Product Talk (Teresa Torres)",
@@ -60,16 +70,6 @@
       "excerpt": "AI can reduce the time it takes to create code and documents. But if we focus only on how much a team produces or how quickly it works, we risk losing sight of what the team has learned and what has changed for its customers. For a team using AI, a crucial part of its work is experimenting and making decisions. Managers, in turn, need to create an environment in which the team can keep learning in pursuit of the outcomes customers desire. Learning in Pursuit of a Mission Whether a team is learning depends on what it needs to learn. Its mission gives it a direction, and the team needs to be abl",
       "titleJa": "AI時代にマネージャーがチーム学習をサポートするには",
       "summaryJa": "AIはコード生成とドキュメント作成を加速させますが、生産性だけに注目すると組織学習を見失うリスクがあります。マネージャーは実験と意思決定を促す環境を整備し、チームが顧客価値を追求する過程での継続的学習をサポートする責任を持ちます。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Last Minute of Planning is the One that Matters.",
-      "url": "https://www.scrum.org/resources/blog/last-minute-planning-one-matters",
-      "publishedAt": "2026-11-17T23:00:00.000Z",
-      "excerpt": "Image Think back to the last problem that blindsided the people at the top. The status that was green all quarter and then snapped. The deadline that was fine until, suddenly, it wasn't. Now think about the debrief. One after another, people admitted they'd had a feeling. \"I was a bit worried about that dependency.\" \"I wasn't sure the estimate held.\" \"Honestly, I thought we were cutting it close.\" The information wasn't missing. It was in the building the whole time. It just never made it into a decision while there was still time to act on it. I've seen that change inside the last minute of a",
-      "titleJa": "計画の最後の1分が全てを決める",
-      "summaryJa": "プロジェクトが一夜にして失敗する背景には、事前に察知していた懸念事項がステータスアップデートに反映されていない問題があります。重要な情報が組織内に存在しながら、判断・行動できるタイミングで経営層に届かないことが、予期しない危機をもたらしています。"
     },
     {
       "category": "PdM",
