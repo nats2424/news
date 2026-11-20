@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-20T05:48:05.068Z",
+  "updatedAt": "2026-11-20T14:31:35.981Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "How to Decide Whether to Continue an Initiative in the Age of AI",
+      "url": "https://www.scrum.org/resources/blog/how-decide-whether-continue-initiative-age-ai",
+      "publishedAt": "2026-11-20T09:55:20.000Z",
+      "excerpt": "AI can shorten the time it takes to turn a proposal into something we can test. Once an initiative is underway, how should a manager decide whether to keep going, change course, or stop? I look at two things: the goal we’re aiming for and the evidence we use as a compass. Are We Getting Closer, and Is the Goal Still Right? First, I look at whether the initiative is moving us toward the goal and whether the goal is still worth pursuing. The same change can mean different things depending on what we’re trying to achieve. Comparing what happened with what we planned says little about why the work",
+      "titleJa": "AI時代におけるイニシアティブの継続判断",
+      "summaryJa": "AIにより提案から検証可能な状態への転換が迅速化される中、プロジェクトマネージャーは継続・方針変更・中止をどう判断すべきか。目標達成への進捗状況と目標の妥当性という2つの観点から、イニシアティブが目標に近づいているか、その目標がまだ追求する価値があるかを常に評価することが重要である。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -60,16 +70,6 @@
       "excerpt": "Image Pendant des décennies, construire un logiciel demandait du budget, des équipes et du temps. C’était une barrière à l’entrée, et pour beaucoup d’entreprises un avantage confortable. Cette barrière est tombée et les preuves sont là. ▪️ Le code : Selon le rapport GitHub Octoverse 2026, les commits ont atteint 34,3 milliards sur douze mois, plus du triple de 2024. Depuis juin, environ 55 % des commits proviennent de dépôts créés dans l’année. En septembre, plus de 40 % des pull requests ont commencé par une première proposition d’un agent IA. ▪️ Les outils : Lovable revendique plus de 60 mil",
       "titleJa": "あなたの次のライバルは今週末誕生するかもしれない",
       "summaryJa": "ソフトウェア開発の障壁が大幅に低下している。GitHubのOctoverse 2026レポートによると、コミット数は過去3年で3倍以上に急増し、IA エージェントによるプルリクエストの提案も40%を超えている。ツールの民主化により、起業や競争参入の敷居が劇的に下がった時代に企業はどう対応すべきかが論じられている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "What an effective sprint review looks like",
-      "url": "https://www.scrum.org/resources/blog/what-effective-sprint-review-looks",
-      "publishedAt": "2026-11-18T07:45:00.000Z",
-      "excerpt": "The vast majority of the sprint reviews I attend are painfully ineffective. They are often snooze-fests that stakeholders eventually stop showing up for altogether. The direct consequence is that you, as the product owner, end up updating everyone individually afterward. That takes loads of extra time, creates endless alignment loops, and completely misses the point of agility and focus. A sprint review is not a demo to show off how hard the team has worked. Nor is it a sales pitch where you put on a good show. A sprint review is a working session with one single goal: gathering feedback on th",
-      "titleJa": "効果的なスプリントレビューの実施方法",
-      "summaryJa": "多くのスプリントレビューが非効果的で退屈になってしまう問題を指摘。スプリントレビューの本来の目的はデモではなく、ステークホルダーからのフィードバック収集であり、その実施方法を具体的に説明する。"
     },
     {
       "category": "PdM",
@@ -260,16 +260,6 @@
       "excerpt": "About This Episode: How to Prove Your Release Is Ready When AI Writes the Code? Can you prove your software is ready to ship, or does that answer still depend on a meeting and a spreadsheet? Want to see if your team can prove a release is ready? Book a custom LoopIQ demo with Ashwin: https://testgld.link/loopiqdemo In this episode, […]",
       "titleJa": "AIが書いたコードでリリース準備完了を証明する方法",
       "summaryJa": "AIがコード生成を行う時代に、ソフトウェアがリリース可能な状態であることをどう証明するかを解説。会議やスプレッドシートに頼るのではなく、具体的な証拠に基づくリリース判定の重要性を取り上げています。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Product Coalition",
-      "title": "EP109 Why the Best Leaders Give Context, Not Direction with Norma Løvhaugen (Neat.no) and Jay Stansell",
-      "url": "https://www.productcoalition.com/p/ep109-why-the-best-leaders-give-context",
-      "publishedAt": "2026-10-30T09:00:59.000Z",
-      "excerpt": "A team can deliver exactly what a customer requested and still solve the wrong problem.",
-      "titleJa": "最高のリーダーは指示ではなく文脈を与える",
-      "summaryJa": "優れたリーダーシップの本質について論じた記事。チームが顧客の要件を正確に実装しても、実は間違った問題を解決している可能性がある。指示を与えるのではなく、適切な文脈を提供することが重要なリーダーシップの手法であることを解説しています。"
     }
   ]
 }
