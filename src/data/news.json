@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-20T14:31:35.981Z",
+  "updatedAt": "2026-11-20T23:27:54.294Z",
   "items": [
     {
       "category": "PjM",
@@ -14,12 +14,12 @@
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
-      "title": "The frame holds the picture. How you paint it is yours.",
-      "url": "https://www.scrum.org/resources/blog/frame-holds-picture-how-you-paint-it-yours",
+      "title": "The Frame Holds the Picture. How You Paint it is Up to You.",
+      "url": "https://www.scrum.org/resources/blog/frame-holds-picture-how-you-paint-it-you",
       "publishedAt": "2026-11-19T23:00:00.000Z",
       "excerpt": "From the Scrum Guide: \"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.\" The Cambridge Dictionary defines a framework as \"a system of rules, ideas, or beliefs that is used to plan or decide something.\" Look at what that definition leaves out. There are no instructions in it. A system of rules helps you plan and decide; it doesn't tell you how to carry out the plan. In almost every training and coaching assignment, I get the same two questions. How should we prioritize our Product Backlog? How should we w",
-      "titleJa": "フレームワークは枠組み、描き方はあなた次第",
-      "summaryJa": "Scrumはルールのシステムであり、指示書ではない。プロダクトバックログの優先順位付けなど実装方法については、チームが自ら判断して決定する必要がある。フレームワークは計画と判断を支援するが、具体的な実行方法は組織の裁量に委ねられている。"
+      "titleJa": "枠組みと絵画：フレームワークの運用は自分たち次第",
+      "summaryJa": "Scrumはルールの体系であり、実装方法は指定していません。本記事はフレームワークと実行方法の違いを解説し、プロダクトバックログの優先順位付けなど、チームが自律的に判断すべき事項について考察しています。"
     },
     {
       "category": "PjM",
