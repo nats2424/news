@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-21T13:50:27.902Z",
+  "updatedAt": "2026-11-21T22:31:42.011Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
+      "url": "https://www.lennysnewsletter.com/p/community-wisdom-handling-context",
+      "publishedAt": "2026-11-21T16:49:56.000Z",
+      "excerpt": "Community Wisdom 306",
+      "titleJa": "コミュニティの知恵：複数エージェント間のコンテキストスイッチング、AI生成デザインへのフィードバック、PMが本当の業務を共有しない理由",
+      "summaryJa": "Lennyのニュースレター第306号。複数のAIエージェント間でのコンテキスト切り替え管理、AI生成デザインに対する効果的なフィードバック方法、AI生成コンテンツの自然さ向上、PMが実際の業務内容を共有しない背景など、コミュニティから寄せられた多角的な実務知見を集約した記事。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -160,16 +170,6 @@
       "excerpt": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
       "titleJa": "メタのMuse：史上最高の消費者向け製品をいかに立ち上げたか",
       "summaryJa": "Mona SarantakosがOpenClawの週末プロジェクトから史上最速成長のコンシューマーAI製品の出荷まで、その道のりを語る。Metaが実現した革新的なAI製品開発の秘訣とプロダクトマネジメントの実践例を紹介。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "🧠 Community Wisdom: When you become the bottleneck for your AI agents, the PULL framework for PMs, product growth vs. growth marketing, boosting feedback response rates, and more",
-      "url": "https://www.lennysnewsletter.com/p/community-wisdom-when-you-become",
-      "publishedAt": "2026-11-14T21:15:46.000Z",
-      "excerpt": "Community Wisdom 305",
-      "titleJa": "コミュニティの知恵：AIエージェントのボトルネック対策とPMフレームワーク",
-      "summaryJa": "AIエージェントがボトルネックとなった場合の対策、PMのためのPULLフレームワーク、プロダクト成長とグロースマーケティング、フィードバック反応率の向上など、プロダクトマネジメントの実践的な知見を集約。"
     },
     {
       "category": "QA",
