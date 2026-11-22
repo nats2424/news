@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-22T13:43:39.494Z",
+  "updatedAt": "2026-11-22T22:55:09.956Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Scrum and AI - Outcomes and Boundaries",
+      "url": "https://www.scrum.org/resources/blog/scrum-and-ai-outcomes-and-boundaries",
+      "publishedAt": "2026-11-22T17:15:00.000Z",
+      "excerpt": "Outcomes, Not Automation Boundaries Before Acceleration Reflections on Agile, Scrum and Human Accountability in the Age of AI Overview Artificial intelligence is transforming how organisations develop products, make decisions and deliver services. Tasks that previously required weeks may increasingly be completed in hours or minutes. Yet faster execution does not necessarily produce better business outcomes. As AI reduces the cost of producing solutions, the ability to identify valuable problems, test assumptions and respond to evidence becomes increasingly important. To achieve true competiti",
+      "titleJa": "Scrum と AI - 成果と境界線",
+      "summaryJa": "AI により実行速度は飛躍的に向上しますが、より良いビジネス成果には至らない場合があります。本記事は、AI 時代におけるアジャイル・Scrum の有効性と、自動化よりも適切な問題識別・仮説検証・証拠への対応能力が競争優位につながることを論じています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -80,16 +90,6 @@
       "excerpt": "Every December, I reflect on my year and plan the next. I share 4 exercises in my personal annual review, plus a Claude Code plugin.",
       "titleJa": "個人年間レビュープロセス（Claudeコードプラグイン化）",
       "summaryJa": "Teresa Torresが毎年12月に実施する個人の年間レビュープロセスを公開。1年の振り返りと翌年の計画立案に活用できる4つのエクササイズと、それをプラグイン化したClaudeコードツールを紹介する。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "I Do Continuous Delivery, Why Should I Sprint?",
-      "url": "https://www.scrum.org/resources/blog/i-do-continuous-delivery-why-should-i-sprint",
-      "publishedAt": "2026-11-18T10:56:40.000Z",
-      "excerpt": "Originally published at Engineering Leadership on 13 July 2020 as I do continuous deliver, why should I Sprint? Updated on 18 March 2024. Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; “Why would I limit myself to shipping only once every two weeks?” UPDATE: Scrum.org just posted my Scrum Tapas - Scrum and Continuous Delivery which is posted inline below. To that I say: “Where in the Scrum Guide does it say that you can’t release every day?” You will not find it, I ",
-      "titleJa": "継続的デリバリーを実践しているなら、なぜスプリントを使うのか",
-      "summaryJa": "Scrumガイドには「2週間に1回のリリース」という制限が記載されていない。継続的デリバリーパイプラインを導入している組織でも、スプリントの枠組みを活用することで計画性と可視性を確保できる。日々のリリースとスプリント体制の両立は可能である。"
     },
     {
       "category": "PdM",
