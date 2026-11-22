@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-22T03:52:33.112Z",
+  "updatedAt": "2026-11-22T13:43:39.494Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
+      "url": "https://www.lennysnewsletter.com/p/first-principles-what-it-takes-to",
+      "publishedAt": "2026-11-22T13:31:53.000Z",
+      "excerpt": "Sherif Mansour on why PMs are thriving in the AI era, the artist PM advantage, and why juniors are your secret weapon now",
+      "titleJa": "AI時代のプロダクトマネージャーに求められるもの",
+      "summaryJa": "AI時代におけるプロダクトマネージャーの役割と成功要因について論じた記事。PMが今の時代で活躍する理由、アーティスト的思考を持つPMの強み、そしてジュニアPMが組織の重要な戦力になりうることを解説しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Retrospective Actions Die at the Team Boundary",
+      "url": "https://www.scrum.org/resources/blog/retrospective-actions-die-team-boundary",
+      "publishedAt": "2026-11-22T07:00:00.000Z",
+      "excerpt": "Image In the retrospectives I facilitate, the same three notes keep coming back. The team has too much work. The plan assumed everything would go right, so every Sprint starts maxed out and work rolls into the next one. The third note is about shadow work, the favours, urgent requests and quick fixes that arrive from outside the team and never show up on the board. The team can fix the first two itself by planning less. Shadow work comes from people in other departments. Over more than twenty years of these sessions I have found that this kind of note outlasts the others, mostly because nobody",
+      "titleJa": "レトロスペクティブの改善は組織横断で実現する",
+      "summaryJa": "スプリント中に頻出する問題と、その根本原因についての考察。計画過多や予期しない外部からの割り込み作業（シャドウワーク）がチーム内で解決できない場合、他部門との連携が不可欠であることを指摘しています。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -70,16 +90,6 @@
       "excerpt": "Originally published at Engineering Leadership on 13 July 2020 as I do continuous deliver, why should I Sprint? Updated on 18 March 2024. Many folks believe that a Sprint is an arbitrary length of time in which you create and release software. They look at their continuous delivery pipeline and say to themselves; “Why would I limit myself to shipping only once every two weeks?” UPDATE: Scrum.org just posted my Scrum Tapas - Scrum and Continuous Delivery which is posted inline below. To that I say: “Where in the Scrum Guide does it say that you can’t release every day?” You will not find it, I ",
       "titleJa": "継続的デリバリーを実践しているなら、なぜスプリントを使うのか",
       "summaryJa": "Scrumガイドには「2週間に1回のリリース」という制限が記載されていない。継続的デリバリーパイプラインを導入している組織でも、スプリントの枠組みを活用することで計画性と可視性を確保できる。日々のリリースとスプリント体制の両立は可能である。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "🇨🇵 Votre prochain concurrent peut naître ce week-end. Et maintenant ?",
-      "url": "https://www.scrum.org/resources/blog/votre-prochain-concurrent-peut-naitre-ce-week-end-et-maintenant",
-      "publishedAt": "2026-11-18T09:55:07.000Z",
-      "excerpt": "Image Pendant des décennies, construire un logiciel demandait du budget, des équipes et du temps. C’était une barrière à l’entrée, et pour beaucoup d’entreprises un avantage confortable. Cette barrière est tombée et les preuves sont là. ▪️ Le code : Selon le rapport GitHub Octoverse 2026, les commits ont atteint 34,3 milliards sur douze mois, plus du triple de 2024. Depuis juin, environ 55 % des commits proviennent de dépôts créés dans l’année. En septembre, plus de 40 % des pull requests ont commencé par une première proposition d’un agent IA. ▪️ Les outils : Lovable revendique plus de 60 mil",
-      "titleJa": "あなたの次のライバルは今週末誕生するかもしれない",
-      "summaryJa": "ソフトウェア開発の障壁が大幅に低下している。GitHubのOctoverse 2026レポートによると、コミット数は過去3年で3倍以上に急増し、IA エージェントによるプルリクエストの提案も40%を超えている。ツールの民主化により、起業や競争参入の敷居が劇的に下がった時代に企業はどう対応すべきかが論じられている。"
     },
     {
       "category": "PdM",
@@ -160,16 +170,6 @@
       "excerpt": "Watch now (40 mins) | 🎙️ After losing tens of thousands of dollars to token fraud, I walk through six attack patterns, the defenses I built, and why I killed free trials",
       "titleJa": "ソロファウンダーがトークン詐欺と戦う方法",
       "summaryJa": "トークン詐欺で数万ドルを失った経験から、6つの攻撃パターンと対策、無料トライアル廃止の理由を解説。セキュリティ意識の重要性と実践的な防御方法をまとめた40分間のセッション。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "Meta’s Muse: How we launched the most successful consumer product this year | Mona Sarantakos",
-      "url": "https://www.lennysnewsletter.com/p/metas-muse-how-we-launched-the-most",
-      "publishedAt": "2026-11-15T13:31:28.000Z",
-      "excerpt": "Listen now | Mona Sarantakos on going from a weekend with OpenClaw to shipping the fastest-growing consumer AI product in history",
-      "titleJa": "メタのMuse：史上最高の消費者向け製品をいかに立ち上げたか",
-      "summaryJa": "Mona SarantakosがOpenClawの週末プロジェクトから史上最速成長のコンシューマーAI製品の出荷まで、その道のりを語る。Metaが実現した革新的なAI製品開発の秘訣とプロダクトマネジメントの実践例を紹介。"
     },
     {
       "category": "QA",
