@@ -1,6 +1,76 @@
 {
-  "updatedAt": "2026-11-24T03:33:43.347Z",
+  "updatedAt": "2026-11-24T16:39:19.943Z",
   "items": [
+    {
+      "category": "QA",
+      "sourceName": "QA Hiccupps (James Thomas)",
+      "title": "Making an Impact",
+      "url": "https://qahiccupps.blogspot.com/2026/11/making-impact.html",
+      "publishedAt": "2026-11-24T15:14:14.000Z",
+      "excerpt": "Aaaaaaaand breathe out. too cynical, but those kind of circuses are not likely to go away any time soon, so we might as well make them work for us by minimising the pain of trying to remember what the hell we did months ago that might fit into the company framework, deliberately casting our achievements into the shape that the framework wants, and exploiting anything that the framework happens to require that could provide us with some external value. That's what I did at Ada, and the data I gathered formed the basis of What Did I Do?, my reflections on five years of work there. I won't go dee",
+      "titleJa": "成果を上げるために",
+      "summaryJa": "組織のフレームワークに合わせた成果報告は避けられないものとして、いかに効果的に実績データを活用するかを述べている。著者がAdaでの5年間の経験から学んだ、フレームワークの要件を外部価値へ転換させるアプローチについて解説している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Product Talk (Teresa Torres)",
+      "title": "Bugs - All Things Product Podcast with Teresa Torres & Petra Wille",
+      "url": "https://www.producttalk.org/bugs-all-things-product-podcast-with-teresa-torres-petra-wille/",
+      "publishedAt": "2026-11-24T14:00:00.000Z",
+      "excerpt": "Listen to this episode on: Spotify | Apple Podcasts In a world of AI products, what even counts as a “bug” — and can you still promise to fix it? Petra Wille and Teresa Torres take on a word that’s quietly breaking down in the age of",
+      "titleJa": "AI時代におけるバグの定義を再考する",
+      "summaryJa": "AI製品が普及する中で、「バグ」の定義が曖昧になりつつあることを探索するポッドキャスト。Teresa TorresとPetra Willeが、AIプロダクトにおける品質保証と修正可能性の課題について議論している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Organisation Owns the Minimum Definition of Done",
+      "url": "https://www.scrum.org/resources/blog/organisation-owns-minimum-definition-done",
+      "publishedAt": "2026-11-24T14:00:00.000Z",
+      "excerpt": "Originally published at Engineering Leadership on 21 October 2026 as The Organisation Owns the Minimum Definition of Done. The minimum Definition of Done exists to protect the business and its customers, so it belongs to the people accountable for them. Engineering informs it, and engineering should not have to set it: when it does, the business has given up a decision that is its own. Name the person who would answer to the board or the regulator if work shipped below it harmed a customer. If you cannot, nobody owns it yet. In the organisations I work with, the Definition of Done is usually l",
+      "titleJa": "DoD(完成の定義)は組織が所有すべき",
+      "summaryJa": "最小限のDefinition of Doneは、ビジネスと顧客を保護するため経営陣が所有すべきであり、エンジニアリングではなく組織全体が決定すべき規約として位置付けている。責任の明確化が重要と強調。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Ethical Aspects of Using AI in Products and Organizations",
+      "url": "https://www.scrum.org/resources/blog/ethical-aspects-using-ai-products-and-organizations",
+      "publishedAt": "2026-11-24T12:55:25.000Z",
+      "excerpt": "Image Artificial intelligence is increasingly helping us make decisions, analyze data, create content, design solutions, write code, and automate work. With the rapid development of generative AI, these capabilities are expanding at an impressive pace. In organizations, we therefore ask: What can we do with AI? How can we use it faster? Where can it bring the greatest efficiency gains? What value can it create for customers and for the business? What I observe, however, is that we ask less often: Should we do it? And this is where the conversation about ethics begins. My academic background al",
+      "titleJa": "プロダクトと組織におけるAIの倫理的側面",
+      "summaryJa": "AIの活用で効率性や顧客価値を追求することは多いが、倫理的観点から「すべきか」を問い直すことの重要性を主張。AI導入時に見落とされがちな倫理的考慮の必要性について論じている。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Customer Representative: The Difference Between a Hobby Product and Something Others Might Use?",
+      "url": "https://www.scrum.org/resources/blog/customer-representative-difference-between-hobby-product-and-something-others-might-use",
+      "publishedAt": "2026-11-24T11:47:15.000Z",
+      "excerpt": "Image One of the things I’m trying to do as I develop Paper Drum is put into practice all the stuff that I’ve been doing over the last couple of decades in enterprise product delivery. Probably the thing that brings it all together in my mind is a training course that I’ve been delivering for some time called the Professional Scrum Product Owner - Advanced class. This class doesn’t talk about theory at all. It assumes you know all that. Instead, it delves into the six stances of effective Product Ownership. I was delivering this class over the last couple of days, and I realised that when it c",
+      "titleJa": "顧客代表の役割：趣味のプロダクトと実用的プロダクトの分かれ目",
+      "summaryJa": "エンタープライズプロダクト開発での経験をもとに、効果的なプロダクト・オーナーシップの6つのスタンスを実践的に解説。趣味レベルから他者が使用するプロダクトへの昇華に必要な考え方を紹介している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The Ultimate AI Toolbox for Scrum Teams",
+      "url": "https://www.scrum.org/resources/blog/ultimate-ai-toolbox-scrum-teams",
+      "publishedAt": "2026-11-24T08:27:14.000Z",
+      "excerpt": "Image The Scrum way of working is being elevated with the advent of AI. So, we will be seeing a new generation of AI-enabled Scrum Teams. If you want to upgrade your Scrum way of working with the power of AI, this guide is a powerful starting point. It shows you how to setup an AI-enabled Scrum environment. AI-Powered Product Owner Main Responsibilities: More focus on the market, customers, and stakeholders. Most of their time will be spent on product discovery, strategy, and complex problem-solving to move from backlog managers to true product leaders. This table shows how Product Owners can ",
+      "titleJa": "Scrumチーム向けAI活用ガイド",
+      "summaryJa": "AI対応Scrumチームの構築方法を体系的に解説するガイド。特にプロダクト・オーナーがAI活用により市場分析や戦略立案に注力でき、真のプロダクトリーダーへ進化できることを示している。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Making Product Decisions Before the Results Are In",
+      "url": "https://www.scrum.org/resources/blog/making-product-decisions-results-are",
+      "publishedAt": "2026-11-24T07:12:55.000Z",
+      "excerpt": "Some product outcomes take weeks to become visible, yet stakeholders may expect decisions much sooner. For a Product Owner, the challenge is understanding what the available evidence tells us and how to make decisions when the intended results are still uncertain. Image When the evidence is not yet available During my work on investment management software, I was involved with systems that helped financial institutions manage investments and maintain accurate records. One situation that illustrates this challenge concerned the monthly process of checking investment records against information ",
+      "titleJa": "不確実な状況での判断：データ前の意思決定",
+      "summaryJa": "プロダクトの成果が可視化されるまで数週間要するなか、ステークホルダーが早期の判断を求める課題について論じている。不完全な情報下でのプロダクト・オーナーの意思決定プロセスを実例で解説している。"
+    },
     {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
@@ -32,16 +102,6 @@
       "summaryJa": "Innovaccer CTO Ankit Maheshwari氏が、Mac MiniでOpenClaw Jarvisを運用し、日常業務の1%単位の煩わしさを自動化している実践例を紹介。31分間のポッドキャスト。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Scrum and AI - Outcomes and Boundaries",
-      "url": "https://www.scrum.org/resources/blog/scrum-and-ai-outcomes-and-boundaries",
-      "publishedAt": "2026-11-22T17:15:00.000Z",
-      "excerpt": "Outcomes, Not Automation Boundaries Before Acceleration Reflections on Agile, Scrum and Human Accountability in the Age of AI Overview Artificial intelligence is transforming how organisations develop products, make decisions and deliver services. Tasks that previously required weeks may increasingly be completed in hours or minutes. Yet faster execution does not necessarily produce better business outcomes. As AI reduces the cost of producing solutions, the ability to identify valuable problems, test assumptions and respond to evidence becomes increasingly important. To achieve true competiti",
-      "titleJa": "Scrum と AI - 成果と境界線",
-      "summaryJa": "AI により実行速度は飛躍的に向上しますが、より良いビジネス成果には至らない場合があります。本記事は、AI 時代におけるアジャイル・Scrum の有効性と、自動化よりも適切な問題識別・仮説検証・証拠への対応能力が競争優位につながることを論じています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "First principles: What it takes to be a great product manager in the AI era | Sherif Mansour",
@@ -52,16 +112,6 @@
       "summaryJa": "AI時代におけるプロダクトマネージャーの役割と成功要因について論じた記事。PMが今の時代で活躍する理由、アーティスト的思考を持つPMの強み、そしてジュニアPMが組織の重要な戦力になりうることを解説しています。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Retrospective Actions Die at the Team Boundary",
-      "url": "https://www.scrum.org/resources/blog/retrospective-actions-die-team-boundary",
-      "publishedAt": "2026-11-22T07:00:00.000Z",
-      "excerpt": "Image In the retrospectives I facilitate, the same three notes keep coming back. The team has too much work. The plan assumed everything would go right, so every Sprint starts maxed out and work rolls into the next one. The third note is about shadow work, the favours, urgent requests and quick fixes that arrive from outside the team and never show up on the board. The team can fix the first two itself by planning less. Shadow work comes from people in other departments. Over more than twenty years of these sessions I have found that this kind of note outlasts the others, mostly because nobody",
-      "titleJa": "レトロスペクティブの改善は組織横断で実現する",
-      "summaryJa": "スプリント中に頻出する問題と、その根本原因についての考察。計画過多や予期しない外部からの割り込み作業（シャドウワーク）がチーム内で解決できない場合、他部門との連携が不可欠であることを指摘しています。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🧠 Community Wisdom: Handling context switching with multiple agents, giving feedback on AI-generated designs, getting AI to write less like AI, why PMs don’t share what they’re really working on",
@@ -70,36 +120,6 @@
       "excerpt": "Community Wisdom 306",
       "titleJa": "コミュニティの知恵：複数エージェント間のコンテキストスイッチング、AI生成デザインへのフィードバック、PMが本当の業務を共有しない理由",
       "summaryJa": "Lennyのニュースレター第306号。複数のAIエージェント間でのコンテキスト切り替え管理、AI生成デザインに対する効果的なフィードバック方法、AI生成コンテンツの自然さ向上、PMが実際の業務内容を共有しない背景など、コミュニティから寄せられた多角的な実務知見を集約した記事。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How to Decide Whether to Continue an Initiative in the Age of AI",
-      "url": "https://www.scrum.org/resources/blog/how-decide-whether-continue-initiative-age-ai",
-      "publishedAt": "2026-11-20T09:55:20.000Z",
-      "excerpt": "AI can shorten the time it takes to turn a proposal into something we can test. Once an initiative is underway, how should a manager decide whether to keep going, change course, or stop? I look at two things: the goal we’re aiming for and the evidence we use as a compass. Are We Getting Closer, and Is the Goal Still Right? First, I look at whether the initiative is moving us toward the goal and whether the goal is still worth pursuing. The same change can mean different things depending on what we’re trying to achieve. Comparing what happened with what we planned says little about why the work",
-      "titleJa": "AI時代におけるイニシアティブの継続判断",
-      "summaryJa": "AIにより提案から検証可能な状態への転換が迅速化される中、プロジェクトマネージャーは継続・方針変更・中止をどう判断すべきか。目標達成への進捗状況と目標の妥当性という2つの観点から、イニシアティブが目標に近づいているか、その目標がまだ追求する価値があるかを常に評価することが重要である。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Frame Holds the Picture. How You Paint it is Up to You.",
-      "url": "https://www.scrum.org/resources/blog/frame-holds-picture-how-you-paint-it-you",
-      "publishedAt": "2026-11-19T23:00:00.000Z",
-      "excerpt": "From the Scrum Guide: \"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.\" The Cambridge Dictionary defines a framework as \"a system of rules, ideas, or beliefs that is used to plan or decide something.\" Look at what that definition leaves out. There are no instructions in it. A system of rules helps you plan and decide; it doesn't tell you how to carry out the plan. In almost every training and coaching assignment, I get the same two questions. How should we prioritize our Product Backlog? How should we w",
-      "titleJa": "枠組みと絵画：フレームワークの運用は自分たち次第",
-      "summaryJa": "Scrumはルールの体系であり、実装方法は指定していません。本記事はフレームワークと実行方法の違いを解説し、プロダクトバックログの優先順位付けなど、チームが自律的に判断すべき事項について考察しています。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "KI-Einführungsfehler: Warum Ihr erfolgreiches KI-Pilotprojekt kein Grund zum Skalieren ist 🇩🇪",
-      "url": "https://www.scrum.org/resources/blog/ki-einfuhrungsfehler-warum-ihr-erfolgreiches-ki-pilotprojekt-kein-grund-zum-skalieren-ist",
-      "publishedAt": "2026-11-19T04:17:03.000Z",
-      "excerpt": "In Kürze: Sieben typische KI-Einführungsfehler und wie man sie vermeidet These: Dieser Artikel erklärt sieben KI-Einführungsfehler, die auf ein erfolgreiches KI-Pilotprojekt folgen, von nicht einsatzbereiten Daten über überlastete Prüfer bis zu verfrühten Kürzungen, und wie Praktiker den Qualitätsstandard festlegen, die Evidenz sammeln und die Ergebnisse überprüfen, bevor sie die KI-Einführung über das Pilotprojekt hinaus skalieren. Ihr KI-Pilotprojekt hat funktioniert: Die Demo hat den Lenkungsausschuss beeindruckt, die Zeitersparnis auf der PowerPoint-Folie sah fantastisch aus, und der Proje",
-      "titleJa": "AI導入失敗：パイロットプロジェクトの成功がスケーリングの理由にならない理由",
-      "summaryJa": "AI導入後に起こりやすい7つの典型的な失敗パターンと対策を解説します。データの準備不足、テスター負荷の過剰化、早期の予算削減など、パイロットプロジェクト成功後にスケーリング前に陥りやすい課題について、品質基準の設定、エビデンス収集、結果検証を通じた改善方法を提示します。"
     },
     {
       "category": "PdM",
@@ -212,16 +232,6 @@
       "summaryJa": "リストラの対象になった著者の内省的なエッセイ。自分の仕事ぶりと貢献への疑問、そして取り残された同僚への共感と複雑な感情について述べています。今後の方向性を決める上で、これらの問い自体が重要な意味を持つかもしれないという考察。"
     },
     {
-      "category": "PdM",
-      "sourceName": "Product Talk (Teresa Torres)",
-      "title": "2027 Product Conferences",
-      "url": "https://www.producttalk.org/2027-product-conferences/",
-      "publishedAt": "2026-11-11T14:00:00.000Z",
-      "excerpt": "We are starting to pull together our list of 2027 product conferences. This list is by no means exhaustive. If you know of product conferences that are not on the list and you think they should be, please send an email to conferences@producttalk.org. We’ll also keep",
-      "titleJa": "2027年プロダクトカンファレンス開催情報",
-      "summaryJa": "2027年に開催されるプロダクト関連のカンファレンス情報をまとめたリストが公開されている。完全網羅ではないため、情報がない他のカンファレンスについてはProduct Talkへの情報提供を呼びかけている。今後も継続的に情報が更新される予定。"
-    },
-    {
       "category": "QA",
       "sourceName": "TestGuild",
       "title": "Playwright at Scale: Run 500 Tests in Minutes with Oliver Stenbom",
@@ -250,26 +260,6 @@
       "excerpt": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies. This has always been true, in no small part due to inheriting the job title... The post AI and the Future of the Product Role appeared first on Silicon Valley Product Group.",
       "titleJa": "AIがプロダクトマネジャーの役割にもたらす変化",
       "summaryJa": "プロダクトマネジャーの職務定義と責任は企業によって大きく異なるが、AIの登場はこの役割をさらに多様化させる可能性がある。2026年Product Leader Summitの基調講演をまとめた本記事では、AI時代においてプロダクト組織がどう進化するか、またPdMに求められるスキルの変化について考察している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Rebel's Guide to Project Management",
-      "title": "The HS2 reset: lessons for project managers",
-      "url": "https://rebelsguidetopm.com/hs2-reset/",
-      "publishedAt": "2026-11-03T15:10:53.000Z",
-      "excerpt": "HS2, the high speed railway line, is now expected to cost between £87.7 billion and £102.7 billion, and the full line could open up to 13 years later than planned in 2020. Those are the headline numbers from the National Audit Office's latest report, High Speed Two reset, published in June 2026. It's easy to read the headlines, shake your head and move on. But the report is much more interesting than the numbers. It looks at what happens when a programme outgrows the organization running it, and at what it takes to put things right. This isn't the first reset, either. HS2 was reset in 2020, Eu",
-      "titleJa": "HS2プロジェクトのリセットに学ぶプロジェクト管理の教訓",
-      "summaryJa": "英国の高速鉄道プロジェクト「HS2」の大幅な予算増加と期間延期について、国家監査局の報告書から学べるプロジェクト管理の教訓を分析。プログラムが組織を上回る規模に成長した時の対応策や、大型プロジェクトの修正方法に関する実践的な洞察を提供しています。"
-    },
-    {
-      "category": "QA",
-      "sourceName": "TestGuild",
-      "title": "How to Prove Your Release Is Ready When AI Writes the Code",
-      "url": "https://testguild.com/podcast/a610-ashwin/",
-      "publishedAt": "2026-11-03T13:07:49.000Z",
-      "excerpt": "About This Episode: How to Prove Your Release Is Ready When AI Writes the Code? Can you prove your software is ready to ship, or does that answer still depend on a meeting and a spreadsheet? Want to see if your team can prove a release is ready? Book a custom LoopIQ demo with Ashwin: https://testgld.link/loopiqdemo In this episode, […]",
-      "titleJa": "AIが書いたコードでリリース準備完了を証明する方法",
-      "summaryJa": "AIがコード生成を行う時代に、ソフトウェアがリリース可能な状態であることをどう証明するかを解説。会議やスプレッドシートに頼るのではなく、具体的な証拠に基づくリリース判定の重要性を取り上げています。"
     }
   ]
 }
