@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-23T16:43:58.122Z",
+  "updatedAt": "2026-11-24T03:33:43.347Z",
   "items": [
     {
       "category": "PdM",
@@ -30,16 +30,6 @@
       "excerpt": "Watch now (31 mins) | 🎙️ Ankit Maheshwari (CTO, Innovaccer) walks me through the OpenClaw Jarvis he runs on a Mac Mini to clear every 1% annoyance in his life",
       "titleJa": "OpenClaw Jarvisで仕事の小さなストレスを自動化する実例",
       "summaryJa": "Innovaccer CTO Ankit Maheshwari氏が、Mac MiniでOpenClaw Jarvisを運用し、日常業務の1%単位の煩わしさを自動化している実践例を紹介。31分間のポッドキャスト。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "How I Converted My Scrum Classes Into a VIP Experience",
-      "url": "https://www.scrum.org/resources/blog/how-i-converted-my-scrum-classes-vip-experience",
-      "publishedAt": "2026-11-23T09:20:02.000Z",
-      "excerpt": "Image Imagine you want to go on a vacation. So, you decide to buy a flight ticket. You see two ticket types: economy ticket and first-class ticket. What are the differences? Economy Ticket: You pay less, but you get a tight seat with normal services like water and a simple meal along the way. First-class Ticket: You pay more, but you get a comfortable seat with more space in a quiet section with exclusive services like a large meal, wine, a blanket, etc. In fact, you are served like a VIP guest. When you leave the plane at your destination, you get out with an exceptional experience of service",
-      "titleJa": "スクラムクラスをVIP体験へ変革した方法",
-      "summaryJa": "Scrumの学習をエコノミークラスからファーストクラスのような高品質な体験へアップグレードする教育手法について解説。参加者に例外的なサービス体験を提供するアプローチを紹介。"
     },
     {
       "category": "PjM",
@@ -100,6 +90,16 @@
       "excerpt": "From the Scrum Guide: \"Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.\" The Cambridge Dictionary defines a framework as \"a system of rules, ideas, or beliefs that is used to plan or decide something.\" Look at what that definition leaves out. There are no instructions in it. A system of rules helps you plan and decide; it doesn't tell you how to carry out the plan. In almost every training and coaching assignment, I get the same two questions. How should we prioritize our Product Backlog? How should we w",
       "titleJa": "枠組みと絵画：フレームワークの運用は自分たち次第",
       "summaryJa": "Scrumはルールの体系であり、実装方法は指定していません。本記事はフレームワークと実行方法の違いを解説し、プロダクトバックログの優先順位付けなど、チームが自律的に判断すべき事項について考察しています。"
+    },
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "KI-Einführungsfehler: Warum Ihr erfolgreiches KI-Pilotprojekt kein Grund zum Skalieren ist 🇩🇪",
+      "url": "https://www.scrum.org/resources/blog/ki-einfuhrungsfehler-warum-ihr-erfolgreiches-ki-pilotprojekt-kein-grund-zum-skalieren-ist",
+      "publishedAt": "2026-11-19T04:17:03.000Z",
+      "excerpt": "In Kürze: Sieben typische KI-Einführungsfehler und wie man sie vermeidet These: Dieser Artikel erklärt sieben KI-Einführungsfehler, die auf ein erfolgreiches KI-Pilotprojekt folgen, von nicht einsatzbereiten Daten über überlastete Prüfer bis zu verfrühten Kürzungen, und wie Praktiker den Qualitätsstandard festlegen, die Evidenz sammeln und die Ergebnisse überprüfen, bevor sie die KI-Einführung über das Pilotprojekt hinaus skalieren. Ihr KI-Pilotprojekt hat funktioniert: Die Demo hat den Lenkungsausschuss beeindruckt, die Zeitersparnis auf der PowerPoint-Folie sah fantastisch aus, und der Proje",
+      "titleJa": "AI導入失敗：パイロットプロジェクトの成功がスケーリングの理由にならない理由",
+      "summaryJa": "AI導入後に起こりやすい7つの典型的な失敗パターンと対策を解説します。データの準備不足、テスター負荷の過剰化、早期の予算削減など、パイロットプロジェクト成功後にスケーリング前に陥りやすい課題について、品質基準の設定、エビデンス収集、結果検証を通じた改善方法を提示します。"
     },
     {
       "category": "PdM",
