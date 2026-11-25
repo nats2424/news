@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-25T01:42:12.756Z",
+  "updatedAt": "2026-11-25T16:22:28.243Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "What Do You Want to Learn in 2027?",
+      "url": "https://www.scrum.org/resources/blog/what-do-you-want-learn-2027",
+      "publishedAt": "2026-11-25T15:42:39.000Z",
+      "excerpt": "A lot of what agile practitioners learned about AI in 2026 seems to have arrived by accident: a tool a colleague started using, a model release that changed how the team works, or a manager who suddenly wanted \"an AI strategy\" by Friday. For 2027, I would rather plan my courses, workshops, and free material around what you need at work than around whatever made the headlines. So, I put together six questions that take about 2 minutes. They ask about your role, where your organization stands with AI, what you want to improve, and how you prefer to learn. Your answers stay anonymous, and I plan ",
+      "titleJa": "2027年に学ぶべきことは何か：AIスキル学習の実践的ニーズ調査",
+      "summaryJa": "アジャイルプラクティショナーがAIについて学んだことの多くが2026年に偶然的に導入された経験から、2027年は意図的かつ体系的な学習計画を立案すべきと提唱。組織のAIスタンス、改善課題、学習方法の選好などを把握する6つの質問を提示し、実務レベルのニーズに基づいた教育プログラム開発を促進している。"
+    },
+    {
+      "category": "PdM",
+      "sourceName": "Lenny's Newsletter",
+      "title": "Gemini 4 Neon beat GPT-6.2 and Claude in my 25-task AI benchmark",
+      "url": "https://www.lennysnewsletter.com/p/gemini-4-neon-beat-gpt-62-and-claude",
+      "publishedAt": "2026-11-25T13:04:21.000Z",
+      "excerpt": "Watch now (32 mins) | 🎙️ My late-2026 How I AI bench: GPT-6.2 disappointed me, Opus 5.5 is my least annoying daily driver, and Gemini 4 Neon is now my top pick",
+      "titleJa": "Gemini 4 NeonがGPT-6.2とClaudeを上回る：25タスクAIベンチマーク結果",
+      "summaryJa": "2026年後半のAIベンチマーク結果。GPT-6.2の性能に失望する一方、Opus 5.5は日常的な使用に適し、Gemini 4 Neonが総合的に最高の評価を獲得。複数の大規模言語モデルを詳細に比較検証した結果が報告されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -72,16 +92,6 @@
       "summaryJa": "エンタープライズプロダクト開発での経験をもとに、効果的なプロダクト・オーナーシップの6つのスタンスを実践的に解説。趣味レベルから他者が使用するプロダクトへの昇華に必要な考え方を紹介している。"
     },
     {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "The Ultimate AI Toolbox for Scrum Teams",
-      "url": "https://www.scrum.org/resources/blog/ultimate-ai-toolbox-scrum-teams",
-      "publishedAt": "2026-11-24T08:27:14.000Z",
-      "excerpt": "Image The Scrum way of working is being elevated with the advent of AI. So, we will be seeing a new generation of AI-enabled Scrum Teams. If you want to upgrade your Scrum way of working with the power of AI, this guide is a powerful starting point. It shows you how to setup an AI-enabled Scrum environment. AI-Powered Product Owner Main Responsibilities: More focus on the market, customers, and stakeholders. Most of their time will be spent on product discovery, strategy, and complex problem-solving to move from backlog managers to true product leaders. This table shows how Product Owners can ",
-      "titleJa": "Scrumチーム向けAI活用ガイド",
-      "summaryJa": "AI対応Scrumチームの構築方法を体系的に解説するガイド。特にプロダクト・オーナーがAI活用により市場分析や戦略立案に注力でき、真のプロダクトリーダーへ進化できることを示している。"
-    },
-    {
       "category": "PdM",
       "sourceName": "Lenny's Newsletter",
       "title": "🎙️ How I AI: OpenClaw for executives: Automate every 1% annoyance",
@@ -150,16 +160,6 @@
       "excerpt": "Every December, I reflect on my year and plan the next. I share 4 exercises in my personal annual review, plus a Claude Code plugin.",
       "titleJa": "個人年間レビュープロセス（Claudeコードプラグイン化）",
       "summaryJa": "Teresa Torresが毎年12月に実施する個人の年間レビュープロセスを公開。1年の振り返りと翌年の計画立案に活用できる4つのエクササイズと、それをプラグイン化したClaudeコードツールを紹介する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Lenny's Newsletter",
-      "title": "35 premium tools free for a year—now with OpenRouter, LangChain, Sentry, TextExpander, and Ploy 💥",
-      "url": "https://www.lennysnewsletter.com/p/35-premium-tools-free-for-a-yearnow",
-      "publishedAt": "2026-11-17T18:02:02.000Z",
-      "excerpt": "Over $40,000 in value, exclusively for Lenny’s Newsletter subscribers",
-      "titleJa": "年間無料の豪華ツール35個—OpenRouter、LangChain、Sentryなど新規追加",
-      "summaryJa": "Lennyのニュースレター購読者向けに、4万ドル相当の有料ツールが1年間無料で提供されるキャンペーンです。OpenRouter、LangChain、Sentryなど複数の新しいサービスが追加され、開発チームの生産性向上に活用できます。"
     },
     {
       "category": "QA",
