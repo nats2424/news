@@ -1,6 +1,26 @@
 {
-  "updatedAt": "2026-11-24T16:39:19.943Z",
+  "updatedAt": "2026-11-25T01:42:12.756Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "The loudest voice already won before you sat down.",
+      "url": "https://www.scrum.org/resources/blog/loudest-voice-already-won-you-sat-down",
+      "publishedAt": "2026-11-24T23:00:00.000Z",
+      "excerpt": "Image You know this meeting. The data is right there on the screen. Then the most senior person in the room says what they think, and the decision quietly bends to match, evidence or no evidence. Or it's the other version: someone frames the question in the first thirty seconds, a couple of people nod, and the room \"agrees,\" while three people who saw it differently decide this isn't the moment to say so. Either way, the decision got made before the truth was even in the room. Not because anyone was careless. Because most meetings converge on the loudest or most senior voice long before the re",
+      "titleJa": "最も声の大きい人が既に決めている",
+      "summaryJa": "会議では、データよりも上級者や発言力の強い人の意見が優先される傾向がある。正確な意思決定には、全員の視点が必要だが、実際には会議開始直後に方向性が決まり、異なる見方を持つ人も沈黙してしまう実態を指摘。エビデンスに基づく意思決定の重要性を強調しています。"
+    },
+    {
+      "category": "QA",
+      "sourceName": "TestGuild",
+      "title": "Your Coding Agent Wrote the Test. Who Checks It? with Donovan Brady",
+      "url": "https://testguild.com/podcast/a613-donovan/",
+      "publishedAt": "2026-11-24T21:17:30.000Z",
+      "excerpt": "About This Episode: Your coding agent just wrote the test. Who checks it? Donovan Brady of Leapwork is back on […]",
+      "titleJa": "AIコーディングエージェントが書いたテスト、誰が検証する？",
+      "summaryJa": "Leapworkの Donovan Brady が、AI コーディングエージェントが自動生成したテストケースの検証プロセスについて解説。自動生成されたテストの品質保証と検証責任の分担について、実践的な観点から議論しています。"
+    },
     {
       "category": "QA",
       "sourceName": "QA Hiccupps (James Thomas)",
@@ -60,16 +80,6 @@
       "excerpt": "Image The Scrum way of working is being elevated with the advent of AI. So, we will be seeing a new generation of AI-enabled Scrum Teams. If you want to upgrade your Scrum way of working with the power of AI, this guide is a powerful starting point. It shows you how to setup an AI-enabled Scrum environment. AI-Powered Product Owner Main Responsibilities: More focus on the market, customers, and stakeholders. Most of their time will be spent on product discovery, strategy, and complex problem-solving to move from backlog managers to true product leaders. This table shows how Product Owners can ",
       "titleJa": "Scrumチーム向けAI活用ガイド",
       "summaryJa": "AI対応Scrumチームの構築方法を体系的に解説するガイド。特にプロダクト・オーナーがAI活用により市場分析や戦略立案に注力でき、真のプロダクトリーダーへ進化できることを示している。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Making Product Decisions Before the Results Are In",
-      "url": "https://www.scrum.org/resources/blog/making-product-decisions-results-are",
-      "publishedAt": "2026-11-24T07:12:55.000Z",
-      "excerpt": "Some product outcomes take weeks to become visible, yet stakeholders may expect decisions much sooner. For a Product Owner, the challenge is understanding what the available evidence tells us and how to make decisions when the intended results are still uncertain. Image When the evidence is not yet available During my work on investment management software, I was involved with systems that helped financial institutions manage investments and maintain accurate records. One situation that illustrates this challenge concerned the monthly process of checking investment records against information ",
-      "titleJa": "不確実な状況での判断：データ前の意思決定",
-      "summaryJa": "プロダクトの成果が可視化されるまで数週間要するなか、ステークホルダーが早期の判断を求める課題について論じている。不完全な情報下でのプロダクト・オーナーの意思決定プロセスを実例で解説している。"
     },
     {
       "category": "PdM",
