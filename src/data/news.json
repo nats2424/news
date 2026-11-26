@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-26T01:15:28.614Z",
+  "updatedAt": "2026-11-26T15:56:45.053Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Planning Poker",
+      "url": "https://www.scrum.org/resources/blog/planning-poker",
+      "publishedAt": "2026-11-26T09:30:02.000Z",
+      "excerpt": "Image One of the practical activities that Scrum Teams do is Estimation, which helps the team pick an appropriate amount of work for the Sprint based on their real capacity. One of the widely used estimation techniques is Planning Poker. Let’s see how to play Planning Poker. Planning Poker When we estimate, we need to use some units for estimation. Here, units like Story Points, T-shirt Size, and Fruit Size come to life. So, you use Planning Poker to do estimation, and results will be based on one of those relative units. First of all, you need a deck of cards. The most famous deck of cards ha",
+      "titleJa": "プランニングポーカー",
+      "summaryJa": "Scrumチームが実施する見積もり活動の中で、プランニングポーカーは widely に使用されている手法です。ストーリーポイント、Tシャツサイズ、フルーツサイズなどの相対的な単位を用いてスプリントの適切な作業量を見積もるためにカードを使用します。チーム全体で合意可能な見積もり結果を得ることが目的です。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "Image Artificial intelligence is increasingly helping us make decisions, analyze data, create content, design solutions, write code, and automate work. With the rapid development of generative AI, these capabilities are expanding at an impressive pace. In organizations, we therefore ask: What can we do with AI? How can we use it faster? Where can it bring the greatest efficiency gains? What value can it create for customers and for the business? What I observe, however, is that we ask less often: Should we do it? And this is where the conversation about ethics begins. My academic background al",
       "titleJa": "プロダクトと組織におけるAIの倫理的側面",
       "summaryJa": "AIの活用で効率性や顧客価値を追求することは多いが、倫理的観点から「すべきか」を問い直すことの重要性を主張。AI導入時に見落とされがちな倫理的考慮の必要性について論じている。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Customer Representative: The Difference Between a Hobby Product and Something Others Might Use?",
-      "url": "https://www.scrum.org/resources/blog/customer-representative-difference-between-hobby-product-and-something-others-might-use",
-      "publishedAt": "2026-11-24T11:47:15.000Z",
-      "excerpt": "Image One of the things I’m trying to do as I develop Paper Drum is put into practice all the stuff that I’ve been doing over the last couple of decades in enterprise product delivery. Probably the thing that brings it all together in my mind is a training course that I’ve been delivering for some time called the Professional Scrum Product Owner - Advanced class. This class doesn’t talk about theory at all. It assumes you know all that. Instead, it delves into the six stances of effective Product Ownership. I was delivering this class over the last couple of days, and I realised that when it c",
-      "titleJa": "顧客代表の役割：趣味のプロダクトと実用的プロダクトの分かれ目",
-      "summaryJa": "エンタープライズプロダクト開発での経験をもとに、効果的なプロダクト・オーナーシップの6つのスタンスを実践的に解説。趣味レベルから他者が使用するプロダクトへの昇華に必要な考え方を紹介している。"
     },
     {
       "category": "PdM",
