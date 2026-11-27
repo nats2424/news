@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-27T01:14:02.972Z",
+  "updatedAt": "2026-11-27T15:45:24.868Z",
   "items": [
+    {
+      "category": "PdM",
+      "sourceName": "Product Coalition",
+      "title": "EP113 Turning Proprietary Data Into a Product: Lessons from Benzinga's API Business with Tommy Cotter (Benzinga) and Jay Stansell",
+      "url": "https://www.productcoalition.com/p/ep113-turning-proprietary-data-into",
+      "publishedAt": "2026-11-27T09:00:43.000Z",
+      "excerpt": "Benzinga's newsroom needed financial datasets before those datasets became products customers could buy separately.",
+      "titleJa": "独自データを製品化する：Benzinga APIビジネスの教訓",
+      "summaryJa": "Benzingaの事例から、企業が保有する専有データをビジネス機会に転換するプロセスを学ぶ。ニュースルーム向けの財務データセットが、やがて独立した顧客向け製品として展開されるまでの戦略と実装について、プロダクト開発の視点から解説されている。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
