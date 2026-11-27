@@ -1,6 +1,16 @@
 {
-  "updatedAt": "2026-11-26T15:56:45.053Z",
+  "updatedAt": "2026-11-27T01:14:02.972Z",
   "items": [
+    {
+      "category": "PjM",
+      "sourceName": "Scrum.org Blog",
+      "title": "Released isn't Realized",
+      "url": "https://www.scrum.org/resources/blog/released-isnt-realized",
+      "publishedAt": "2026-11-26T23:00:00.000Z",
+      "excerpt": "Most teams have a pretty good view on their next release date. Almost no team has a date to check whether users got the benefit. From the Scrum Guide: \"Each element of the framework serves a specific purpose that is essential to the overall value and results realized with Scrum.\" The Cambridge Dictionary defines realize as \"to achieve things you hope for or plan for.\" Hold that against how teams usually count. They plan an item, build it, release it and call it done. A release puts something in the hands of users, and that's where realizing value and results can start. Value is realized when t",
+      "titleJa": "リリースと価値実現は別物",
+      "summaryJa": "ほとんどのチームはリリース日を把握していますが、ユーザーが実際に利益を得たかどうかを確認する日付を設定していません。Scrum Guideでは価値と成果の実現を重視していますが、実務ではリリースで完了と見なされることが多いです。真の価値実現はユーザーの手に渡った後に始まることを、チームが認識する必要があります。"
+    },
     {
       "category": "PjM",
       "sourceName": "Scrum.org Blog",
@@ -80,16 +90,6 @@
       "excerpt": "Originally published at Engineering Leadership on 21 October 2026 as The Organisation Owns the Minimum Definition of Done. The minimum Definition of Done exists to protect the business and its customers, so it belongs to the people accountable for them. Engineering informs it, and engineering should not have to set it: when it does, the business has given up a decision that is its own. Name the person who would answer to the board or the regulator if work shipped below it harmed a customer. If you cannot, nobody owns it yet. In the organisations I work with, the Definition of Done is usually l",
       "titleJa": "DoD(完成の定義)は組織が所有すべき",
       "summaryJa": "最小限のDefinition of Doneは、ビジネスと顧客を保護するため経営陣が所有すべきであり、エンジニアリングではなく組織全体が決定すべき規約として位置付けている。責任の明確化が重要と強調。"
-    },
-    {
-      "category": "PjM",
-      "sourceName": "Scrum.org Blog",
-      "title": "Ethical Aspects of Using AI in Products and Organizations",
-      "url": "https://www.scrum.org/resources/blog/ethical-aspects-using-ai-products-and-organizations",
-      "publishedAt": "2026-11-24T12:55:25.000Z",
-      "excerpt": "Image Artificial intelligence is increasingly helping us make decisions, analyze data, create content, design solutions, write code, and automate work. With the rapid development of generative AI, these capabilities are expanding at an impressive pace. In organizations, we therefore ask: What can we do with AI? How can we use it faster? Where can it bring the greatest efficiency gains? What value can it create for customers and for the business? What I observe, however, is that we ask less often: Should we do it? And this is where the conversation about ethics begins. My academic background al",
-      "titleJa": "プロダクトと組織におけるAIの倫理的側面",
-      "summaryJa": "AIの活用で効率性や顧客価値を追求することは多いが、倫理的観点から「すべきか」を問い直すことの重要性を主張。AI導入時に見落とされがちな倫理的考慮の必要性について論じている。"
     },
     {
       "category": "PdM",
@@ -260,16 +260,6 @@
       "excerpt": "Java was famously promoted with the idealistic Write Once Run Anywhere and simultaneously derided with the sardonic Write Once Debug Everywhere. Neither is correct, of course, but the idea that one implementation can work for all consumers continues to be attractive, and the fact that it doesn't continues to frustrate. all been there ... on both sides of the problem, sometimes as the author and, months later, confused recipient of the same miserable text. Which is where today's post comes in. Last year's Heuristics for Working Today was a presentation I gave at work listing nine practices that",
       "titleJa": "実装者の責任～一度書いたら、どこでも動くはずなのに",
       "summaryJa": "JavaのWrite Once Run Anywhereという理想と、実現の困難さについて論じた記事。実装者が異なるプラットフォームでの動作確認責任をどう負うべきかを、昨年の「今日の実務的ヒューリスティクス」という発表を基に、9つの実践ガイドで解説する。"
-    },
-    {
-      "category": "PdM",
-      "sourceName": "Silicon Valley Product Group",
-      "title": "AI and the Future of the Product Role",
-      "url": "https://www.svpg.com/ai-and-the-future-of-the-product-role/",
-      "publishedAt": "2026-11-06T01:02:22.000Z",
-      "excerpt": "NOTE: This is a narrative form of a keynote for the 2026 Product Leader Summit. Overview Most people in the industry realize that the job definition and responsibilities of the people in the product role can vary widely across companies. This has always been true, in no small part due to inheriting the job title... The post AI and the Future of the Product Role appeared first on Silicon Valley Product Group.",
-      "titleJa": "AIがプロダクトマネジャーの役割にもたらす変化",
-      "summaryJa": "プロダクトマネジャーの職務定義と責任は企業によって大きく異なるが、AIの登場はこの役割をさらに多様化させる可能性がある。2026年Product Leader Summitの基調講演をまとめた本記事では、AI時代においてプロダクト組織がどう進化するか、またPdMに求められるスキルの変化について考察している。"
     }
   ]
 }
